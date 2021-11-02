@@ -1882,7 +1882,7 @@ static int _decode_lte_phy_pusch_tx_report_payload (const char *b,
                 old_object = _replace_result_int(result_record_item,
                         "Mirror Hopping", iMirrorHopping);
                 Py_DECREF(old_object);
-
+                */
                 u_temp = _search_result_uint(result_record_item,
                         "Resource Allocation Type");
                 int iResourceAllocationType = u_temp & 1;   // 1 bit
@@ -1890,7 +1890,7 @@ static int _decode_lte_phy_pusch_tx_report_payload (const char *b,
                 int iStartRBSlot1 = (u_temp >> 8) & 127;   // 7 bits
                 int iNumOfRB = (u_temp >> 15) & 127;    // 7 bits
                 int iDlCarrierIndex=(u_temp >>25) &3;//2 bits
-
+                /*
                 old_object = _replace_result_int(result_record_item,
                         "Resource Allocation Type", iResourceAllocationType);
                 Py_DECREF(old_object);
