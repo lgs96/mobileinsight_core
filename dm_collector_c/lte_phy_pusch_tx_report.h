@@ -1823,6 +1823,8 @@ static int _decode_lte_phy_pusch_tx_report_payload (const char *b,
                         ARRAY_SIZE(LtePhyPuschTxReport_Record_v124, Fmt),
                         b, offset, length, result_record_item);
                 u_temp = _search_result_uint(result_record_item, "UL Carrier Index");
+                /* Commented by Goodsol, for real-time cellular interface provision for Overlink
+
                 int iCarrierIndex = u_temp & 3;  // 2 bits
                 int iAck = (u_temp >> 2) & 1;    // 1 bit
                 int iCQI = (u_temp >> 3) & 1;   // 1 bit
@@ -1898,10 +1900,11 @@ static int _decode_lte_phy_pusch_tx_report_payload (const char *b,
                 old_object = _replace_result_int(result_record_item,
                         "Start RB Slot 1", iStartRBSlot1);
                 Py_DECREF(old_object);
+                */
                 old_object = _replace_result_int(result_record_item,
                         "Num of RB", iNumOfRB);
                 Py_DECREF(old_object);
-
+                /*
                 old_object = _replace_result_int(result_record_item,
                         "DL Carrier Index", iDlCarrierIndex);
                 Py_DECREF(old_object);
@@ -2069,6 +2072,7 @@ static int _decode_lte_phy_pusch_tx_report_payload (const char *b,
                 PyList_Append(result_record, t1);
                 Py_DECREF(t1);
                 Py_DECREF(result_record_item);
+                */
             }
             PyObject *t = Py_BuildValue("(sOs)", "Records",
                     result_record, "list");
