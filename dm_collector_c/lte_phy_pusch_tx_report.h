@@ -1822,8 +1822,8 @@ static int _decode_lte_phy_pusch_tx_report_payload (const char *b,
                 offset += _decode_by_fmt(LtePhyPuschTxReport_Record_v124,
                         ARRAY_SIZE(LtePhyPuschTxReport_Record_v124, Fmt),
                         b, offset, length, result_record_item);
-                u_temp = _search_result_uint(result_record_item, "UL Carrier Index");
                 /* Commented by Goodsol, for real-time cellular interface provision for Overlink
+                u_temp = _search_result_uint(result_record_item, "UL Carrier Index");
 
                 int iCarrierIndex = u_temp & 3;  // 2 bits
                 int iAck = (u_temp >> 2) & 1;    // 1 bit
