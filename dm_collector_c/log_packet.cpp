@@ -4304,16 +4304,16 @@ _decode_lte_mac_ul_bufferstatusinternal_subpkt(const char *b, int offset, size_t
                                 old_object = _replace_result_int(result_subpkt_sample,
                                                                  "Sys FN", iSysFN);
                                 Py_DECREF(old_object);
-                                PyObject *result_subpkt_sample_alllcids = PyList_New(0);
                                 */
-                                for (int k = 0; k < num_active_lcid; k++) {
+                                PyObject *result_subpkt_sample_alllcids = PyList_New(0);
+                                
+                                for (int k = num_active_lcid-1; k < num_active_lcid; k++) {
                                     PyObject *result_subpkt_sample_lcid = PyList_New(0);
                                     offset += _decode_by_fmt(
                                             LteMacULBufferStatusInternal_ULBufferStatusSubPacket_LCIDFmt_v24,
                                             ARRAY_SIZE(LteMacULBufferStatusInternal_ULBufferStatusSubPacket_LCIDFmt_v24,
                                                        Fmt),
                                             b, offset, length, result_subpkt_sample_lcid);
-                                    /* Commented by Goodsol for Overlink
                                     unsigned int iNewUncompressedBytes = _search_result_uint(result_subpkt_sample_lcid,
                                                                                              "New Uncompressed Bytes");
                                     unsigned int iNewCompressedBytes = _search_result_uint(result_subpkt_sample_lcid,
@@ -4321,7 +4321,6 @@ _decode_lte_mac_ul_bufferstatusinternal_subpkt(const char *b, int offset, size_t
                                     unsigned int iRetxBytes = _search_result_uint(result_subpkt_sample_lcid,
                                                                                   "Retx bytes");
                                     int iCtrlBytes = _search_result_int(result_subpkt_sample_lcid, "Ctrl bytes");
-                                    */
                                     int iTotalBytes =
                                             (int) iNewUncompressedBytes + (int) iNewCompressedBytes + (int) iRetxBytes +
                                             iCtrlBytes;
@@ -4333,8 +4332,8 @@ _decode_lte_mac_ul_bufferstatusinternal_subpkt(const char *b, int offset, size_t
                                                                  "Ignored", result_subpkt_sample_lcid, "dict");
                                     PyList_Append(result_subpkt_sample_alllcids, t4);
                                     Py_DECREF(t4);
-                                    Py_DECREF(result_subpkt_sample_lcid);
                                     */
+                                    Py_DECREF(result_subpkt_sample_lcid);
                                 }
                                 
                                 PyObject *t3 = Py_BuildValue("(sOs)",

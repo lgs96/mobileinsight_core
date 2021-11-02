@@ -2071,8 +2071,8 @@ static int _decode_lte_phy_pusch_tx_report_payload (const char *b,
                         result_record_item, "dict");
                 PyList_Append(result_record, t1);
                 Py_DECREF(t1);
-                Py_DECREF(result_record_item);
                 */
+                Py_DECREF(result_record_item);
             }
             PyObject *t = Py_BuildValue("(sOs)", "Records",
                     result_record, "list");
