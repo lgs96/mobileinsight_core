@@ -2066,12 +2066,12 @@ static int _decode_lte_phy_pusch_tx_report_payload (const char *b,
                 old_object = _replace_result_int(result_record_item,
                         "DMRS Root Slot 1", iDMRSRootSlot1);
                 Py_DECREF(old_object);
+                */
 
                 PyObject *t1 = Py_BuildValue("(sOs)", "Ignored",
                         result_record_item, "dict");
                 PyList_Append(result_record, t1);
                 Py_DECREF(t1);
-                */
                 Py_DECREF(result_record_item);
             }
             PyObject *t = Py_BuildValue("(sOs)", "Records",
