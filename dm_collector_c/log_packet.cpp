@@ -4307,7 +4307,7 @@ _decode_lte_mac_ul_bufferstatusinternal_subpkt(const char *b, int offset, size_t
                                 
                                 for (int k = num_active_lcid - 1; k < num_active_lcid; k++) {
                                     PyObject *result_subpkt_sample_lcid = PyList_New(0);
-                                    for (int goodsol = 0; goodsol < 3; goodsol++){
+                                    for (int goodsol = 0; goodsol < 2; goodsol++){
                                         offset += _decode_by_fmt(
                                                 LteMacULBufferStatusInternal_ULBufferStatusSubPacket_LCIDFmt_v24,
                                                 ARRAY_SIZE(LteMacULBufferStatusInternal_ULBufferStatusSubPacket_LCIDFmt_v24,
@@ -4348,7 +4348,7 @@ _decode_lte_mac_ul_bufferstatusinternal_subpkt(const char *b, int offset, size_t
                                 PyList_Append(result_subpkt_sample, t3);
                                 Py_DECREF(t3);
                                 Py_DECREF(result_subpkt_sample_alllcids);
-                                
+
                                 PyObject *t2 = Py_BuildValue("(sOs)",
                                                              "Ignored",
                                                              result_subpkt_sample,
