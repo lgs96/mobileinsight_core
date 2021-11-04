@@ -538,6 +538,9 @@ class AndroidDevDiagMonitor(Monitor):
                         packet = DMLogPacket(result[0])
                         type_id = packet.get_type_id()
                         self.overlink_get_info(packet, type_id, result[1])
+                        event = Event(result[1],
+                                      type_id,
+                                      packet)
                         self.send(event)
                         del result, packet
                     except FormatError as e:
