@@ -611,7 +611,7 @@ dm_collector_c_receive_log_packet(PyObject *self, PyObject *args) {
 
     std::string frame;
     bool crc_correct = false;
-    bool skip_decoding = false, include_timestamp = false;  // default values
+    bool skip_decoding = false, include_timestamp = true;  // default values
     double posix_timestamp = (include_timestamp ? get_posix_timestamp() : -1.0);
     bool success = true;
 
