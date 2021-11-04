@@ -217,6 +217,9 @@ class AndroidDevDiagMonitor(Monitor):
             f.write(bytes(128))
         with open(overlink_msg2_name, 'w+b') as f:
             f.write(bytes(128))
+            
+        self.fn = -1
+        self.sfn = -1
 
         """
         Exec/lib initialization path
@@ -534,7 +537,6 @@ class AndroidDevDiagMonitor(Monitor):
                     try:
                         packet = DMLogPacket(result[0])
                         type_id = packet.get_type_id()
-                        self.log_info("Why "+str(datetime.now()))
                         self.overlink_get_info(packet, type_id, result[1])
                         del result, packet
                     except FormatError as e:
@@ -582,7 +584,23 @@ class AndroidDevDiagMonitor(Monitor):
             self.send(event)
             sys.exit(str(traceback.format_exc()))
             # sys.exit(e)
-            
+        
+    # get absolute time
+    def __f_time(self):
+        return self.fn * 10 + self.sfn
+
+    def update_time(self, SFN, FN):
+        if self.sfn >= 0:      
+            self.sfn += 1
+            if self.sfn == 10:
+                self.sfn = 0
+                self.fn += 1
+            if self.fn == 1024:
+                self.fn = 0
+        if SFN < 10:
+            self.sfn = SFN
+            self.fn = FN    
+        
     def overlink_get_info(self, msg, type_id, timestamp):
         overlink_msg_time = 0
         overlink_tbs = 0
