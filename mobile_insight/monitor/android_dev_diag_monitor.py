@@ -214,9 +214,9 @@ class AndroidDevDiagMonitor(Monitor):
         
         # Goodsol
         with open(overlink_msg1_name, 'w+b') as f:
-            f.write(bytes(128))
+            f.write(bytes(256))
         with open(overlink_msg2_name, 'w+b') as f:
-            f.write(bytes(128))
+            f.write(bytes(256))
             
         self.fn = -1
         self.sfn = -1
