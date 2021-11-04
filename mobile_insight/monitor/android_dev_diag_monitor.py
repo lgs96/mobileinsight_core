@@ -537,7 +537,7 @@ class AndroidDevDiagMonitor(Monitor):
                     try:
                         packet = DMLogPacket(result[0])
                         type_id = packet.get_type_id()
-                        self.overlink_get_info(packet, type_id)
+                        self.overlink_get_info(packet, type_id, result[1])
                         del result, packet
                     except FormatError as e:
                         # skip this packet
@@ -601,7 +601,7 @@ class AndroidDevDiagMonitor(Monitor):
             self.sfn = SFN
             self.fn = FN    
         
-    def overlink_get_info(self, msg, type_id):
+    def overlink_get_info(self, msg, type_id, timestamp):
         overlink_msg_time = 0
         overlink_tbs = 0
         overlink_rb = 0
@@ -619,7 +619,7 @@ class AndroidDevDiagMonitor(Monitor):
                 self.write_msg1_file(str(overlink_msg_time)+'$'+str(overlink_tbs) + '$'+str(overlink_rb)+'$$$')
         if type_id == "LTE_MAC_UL_Buffer_Status_Internal":
             log_item = msg.decode()
-            self.log_info(log_item)
+            self.log_info(str(timestamp) + log_item)
             for packet in log_item['Subpackets']:
                 '''
                 for sample in packet['Samples']:
