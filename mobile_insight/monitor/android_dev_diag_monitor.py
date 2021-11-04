@@ -590,7 +590,7 @@ class AndroidDevDiagMonitor(Monitor):
         overlink_final_buffer_size = 0
 
         if type_id == "LTE_PHY_PUSCH_Tx_Report":
-            log_item = msg.data.decode()
+            log_item = msg.decode()
             if 'Records' in log_item:
                 for record in log_item['Records']:
                     overlink_msg_time = record['Current SFN SF']
@@ -599,7 +599,7 @@ class AndroidDevDiagMonitor(Monitor):
                     #self.log_info('TBS:'+str(overlink_tbs))
                 self.write_msg1_file(str(timestamp)+' '+str(datetime.now())+'$'+str(overlink_msg_time)+'$'+str(overlink_tbs) + '$'+str(overlink_rb)+'$$$')
         if type_id == "LTE_MAC_UL_Buffer_Status_Internal":
-            log_item = msg.data.decode()
+            log_item = msg.decode()
         
             for packet in log_item['Subpackets']:
                 '''
