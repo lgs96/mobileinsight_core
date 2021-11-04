@@ -10225,7 +10225,7 @@ on_demand_decode (const char *b, size_t length, LogPacketType type_id, PyObject*
                                     b, offset, length, result);
         offset += _decode_lte_phy_pusch_tx_report_payload(b, offset, length, result);
     }
-    elif (type_id == LTE_MAC_UL_Buffer_Status_Internal)
+    else if (type_id == LTE_MAC_UL_Buffer_Status_Internal)
     {
         offset += _decode_by_fmt(LteMacULBufferStatusInternalFmt,
                                     ARRAY_SIZE(LteMacULBufferStatusInternalFmt, Fmt),
@@ -10750,8 +10750,6 @@ on_demand_decode (const char *b, size_t length, LogPacketType type_id, PyObject*
         default:
             break;
         */
-    };
-
 }
 
 PyObject *
