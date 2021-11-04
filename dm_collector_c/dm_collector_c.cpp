@@ -652,7 +652,7 @@ dm_collector_c_receive_log_packet(PyObject *self, PyObject *args) {
                 const char *s = frame.c_str();
                 PyObject *decoded = decode_custom_packet(s + 2,  // skip first two bytes
                                                       frame.size() - 2);
-                if (include_timestamp) {
+                if (true) {
                     PyObject *ret = Py_BuildValue("(Od)", decoded, posix_timestamp);
                     Py_DECREF(decoded);
                     return ret;
