@@ -1631,6 +1631,128 @@ const Fmt LteMacULTransportBlock_SubpktV2_SampleFmt[] = {
         // Mac Hdr + CE and UL TB Other Structure
 };
 
+//xyf
+const ValueName LteMacULTransportBlock_Mac_Hdr_LCId[] = {
+        {0, "CCCH"},
+        {1, "1"},
+        {2, "2"},
+        {3, "3"},
+        {4, "4"},
+        {5, "5"},
+        {6, "6"},
+        {7, "7"},
+        {8, "8"},
+        {9, "9"},
+        {10, "10"},
+        {11, "CCCH (unsupported)"},
+        {12, "CCCH (unsupported)"},
+        {13, "CCCH and Extended PHR (unsupported)"},
+        {14, "Reserved (unsupported)"},
+        {15, "Reserved (unsupported)"},
+        {16, "Extended LC ID field (unsupported)"},
+        {17, "Reserved (unsupported)"},
+        {18, "AUL confirmation (4 octets) (unsupported)"},
+        {19, "AUL confirmation (1 octet) (unsupported)"},
+        {20, "Recommended bit rate query"},
+        {21, "SPS confirmation (unsupported)"},
+        {22, "Truncated Sidelink BSR (unsupported)"},
+        {23, "Sidelink BSR (unsupported)"},
+        {24, "Dual Connectivity PHR (unsupported)"},
+        {25, "Extended PHR (unsupported)"},
+        {26, "PHR"},
+        {27, "C-RNTI"},
+        {28, "T-BSR"},
+        {29, "S-BSR"},
+        {30, "L-BSR"},
+        {31, "Padding"},
+};
+
+const ValueName LteMacULTransportBlock_Mac_CE_RBRQ_ULorDL[] = {
+        {0, "DL"},
+        {1, "UL"},
+};
+
+const int LteMacULTransportBlock_Mac_CE_BSR_BufferSizeValue[] = {
+    0, 10, 12, 14, 17, 19, 22, 26,
+    31, 36, 42, 49, 57, 67, 78, 91,
+    107, 125, 146, 171, 200, 234, 274, 321,
+    376, 440, 515, 603, 706, 826, 967, 1132,
+    1326, 1552, 1817, 2127, 2490, 2915, 3413, 3995,
+    4677, 5476, 6411, 7505, 8787, 10287, 12403, 14099,
+    16507, 19325, 22624, 24687, 31009, 36304, 42502, 49759,
+    58255, 68201, 79846, 93479, 109439, 128125, 150000, 0x7fffffff
+};
+
+const Fmt LteMacULTransportBlock_Mac_Hdr[] = {
+        {UINT,        "Header Field",    1},
+        {PLACEHOLDER, "LC ID",           0},
+        {PLACEHOLDER, "Len",             0},
+};
+
+const Fmt LteMacULTransportBlock_Mac_Hdr_L1[] = {
+        {UINT,        "L1 Field",        1},
+};
+
+const Fmt LteMacULTransportBlock_Mac_Hdr_L2[] = {
+        {UINT,        "L2 Field",        1},
+};
+
+const Fmt LteMacULTransportBlock_Mac_CE_L_BSR[] = {
+        {UINT,        "L-BSR Field 1",   1},
+        {UINT,        "L-BSR Field 2",   1},
+        {UINT,        "L-BSR Field 3",   1},
+        {PLACEHOLDER, "BSR LCG 0",       0},
+        {PLACEHOLDER, "BSR LCG 1",       0},
+        {PLACEHOLDER, "BSR LCG 2",       0},
+        {PLACEHOLDER, "BSR LCG 3",       0},
+        {PLACEHOLDER, "BSR LCG 0 (bytes)", 0},
+        {PLACEHOLDER, "BSR LCG 1 (bytes)", 0},
+        {PLACEHOLDER, "BSR LCG 2 (bytes)", 0},
+        {PLACEHOLDER, "BSR LCG 3 (bytes)", 0},
+};
+
+const Fmt LteMacULTransportBlock_Mac_CE_S_T_BSR[] = {
+        {UINT,        "S/T-BSR Field",     1},
+};
+
+const Fmt LteMacULTransportBlock_Mac_CE_S_T_BSR_LCG0[] = {
+        {PLACEHOLDER, "BSR LCG 0",       0},
+        {PLACEHOLDER, "BSR LCG 0 (bytes)", 0},
+};
+
+const Fmt LteMacULTransportBlock_Mac_CE_S_T_BSR_LCG1[] = {
+        {PLACEHOLDER, "BSR LCG 1",       0},
+        {PLACEHOLDER, "BSR LCG 1 (bytes)", 0},
+};
+
+const Fmt LteMacULTransportBlock_Mac_CE_S_T_BSR_LCG2[] = {
+        {PLACEHOLDER, "BSR LCG 2",       0},
+        {PLACEHOLDER, "BSR LCG 2 (bytes)", 0},
+};
+
+const Fmt LteMacULTransportBlock_Mac_CE_S_T_BSR_LCG3[] = {
+        {PLACEHOLDER, "BSR LCG 3",       0},
+        {PLACEHOLDER, "BSR LCG 3 (bytes)", 0},
+};
+
+const Fmt LteMacULTransportBlock_Mac_CE_C_RNTI[] = {
+        {BYTE_STREAM, "C-RNTI",          2},
+};
+
+const Fmt LteMacULTransportBlock_Mac_CE_PHR[] = {
+        {UINT,        "PHR Field",       1},
+        {PLACEHOLDER, "PHR Ind",         0},
+};
+
+const Fmt LteMacULTransportBlock_Mac_CE_RBRQ[] = {
+        {UINT,        "RBRQ Field 1",     1},
+        {UINT,        "RBRQ Field 2",     1},
+        {PLACEHOLDER, "LCID (RBRQ)",      0},
+        {PLACEHOLDER, "UL/DL",            0},
+        {PLACEHOLDER, "Bit Rate",         0},
+        {PLACEHOLDER, "Bit Rate Multiplier", 0},
+};
+
 // ----------------------------------------------------------
 // MAC DL Transport Block
 // Jie
