@@ -619,7 +619,7 @@ class AndroidDevDiagMonitor(Monitor):
                 self.write_msg1_file(str(overlink_msg_time)+'$'+str(overlink_tbs) + '$'+str(overlink_rb)+'$$$')
         if type_id == "LTE_MAC_UL_Buffer_Status_Internal":
             log_item = msg.decode()
-            self.log_info(str(timestamp) + log_item)
+            self.log_info(str(timestamp) + str(log_item))
             for packet in log_item['Subpackets']:
                 '''
                 for sample in packet['Samples']:
