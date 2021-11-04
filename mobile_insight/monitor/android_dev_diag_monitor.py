@@ -216,10 +216,8 @@ class AndroidDevDiagMonitor(Monitor):
         with open(overlink_msg1_name, 'w+b') as f:
             f.write(bytes(20))
         with open(overlink_msg2_name, 'w+b') as f:
-            f.write(bytes(20))
-            
-        self.fn = -1
-        self.sfn = -1
+            f.write(bytes(40))
+    
 
         """
         Exec/lib initialization path
@@ -643,8 +641,7 @@ class AndroidDevDiagMonitor(Monitor):
                 final_sample = packet['Samples'][-1]
                 SFN = final_sample['Sub FN']
                 FN = final_sample['Sys FN']
-                self.update_time(SFN, FN)
-                overlink_msg_time = self.__f_time()
+                overlink_msg_time = SFN + 10*FN
                 try:
                     first_data = first_sample['LCIDs'][-1]
                     overlink_first_buffer_size = first_data['Total Bytes']

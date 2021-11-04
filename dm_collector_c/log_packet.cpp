@@ -10750,10 +10750,6 @@ on_demand_decode (const char *b, size_t length, LogPacketType type_id, PyObject*
                                     b, offset, length, result);
         offset += _decode_lte_mac_ul_bufferstatusinternal_subpkt(b, offset, length, result);
     }
-    else
-    {
-        continue;
-    }
     /*
     switch (type_id) {
         case CDMA_Paging_Channel_Message:
