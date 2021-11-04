@@ -21,6 +21,10 @@ import timeit
 from .dm_collector import dm_collector_c, DMLogPacket, FormatError
 from .monitor import Monitor, Event
 
+# Goodsol
+from datetime import datetime
+import mmap
+
 is_android = False
 try:
     from jnius import autoclass, cast  # For Android
@@ -41,6 +45,11 @@ except Exception as e:
 
 ANDROID_SHELL = "/system/bin/sh"
 
+
+# Goodsol, variables for mmap
+
+overlink_msg1_name = '/sdcard/cellular_link.txt'
+overlink_msg2_name = '/sdcard/cellular_buffer.txt'
 
 def get_cache_dir():
     if is_android:
@@ -202,6 +211,12 @@ class AndroidDevDiagMonitor(Monitor):
         self._type_names = []
         self._last_diag_revealer_ts = None
         self.running = False
+        
+        # Goodsol
+        with open(overlink_msg1_name, 'w+b') as f:
+            f.write(bytes(128))
+        with open(overlink_msg2_name, 'w+b') as f:
+            f.write(bytes(128))
 
         """
         Exec/lib initialization path
@@ -514,6 +529,18 @@ class AndroidDevDiagMonitor(Monitor):
                 result = dm_collector_c.receive_log_packet(self._skip_decoding,
                                                            True,  # include_timestamp
                                                            )
+                # Goodsol, optimized code for Overlink
+                if result:  # result = (decoded, posix_timestamp)
+                    try:
+                        packet = DMLogPacket(result[0])
+                        type_id = packet.get_type_id()
+                        self.overlink_get_info(packet, type_id, result[1])
+                        del result, packet
+                    except FormatError as e:
+                        # skip this packet
+                        self.log_error("Error while processing Overlink information")
+                
+                ''' Goodsol, commented original code
                 if result:  # result = (decoded, posix_timestamp)
                     try:
                         packet = DMLogPacket(result[0])
@@ -526,6 +553,7 @@ class AndroidDevDiagMonitor(Monitor):
                     except FormatError as e:
                         # skip this packet
                         print(("FormatError: ", e))
+                '''
 
         except (KeyboardInterrupt, RuntimeError) as e:
             import traceback
@@ -553,3 +581,69 @@ class AndroidDevDiagMonitor(Monitor):
             self.send(event)
             sys.exit(str(traceback.format_exc()))
             # sys.exit(e)
+            
+    def overlink_get_info(self, msg, type_id, timestamp):
+        overlink_msg_time = 0
+        overlink_tbs = 0
+        overlink_rb = 0
+        overlink_first_buffer_size = 0
+        overlink_final_buffer_size = 0
+
+        if type_id == "LTE_PHY_PUSCH_Tx_Report":
+            log_item = msg.data.decode()
+            if 'Records' in log_item:
+                for record in log_item['Records']:
+                    overlink_msg_time = record['Current SFN SF']
+                    overlink_tbs += record['PUSCH TB Size']
+                    overlink_rb += record['Num of RB']
+                    #self.log_info('TBS:'+str(overlink_tbs))
+                self.write_msg1_file(str(timestamp)+' '+str(datetime.now())+'$'+str(overlink_msg_time)+'$'+str(overlink_tbs) + '$'+str(overlink_rb)+'$$$')
+        if type_id == "LTE_MAC_UL_Buffer_Status_Internal":
+            log_item = msg.data.decode()
+        
+            for packet in log_item['Subpackets']:
+                '''
+                for sample in packet['Samples']:
+                    SFN = sample['Sub FN']
+                    FN = sample['Sys FN']
+                    self.update_time(SFN, FN)
+                    overlink_msg_time = self.__f_time()
+                    if (sample['LCIDs'] == []):
+                        # print "error here!!"
+                        continue
+                    data = sample['LCIDs'][-1]
+                    overlink_buffer_size = data['Total Bytes']
+                    #self.log_info('Buffer:' +str(overlink_buffer_size))
+                '''
+                first_sample = packet['Samples'][0]
+                final_sample = packet['Samples'][-1]
+                SFN = final_sample['Sub FN']
+                FN = final_sample['Sys FN']
+                self.update_time(SFN, FN)
+                overlink_msg_time = self.__f_time()
+                try:
+                    first_data = first_sample['LCIDs'][-1]
+                    overlink_first_buffer_size = first_data['Total Bytes']
+                except:
+                    pass
+                try:
+                    final_data = final_sample['LCIDs'][-1]
+                    overlink_final_buffer_size = final_data['Total Bytes']
+                except:
+                    pass
+
+                self.write_msg2_file(str(timestamp)+' '+str(datetime.now())+'$'+str(overlink_msg_time)+'$'+str(overlink_first_buffer_size)+'$'+str(overlink_final_buffer_size)+'$$$')
+        #self.log_info(str(datetime.now())+':'+str(log_item['timestamp'])+':'+str(overlink_buffer_size)+':'+str(overlink_tbs/10))
+        
+
+    def write_msg1_file(self, data):
+        with open(overlink_msg1_name, 'r+b') as f:
+            with mmap.mmap(f.fileno(), length = 0, access = mmap.ACCESS_WRITE) as mm:
+                data_byte = str(data).encode('utf-8')
+                mm.write(data_byte)
+
+    def write_msg2_file(self, data):
+        with open(overlink_msg2_name, 'r+b') as f:
+            with mmap.mmap(f.fileno(), length = 0, access = mmap.ACCESS_WRITE) as mm:
+                data_byte = str(data).encode('utf-8')
+                mm.write(data_byte)
