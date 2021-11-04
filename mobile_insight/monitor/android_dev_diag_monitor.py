@@ -204,6 +204,12 @@ class AndroidDevDiagMonitor(Monitor):
         Configure this class with user preferences.
         This method should be called before any actual decoding.
         """
+        # Goodsol
+        with open(overlink_msg1_name, 'w+b') as f:
+            f.write(bytes(20))
+        with open(overlink_msg2_name, 'w+b') as f:
+            f.write(bytes(40))
+            
         Monitor.__init__(self)
         self._fifo_path = self.TMP_FIFO_FILE
         self._input_dir = os.path.join(get_cache_dir(), "mi2log")
@@ -211,12 +217,6 @@ class AndroidDevDiagMonitor(Monitor):
         self._type_names = []
         self._last_diag_revealer_ts = None
         self.running = False
-        
-        # Goodsol
-        with open(overlink_msg1_name, 'w+b') as f:
-            f.write(bytes(20))
-        with open(overlink_msg2_name, 'w+b') as f:
-            f.write(bytes(40))
     
 
         """
