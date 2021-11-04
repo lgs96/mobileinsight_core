@@ -633,7 +633,7 @@ class AndroidDevDiagMonitor(Monitor):
                     pass
 
                 self.write_msg2_file(str(timestamp)+' '+str(datetime.now())+'$'+str(overlink_msg_time)+'$'+str(overlink_first_buffer_size)+'$'+str(overlink_final_buffer_size)+'$$$')
-        #self.log_info(str(datetime.now())+':'+str(log_item['timestamp'])+':'+str(overlink_buffer_size)+':'+str(overlink_tbs/10))
+        self.log_info(str(timestamp)+' '+str(datetime.now())+' '+type_id)
         
 
     def write_msg1_file(self, data):
