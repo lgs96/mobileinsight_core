@@ -538,6 +538,7 @@ class AndroidDevDiagMonitor(Monitor):
                         packet = DMLogPacket(result[0])
                         type_id = packet.get_type_id()
                         self.overlink_get_info(packet, type_id, result[1])
+                        self.send(event)
                         del result, packet
                     except FormatError as e:
                         # skip this packet
@@ -619,7 +620,6 @@ class AndroidDevDiagMonitor(Monitor):
                 self.write_msg1_file(str(overlink_msg_time)+'$'+str(overlink_tbs) + '$'+str(overlink_rb)+'$$$')
         if type_id == "LTE_MAC_UL_Buffer_Status_Internal":
             log_item = msg.decode()
-            self.log_info(str(timestamp) + str(log_item))
             for packet in log_item['Subpackets']:
                 '''
                 for sample in packet['Samples']:
@@ -651,7 +651,7 @@ class AndroidDevDiagMonitor(Monitor):
                 except:
                     pass
                 self.write_msg2_file(str(overlink_msg_time)+'$'+str(overlink_first_buffer_size)+'$'+str(overlink_final_buffer_size)+'$$$')
-        #self.log_info(str(timestamp)+' '+str(datetime.now())+' '+type_id)
+        self.log_info(str(timestamp)+' '+str(datetime.now())+' '+type_id)
         
 
     def write_msg1_file(self, data):
