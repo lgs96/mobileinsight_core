@@ -4194,6 +4194,32 @@ _decode_lte_mac_ul_bufferstatusinternal_subpkt(const char *b, int offset, size_t
 
     PyObject *old_object;
 
+    PyObject *result_allpkts = PyList_New(0);
+    for (int i = 0; i < n_subpkt; i++) {
+        PyObject *result_subpkt = PyList_New(0);
+        // Decode subpacket header
+        offset += _decode_by_fmt(LteMacULBufferStatusInternal_SubpktHeaderFmt,
+                                    ARRAY_SIZE(LteMacDLTransportBlock_SubpktHeaderFmt, Fmt),
+                                    b, offset, length, result_subpkt);
+        // Decode payload
+        int subpkt_id = _search_result_int(result_subpkt, "SubPacket ID");
+        int subpkt_ver = _search_result_int(result_subpkt, "Version");
+        int subpkt_nsample = _search_result_int(result_subpkt, "Num Samples");
+        const char *type_name = search_name(LteMacConfigurationSubpkt_SubpktType,
+                                            ARRAY_SIZE(LteMacConfigurationSubpkt_SubpktType, ValueName),
+                                            subpkt_id);
+        (void) _map_result_field_to_name(
+                result_subpkt,
+                "SubPacket ID",
+                LteMacConfigurationSubpkt_SubpktType,
+                ARRAY_SIZE(LteMacConfigurationSubpkt_SubpktType, ValueName),
+                "(MI)Unknown Subpkt Type");
+
+        if (type_name == NULL) {    // not found
+            printf("(MI)Unknown LTE MAC Uplink Buffer Status Internel Subpacket ID: 0x%x\n", subpkt_id);
+        } else {
+            bool success = false;
+
     PyObject *result_subpkt_allsamples = PyList_New(0);
     for (int j = 0; j < subpkt_nsample; j++) {
         PyObject *result_subpkt_sample = PyList_New(0);
