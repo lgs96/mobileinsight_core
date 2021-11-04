@@ -217,6 +217,9 @@ class AndroidDevDiagMonitor(Monitor):
         self._type_names = []
         self._last_diag_revealer_ts = None
         self.running = False
+        
+        self.fn = -1
+        self.sfn = -1
     
 
         """
@@ -641,7 +644,8 @@ class AndroidDevDiagMonitor(Monitor):
                 final_sample = packet['Samples'][-1]
                 SFN = final_sample['Sub FN']
                 FN = final_sample['Sys FN']
-                overlink_msg_time = SFN + 10*FN
+                self.update_time(SFN, FN)
+                overlink_msg_time = self.__f_time()
                 try:
                     first_data = first_sample['LCIDs'][-1]
                     overlink_first_buffer_size = first_data['Total Bytes']
