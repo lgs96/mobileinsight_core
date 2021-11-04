@@ -214,9 +214,9 @@ class AndroidDevDiagMonitor(Monitor):
         
         # Goodsol
         with open(overlink_msg1_name, 'w+b') as f:
-            f.write(bytes(128))
+            f.write(bytes(20))
         with open(overlink_msg2_name, 'w+b') as f:
-            f.write(bytes(128))
+            f.write(bytes(20))
             
         self.fn = -1
         self.sfn = -1
@@ -538,10 +538,12 @@ class AndroidDevDiagMonitor(Monitor):
                         packet = DMLogPacket(result[0])
                         type_id = packet.get_type_id()
                         self.overlink_get_info(packet, type_id, result[1])
+                        '''
                         event = Event(result[1],
                                       type_id,
                                       packet)
-                        self.send(event)
+                        #self.send(event)
+                        '''
                         del result, packet
                     except FormatError as e:
                         # skip this packet
@@ -620,7 +622,7 @@ class AndroidDevDiagMonitor(Monitor):
                     overlink_tbs += record['PUSCH TB Size']
                     overlink_rb += record['Num of RB']
                     #self.log_info('TBS:'+str(overlink_tbs))
-                self.write_msg1_file(str(timestamp)+'$'+str(overlink_tbs) + '$'+str(overlink_rb)+'$$$')
+                self.write_msg1_file(str(overlink_msg_time)+'$'+str(overlink_tbs)+'$$')
         if type_id == "LTE_MAC_UL_Buffer_Status_Internal":
             log_item = msg.decode()
             for packet in log_item['Subpackets']:
@@ -653,7 +655,7 @@ class AndroidDevDiagMonitor(Monitor):
                     overlink_final_buffer_size = final_data['Total Bytes']
                 except:
                     pass
-            self.write_msg2_file(str(timestamp)+'$'+str(overlink_first_buffer_size)+'$'+str(overlink_final_buffer_size)+'$$$')
+            self.write_msg2_file(str(overlink_msg_time)+'$'+str(overlink_first_buffer_size)+'$'+str(overlink_final_buffer_size)+'$$')
         #self.log_info(str(timestamp)+' '+str(datetime.now())+' '+type_id)
         
 
