@@ -61,3 +61,8 @@ The following Slack group is used exclusively for discussions about developing t
 + Email: support@mobileinsight.net
 
 For other advanced topics, please refer to the wiki and the [MobileInsight website](http://mobileinsight.net).
+
+_________________________________________________________
+## Modified by Goodsol Lee for object latency analysis
+
+
