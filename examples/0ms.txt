@@ -1,0 +1,1413 @@
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Connected_Mode_Intra_Freq_Meas
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Serv_Cell_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Connected_Mode_Neighbor_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Inter_RAT_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Inter_RAT_CDMA_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUSCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Buffer_Status_Internal
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUCCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Tx_Statistics
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_RRC_OTA_Packet
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_RRC_Serv_Cell_Info
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_RRC_CDRX_Events_Info
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: STARTED: 1623180561.5774326
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading 0609syn/0ms.mi2log
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading: 1623180561.57752
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:32.140279 PUSCH UL grant: received=249588 bytes used=249588 bytes utilization=100.0% total utilized249588
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 9443 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:32.240488 PUSCH UL grant: received=246033 bytes used=246033 bytes utilization=100.0% total utilized495621
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:32.340319 PUSCH UL grant: received=248751 bytes used=248751 bytes utilization=100.0% total utilized744372
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:32.440184 PUSCH UL grant: received=250584 bytes used=250584 bytes utilization=100.0% total utilized994956
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:32.540306 PUSCH UL grant: received=251115 bytes used=251115 bytes utilization=100.0% total utilized1246071
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:32.640207 PUSCH UL grant: received=251478 bytes used=251478 bytes utilization=100.0% total utilized1497549
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:32.740198 PUSCH UL grant: received=249849 bytes used=249849 bytes utilization=100.0% total utilized1747398
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:32.840626 PUSCH UL grant: received=251091 bytes used=251091 bytes utilization=100.0% total utilized1998489
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:32.940189 PUSCH UL grant: received=251265 bytes used=251265 bytes utilization=100.0% total utilized2249754
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:33.040284 PUSCH UL grant: received=251673 bytes used=251673 bytes utilization=100.0% total utilized2501427
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:33.140286 PUSCH UL grant: received=251166 bytes used=251166 bytes utilization=100.0% total utilized2752593
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:33.240435 PUSCH UL grant: received=249903 bytes used=249903 bytes utilization=100.0% total utilized3002496
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 367, 'timestamp': '2021-06-08 18:40:33.276862'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 372, 'timestamp': '2021-06-08 18:40:33.276862'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 407, 'timestamp': '2021-06-08 18:40:33.316836'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 412, 'timestamp': '2021-06-08 18:40:33.316836'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 432, 'timestamp': '2021-06-08 18:40:33.336891'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:33.340180 PUSCH UL grant: received=49593 bytes used=25494 bytes utilization=51.41% total utilized3027990
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 437, 'timestamp': '2021-06-08 18:40:33.346782'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 462, 'timestamp': '2021-06-08 18:40:33.366898'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 467, 'timestamp': '2021-06-08 18:40:33.376780'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 507, 'timestamp': '2021-06-08 18:40:33.416841'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 512, 'timestamp': '2021-06-08 18:40:33.416841'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:33.440401 PUSCH UL grant: received=650 bytes used=107 bytes utilization=16.46% total utilized3028097
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:33.540402 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028097
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:33.740529 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028097
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 1242, 'timestamp': '2021-06-08 18:40:34.149660'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:34.152145 PUSCH UL grant: received=105 bytes used=62 bytes utilization=59.05% total utilized3028159
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 1247, 'timestamp': '2021-06-08 18:40:34.159650'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 1272, 'timestamp': '2021-06-08 18:40:34.179660'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 1277, 'timestamp': '2021-06-08 18:40:34.189656'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:34.252159 PUSCH UL grant: received=315 bytes used=16 bytes utilization=5.08% total utilized3028175
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:34.352160 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028175
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:34.452159 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028175
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1010 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1246 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1330 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1362 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:34.855366 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028175
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1650 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:35.217532 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028175
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:35.578267 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized3028181
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:35.678287 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028181
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:36.150393 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028181
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:36.527528 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized3028187
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:36.627526 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028187
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:36.812148 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028187
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 2611 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 2930 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 3583 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 3890 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:37.752103 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028187
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:37.852156 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized3028193
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:37.952175 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028193
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:38.697044 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028193
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 4851 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 5170 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 5824 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:38.801456 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized3028199
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:38.901461 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028199
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:39.363276 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028199
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:40.024323 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized3028205
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:40.124339 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028205
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:40.320401 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028205
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 6130 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 7091 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 7410 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 8065 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:40.980372 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized3028211
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:41.080405 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028211
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:41.265413 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028211
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:41.926482 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028211
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:42.304340 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized3028217
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:42.404336 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028217
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:42.878279 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028217
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 8370 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 9331 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 9650 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:43.257527 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized3028223
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:43.357526 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028223
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:43.540403 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028223
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:44.468270 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028223
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:44.568274 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized3028229
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:40:44.668288 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028229
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 1657, 'timestamp': '2021-06-08 18:40:44.808958'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 1662, 'timestamp': '2021-06-08 18:40:44.808958'}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 66 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 370 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1331 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1650 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1651 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: LteRrcStatus cellID=3 frequency=2500 TAC=8455 connected=False
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 2419, 'timestamp': '2021-06-08 18:43:49.887963'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 2424, 'timestamp': '2021-06-08 18:43:49.897765'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:49.905338 PUSCH UL grant: received=254 bytes used=36 bytes utilization=14.17% total utilized3028265
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 2449, 'timestamp': '2021-06-08 18:43:49.917893'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 2454, 'timestamp': '2021-06-08 18:43:49.927940'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 2464, 'timestamp': '2021-06-08 18:43:49.936905'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 2489, 'timestamp': '2021-06-08 18:43:49.957917'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 2494, 'timestamp': '2021-06-08 18:43:49.966825'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 2499, 'timestamp': '2021-06-08 18:43:49.966825'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:50.005359 PUSCH UL grant: received=725 bytes used=205 bytes utilization=28.28% total utilized3028470
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 2579, 'timestamp': '2021-06-08 18:43:50.047978'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 2584, 'timestamp': '2021-06-08 18:43:50.057711'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:50.105365 PUSCH UL grant: received=218 bytes used=70 bytes utilization=32.11% total utilized3028540
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:50.205365 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028540
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:50.358241 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028540
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 2875 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:50.666433 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028540
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:51.280364 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028540
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:51.380370 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028540
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:51.480364 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028540
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:51.930362 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028540
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 3844 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 4155 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 4796 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:52.310367 PUSCH UL grant: received=191 bytes used=16 bytes utilization=8.38% total utilized3028556
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:52.410365 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028556
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:52.589305 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028556
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:53.239310 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028556
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:53.619306 PUSCH UL grant: received=113 bytes used=6 bytes utilization=5.31% total utilized3028562
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:53.719306 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028562
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:54.186438 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028562
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 5115 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 6076 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 6395 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:54.564306 PUSCH UL grant: received=113 bytes used=6 bytes utilization=5.31% total utilized3028568
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:54.664306 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028568
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:54.835345 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028568
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:55.771432 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028568
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:55.871427 PUSCH UL grant: received=113 bytes used=6 bytes utilization=5.31% total utilized3028574
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:55.971419 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028574
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 7055 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 7355 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 8316 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 8635 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:56.727152 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028574
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:56.827184 PUSCH UL grant: received=113 bytes used=6 bytes utilization=5.31% total utilized3028580
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:56.927181 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028580
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:57.390363 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028580
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:58.049300 PUSCH UL grant: received=113 bytes used=6 bytes utilization=5.31% total utilized3028586
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 9287 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 9595 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 316 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:58.149299 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028586
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:58.347501 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028586
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:59.011427 PUSCH UL grant: received=223 bytes used=14 bytes utilization=6.28% total utilized3028600
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:59.111429 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028600
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:59.298228 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028600
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 635 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1280 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1595 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:43:59.960377 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028600
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:44:00.328249 PUSCH UL grant: received=226 bytes used=10 bytes utilization=4.42% total utilized3028610
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 2556 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:44:00.428245 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028610
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:44:00.904314 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028610
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:44:01.277178 PUSCH UL grant: received=101 bytes used=6 bytes utilization=5.94% total utilized3028616
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 3594, 'timestamp': '2021-06-08 18:44:01.301705'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 3599, 'timestamp': '2021-06-08 18:44:01.311691'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 8350, 'timestamp': '2021-06-08 18:54:51.177156'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 8355, 'timestamp': '2021-06-08 18:54:51.187159'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 8380, 'timestamp': '2021-06-08 18:54:51.207148'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 8385, 'timestamp': '2021-06-08 18:54:51.217145'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:51.218990 PUSCH UL grant: received=357 bytes used=68 bytes utilization=19.05% total utilized3028684
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 8395, 'timestamp': '2021-06-08 18:54:51.227157'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 8410, 'timestamp': '2021-06-08 18:54:51.237151'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 8480, 'timestamp': '2021-06-08 18:54:51.307143'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 8485, 'timestamp': '2021-06-08 18:54:51.317157'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:51.319032 PUSCH UL grant: received=693 bytes used=192 bytes utilization=27.71% total utilized3028876
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:51.419009 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028876
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:51.519007 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028876
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:51.811893 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028876
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 8975 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:52.429006 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028876
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:52.529010 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028876
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:52.629009 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028876
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:52.807948 PUSCH UL grant: received=64 bytes used=10 bytes utilization=15.62% total utilized3028886
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:52.907949 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028886
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:53.085087 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028886
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 9619 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 9935 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 9936 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 15 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 349 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:53.465070 PUSCH UL grant: received=77 bytes used=6 bytes utilization=7.79% total utilized3028892
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:53.565072 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028892
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:53.742946 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028892
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:54.679016 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028892
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:54.779007 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized3028898
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:54.879010 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028898
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:55.633999 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028898
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 655 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1616 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 1935 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 2590 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:55.734009 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized3028904
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:55.834010 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028904
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:56.294014 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028904
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:56.950817 PUSCH UL grant: received=77 bytes used=6 bytes utilization=7.79% total utilized3028910
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:57.050821 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028910
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:57.245815 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028910
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 2895 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 3856 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 4175 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 4831 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:57.910821 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized3028916
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:58.010821 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028916
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:58.195816 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028916
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:58.851887 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028916
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:59.235056 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized3028922
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:59.335068 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028922
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:54:59.810069 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028922
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 5135 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 6096 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 6415 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:00.190812 PUSCH UL grant: received=97 bytes used=6 bytes utilization=6.19% total utilized3028928
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:00.290820 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028928
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:00.390814 PUSCH UL grant: received=97 bytes used=6 bytes utilization=6.19% total utilized3028934
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:00.490820 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028934
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:01.072939 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028934
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 7072 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 7375 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 7474 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 7695 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: rrc state: 8336 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:01.442981 PUSCH UL grant: received=97 bytes used=6 bytes utilization=6.19% total utilized3028940
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:01.542882 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028940
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:01.737952 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028940
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:02.399004 PUSCH UL grant: received=113 bytes used=6 bytes utilization=5.31% total utilized3028946
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:02.499008 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028946
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:02.670827 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028946
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-08 18:55:03.332950 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3028946
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 340, 'timestamp': '2021-06-08 18:55:03.651540'}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'fn and subfn': 345, 'timestamp': '2021-06-08 18:55:03.651540'}
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Decoding_inter: 0.04056811332702637
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: sending_inter: 0.6287341117858887
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Offline replay is completed.
+Init RRC Analyzer
+sec 69 9655
+sec 319 9638
+sec 352 10235
+Total data Tx (RLC analyzer):  0
+Total ctrl Tx (RLC analyzer):  0
+0  Buffer size:  285479.0
+1  Buffer size:  283360.0
+2  Buffer size:  280695.0
+3  Buffer size:  286680.0
+4  Buffer size:  287088.0
+5  Buffer size:  284421.0
+6  Buffer size:  284644.0
+7  Buffer size:  282267.0
+8  Buffer size:  288035.0
+9  Buffer size:  282892.0
+10  Buffer size:  280606.0
+11  Buffer size:  287139.0
+12  Buffer size:  284474.0
+13  Buffer size:  287767.0
+14  Buffer size:  285100.0
+15  Buffer size:  285317.0
+16  Buffer size:  282651.0
+17  Buffer size:  281809.0
+18  Buffer size:  286135.0
+19  Buffer size:  285127.0
+20  Buffer size:  284282.0
+21  Buffer size:  288076.0
+22  Buffer size:  285411.0
+23  Buffer size:  282743.0
+24  Buffer size:  282960.0
+25  Buffer size:  286061.0
+26  Buffer size:  283592.0
+27  Buffer size:  284098.0
+28  Buffer size:  281431.0
+29  Buffer size:  278764.0
+30  Buffer size:  279362.0
+31  Buffer size:  284074.0
+32  Buffer size:  280490.0
+33  Buffer size:  277823.0
+34  Buffer size:  280924.0
+35  Buffer size:  278257.0
+36  Buffer size:  275591.0
+37  Buffer size:  284843.0
+38  Buffer size:  282176.0
+39  Buffer size:  279509.0
+40  Buffer size:  277222.0
+41  Buffer size:  277988.0
+42  Buffer size:  275323.0
+43  Buffer size:  272655.0
+44  Buffer size:  269988.0
+45  Buffer size:  267513.0
+46  Buffer size:  272062.0
+47  Buffer size:  279778.0
+48  Buffer size:  277303.0
+49  Buffer size:  274636.0
+50  Buffer size:  272350.0
+51  Buffer size:  270231.0
+52  Buffer size:  267566.0
+53  Buffer size:  282395.0
+54  Buffer size:  279728.0
+55  Buffer size:  277060.0
+56  Buffer size:  275837.0
+57  Buffer size:  273553.0
+58  Buffer size:  280980.0
+59  Buffer size:  278312.0
+60  Buffer size:  276026.0
+61  Buffer size:  279676.0
+62  Buffer size:  277010.0
+63  Buffer size:  274343.0
+64  Buffer size:  271676.0
+65  Buffer size:  269009.0
+66  Buffer size:  266540.0
+67  Buffer size:  266540.0
+68  Buffer size:  281683.0
+70  Buffer size:  279614.0
+71  Buffer size:  277495.0
+72  Buffer size:  274830.0
+73  Buffer size:  272163.0
+74  Buffer size:  281223.0
+75  Buffer size:  278556.0
+76  Buffer size:  281659.0
+77  Buffer size:  285050.0
+78  Buffer size:  282575.0
+79  Buffer size:  282791.0
+80  Buffer size:  280505.0
+81  Buffer size:  284154.0
+82  Buffer size:  281681.0
+83  Buffer size:  281898.0
+84  Buffer size:  284999.0
+85  Buffer size:  282332.0
+86  Buffer size:  279862.0
+87  Buffer size:  283253.0
+88  Buffer size:  280778.0
+89  Buffer size:  280995.0
+90  Buffer size:  284644.0
+91  Buffer size:  284644.0
+92  Buffer size:  279860.0
+93  Buffer size:  285845.0
+94  Buffer size:  286254.0
+95  Buffer size:  283587.0
+96  Buffer size:  283806.0
+97  Buffer size:  281428.0
+98  Buffer size:  281837.0
+99  Buffer size:  284938.0
+100  Buffer size:  285535.0
+101  Buffer size:  283417.0
+102  Buffer size:  280807.0
+103  Buffer size:  278140.0
+104  Buffer size:  275473.0
+105  Buffer size:  275473.0
+106  Buffer size:  270144.0
+107  Buffer size:  267860.0
+108  Buffer size:  282497.0
+109  Buffer size:  279829.0
+110  Buffer size:  277543.0
+111  Buffer size:  275425.0
+112  Buffer size:  272759.0
+113  Buffer size:  270284.0
+114  Buffer size:  283479.0
+115  Buffer size:  280812.0
+116  Buffer size:  278147.0
+117  Buffer size:  275769.0
+118  Buffer size:  274035.0
+119  Buffer size:  270435.0
+120  Buffer size:  268316.0
+121  Buffer size:  280618.0
+122  Buffer size:  277953.0
+123  Buffer size:  275286.0
+124  Buffer size:  272618.0
+125  Buffer size:  269951.0
+126  Buffer size:  267482.0
+127  Buffer size:  279525.0
+128  Buffer size:  279933.0
+129  Buffer size:  279933.0
+130  Buffer size:  274980.0
+131  Buffer size:  273005.0
+132  Buffer size:  280434.0
+133  Buffer size:  277767.0
+134  Buffer size:  275100.0
+135  Buffer size:  272433.0
+136  Buffer size:  269767.0
+137  Buffer size:  267483.0
+138  Buffer size:  273468.0
+139  Buffer size:  279453.0
+140  Buffer size:  277166.0
+141  Buffer size:  275048.0
+142  Buffer size:  272383.0
+143  Buffer size:  278367.0
+144  Buffer size:  275892.0
+145  Buffer size:  273225.0
+146  Buffer size:  279216.0
+147  Buffer size:  276839.0
+148  Buffer size:  274171.0
+149  Buffer size:  271504.0
+150  Buffer size:  269218.0
+151  Buffer size:  267243.0
+152  Buffer size:  278998.0
+153  Buffer size:  276331.0
+154  Buffer size:  273664.0
+155  Buffer size:  270997.0
+156  Buffer size:  268331.0
+157  Buffer size:  265954.0
+158  Buffer size:  263479.0
+159  Buffer size:  278116.0
+160  Buffer size:  275829.0
+161  Buffer size:  273711.0
+162  Buffer size:  271046.0
+163  Buffer size:  268378.0
+164  Buffer size:  265903.0
+165  Buffer size:  263236.0
+166  Buffer size:  277879.0
+167  Buffer size:  275501.0
+168  Buffer size:  273026.0
+169  Buffer size:  270359.0
+170  Buffer size:  268073.0
+171  Buffer size:  266825.0
+172  Buffer size:  263433.0
+173  Buffer size:  278070.0
+174  Buffer size:  284055.0
+175  Buffer size:  281387.0
+176  Buffer size:  278914.0
+177  Buffer size:  279421.0
+178  Buffer size:  282522.0
+179  Buffer size:  279854.0
+180  Buffer size:  277568.0
+181  Buffer size:  284245.0
+182  Buffer size:  284464.0
+183  Buffer size:  284681.0
+184  Buffer size:  284898.0
+185  Buffer size:  282231.0
+186  Buffer size:  279762.0
+187  Buffer size:  286036.0
+188  Buffer size:  283369.0
+189  Buffer size:  283586.0
+190  Buffer size:  287235.0
+191  Buffer size:  285117.0
+192  Buffer size:  282452.0
+193  Buffer size:  279785.0
+194  Buffer size:  285961.0
+195  Buffer size:  283294.0
+196  Buffer size:  280629.0
+197  Buffer size:  286397.0
+198  Buffer size:  281352.0
+199  Buffer size:  278877.0
+200  Buffer size:  282359.0
+201  Buffer size:  283124.0
+202  Buffer size:  280459.0
+203  Buffer size:  280868.0
+204  Buffer size:  281085.0
+205  Buffer size:  279803.0
+206  Buffer size:  284408.0
+207  Buffer size:  285008.0
+208  Buffer size:  285417.0
+209  Buffer size:  282749.0
+210  Buffer size:  280463.0
+211  Buffer size:  284256.0
+212  Buffer size:  281591.0
+213  Buffer size:  284692.0
+214  Buffer size:  282027.0
+215  Buffer size:  279552.0
+216  Buffer size:  282654.0
+217  Buffer size:  280277.0
+218  Buffer size:  283378.0
+219  Buffer size:  280903.0
+220  Buffer size:  284384.0
+221  Buffer size:  282266.0
+222  Buffer size:  285150.0
+223  Buffer size:  280009.0
+224  Buffer size:  277342.0
+225  Buffer size:  286211.0
+226  Buffer size:  283550.0
+227  Buffer size:  284149.0
+228  Buffer size:  287250.0
+229  Buffer size:  284583.0
+230  Buffer size:  288065.0
+231  Buffer size:  286090.0
+232  Buffer size:  283425.0
+233  Buffer size:  280758.0
+234  Buffer size:  283974.0
+235  Buffer size:  281498.0
+236  Buffer size:  281717.0
+237  Buffer size:  279340.0
+238  Buffer size:  276673.0
+239  Buffer size:  274197.0
+240  Buffer size:  271911.0
+241  Buffer size:  269792.0
+242  Buffer size:  267127.0
+243  Buffer size:  264652.0
+244  Buffer size:  261985.0
+245  Buffer size:  259318.0
+246  Buffer size:  256657.0
+247  Buffer size:  254372.0
+248  Buffer size:  251897.0
+249  Buffer size:  249230.0
+250  Buffer size:  246943.0
+251  Buffer size:  244969.0
+252  Buffer size:  242303.0
+253  Buffer size:  239636.0
+254  Buffer size:  236969.0
+255  Buffer size:  234494.0
+256  Buffer size:  231829.0
+257  Buffer size:  229451.0
+258  Buffer size:  226784.0
+259  Buffer size:  224309.0
+260  Buffer size:  222023.0
+261  Buffer size:  219904.0
+262  Buffer size:  217239.0
+263  Buffer size:  214764.0
+264  Buffer size:  212096.0
+265  Buffer size:  209429.0
+266  Buffer size:  206768.0
+267  Buffer size:  204484.0
+268  Buffer size:  201817.0
+269  Buffer size:  199149.0
+270  Buffer size:  196863.0
+271  Buffer size:  194888.0
+272  Buffer size:  192223.0
+273  Buffer size:  189556.0
+274  Buffer size:  186889.0
+275  Buffer size:  184414.0
+276  Buffer size:  181748.0
+277  Buffer size:  179371.0
+278  Buffer size:  176704.0
+279  Buffer size:  174229.0
+280  Buffer size:  171942.0
+281  Buffer size:  169824.0
+282  Buffer size:  167159.0
+283  Buffer size:  164683.0
+284  Buffer size:  162016.0
+285  Buffer size:  159349.0
+286  Buffer size:  156688.0
+287  Buffer size:  154403.0
+288  Buffer size:  151928.0
+289  Buffer size:  149261.0
+290  Buffer size:  146975.0
+291  Buffer size:  145000.0
+292  Buffer size:  142335.0
+293  Buffer size:  139668.0
+294  Buffer size:  137000.0
+295  Buffer size:  134525.0
+296  Buffer size:  131860.0
+297  Buffer size:  129483.0
+298  Buffer size:  127065.0
+299  Buffer size:  124589.0
+300  Buffer size:  122303.0
+301  Buffer size:  120184.0
+302  Buffer size:  117519.0
+303  Buffer size:  115044.0
+304  Buffer size:  112377.0
+305  Buffer size:  109710.0
+306  Buffer size:  107048.0
+307  Buffer size:  104764.0
+308  Buffer size:  102097.0
+309  Buffer size:  99430.0
+310  Buffer size:  97143.0
+311  Buffer size:  95169.0
+312  Buffer size:  92504.0
+313  Buffer size:  89836.0
+314  Buffer size:  87169.0
+315  Buffer size:  84694.0
+316  Buffer size:  82029.0
+317  Buffer size:  79651.0
+318  Buffer size:  76984.0
+319  Buffer size:  74509.0
+320  Buffer size:  72223.0
+321  Buffer size:  70104.0
+322  Buffer size:  67439.0
+323  Buffer size:  64964.0
+324  Buffer size:  62296.0
+325  Buffer size:  59629.0
+326  Buffer size:  56968.0
+327  Buffer size:  54684.0
+328  Buffer size:  52208.0
+329  Buffer size:  49541.0
+330  Buffer size:  47255.0
+331  Buffer size:  45280.0
+332  Buffer size:  42615.0
+333  Buffer size:  40236.0
+334  Buffer size:  37569.0
+335  Buffer size:  35093.0
+336  Buffer size:  32428.0
+337  Buffer size:  30051.0
+338  Buffer size:  27671.0
+339  Buffer size:  25196.0
+340  Buffer size:  22910.0
+341  Buffer size:  20791.0
+342  Buffer size:  18126.0
+343  Buffer size:  15840.0
+344  Buffer size:  13173.0
+345  Buffer size:  10505.0
+346  Buffer size:  7844.0
+347  Buffer size:  5560.0
+348  Buffer size:  2893.0
+349  Buffer size:  226.0
+366  Buffer size:  2.0
+367 SR
+367  Buffer size:  2.0
+368  Buffer size:  2.0
+369  Buffer size:  2.0
+370  Buffer size:  2.0
+371  Buffer size:  2.0
+372 SR
+372  Buffer size:  2.0
+373  Buffer size:  2.0
+407 SR
+407  Buffer size:  54.0
+408  Buffer size:  54.0
+409  Buffer size:  54.0
+410  Buffer size:  54.0
+411  Buffer size:  54.0
+412 SR
+412  Buffer size:  54.0
+413  Buffer size:  54.0
+431  Buffer size:  2.0
+432 SR
+432  Buffer size:  2.0
+433  Buffer size:  2.0
+434  Buffer size:  111.0
+435  Buffer size:  111.0
+436  Buffer size:  111.0
+437 SR
+437  Buffer size:  111.0
+438  Buffer size:  111.0
+439  Buffer size:  17.0
+440  Buffer size:  17.0
+441  Buffer size:  17.0
+442  Buffer size:  17.0
+443  Buffer size:  17.0
+460  Buffer size:  2.0
+461  Buffer size:  2.0
+462 SR
+462  Buffer size:  2.0
+463  Buffer size:  2.0
+464  Buffer size:  2.0
+465  Buffer size:  2.0
+466  Buffer size:  2.0
+467 SR
+467  Buffer size:  2.0
+468  Buffer size:  2.0
+503  Buffer size:  54.0
+504  Buffer size:  54.0
+505  Buffer size:  54.0
+506  Buffer size:  54.0
+507 SR
+507  Buffer size:  54.0
+508  Buffer size:  54.0
+509  Buffer size:  54.0
+510  Buffer size:  54.0
+511  Buffer size:  54.0
+512 SR
+512  Buffer size:  54.0
+513  Buffer size:  54.0
+815  Buffer size:  54.0
+816  Buffer size:  54.0
+817  Buffer size:  54.0
+818  Buffer size:  54.0
+819  Buffer size:  54.0
+820  Buffer size:  54.0
+821  Buffer size:  54.0
+822  Buffer size:  54.0
+823  Buffer size:  54.0
+824  Buffer size:  54.0
+825  Buffer size:  54.0
+826  Buffer size:  54.0
+827  Buffer size:  54.0
+828  Buffer size:  54.0
+829  Buffer size:  54.0
+830  Buffer size:  54.0
+831  Buffer size:  54.0
+832  Buffer size:  54.0
+833  Buffer size:  54.0
+834  Buffer size:  54.0
+835  Buffer size:  54.0
+836  Buffer size:  54.0
+837  Buffer size:  54.0
+1242 SR
+1247 SR
+1269  Buffer size:  2.0
+1270  Buffer size:  2.0
+1271  Buffer size:  2.0
+1272 SR
+1272  Buffer size:  2.0
+1273  Buffer size:  2.0
+1274  Buffer size:  2.0
+1275  Buffer size:  2.0
+1276  Buffer size:  2.0
+1277 SR
+1277  Buffer size:  2.0
+1278  Buffer size:  2.0
+9656  Buffer size:  281154.0
+9657  Buffer size:  281753.0
+9658  Buffer size:  279086.0
+9659  Buffer size:  280745.0
+9660  Buffer size:  279900.0
+9661  Buffer size:  283694.0
+9662  Buffer size:  281029.0
+9663  Buffer size:  281245.0
+9664  Buffer size:  278578.0
+9665  Buffer size:  277545.0
+9666  Buffer size:  281873.0
+9667  Buffer size:  276833.0
+9668  Buffer size:  281375.0
+9669  Buffer size:  283226.0
+9670  Buffer size:  283824.0
+9671  Buffer size:  281705.0
+9672  Buffer size:  281924.0
+9673  Buffer size:  279257.0
+9674  Buffer size:  282550.0
+9675  Buffer size:  279882.0
+9676  Buffer size:  285869.0
+9677  Buffer size:  283492.0
+9678  Buffer size:  280825.0
+9679  Buffer size:  284117.0
+9680  Buffer size:  284715.0
+9681  Buffer size:  282597.0
+9682  Buffer size:  282815.0
+9683  Buffer size:  280148.0
+9684  Buffer size:  280557.0
+9685  Buffer size:  277890.0
+9686  Buffer size:  278113.0
+9687  Buffer size:  281503.0
+9688  Buffer size:  279028.0
+9689  Buffer size:  279437.0
+9690  Buffer size:  277150.0
+9691  Buffer size:  283684.0
+9692  Buffer size:  281019.0
+9693  Buffer size:  281427.0
+9694  Buffer size:  278760.0
+9695  Buffer size:  281861.0
+9696  Buffer size:  282080.0
+9697  Buffer size:  282080.0
+9698  Buffer size:  280111.0
+9699  Buffer size:  277444.0
+9700  Buffer size:  280926.0
+9701  Buffer size:  278807.0
+9702  Buffer size:  276334.0
+9703  Buffer size:  282319.0
+9704  Buffer size:  282536.0
+9705  Buffer size:  279868.0
+9706  Buffer size:  280283.0
+9707  Buffer size:  281725.0
+9708  Buffer size:  278123.0
+9709  Buffer size:  275455.0
+9710  Buffer size:  276053.0
+9711  Buffer size:  273935.0
+9712  Buffer size:  271269.0
+9713  Buffer size:  268602.0
+9714  Buffer size:  280547.0
+9715  Buffer size:  277880.0
+9716  Buffer size:  280983.0
+9717  Buffer size:  279748.0
+9718  Buffer size:  278822.0
+9719  Buffer size:  276347.0
+9720  Buffer size:  282712.0
+9721  Buffer size:  283478.0
+9722  Buffer size:  280813.0
+9723  Buffer size:  284105.0
+9724  Buffer size:  281438.0
+9725  Buffer size:  281655.0
+9726  Buffer size:  278994.0
+9727  Buffer size:  279501.0
+9728  Buffer size:  277025.0
+9729  Buffer size:  280126.0
+9730  Buffer size:  283608.0
+9731  Buffer size:  281489.0
+9732  Buffer size:  284784.0
+9733  Buffer size:  282117.0
+9734  Buffer size:  282334.0
+9735  Buffer size:  279667.0
+9736  Buffer size:  282961.0
+9737  Buffer size:  282961.0
+9738  Buffer size:  277917.0
+9739  Buffer size:  275250.0
+9740  Buffer size:  278899.0
+9741  Buffer size:  279665.0
+9742  Buffer size:  276999.0
+9743  Buffer size:  282984.0
+9744  Buffer size:  280317.0
+9745  Buffer size:  280726.0
+9746  Buffer size:  283833.0
+9747  Buffer size:  281455.0
+9748  Buffer size:  278788.0
+9749  Buffer size:  276121.0
+9750  Buffer size:  279770.0
+9751  Buffer size:  277652.0
+9752  Buffer size:  283639.0
+9753  Buffer size:  280972.0
+9754  Buffer size:  287148.0
+9755  Buffer size:  284481.0
+9756  Buffer size:  287584.0
+9757  Buffer size:  285207.0
+9758  Buffer size:  285615.0
+9759  Buffer size:  282948.0
+9760  Buffer size:  283546.0
+9761  Buffer size:  281427.0
+9762  Buffer size:  287606.0
+9763  Buffer size:  287823.0
+9764  Buffer size:  285156.0
+9765  Buffer size:  282489.0
+9766  Buffer size:  288671.0
+9767  Buffer size:  286294.0
+9768  Buffer size:  284074.0
+9769  Buffer size:  281152.0
+9770  Buffer size:  284801.0
+9771  Buffer size:  282682.0
+9772  Buffer size:  280017.0
+9773  Buffer size:  286002.0
+9774  Buffer size:  286411.0
+9775  Buffer size:  283744.0
+9776  Buffer size:  281079.0
+9777  Buffer size:  283963.0
+9778  Buffer size:  284878.0
+9779  Buffer size:  285095.0
+9780  Buffer size:  282808.0
+9781  Buffer size:  283574.0
+9782  Buffer size:  281101.0
+9783  Buffer size:  285643.0
+9784  Buffer size:  284418.0
+9785  Buffer size:  281751.0
+9786  Buffer size:  285050.0
+9787  Buffer size:  282672.0
+9788  Buffer size:  282889.0
+9789  Buffer size:  280222.0
+9790  Buffer size:  283872.0
+9791  Buffer size:  281753.0
+9792  Buffer size:  284856.0
+9793  Buffer size:  282189.0
+9794  Buffer size:  279714.0
+9795  Buffer size:  285698.0
+9796  Buffer size:  283033.0
+9797  Buffer size:  280656.0
+9798  Buffer size:  286833.0
+9799  Buffer size:  284165.0
+9800  Buffer size:  284763.0
+9801  Buffer size:  282644.0
+9802  Buffer size:  281613.0
+9803  Buffer size:  283272.0
+9804  Buffer size:  286373.0
+9805  Buffer size:  286590.0
+9806  Buffer size:  284120.0
+9807  Buffer size:  289888.0
+9808  Buffer size:  285036.0
+9809  Buffer size:  282369.0
+9810  Buffer size:  286018.0
+9811  Buffer size:  283900.0
+9812  Buffer size:  281234.0
+9813  Buffer size:  287219.0
+9814  Buffer size:  287628.0
+9815  Buffer size:  284961.0
+9816  Buffer size:  288064.0
+9817  Buffer size:  285686.0
+9818  Buffer size:  283019.0
+9819  Buffer size:  283428.0
+9820  Buffer size:  284026.0
+9821  Buffer size:  284791.0
+9822  Buffer size:  285010.0
+9823  Buffer size:  285419.0
+9824  Buffer size:  282751.0
+9825  Buffer size:  282968.0
+9826  Buffer size:  280307.0
+9827  Buffer size:  283698.0
+9828  Buffer size:  284106.0
+9829  Buffer size:  281439.0
+9830  Buffer size:  279153.0
+9831  Buffer size:  277034.0
+9832  Buffer size:  274369.0
+9833  Buffer size:  271702.0
+9834  Buffer size:  269035.0
+9835  Buffer size:  266560.0
+9836  Buffer size:  275430.0
+9837  Buffer size:  275937.0
+9838  Buffer size:  273270.0
+9839  Buffer size:  270603.0
+9840  Buffer size:  276968.0
+9841  Buffer size:  274994.0
+9842  Buffer size:  278097.0
+9843  Buffer size:  278313.0
+9844  Buffer size:  275646.0
+9845  Buffer size:  275646.0
+9846  Buffer size:  271760.0
+9847  Buffer size:  280412.0
+9848  Buffer size:  279978.0
+9849  Buffer size:  277311.0
+9850  Buffer size:  275025.0
+9851  Buffer size:  272906.0
+9852  Buffer size:  270433.0
+9853  Buffer size:  273534.0
+9854  Buffer size:  285287.0
+9855  Buffer size:  282620.0
+9856  Buffer size:  280146.0
+9857  Buffer size:  280653.0
+9858  Buffer size:  280653.0
+9859  Buffer size:  275319.0
+9860  Buffer size:  273200.0
+9861  Buffer size:  279734.0
+9862  Buffer size:  277068.0
+9863  Buffer size:  274401.0
+9864  Buffer size:  271734.0
+9865  Buffer size:  269067.0
+9866  Buffer size:  269482.0
+9867  Buffer size:  277198.0
+9868  Buffer size:  275973.0
+9869  Buffer size:  273306.0
+9870  Buffer size:  271020.0
+9871  Buffer size:  269654.0
+9872  Buffer size:  266236.0
+9873  Buffer size:  275297.0
+9874  Buffer size:  274071.0
+9875  Buffer size:  271404.0
+9876  Buffer size:  268739.0
+9877  Buffer size:  266362.0
+9878  Buffer size:  266362.0
+9879  Buffer size:  261027.0
+9880  Buffer size:  266119.0
+9881  Buffer size:  276978.0
+9882  Buffer size:  274313.0
+9883  Buffer size:  271646.0
+9884  Buffer size:  268979.0
+9885  Buffer size:  266312.0
+9886  Buffer size:  266314.0
+9887  Buffer size:  261273.0
+9888  Buffer size:  258798.0
+9889  Buffer size:  260457.0
+9890  Buffer size:  271148.0
+9891  Buffer size:  269030.0
+9892  Buffer size:  266365.0
+9893  Buffer size:  263698.0
+9894  Buffer size:  261030.0
+9895  Buffer size:  258555.0
+9896  Buffer size:  270310.0
+9897  Buffer size:  267933.0
+9898  Buffer size:  265266.0
+9899  Buffer size:  262598.0
+9900  Buffer size:  260312.0
+9901  Buffer size:  258193.0
+9902  Buffer size:  255720.0
+9903  Buffer size:  267473.0
+9904  Buffer size:  274900.0
+9905  Buffer size:  272233.0
+9906  Buffer size:  269763.0
+9907  Buffer size:  269763.0
+9908  Buffer size:  264719.0
+9909  Buffer size:  264936.0
+9910  Buffer size:  262649.0
+9911  Buffer size:  276393.0
+9912  Buffer size:  273728.0
+9913  Buffer size:  271252.0
+9914  Buffer size:  268585.0
+9915  Buffer size:  280338.0
+9916  Buffer size:  280557.0
+9917  Buffer size:  278273.0
+9918  Buffer size:  278489.0
+9919  Buffer size:  280148.0
+9920  Buffer size:  283630.0
+9921  Buffer size:  281655.0
+9922  Buffer size:  287642.0
+9923  Buffer size:  284975.0
+9924  Buffer size:  285192.0
+9925  Buffer size:  282716.0
+9926  Buffer size:  285823.0
+9927  Buffer size:  285516.0
+9928  Buffer size:  280971.0
+9929  Buffer size:  279748.0
+9930  Buffer size:  278901.0
+9931  Buffer size:  279810.0
+9932  Buffer size:  280029.0
+9933  Buffer size:  277362.0
+9934  Buffer size:  274695.0
+9935  Buffer size:  272028.0
+9936  Buffer size:  269555.0
+9937  Buffer size:  278713.0
+9938  Buffer size:  276046.0
+9939  Buffer size:  273379.0
+9940  Buffer size:  279912.0
+9941  Buffer size:  280678.0
+9942  Buffer size:  278013.0
+9943  Buffer size:  275346.0
+9944  Buffer size:  272678.0
+9945  Buffer size:  270203.0
+9946  Buffer size:  267542.0
+9947  Buffer size:  279585.0
+9948  Buffer size:  276917.0
+9949  Buffer size:  273980.0
+9950  Buffer size:  271964.0
+9951  Buffer size:  269989.0
+9952  Buffer size:  267324.0
+9953  Buffer size:  276193.0
+9954  Buffer size:  282178.0
+9955  Buffer size:  279511.0
+9956  Buffer size:  277037.0
+9957  Buffer size:  282805.0
+9958  Buffer size:  277761.0
+9959  Buffer size:  275094.0
+9960  Buffer size:  278575.0
+9961  Buffer size:  282225.0
+9962  Buffer size:  279751.0
+9963  Buffer size:  277084.0
+9964  Buffer size:  274417.0
+9965  Buffer size:  271750.0
+9966  Buffer size:  269089.0
+9967  Buffer size:  269688.0
+9968  Buffer size:  267213.0
+9969  Buffer size:  278966.0
+9970  Buffer size:  276680.0
+9971  Buffer size:  276680.0
+9972  Buffer size:  271896.0
+9973  Buffer size:  280957.0
+9974  Buffer size:  278290.0
+9975  Buffer size:  275622.0
+9976  Buffer size:  272957.0
+9977  Buffer size:  272957.0
+9978  Buffer size:  267913.0
+9979  Buffer size:  265437.0
+9980  Buffer size:  277571.0
+9981  Buffer size:  275452.0
+9982  Buffer size:  272787.0
+9983  Buffer size:  270120.0
+9984  Buffer size:  270529.0
+9985  Buffer size:  267862.0
+9986  Buffer size:  265201.0
+9987  Buffer size:  274359.0
+9988  Buffer size:  271692.0
+9989  Buffer size:  269025.0
+9990  Buffer size:  269790.0
+9991  Buffer size:  267672.0
+9992  Buffer size:  269333.0
+9993  Buffer size:  276760.0
+9994  Buffer size:  276976.0
+9995  Buffer size:  274309.0
+9996  Buffer size:  274309.0
+9997  Buffer size:  269267.0
+9998  Buffer size:  268233.0
+9999  Buffer size:  281428.0
+10000  Buffer size:  279142.0
+10001  Buffer size:  277023.0
+10002  Buffer size:  274358.0
+10003  Buffer size:  271979.0
+10004  Buffer size:  277747.0
+10005  Buffer size:  281256.0
+10006  Buffer size:  278595.0
+10007  Buffer size:  276218.0
+10008  Buffer size:  273932.0
+10009  Buffer size:  271264.0
+10010  Buffer size:  268978.0
+10011  Buffer size:  283398.0
+10012  Buffer size:  278758.0
+10013  Buffer size:  278975.0
+10014  Buffer size:  284960.0
+10015  Buffer size:  282293.0
+10016  Buffer size:  282703.0
+10017  Buffer size:  283210.0
+10018  Buffer size:  283210.0
+10019  Buffer size:  280760.0
+10020  Buffer size:  285851.0
+10021  Buffer size:  285175.0
+10022  Buffer size:  282510.0
+10023  Buffer size:  283014.0
+10024  Buffer size:  283423.0
+10025  Buffer size:  280756.0
+10026  Buffer size:  283863.0
+10027  Buffer size:  287253.0
+10028  Buffer size:  284967.0
+10029  Buffer size:  285184.0
+10030  Buffer size:  285781.0
+10031  Buffer size:  286547.0
+10032  Buffer size:  284074.0
+10033  Buffer size:  281406.0
+10034  Buffer size:  278739.0
+10035  Buffer size:  276072.0
+10036  Buffer size:  273407.0
+10037  Buffer size:  271030.0
+10038  Buffer size:  280279.0
+10039  Buffer size:  277612.0
+10040  Buffer size:  275326.0
+10041  Buffer size:  273207.0
+10042  Buffer size:  270542.0
+10043  Buffer size:  267875.0
+10044  Buffer size:  265208.0
+10045  Buffer size:  262732.0
+10046  Buffer size:  277375.0
+10047  Buffer size:  274998.0
+10048  Buffer size:  272523.0
+10049  Buffer size:  269855.0
+10050  Buffer size:  267569.0
+10051  Buffer size:  265450.0
+10052  Buffer size:  271629.0
+10053  Buffer size:  277614.0
+10054  Buffer size:  274947.0
+10055  Buffer size:  272280.0
+10056  Buffer size:  269806.0
+10057  Buffer size:  271755.0
+10058  Buffer size:  282410.0
+10059  Buffer size:  279743.0
+10060  Buffer size:  277456.0
+10061  Buffer size:  275338.0
+10062  Buffer size:  272672.0
+10063  Buffer size:  270293.0
+10064  Buffer size:  267626.0
+10065  Buffer size:  265151.0
+10066  Buffer size:  279793.0
+10067  Buffer size:  277416.0
+10068  Buffer size:  274749.0
+10069  Buffer size:  272082.0
+10070  Buffer size:  269795.0
+10071  Buffer size:  267677.0
+10072  Buffer size:  265204.0
+10073  Buffer size:  262536.0
+10074  Buffer size:  277173.0
+10075  Buffer size:  274506.0
+10076  Buffer size:  271841.0
+10077  Buffer size:  269464.0
+10078  Buffer size:  266796.0
+10079  Buffer size:  267205.0
+10080  Buffer size:  279339.0
+10081  Buffer size:  277220.0
+10082  Buffer size:  274555.0
+10083  Buffer size:  271888.0
+10084  Buffer size:  269221.0
+10085  Buffer size:  266554.0
+10086  Buffer size:  281388.0
+10087  Buffer size:  279011.0
+10088  Buffer size:  276536.0
+10089  Buffer size:  273869.0
+10090  Buffer size:  271582.0
+10091  Buffer size:  269464.0
+10092  Buffer size:  266798.0
+10093  Buffer size:  264131.0
+10094  Buffer size:  281844.0
+10095  Buffer size:  279177.0
+10096  Buffer size:  276512.0
+10097  Buffer size:  274134.0
+10098  Buffer size:  271467.0
+10099  Buffer size:  268800.0
+10100  Buffer size:  266514.0
+10101  Buffer size:  264539.0
+10102  Buffer size:  282062.0
+10103  Buffer size:  279395.0
+10104  Buffer size:  276728.0
+10105  Buffer size:  274060.0
+10106  Buffer size:  271591.0
+10107  Buffer size:  271591.0
+10108  Buffer size:  266547.0
+10109  Buffer size:  263880.0
+10110  Buffer size:  281781.0
+10111  Buffer size:  279663.0
+10112  Buffer size:  276997.0
+10113  Buffer size:  280290.0
+10114  Buffer size:  289159.0
+10115  Buffer size:  286492.0
+10116  Buffer size:  283827.0
+10117  Buffer size:  283827.0
+10118  Buffer size:  278875.0
+10119  Buffer size:  281976.0
+10120  Buffer size:  285458.0
+10121  Buffer size:  283339.0
+10122  Buffer size:  280866.0
+10123  Buffer size:  278199.0
+10124  Buffer size:  276973.0
+10125  Buffer size:  284400.0
+10126  Buffer size:  281931.0
+10127  Buffer size:  282438.0
+10128  Buffer size:  285730.0
+10129  Buffer size:  283063.0
+10130  Buffer size:  280945.0
+10131  Buffer size:  287478.0
+10132  Buffer size:  284813.0
+10133  Buffer size:  285030.0
+10134  Buffer size:  285439.0
+10135  Buffer size:  282771.0
+10136  Buffer size:  280106.0
+10137  Buffer size:  288758.0
+10138  Buffer size:  286598.0
+10139  Buffer size:  284122.0
+10140  Buffer size:  287604.0
+10141  Buffer size:  285486.0
+10142  Buffer size:  288588.0
+10143  Buffer size:  286113.0
+10144  Buffer size:  286330.0
+10145  Buffer size:  283663.0
+10146  Buffer size:  286770.0
+10147  Buffer size:  284392.0
+10148  Buffer size:  281917.0
+10149  Buffer size:  285018.0
+10150  Buffer size:  285615.0
+10151  Buffer size:  288499.0
+10152  Buffer size:  286792.0
+10153  Buffer size:  284124.0
+10154  Buffer size:  287225.0
+10155  Buffer size:  284558.0
+10156  Buffer size:  284969.0
+10157  Buffer size:  285476.0
+10158  Buffer size:  282808.0
+10159  Buffer size:  283025.0
+10160  Buffer size:  286675.0
+10161  Buffer size:  284556.0
+10162  Buffer size:  284775.0
+10163  Buffer size:  282108.0
+10164  Buffer size:  285401.0
+10165  Buffer size:  282733.0
+10166  Buffer size:  282956.0
+10167  Buffer size:  282956.0
+10168  Buffer size:  286756.0
+10169  Buffer size:  284088.0
+10170  Buffer size:  287570.0
+10171  Buffer size:  285452.0
+10172  Buffer size:  285862.0
+10173  Buffer size:  283195.0
+10174  Buffer size:  283412.0
+10175  Buffer size:  289397.0
+10176  Buffer size:  289808.0
+10177  Buffer size:  287430.0
+10178  Buffer size:  284763.0
+10179  Buffer size:  282096.0
+10180  Buffer size:  282861.0
+10181  Buffer size:  286511.0
+10182  Buffer size:  283846.0
+10183  Buffer size:  286947.0
+10184  Buffer size:  290239.0
+10185  Buffer size:  287572.0
+10186  Buffer size:  284911.0
+10187  Buffer size:  285418.0
+10188  Buffer size:  282942.0
+10189  Buffer size:  286043.0
+10190  Buffer size:  286641.0
+10191  Buffer size:  287406.0
+10192  Buffer size:  284933.0
+10193  Buffer size:  285150.0
+10194  Buffer size:  288251.0
+10195  Buffer size:  285583.0
+10196  Buffer size:  285994.0
+10197  Buffer size:  289385.0
+10198  Buffer size:  286718.0
+10199  Buffer size:  286935.0
+10200  Buffer size:  287532.0
+10201  Buffer size:  285557.0
+10202  Buffer size:  282892.0
+10203  Buffer size:  285993.0
+10204  Buffer size:  286210.0
+10205  Buffer size:  283543.0
+10206  Buffer size:  281074.0
+10207  Buffer size:  278696.0
+10208  Buffer size:  279105.0
+10209  Buffer size:  282206.0
+10210  Buffer size:  279919.0
+10211  Buffer size:  278306.0
+10212  Buffer size:  275136.0
+10213  Buffer size:  274102.0
+10214  Buffer size:  287297.0
+10215  Buffer size:  284630.0
+10216  Buffer size:  281965.0
+10217  Buffer size:  279681.0
+10218  Buffer size:  291217.0
+10219  Buffer size:  285882.0
+10220  Buffer size:  283596.0
+10221  Buffer size:  287389.0
+10222  Buffer size:  284724.0
+10223  Buffer size:  282057.0
+10224  Buffer size:  288042.0
+10225  Buffer size:  288450.0
+10226  Buffer size:  288673.0
+10227  Buffer size:  286296.0
+10228  Buffer size:  286513.0
+10229  Buffer size:  283846.0
+10230  Buffer size:  284611.0
+10231  Buffer size:  285377.0
+10232  Buffer size:  282711.0
+10233  Buffer size:  282928.0
+10234  Buffer size:  286029.0
+10235  Buffer size:  283554.0
+10236  Buffer size:  280889.0
+10237  Buffer size:  290047.0
+10238  Buffer size:  287380.0
+10239  Buffer size:  284713.0
+11897 SR
+11902 SR
+11936  Buffer size:  12.0
+11937  Buffer size:  12.0
+11938  Buffer size:  12.0
+11939  Buffer size:  12.0
+11940  Buffer size:  12.0
+11941  Buffer size:  12.0
+11942  Buffer size:  12.0
+11943  Buffer size:  12.0
+12659 SR
+12664 SR
+12689 SR
+12689  Buffer size:  2.0
+12690  Buffer size:  2.0
+12691  Buffer size:  9.0
+12692  Buffer size:  9.0
+12693  Buffer size:  9.0
+12694 SR
+12694  Buffer size:  9.0
+12695  Buffer size:  9.0
+12704 SR
+12729 SR
+12731  Buffer size:  2.0
+12732  Buffer size:  2.0
+12733  Buffer size:  2.0
+12734 SR
+12734  Buffer size:  2.0
+12735  Buffer size:  2.0
+12737  Buffer size:  120.0
+12738  Buffer size:  120.0
+12739 SR
+12739  Buffer size:  120.0
+12740  Buffer size:  120.0
+12741  Buffer size:  18.0
+12742  Buffer size:  18.0
+12743  Buffer size:  18.0
+12744  Buffer size:  18.0
+12745  Buffer size:  18.0
+12819 SR
+12819  Buffer size:  2.0
+12820  Buffer size:  2.0
+12821  Buffer size:  2.0
+12822  Buffer size:  2.0
+12823  Buffer size:  56.0
+12824 SR
+12824  Buffer size:  56.0
+12825  Buffer size:  56.0
+24074 SR
+24079 SR
+24106  Buffer size:  12.0
+24107  Buffer size:  12.0
+24108  Buffer size:  12.0
+24109  Buffer size:  12.0
+24110  Buffer size:  12.0
+24111  Buffer size:  12.0
+24112  Buffer size:  12.0
+24113  Buffer size:  12.0
+24114  Buffer size:  12.0
+28830 SR
+28835 SR
+28858  Buffer size:  2.0
+28859  Buffer size:  9.0
+28860 SR
+28860  Buffer size:  9.0
+28861  Buffer size:  9.0
+28862  Buffer size:  9.0
+28863  Buffer size:  9.0
+28864  Buffer size:  9.0
+28865 SR
+28865  Buffer size:  9.0
+28866  Buffer size:  9.0
+28873  Buffer size:  82.0
+28874  Buffer size:  82.0
+28875 SR
+28875  Buffer size:  82.0
+28876  Buffer size:  82.0
+28877  Buffer size:  82.0
+28878  Buffer size:  82.0
+28879  Buffer size:  82.0
+28880  Buffer size:  82.0
+28881  Buffer size:  82.0
+28890 SR
+28957  Buffer size:  2.0
+28958  Buffer size:  2.0
+28959  Buffer size:  2.0
+28960 SR
+28960  Buffer size:  2.0
+28961  Buffer size:  2.0
+28962  Buffer size:  56.0
+28963  Buffer size:  56.0
+28964  Buffer size:  56.0
+28965 SR
+28965  Buffer size:  56.0
+28966  Buffer size:  56.0
+31060 SR
+31065 SR
+First or error for tx start
+Total TX:  1759938.0
+Total TB:  2851064.0
+Total utiilized:  3028946
+Total grant:  3059915
+SYN delay:  9099
+Blank delay:  1659
+Scheduling delay:  0
+Tx delay:  775
+Blank:  [1659]
+Scheduling:  []
+Tx burst:  [[0, 350], [9465, 10239]]
+Scheduling mean, std:  nan nan
+Blank mean, std:  1659.0 0.0
+RSRP list:  [-74.375, -74.375, -74.375, -74.375, -74.375, -74.375, -74.375, -74.375, -74.375, -74.4375, -74.5, -74.5, -74.5, -74.5, -74.4375, -74.4375, -74.4375, -74.4375, -74.4375, -74.25, -74.25, -74.0625, -74.0625, -74.0625, -74.0625, -74.0625, -74.0625, -74.0625, -74.0, -74.0, -74.25, -74.25, -74.3125, -74.25, -74.25, -74.25, -74.25, -74.0625, -74.0625, -73.9375, -73.875, -73.875, -73.875, -73.875, -73.875, -75.1875, -75.1875, -74.5625, -74.5625, -74.4375, -74.3125, -74.25, -74.25, -74.25, -74.25, -73.5, -73.5, -73.4375, -73.375, -73.3125, -73.3125, -73.3125, -73.3125, -73.5, -73.5, -73.5625, -73.5625, -73.3125, -73.3125, -73.375, -73.375, -73.375, -72.9375, -72.9375, -73.0, -73.0, -73.0, -73.0, -73.0, -73.0625, -73.0625, -73.0625, -73.0625, -73.0625, -73.0, -73.0, -73.0, -73.0, -73.0, -73.125, -73.125, -73.0625, -72.9375, -72.875, -72.875, -72.875, -72.875, -72.9375, -72.9375, -72.9375, -72.9375, -73.0, -72.9375, -72.9375, -72.9375, -72.9375, -73.625, -73.4375, -73.5, -73.5, -73.5, -73.4375, -73.4375, -73.4375, -73.1875, -73.1875, -73.3125, -73.3125, -73.5625, -73.625, -73.6875, -73.6875, -73.6875, -73.9375, -73.9375, -73.9375, -73.8125, -73.75, -73.75, -73.75, -73.75, -73.75, -73.8125, -73.8125, -74.875, -75.1875, -75.3125, -75.3125, -75.3125, -75.3125, -75.25, -75.25, -75.0, -75.0, -74.75, -74.625, -74.5625, -74.5625, -74.5625, -73.75, -73.75, -73.625, -73.625, -73.6875, -73.6875, -73.75, -73.75, -73.75, -74.9375, -74.9375, -74.125, -73.8125, -73.625, -73.625, -73.625, -73.625, -74.6875, -74.6875, -73.8125, -73.8125, -73.5, -73.3125, -73.3125, -73.3125, -73.3125, -73.625, -73.625, -74.125, -74.25, -74.1875, -74.1875, -74.1875, -73.6875, -73.6875, -73.5, -73.5, -72.6875, -72.3125, -72.25, -72.25, -72.25, -72.1875, -72.1875, -72.375, -73.625, -72.0625, -72.25, -72.375, -72.375, -72.3125, -73.0, -73.0, -72.6875, -72.6875, -72.75, -72.8125, -72.8125, -72.8125, -72.8125, -72.875, -72.875, -72.875, -72.875, -73.1875, -73.1875, -73.0625, -73.0625, -73.0625, -73.3125, -73.3125, -73.25, -73.25, -73.4375, -73.5, -73.375, -73.375, -73.375, -73.375, -73.4375, -73.4375, -74.0625, -74.1875, -74.25, -74.3125, -74.3125, -74.3125, -74.3125, -74.3125, -73.8125, -73.8125, -73.5625, -73.375, -73.5, -73.5, -72.9375, -72.8125, -72.9375, -72.25]/home/gslee/.local/lib/python3.5/site-packages/numpy/core/fromnumeric.py:3335: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+/home/gslee/.local/lib/python3.5/site-packages/numpy/core/_methods.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+/home/gslee/.local/lib/python3.5/site-packages/numpy/core/_methods.py:217: RuntimeWarning: Degrees of freedom <= 0 for slice
+  keepdims=keepdims)
+/home/gslee/.local/lib/python3.5/site-packages/numpy/core/_methods.py:186: RuntimeWarning: invalid value encountered in true_divide
+  arrmean, rcount, out=arrmean, casting='unsafe', subok=False)
+/home/gslee/.local/lib/python3.5/site-packages/numpy/core/_methods.py:209: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+
+RSRQ list:  [-6.4375, -6.4375, -6.4375, -6.375, -6.375, -6.375, -6.375, -6.3125, -6.3125, -6.3125, -6.375, -6.4375, -6.4375, -6.5, -6.4375, -6.375, -6.3125, -6.25, -6.25, -6.125, -6.125, -6.0, -6.1875, -6.125, -6.0625, -6.0625, -6.0625, -6.0625, -6.0, -6.0, -6.0, -6.0, -6.125, -6.0625, -6.0625, -6.0625, -6.0625, -5.8125, -5.8125, -5.9375, -5.9375, -5.9375, -5.9375, -5.9375, -5.9375, -5.8125, -5.8125, -5.75, -5.75, -6.125, -6.0, -6.0, -6.0, -6.0, -6.0, -4.6875, -4.6875, -5.375, -5.4375, -5.4375, -5.5, -5.5, -5.5, -5.625, -5.625, -5.6875, -5.6875, -4.625, -4.75, -4.875, -4.875, -4.875, -5.375, -5.375, -4.375, -4.75, -4.875, -4.875, -4.875, -5.3125, -5.3125, -4.3125, -4.3125, -4.75, -4.875, -5.0, -5.0, -5.0, -5.0, -4.125, -4.125, -4.6875, -5.0, -5.125, -5.125, -5.125, -5.125, -4.1875, -4.1875, -4.6875, -4.6875, -5.8125, -5.8125, -5.8125, -5.875, -5.875, -7.4375, -5.4375, -5.5625, -5.625, -5.75, -5.8125, -5.8125, -5.8125, -6.4375, -6.4375, -6.5625, -6.5625, -6.4375, -6.375, -6.3125, -6.3125, -6.3125, -6.625, -6.625, -6.1875, -6.125, -6.125, -6.125, -6.125, -6.9375, -6.9375, -5.25, -5.25, -5.8125, -5.8125, -5.8125, -5.8125, -5.8125, -5.8125, -5.6875, -5.6875, -6.0, -6.0, -6.0, -6.0, -6.0, -6.0, -6.0, -4.6875, -4.6875, -5.25, -5.25, -5.75, -5.75, -5.75, -5.75, -5.75, -6.0625, -6.0625, -6.4375, -6.3125, -6.1875, -6.1875, -6.1875, -6.1875, -6.625, -6.625, -5.0625, -5.0625, -4.4375, -4.6875, -4.75, -4.75, -4.75, -5.875, -5.875, -4.625, -4.8125, -4.875, -4.875, -4.875, -5.8125, -5.8125, -4.5625, -4.5625, -4.375, -4.5625, -4.8125, -4.8125, -4.8125, -4.0, -4.0, -4.25, -6.125, -5.125, -5.1875, -5.3125, -5.375, -5.4375, -5.9375, -5.9375, -6.0625, -6.0625, -6.0, -5.9375, -5.9375, -5.9375, -5.875, -6.125, -6.1875, -6.1875, -6.1875, -6.0, -6.0625, -6.0625, -6.0625, -6.0625, -6.3125, -6.3125, -6.1875, -6.1875, -6.25, -6.4375, -6.3125, -6.3125, -6.3125, -6.3125, -4.875, -4.875, -5.1875, -5.25, -5.3125, -5.3125, -5.3125, -5.3125, -4.3125, -4.3125, -3.9375, -3.9375, -4.5625, -4.6875, -5.75, -4.75, -4.8125, -5.1875, -4.625, -4.5625]
+RSRP mean, std:  -73.65221774193549 0.7001782758062621
+RSRQ mean, std:  -5.621219758064516 0.6883482297324138

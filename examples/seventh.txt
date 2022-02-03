@@ -1,0 +1,100 @@
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Connected_Mode_Intra_Freq_Meas
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Serv_Cell_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Connected_Mode_Neighbor_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Inter_RAT_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Inter_RAT_CDMA_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUSCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Buffer_Status_Internal
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUCCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Tx_Statistics
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_Rach_Trigger
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_Rach_Attempt
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: STARTED: 1633622147.0326178
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading 1007-quic/1MB-seventh-2.mi2log
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading: 1633622147.032701
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:40.548191 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized0
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:40.727143 PUSCH UL grant: received=153 bytes used=6 bytes utilization=3.92% total utilized6
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:40.827143 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized6
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:40.972148 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized6
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:41.072142 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized6
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:41.172143 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized6
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:41.306316 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized6
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:41.406388 PUSCH UL grant: received=138 bytes used=10 bytes utilization=7.25% total utilized16
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:41.506321 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized16
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:41.674189 PUSCH UL grant: received=153 bytes used=6 bytes utilization=3.92% total utilized22
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:41.774262 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized22
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:41.889265 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized22
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:42.167068 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized22
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:42.409197 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized22
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:42.636321 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized22
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.644510', 'fn and subfn': 6766}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.654505', 'fn and subfn': 6771}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.654505', 'fn and subfn': 6776}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.704517', 'fn and subfn': 6821}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.704517', 'fn and subfn': 6826}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:42.736397 PUSCH UL grant: received=36936 bytes used=35197 bytes utilization=95.29% total utilized35219
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.764517', 'fn and subfn': 6886}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.774519', 'fn and subfn': 6891}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.823939', 'fn and subfn': 6941}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.823939', 'fn and subfn': 6946}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:42.836328 PUSCH UL grant: received=101757 bytes used=77874 bytes utilization=76.53% total utilized113093
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.863939', 'fn and subfn': 6986}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.874508', 'fn and subfn': 6991}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.914410', 'fn and subfn': 7031}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:42.936327 PUSCH UL grant: received=139566 bytes used=109199 bytes utilization=78.24% total utilized222292
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.954517', 'fn and subfn': 7076}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.964520', 'fn and subfn': 7081}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:42.964520', 'fn and subfn': 7086}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.024524', 'fn and subfn': 7146}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.034469', 'fn and subfn': 7151}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:43.036330 PUSCH UL grant: received=106610 bytes used=80316 bytes utilization=75.34% total utilized302608
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.074505', 'fn and subfn': 7191}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.074505', 'fn and subfn': 7196}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.114516', 'fn and subfn': 7231}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.124505', 'fn and subfn': 7241}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.124505', 'fn and subfn': 7246}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:43.136317 PUSCH UL grant: received=123977 bytes used=108555 bytes utilization=87.56% total utilized411163
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.174521', 'fn and subfn': 7296}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:43.236318 PUSCH UL grant: received=121501 bytes used=102071 bytes utilization=84.01% total utilized513234
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.254507', 'fn and subfn': 7371}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.254507', 'fn and subfn': 7376}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.304509', 'fn and subfn': 7426}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:43.336335 PUSCH UL grant: received=142635 bytes used=112204 bytes utilization=78.67% total utilized625438
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.344521', 'fn and subfn': 7466}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:43.436391 PUSCH UL grant: received=109904 bytes used=84533 bytes utilization=76.92% total utilized709971
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.494515', 'fn and subfn': 7616}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:43.536315 PUSCH UL grant: received=135466 bytes used=104768 bytes utilization=77.34% total utilized814739
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.544513', 'fn and subfn': 7666}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.554514', 'fn and subfn': 7671}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:43.636319 PUSCH UL grant: received=118171 bytes used=97867 bytes utilization=82.82% total utilized912606
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:43.736334 PUSCH UL grant: received=139595 bytes used=109028 bytes utilization=78.1% total utilized1021634
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.744514', 'fn and subfn': 7866}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.754550', 'fn and subfn': 7871}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.814501', 'fn and subfn': 7931}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.834507', 'fn and subfn': 7956}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:43.836316 PUSCH UL grant: received=74021 bytes used=58051 bytes utilization=78.43% total utilized1079685
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.844469', 'fn and subfn': 7961}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.894521', 'fn and subfn': 8016}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 15:48:43.904549', 'fn and subfn': 8021}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:43.936317 PUSCH UL grant: received=476 bytes used=90 bytes utilization=18.91% total utilized1079775
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:44.036313 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079775
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:44.186319 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079775
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:44.498352 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079775
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:44.746902 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079775
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:44.894263 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079775
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:44.994263 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079775
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:45.161316 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079775
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:45.430261 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079775
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:45.646812 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079775
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:45.826319 PUSCH UL grant: received=285 bytes used=6 bytes utilization=2.11% total utilized1079781
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:45.926392 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079781
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 15:48:46.029269 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1079781
+Init RRC Analyzer
+Traceback (most recent call last):
+  File "booster-analysis.py", line 61, in <module>
+    phy, meas, mac, rlc, fb = lte_phy_analysis()
+  File "booster-analysis.py", line 56, in lte_phy_analysis
+    src.run()
+  File "/usr/local/lib/python3.5/dist-packages/MobileInsight-5.0.0-py3.5-linux-x86_64.egg/mobile_insight/monitor/offline_replayer.py", line 191, in run
+    True,  # include_timestamp
+KeyboardInterrupt

@@ -1,0 +1,1012 @@
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Connected_Mode_Intra_Freq_Meas
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Serv_Cell_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Connected_Mode_Neighbor_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Inter_RAT_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Inter_RAT_CDMA_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUSCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Buffer_Status_Internal
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUCCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Tx_Statistics
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_RRC_OTA_Packet
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_RRC_Serv_Cell_Info
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_RRC_CDRX_Events_Info
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: STARTED: 1633438745.5996273
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading 1005-pingtool/diag_log_20211005_153624.mi2log
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading: 1633438745.5997233
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:32.210338 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized0
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:32.527542 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized0
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:32.840275 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized0
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:32.940423 PUSCH UL grant: received=49 bytes used=6 bytes utilization=12.24% total utilized6
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:33.040348 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized6
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:33.241420 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized6
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:33.560341 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized6
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:33.846473 PUSCH UL grant: received=59 bytes used=6 bytes utilization=10.17% total utilized12
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:33.938033 rrc state: 7635 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:33.938033 rrc state: 7636 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:33.938033 rrc state: 7955 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:33.938033 rrc state: 8605 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:33.946473 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized12
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:34.119278 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized12
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:34.360342 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized12
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:34.661405 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized12
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:34.837533 PUSCH UL grant: received=67 bytes used=6 bytes utilization=8.96% total utilized18
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:34.937536 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized18
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:35.103220 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized18
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:35.139305 rrc state: 8915 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:35.139305 rrc state: 9571 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:35.139305 rrc state: 9875 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:35.401406 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized18
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:35.661482 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized18
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:35.940420 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized18
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:36.068420', 'fn and subfn': 603}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:36.068420', 'fn and subfn': 608}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:36.096547 rrc state: 596 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:36.116478 PUSCH UL grant: received=439 bytes used=245 bytes utilization=55.81% total utilized263
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:36.216480 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized263
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:36.363238 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized263
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:36.641400 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized263
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:36.704506', 'fn and subfn': 1243}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:36.704506', 'fn and subfn': 1248}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:36.714324', 'fn and subfn': 1253}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:36.741547 rrc state: 915 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:36.741547 rrc state: 1236 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:36.771474 PUSCH UL grant: received=523 bytes used=326 bytes utilization=62.33% total utilized589
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:36.774513', 'fn and subfn': 1313}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:36.774513', 'fn and subfn': 1318}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:36.871482 PUSCH UL grant: received=218 bytes used=10 bytes utilization=4.59% total utilized599
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:36.971481 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized599
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:37.187504 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized599
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:37.374350 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized599
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:37.474353 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized599
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:37.538044 rrc state: 1555 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:37.538044 rrc state: 1882 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:37.637545 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized599
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:37.859279 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized599
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:38.079238 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized599
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:38.308221 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized599
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:38.393786', 'fn and subfn': 2933}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:38.403407', 'fn and subfn': 2938}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:38.408301 PUSCH UL grant: received=406 bytes used=239 bytes utilization=58.87% total utilized838
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:38.431475 rrc state: 2195 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:38.431475 rrc state: 2848 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:38.508241 PUSCH UL grant: received=41 bytes used=6 bytes utilization=14.63% total utilized844
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:38.608293 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized844
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:38.739233 rrc state: 3155 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:38.739233 rrc state: 3169 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:38.841408 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized844
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:39.079224 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized844
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:39.285345 PUSCH UL grant: received=121 bytes used=6 bytes utilization=4.96% total utilized850
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:39.385353 PUSCH UL grant: received=101 bytes used=6 bytes utilization=5.94% total utilized856
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:39.485412 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized856
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:39.587655', 'fn and subfn': 4128}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:39.597653', 'fn and subfn': 4133}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:39.599314 PUSCH UL grant: received=335 bytes used=235 bytes utilization=70.15% total utilized1091
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:39.606530 rrc state: 3475 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:39.606530 rrc state: 3802 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:39.606530 rrc state: 4115 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:39.606530 rrc state: 4116 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:39.699354 PUSCH UL grant: received=130 bytes used=8 bytes utilization=6.15% total utilized1099
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:39.799352 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1099
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:39.939278 rrc state: 4435 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:40.001413 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1099
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:40.249314 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1099
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:40.553216 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1099
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:40.866448 PUSCH UL grant: received=125 bytes used=6 bytes utilization=4.8% total utilized1105
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:40.966476 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1105
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:41.081483 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1105
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:41.139246 rrc state: 5396 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:41.273221 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1105
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:41.373293 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1105
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:41.473300 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1105
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:41.573297 PUSCH UL grant: received=141 bytes used=14 bytes utilization=9.93% total utilized1119
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:41.673292 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1119
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:41.833212 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized1125
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:41.842582 rrc state: 5715 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:41.842582 rrc state: 6048 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:41.842582 rrc state: 6355 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:41.842582 rrc state: 6363 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:41.933284 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1125
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:42.059398 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1125
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:42.282161 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1125
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:42.339222 rrc state: 6675 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:42.460823', 'fn and subfn': 6998}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:42.460823', 'fn and subfn': 7003}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:42.493291 PUSCH UL grant: received=299 bytes used=189 bytes utilization=63.21% total utilized1314
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:42.593287 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1314
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:42.721480 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1314
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:42.979271 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1314
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:43.204355 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1314
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:43.430447 rrc state: 6996 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:43.430447 rrc state: 7315 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:43.453258 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1314
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:43.747155 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1314
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:43.807633', 'fn and subfn': 8343}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:43.807633', 'fn and subfn': 8348}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:43.847539 PUSCH UL grant: received=210 bytes used=98 bytes utilization=46.67% total utilized1412
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:43.947540 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1412
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:44.061408 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1412
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:44.358277 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1412
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:44.620354 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1412
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:44.738039 rrc state: 8278 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:44.738039 rrc state: 8595 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:44.738039 rrc state: 9245 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:44.763297 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1412
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:44.863298 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1412
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:45.032156 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1412
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:45.332157 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1412
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:45.620350 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1412
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:45.733291 PUSCH UL grant: received=164 bytes used=10 bytes utilization=6.1% total utilized1422
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:45.833284 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1422
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:45.933290 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1422
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:45.939258 rrc state: 9555 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:45.939258 rrc state: 10207 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:46.050412 PUSCH UL grant: received=101 bytes used=6 bytes utilization=5.94% total utilized1428
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:46.150416 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1428
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:46.313262 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1428
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:46.613986 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1428
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:46.714348 PUSCH UL grant: received=77 bytes used=6 bytes utilization=7.79% total utilized1434
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:46.814352 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1434
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:47.000413 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1434
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:47.139237 rrc state: 275 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:47.139237 rrc state: 280 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:47.139237 rrc state: 595 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:47.139237 rrc state: 935 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:47.139237 rrc state: 1235 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:47.267525 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1434
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:47.572157 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1434
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:47.878221 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1434
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:47.978252 PUSCH UL grant: received=77 bytes used=6 bytes utilization=7.79% total utilized1440
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:48.078255 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1440
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:48.279208 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1440
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:48.339256 rrc state: 2196 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:48.339256 rrc state: 2515 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:48.555407 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1440
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:48.859292 PUSCH UL grant: received=77 bytes used=6 bytes utilization=7.79% total utilized1446
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:48.959354 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1446
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:49.059387 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1446
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:49.299288 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1446
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:49.539329 rrc state: 3161 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:49.539329 rrc state: 3475 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:49.561475 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1446
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:49.826592', 'fn and subfn': 4123}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:34:49.826592', 'fn and subfn': 4128}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:49.838231 PUSCH UL grant: received=316 bytes used=115 bytes utilization=36.39% total utilized1561
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:49.938237 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1561
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:50.038239 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1561
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:50.262549 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1561
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:50.448269 rrc state: 4116 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:50.448269 rrc state: 4435 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:50.519305 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1561
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:50.791837 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1561
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:51.092172 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized1567
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:51.192540 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1567
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:51.292558 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1567
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:51.392542 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1567
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:51.492535 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1567
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:51.592544 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1567
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:51.762544 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1567
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:51.939229 rrc state: 5396 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:51.939229 rrc state: 5715 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:52.063335 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized1573
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:52.163293 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:52.263300 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:52.366360 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:52.641407 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:52.919294 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:53.076480 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:53.138039 rrc state: 6365 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:53.138039 rrc state: 6675 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:53.138039 rrc state: 7332 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:53.176484 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:53.339286 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:53.642543 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:53.919174 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:54.161405 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1573
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:54.338042 rrc state: 7635 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:54.338042 rrc state: 8596 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:54.343309 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized1579
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:54.443304 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1579
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:54.615340 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1579
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:54.922549 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1579
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:55.180409 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1579
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:55.313296 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized1585
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:55.413299 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1585
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:55.539249 rrc state: 8915 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:55.539249 rrc state: 9563 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:55.581408 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1585
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:55.884297 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1585
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:56.143224 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1585
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:56.284364 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized1591
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:56.384361 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1591
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:56.551410 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1591
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:56.739234 rrc state: 9875 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:56.739234 rrc state: 287 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:56.739234 rrc state: 595 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:56.858300 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1591
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:57.161464 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1591
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:57.261513 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized1597
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:57.361499 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1597
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:57.522152 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1597
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:57.824285 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1597
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:57.939289 rrc state: 1253 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:57.939289 rrc state: 1555 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:58.128225 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1597
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:58.400344 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1597
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:58.529356 PUSCH UL grant: received=186 bytes used=10 bytes utilization=5.38% total utilized1607
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:58.629356 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1607
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:58.800347 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1607
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:59.103221 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1607
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:59.139295 rrc state: 2516 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:34:59.139295 rrc state: 2835 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:59.401405 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1607
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:59.501505 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized1613
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:59.601496 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1613
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:34:59.800412 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1613
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:00.074282 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1613
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:00.339141 rrc state: 3485 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:00.339141 rrc state: 3795 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:00.370343 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized1613
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:00.373190 rrc state: 56245 RRC_IDLE
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:00.381674', 'fn and subfn': 4443}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:00.391545', 'fn and subfn': 4448}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:02.062632 rrc state: 0 RRC_IDLE Connection request!
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:02.146546 rrc state: 0 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.151548', 'fn and subfn': 6215}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.161500', 'fn and subfn': 6220}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:02.182992 PUSCH UL grant: received=323 bytes used=40 bytes utilization=12.38% total utilized1653
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.191525', 'fn and subfn': 6250}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.191525', 'fn and subfn': 6255}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:02.194480 rrc state: RRC_CRX Connection established!
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.201546', 'fn and subfn': 6265}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.211507', 'fn and subfn': 6270}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.241509', 'fn and subfn': 6300}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.251524', 'fn and subfn': 6310}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:02.282983 PUSCH UL grant: received=709 bytes used=226 bytes utilization=31.88% total utilized1879
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.300858', 'fn and subfn': 6365}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.311446', 'fn and subfn': 6370}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.311446', 'fn and subfn': 6375}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.380854', 'fn and subfn': 6440}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:02.382976 PUSCH UL grant: received=2273 bytes used=682 bytes utilization=30.0% total utilized2561
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.411545', 'fn and subfn': 6470}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.411545', 'fn and subfn': 6475}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.420856', 'fn and subfn': 6480}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.481544', 'fn and subfn': 6540}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.481544', 'fn and subfn': 6545}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:02.482986 PUSCH UL grant: received=448 bytes used=293 bytes utilization=65.4% total utilized2854
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.540859', 'fn and subfn': 6605}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.551446', 'fn and subfn': 6610}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.580852', 'fn and subfn': 6645}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:02.582981 PUSCH UL grant: received=693 bytes used=250 bytes utilization=36.08% total utilized3104
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:02.591492', 'fn and subfn': 6650}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:02.682984 PUSCH UL grant: received=210 bytes used=66 bytes utilization=31.43% total utilized3170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:02.782983 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:02.930038 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:03.213964 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:03.480089 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:03.599041 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:03.699047 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:03.846912 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3170
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:03.939242 rrc state: 6975 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:03.939242 rrc state: 7622 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:03.939242 rrc state: 7935 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:04.100119 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:04.260107 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:04.525862 PUSCH UL grant: received=49 bytes used=6 bytes utilization=12.24% total utilized3176
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:04.625854 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3176
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:04.725862 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3176
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:04.942980 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3176
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:05.137969 rrc state: 8586 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:05.137969 rrc state: 8895 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:05.181934 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3176
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:05.465085 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3176
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:05.556517', 'fn and subfn': 9620}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:05.565132 PUSCH UL grant: received=313 bytes used=218 bytes utilization=69.65% total utilized3394
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:05.566481', 'fn and subfn': 9625}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:05.582172 rrc state: 9536 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:05.626528', 'fn and subfn': 9685}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:05.626528', 'fn and subfn': 9690}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:05.665107 PUSCH UL grant: received=592 bytes used=207 bytes utilization=34.97% total utilized3601
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:05.765109 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3601
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:05.922903 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3601
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:06.130367 rrc state: 9855 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:06.130367 rrc state: 9904 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:06.130367 rrc state: 10175 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:06.160112 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3601
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:06.450035 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3601
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:06.757915 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3601
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:06.857984 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3601
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:06.957989 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3601
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:07.205121 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3601
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:07.481929 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3601
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:07.539147 rrc state: 580 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:07.539147 rrc state: 895 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:07.750029 PUSCH UL grant: received=97 bytes used=6 bytes utilization=6.19% total utilized3607
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:07.850119 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3607
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:08.025785 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3607
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:08.058311', 'fn and subfn': 1875}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:08.058311', 'fn and subfn': 1880}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:08.106582 rrc state: 1544 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:08.106582 rrc state: 1855 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:08.106582 rrc state: 1879 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:08.108367', 'fn and subfn': 1930}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:08.118317', 'fn and subfn': 1935}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:08.125862 PUSCH UL grant: received=499 bytes used=172 bytes utilization=34.47% total utilized3779
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:08.225858 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3779
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:08.340111 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3779
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:08.550779 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3779
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:08.554346', 'fn and subfn': 2370}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:08.554346', 'fn and subfn': 2375}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:08.564350', 'fn and subfn': 2380}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:08.588220 rrc state: 2175 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:08.588220 rrc state: 2379 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:08.614346', 'fn and subfn': 2430}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:08.614346', 'fn and subfn': 2435}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:08.650861 PUSCH UL grant: received=461 bytes used=172 bytes utilization=37.31% total utilized3951
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:08.737998 rrc state: 2495 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:08.737998 rrc state: 2511 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:08.750860 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3951
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:08.850857 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3951
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:09.015866 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3951
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:09.320104 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3951
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:09.630782 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3951
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:09.939084 rrc state: 2815 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:09.940045 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3951
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:10.040114 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3951
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:10.140119 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3951
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:10.320107 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3951
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:10.611850 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3951
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:10.917990 PUSCH UL grant: received=77 bytes used=6 bytes utilization=7.79% total utilized3957
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:11.017991 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3957
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:11.117981 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3957
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:11.139178 rrc state: 3777 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:11.139178 rrc state: 4095 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:11.139178 rrc state: 4742 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:11.331852 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3957
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:11.431915 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3957
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:11.531921 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3957
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:11.631913 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3957
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:11.862924 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized3957
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:11.962986 PUSCH UL grant: received=84 bytes used=16 bytes utilization=19.05% total utilized3973
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:12.019343', 'fn and subfn': 5840}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:12.029337', 'fn and subfn': 5845}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:12.037146 rrc state: 5055 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:12.037146 rrc state: 5709 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:12.062973 PUSCH UL grant: received=386 bytes used=157 bytes utilization=40.67% total utilized4130
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:12.079347', 'fn and subfn': 5895}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:12.079347', 'fn and subfn': 5900}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:12.162989 PUSCH UL grant: received=242 bytes used=12 bytes utilization=4.96% total utilized4142
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:12.262990 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4142
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:12.279284 rrc state: 6015 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:12.279284 rrc state: 6104 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:12.525038 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4142
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:12.836857 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4142
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:13.140781 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4142
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:13.240858 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4142
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:13.340859 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4142
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:13.539161 rrc state: 6335 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:13.539161 rrc state: 6981 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:13.539161 rrc state: 7295 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:13.561853 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4142
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:13.824046 PUSCH UL grant: received=101 bytes used=6 bytes utilization=5.94% total utilized4148
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:13.924053 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4148
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:14.080854 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4148
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:14.195116 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4154
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:14.295104 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4154
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:14.479117 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4154
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:14.739062 rrc state: 7622 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:14.739062 rrc state: 7935 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:14.739062 rrc state: 7946 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:14.739062 rrc state: 8255 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:14.770860 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4154
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:15.082920 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4154
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:15.183000 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4160
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:15.282989 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4160
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:15.519151 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4160
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:15.751918 PUSCH UL grant: received=82 bytes used=10 bytes utilization=12.2% total utilized4170
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:15.767127 rrc state: 8912 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:15.767127 rrc state: 9215 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:15.767127 rrc state: 9555 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:15.851916 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:15.999164 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:16.260780 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4170
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:16.420066 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4176
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:16.520104 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4176
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:16.695876 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4176
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:17.005056 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4176
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:17.139117 rrc state: 9855 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:17.139117 rrc state: 10176 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:17.139117 rrc state: 255 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:17.305813 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4176
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:17.405865 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4182
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:17.505795 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4182
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:17.720038 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4182
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:17.999161 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4182
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:18.280088 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4182
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:18.337992 rrc state: 904 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:18.337992 rrc state: 1215 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:18.337992 rrc state: 1870 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:18.380110 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4188
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:18.480109 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4188
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:18.720850 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4188
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:19.000853 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4188
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:19.260818 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4188
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:19.539048 rrc state: 2175 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:19.566843 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4194
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:19.666921 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4194
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:19.781915 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4194
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:20.060791 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4194
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:20.319076 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4194
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:20.551918 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4200
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:20.651916 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4200
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:20.739132 rrc state: 3136 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:20.739132 rrc state: 3455 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:20.739132 rrc state: 4102 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:20.825130 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4200
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:21.120036 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4200
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:21.285790 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4200
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:21.385852 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4200
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:21.485859 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4206
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:21.585852 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4206
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:21.685862 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4206
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:21.939081 rrc state: 4415 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:21.939081 rrc state: 5068 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:21.939081 rrc state: 5375 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:21.960033 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4206
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:22.208049 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4206
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:22.450128 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4212
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:22.550108 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4212
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:22.650103 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4212
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:22.882916 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4212
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:22.948234', 'fn and subfn': 6525}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:22.948234', 'fn and subfn': 6530}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:22.958260', 'fn and subfn': 6535}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:22.961368 rrc state: 59619 RRC_IDLE
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:22.968231', 'fn and subfn': 6550}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:23.011917 PUSCH UL grant: received=384 bytes used=168 bytes utilization=43.75% total utilized4380
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:23.051558 rrc state: 0 RRC_IDLE Connection request!
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:23.145257 rrc state: 0 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.158226', 'fn and subfn': 6733}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.158226', 'fn and subfn': 6738}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.188263', 'fn and subfn': 6768}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:23.190808 rrc state: RRC_CRX Connection established!
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.208240', 'fn and subfn': 6783}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.208240', 'fn and subfn': 6788}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.228794', 'fn and subfn': 6808}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:23.233977 PUSCH UL grant: received=567 bytes used=152 bytes utilization=26.81% total utilized4532
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.238234', 'fn and subfn': 6813}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.258298', 'fn and subfn': 6838}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.268227', 'fn and subfn': 6843}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:23.333966 PUSCH UL grant: received=202 bytes used=12 bytes utilization=5.94% total utilized4544
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:23.433968 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4544
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.501446', 'fn and subfn': 7083}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:23.511447', 'fn and subfn': 7088}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:23.533965 PUSCH UL grant: received=202 bytes used=28 bytes utilization=13.86% total utilized4572
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:23.633965 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4572
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:23.756837 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4572
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:23.980765 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4572
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:24.160043 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4572
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:24.339178 rrc state: 7355 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:24.403894 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4572
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:24.503976 PUSCH UL grant: received=121 bytes used=6 bytes utilization=4.96% total utilized4578
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:24.603982 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4578
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:24.725704 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4578
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:25.011849 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4578
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:25.185714 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4578
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:25.395791 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4578
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:25.539170 rrc state: 7999 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:25.539170 rrc state: 8315 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:25.690024 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4578
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:25.790032 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4584
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:25.890032 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4584
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:26.081844 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4584
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:26.345008 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4584
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:26.644644 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4584
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:26.738041 rrc state: 9276 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:26.738041 rrc state: 9595 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:26.738041 rrc state: 1 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:26.745007 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4590
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:26.845007 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4590
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:27.022909 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4590
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:27.311771 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4590
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:27.618896 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4590
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:27.718970 PUSCH UL grant: received=97 bytes used=6 bytes utilization=6.19% total utilized4596
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:27.818970 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4596
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:27.938046 rrc state: 315 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:27.938046 rrc state: 967 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:27.938046 rrc state: 1275 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:28.098926 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4596
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:28.322848 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4596
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:28.606424 PUSCH UL grant: received=113 bytes used=6 bytes utilization=5.31% total utilized4602
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:28.706841 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4602
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:28.806838 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4602
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:28.908917 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4602
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:29.138969 rrc state: 1933 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:29.138969 rrc state: 2235 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:29.220717 PUSCH UL grant: received=82 bytes used=10 bytes utilization=12.2% total utilized4612
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:29.320792 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4612
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:29.420797 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4612
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:29.775205 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4612
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:29.925011 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4618
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:30.025008 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4618
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:30.168103 rrc state: 2556 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:30.168103 rrc state: 2875 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:30.168103 rrc state: 3196 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:30.168103 rrc state: 3515 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:30.185712 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4618
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:30.492844 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4618
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:30.815707 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4618
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:30.915778 PUSCH UL grant: received=77 bytes used=6 bytes utilization=7.79% total utilized4624
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:31.015779 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4624
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:31.259669 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4624
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:31.360040 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4624
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:31.460038 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4624
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:31.538040 rrc state: 4165 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:31.538040 rrc state: 4475 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:31.560042 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4624
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:31.790027 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4630
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:31.890038 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4630
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:31.990050 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4630
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:32.223956 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4630
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:32.538933 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4630
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:32.738040 rrc state: 5131 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:32.738040 rrc state: 5435 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:32.878924 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4630
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:33.102908 PUSCH UL grant: received=85 bytes used=6 bytes utilization=7.06% total utilized4636
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:33.202916 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4636
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:33.378970 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4636
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:33.688261 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4636
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:33.938965 rrc state: 6396 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:33.938965 rrc state: 6715 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:34.003897 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4636
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:34.103966 PUSCH UL grant: received=97 bytes used=6 bytes utilization=6.19% total utilized4642
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:35:34.203965 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized4642
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:35:34.216912 rrc state: 61241 RRC_IDLE
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:35:34.226403', 'fn and subfn': 7568}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:36:20.139453 rrc state: 0 RRC_IDLE Connection request!
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:36:20.215035 rrc state: 0 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.220289', 'fn and subfn': 2364}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.230134', 'fn and subfn': 2369}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:20.238402 PUSCH UL grant: received=262 bytes used=36 bytes utilization=13.74% total utilized4678
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.250181', 'fn and subfn': 2394}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.260142', 'fn and subfn': 2399}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.280177', 'fn and subfn': 2419}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.280177', 'fn and subfn': 2424}
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:36:20.285509 rrc state: RRC_CRX Connection established!
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.290323', 'fn and subfn': 2434}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.300361', 'fn and subfn': 2439}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.310200', 'fn and subfn': 2454}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.330076', 'fn and subfn': 2469}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.330076', 'fn and subfn': 2474}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:20.338165 PUSCH UL grant: received=1080 bytes used=222 bytes utilization=20.56% total utilized4900
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.340141', 'fn and subfn': 2479}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.380174', 'fn and subfn': 2519}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.380174', 'fn and subfn': 2524}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:20.438411 PUSCH UL grant: received=210 bytes used=104 bytes utilization=49.52% total utilized5004
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.480176', 'fn and subfn': 2619}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.480176', 'fn and subfn': 2624}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:20.538412 PUSCH UL grant: received=210 bytes used=12 bytes utilization=5.71% total utilized5016
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.570180', 'fn and subfn': 2714}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-05 06:36:20.580135', 'fn and subfn': 2719}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:20.638411 PUSCH UL grant: received=210 bytes used=28 bytes utilization=13.33% total utilized5044
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:20.738053 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5044
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:20.899411 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5044
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:21.149477 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5044
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:21.325531 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5044
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:21.425540 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5044
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:21.525535 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5044
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:21.625533 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5044
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:21.781600 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5044
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:36:21.938788 rrc state: 2950 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:36:21.938788 rrc state: 3594 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:36:21.938788 rrc state: 3910 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:22.085460 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5044
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:22.376585 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5044
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:22.476597 PUSCH UL grant: received=59 bytes used=6 bytes utilization=10.17% total utilized5050
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:22.576594 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5050
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:22.740531 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5050
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:23.051575 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5050
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:36:23.138825 rrc state: 4558 RRC_CRX
+[32m[1m[INFO][0m[0m[1m [LteRrcAnalyzer][0m: Timestamp: 2021-10-05 06:36:23.138825 rrc state: 4870 RRC_LDRX
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:23.354404 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized5050
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-10-05 06:36:23.454454 PUSCH UL grant: received=59 bytes used=6 bytes utilization=10.17% total utilized5056
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Decoding_inter: 0.1991863250732422
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: sending_inter: 1.4299733638763428
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Offline replay is completed.
+Init RRC Analyzer
+sec 0 10239
+sec 290 10058
+sec 0 10239
+sec 0 10239
+sec 4 9788
+sec 2371 7635
+Total data Tx (RLC analyzer):  0
+Total ctrl Tx (RLC analyzer):  0
+0 599  Granted size:  67.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+0 603 SR
+0 608 SR
+0 610  Granted size:  101.0  Txed size:  92.0  Buffer size:  121.0  RB:  8.0
+0 615  Granted size:  101.0  Txed size:  96.0  Buffer size:  25.0  RB:  8.0
+0 620  Granted size:  129.0  Txed size:  25.0  Buffer size:  0.0  RB:  6.0
+0 625  Granted size:  41.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+0 633  Granted size:  41.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+0 1243 SR
+0 1248 SR
+0 1250  Granted size:  121.0  Txed size:  84.0  Buffer size:  0.0  RB:  8.0
+0 1253 SR
+0 1255  Granted size:  121.0  Txed size:  116.0  Buffer size:  95.0  RB:  8.0
+0 1260  Granted size:  101.0  Txed size:  95.0  Buffer size:  0.0  RB:  6.0
+0 1265  Granted size:  125.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0
+0 1270  Granted size:  55.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+0 1313 SR
+0 1318 SR
+0 1320  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0
+0 1325  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0
+0 2933 SR
+0 2938 SR
+0 2940  Granted size:  109.0  Txed size:  100.0  Buffer size:  113.0  RB:  5.0
+0 2945  Granted size:  109.0  Txed size:  104.0  Buffer size:  9.0  RB:  5.0
+0 2950  Granted size:  141.0  Txed size:  9.0  Buffer size:  0.0  RB:  5.0
+0 2955  Granted size:  47.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+0 2958  Granted size:  141.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0
+0 2961  Granted size:  41.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+0 3805  Granted size:  121.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+0 3885  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0
+0 4128 SR
+0 4133 SR
+0 4135  Granted size:  97.0  Txed size:  88.0  Buffer size:  125.0  RB:  5.0
+0 4140  Granted size:  97.0  Txed size:  92.0  Buffer size:  33.0  RB:  5.0
+0 4146  Granted size:  141.0  Txed size:  33.0  Buffer size:  0.0  RB:  5.0
+0 4150  Granted size:  61.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+0 4155  Granted size:  69.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+0 5399  Granted size:  125.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+0 6051  Granted size:  47.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+0 6054  Granted size:  47.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+0 6056  Granted size:  47.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+0 6366  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+0 6374  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+0 6998 SR
+0 7003 SR
+0 7005  Granted size:  121.0  Txed size:  110.0  Buffer size:  56.0  RB:  8.0
+0 7010  Granted size:  121.0  Txed size:  56.0  Buffer size:  0.0  RB:  8.0
+0 7015  Granted size:  57.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0
+0 7023  Granted size:  57.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0
+0 8343 SR
+0 8348 SR
+0 8350  Granted size:  105.0  Txed size:  84.0  Buffer size:  0.0  RB:  12.0
+0 8355  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+0 8608  Granted size:  59.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+0 9574  Granted size:  67.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+0 10210  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+0 10212  Granted size:  59.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+1 283  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+1 938  Granted size:  77.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+1 2199  Granted size:  77.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+1 3164  Granted size:  77.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+1 4123 SR
+1 4128 SR
+1 4130  Granted size:  77.0  Txed size:  66.0  Buffer size:  20.0  RB:  4.0
+1 4131  Granted size:  101.0  Txed size:  20.0  Buffer size:  0.0  RB:  8.0
+1 4135  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+1 4140  Granted size:  37.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+1 5399  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+1 6368  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+1 8599  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+1 9566  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+2 290  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+2 1256  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+2 2519  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+2 2523  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0
+2 3488  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+2 4443 SR
+2 4448 SR
+2 4450  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+2 4454  Granted size:  77.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+2 4455  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+2 6184  Granted size:  7.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+2 6215 SR
+2 6220 SR
+2 6222  Granted size:  22.0  Txed size:  12.0  Buffer size:  0.0  RB:  4.0
+2 6227  Granted size:  22.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+2 6250 SR
+2 6255 SR
+2 6257  Granted size:  22.0  Txed size:  9.0  Buffer size:  0.0  RB:  4.0
+2 6262  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  18.0
+2 6265 SR
+2 6270 SR
+2 6272  Granted size:  97.0  Txed size:  77.0  Buffer size:  0.0  RB:  9.0
+2 6277  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  9.0
+2 6300 SR
+2 6302  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  18.0
+2 6307  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  18.0
+2 6310 SR
+2 6317  Granted size:  101.0  Txed size:  62.0  Buffer size:  0.0  RB:  8.0
+2 6322  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+2 6365 SR
+2 6370 SR
+2 6372  Granted size:  97.0  Txed size:  56.0  Buffer size:  0.0  RB:  9.0
+2 6375 SR
+2 6377  Granted size:  97.0  Txed size:  92.0  Buffer size:  479.0  RB:  9.0
+2 6382  Granted size:  97.0  Txed size:  90.0  Buffer size:  389.0  RB:  9.0
+2 6387  Granted size:  621.0  Txed size:  389.0  Buffer size:  0.0  RB:  12.0
+2 6388  Granted size:  261.0  Txed size:  0.0  Buffer size:  0.0  RB:  15.0
+2 6392  Granted size:  421.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+2 6393  Granted size:  469.0  Txed size:  0.0  Buffer size:  0.0  RB:  27.0
+2 6440 SR
+2 6442  Granted size:  105.0  Txed size:  2.0  Buffer size:  0.0  RB:  12.0
+2 6447  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+2 6470 SR
+2 6475 SR
+2 6477  Granted size:  105.0  Txed size:  56.0  Buffer size:  0.0  RB:  12.0
+2 6480 SR
+2 6482  Granted size:  105.0  Txed size:  100.0  Buffer size:  5.0  RB:  12.0
+2 6487  Granted size:  105.0  Txed size:  5.0  Buffer size:  0.0  RB:  12.0
+2 6492  Granted size:  28.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+2 6540 SR
+2 6545 SR
+2 6547  Granted size:  105.0  Txed size:  96.0  Buffer size:  221.0  RB:  12.0
+2 6552  Granted size:  105.0  Txed size:  100.0  Buffer size:  121.0  RB:  12.0
+2 6557  Granted size:  241.0  Txed size:  121.0  Buffer size:  0.0  RB:  16.0
+2 6562  Granted size:  137.0  Txed size:  0.0  Buffer size:  0.0  RB:  9.0
+2 6605 SR
+2 6610 SR
+2 6612  Granted size:  105.0  Txed size:  2.0  Buffer size:  0.0  RB:  12.0
+2 6617  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+2 6645 SR
+2 6650 SR
+2 6652  Granted size:  105.0  Txed size:  54.0  Buffer size:  0.0  RB:  12.0
+2 6657  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+2 8589  Granted size:  49.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+2 9539  Granted size:  22.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+2 9544  Granted size:  22.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+2 9555  Granted size:  67.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+2 9620 SR
+2 9625 SR
+2 9627  Granted size:  101.0  Txed size:  94.0  Buffer size:  221.0  RB:  8.0
+2 9632  Granted size:  101.0  Txed size:  96.0  Buffer size:  125.0  RB:  8.0
+2 9637  Granted size:  261.0  Txed size:  125.0  Buffer size:  0.0  RB:  12.0
+2 9642  Granted size:  129.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0
+2 9685 SR
+2 9690 SR
+2 9692  Granted size:  101.0  Txed size:  56.0  Buffer size:  0.0  RB:  6.0
+2 9697  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0
+3 1547  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+3 1875 SR
+3 1880 SR
+3 1882  Granted size:  97.0  Txed size:  88.0  Buffer size:  51.0  RB:  5.0
+3 1887  Granted size:  97.0  Txed size:  51.0  Buffer size:  0.0  RB:  5.0
+3 1892  Granted size:  63.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0
+3 1900  Granted size:  63.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0
+3 1930 SR
+3 1935 SR
+3 1937  Granted size:  121.0  Txed size:  2.0  Buffer size:  0.0  RB:  8.0
+3 1942  Granted size:  121.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+3 2370 SR
+3 2375 SR
+3 2380 SR
+3 2382  Granted size:  101.0  Txed size:  92.0  Buffer size:  47.0  RB:  8.0
+3 2387  Granted size:  101.0  Txed size:  47.0  Buffer size:  0.0  RB:  8.0
+3 2392  Granted size:  57.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0
+3 2430 SR
+3 2435 SR
+3 2437  Granted size:  101.0  Txed size:  2.0  Buffer size:  0.0  RB:  8.0
+3 2442  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+3 4745  Granted size:  77.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+3 4753  Granted size:  77.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+3 5712  Granted size:  28.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+3 5728  Granted size:  28.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+3 5733  Granted size:  28.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+3 5840 SR
+3 5845 SR
+3 5847  Granted size:  101.0  Txed size:  92.0  Buffer size:  40.0  RB:  8.0
+3 5852  Granted size:  101.0  Txed size:  40.0  Buffer size:  0.0  RB:  8.0
+3 5857  Granted size:  63.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0
+3 5862  Granted size:  121.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+3 5895 SR
+3 5900 SR
+3 5902  Granted size:  121.0  Txed size:  2.0  Buffer size:  0.0  RB:  8.0
+3 5907  Granted size:  121.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+3 7625  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0
+3 7949  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+3 8915  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+3 9558  Granted size:  41.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+3 9563  Granted size:  41.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+3 10179  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+4 4  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+4 907  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+4 1873  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+4 3139  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+4 4105  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+4 5071  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+4 6037  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+4 6525 SR
+4 6530 SR
+4 6535 SR
+4 6537  Granted size:  121.0  Txed size:  112.0  Buffer size:  27.0  RB:  8.0
+4 6542  Granted size:  121.0  Txed size:  27.0  Buffer size:  0.0  RB:  8.0
+4 6547  Granted size:  37.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+4 6550 SR
+4 6555  Granted size:  37.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+4 6557  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+4 6714  Granted size:  7.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+4 6733 SR
+4 6738 SR
+4 6740  Granted size:  22.0  Txed size:  12.0  Buffer size:  0.0  RB:  4.0
+4 6745  Granted size:  22.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+4 6768 SR
+4 6770  Granted size:  22.0  Txed size:  9.0  Buffer size:  0.0  RB:  4.0
+4 6775  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  18.0
+4 6778  Granted size:  22.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+4 6783 SR
+4 6788 SR
+4 6790  Granted size:  105.0  Txed size:  54.0  Buffer size:  0.0  RB:  12.0
+4 6795  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+4 6808 SR
+4 6813 SR
+4 6815  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  18.0
+4 6820  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  18.0
+4 6838 SR
+4 6843 SR
+4 6845  Granted size:  101.0  Txed size:  2.0  Buffer size:  0.0  RB:  8.0
+4 6850  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+4 7083 SR
+4 7088 SR
+4 7090  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+4 7095  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+4 8025  Granted size:  121.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0
+4 9279  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 970  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 1936  Granted size:  113.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 2344  Granted size:  7.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+5 2364 SR
+5 2369 SR
+5 2371  Granted size:  22.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 2376  Granted size:  22.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 2559  Granted size:  41.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+5 2564  Granted size:  41.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0
+5 3199  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 3207  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 4168  Granted size:  77.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 5134  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 6399  Granted size:  85.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 7366  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+5 7568 SR
+5 7570  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0
+5 7575  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0
+5 7578  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0
+5 7583  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0
+6 2394 SR
+6 2399 SR
+6 2401  Granted size:  22.0  Txed size:  9.0  Buffer size:  0.0  RB:  4.0
+6 2406  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  18.0
+6 2419 SR
+6 2424 SR
+6 2426  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  15.0
+6 2431  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  15.0
+6 2434 SR
+6 2439 SR
+6 2441  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  15.0
+6 2446  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  15.0
+6 2454 SR
+6 2462  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+6 2466  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+6 2469 SR
+6 2474 SR
+6 2476  Granted size:  105.0  Txed size:  56.0  Buffer size:  0.0  RB:  12.0
+6 2479 SR
+6 2481  Granted size:  105.0  Txed size:  66.0  Buffer size:  0.0  RB:  12.0
+6 2486  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+6 2519 SR
+6 2524 SR
+6 2526  Granted size:  105.0  Txed size:  92.0  Buffer size:  0.0  RB:  12.0
+6 2531  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+6 2619 SR
+6 2624 SR
+6 2626  Granted size:  105.0  Txed size:  2.0  Buffer size:  0.0  RB:  12.0
+6 2631  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+6 2714 SR
+6 2719 SR
+6 2721  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+6 2726  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  12.0
+6 4561  Granted size:  59.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+6 5527  Granted size:  59.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0
+First or error for tx start
+First or error for tx end
+Total TX:  4053.0
+Total TB:  18601.0
+Total utiilized:  5056
+Total grant:  17803
+Retx:  11
+Loss num:  0
+SYN delay:  26265
+Blank delay:  54
+Scheduling delay:  0
+Tx delay:  1
+Blank:  [[0, 603], [26867, 26920]]
+Scheduling:  [[603, 26867]]
+Tx burst:  [[0, 0], [26867, 26867]]
+Scheduling mean, std:  nan nan
+Blank mean, std:  54.0 0.0
+Tx mean, std:  1.0 0.0
+RSRP list:  [-84.125, -84.125, -84.125, -83.9375, -83.9375, -84.1875, -84.1875, -84.25, -84.25, -84.25, -84.25, -85.375, -85.375, -83.375, -82.0, -82.5, -82.5625, -82.5625, -82.5625, -81.5625, -81.5625, -82.6875, -83.1875, -83.875, -84.0625, -84.0625, -84.0625, -84.875, -84.875, -85.1875, -85.1875, -85.625, -85.8125, -82.9375, -82.5625, -82.8125, -84.375, -84.3125, -84.3125, -84.375, -84.4375, -84.4375, -84.4375, -84.4375, -84.4375, -83.625, -83.625, -83.75, -83.875, -83.875, -83.875, -83.9375, -83.875, -83.8125, -83.625, -83.625, -83.625, -83.625, -81.75, -81.75, -82.375, -82.6875, -83.0, -83.0, -83.0, -83.0, -83.5, -83.875, -84.0, -84.0, -84.0, -84.0, -84.0625, -84.0625, -84.0625, -84.0625, -83.6875, -83.625, -83.5, -83.5, -83.5, -83.5, -82.6875, -82.6875, -81.875, -81.875, -81.5625, -81.6875, -81.9375, -82.25, -82.25, -82.25, -82.25, -81.875, -81.875, -81.875, -81.9375, -82.25, -82.25, -82.25, -82.25, -81.9375, -81.9375, -82.25, -82.375, -82.5625, -82.8125, -82.8125, -83.1875, -83.25, -83.25, -83.25, -83.25, -82.3125, -82.3125, -82.3125, -82.5625, -83.0, -83.0625, -83.0625, -83.0625, -83.8125, -83.8125, -84.0625, -84.0625, -83.8125, -84.0, -84.25, -84.25, -84.25, -84.25, -83.5625, -83.5625, -83.4375, -83.5, -83.75, -83.8125, -83.8125, -83.8125, -83.4375, -83.4375, -83.125, -83.1875, -83.375, -83.4375, -83.25, -83.25, -83.0625, -83.0625, -82.75, -82.75, -82.6875, -82.75, -83.0625, -83.0625, -83.0625, -83.0625, -82.875, -82.875, -82.625, -82.4375, -82.5, -82.875, -82.9375, -82.9375, -82.9375, -82.6875, -82.6875, -82.5625, -82.375, -82.6875, -82.8125, -82.8125, -82.8125, -82.25, -82.25, -82.375, -82.375, -82.375, -82.625, -82.9375, -82.9375, -82.9375, -82.9375, -82.375, -82.375, -82.375, -82.375, -82.75, -82.8125, -82.8125, -82.8125, -82.4375, -82.4375, -82.3125, -82.3125, -82.75, -82.8125, -82.8125, -82.8125, -82.75, -82.75, -83.125, -83.3125, -83.4375, -83.5, -83.5, -83.5, -82.75, -82.75, -82.25, -82.25, -82.875, -82.6875, -82.875, -82.875, -82.875, -82.875, -82.375, -82.375, -82.1875, -82.25, -82.625, -82.6875, -82.6875, -82.6875, -82.6875, -82.6875, -82.625, -80.0625, -80.4375, -81.0625, -81.3125, -81.5, -81.75, -82.0, -82.375, -82.6875, -82.6875, -82.9375, -82.9375, -83.375, -83.375, -83.625, -83.75, -83.875, -83.875, -84.0625, -84.0625, -83.6875, -83.6875, -83.1875, -83.25, -83.375, -83.375, -83.375, -83.375, -83.4375, -83.4375, -83.5, -83.3125, -83.1875, -83.25, -83.375, -83.375, -83.375, -83.375, -82.375, -82.375, -82.25, -82.375, -82.75, -82.8125, -82.8125, -82.8125, -82.9375, -82.9375, -83.0625, -83.0, -83.1875, -83.1875, -83.1875, -83.625, -83.625, -83.6875, -83.6875, -83.6875, -83.6875, -83.6875, -83.8125, -83.75, -83.75, -83.75, -83.75, -83.75, -83.4375, -83.4375, -83.0625, -83.0625, -82.875, -82.875, -83.0625, -83.0625, -83.0625, -83.0625, -82.9375, -82.9375, -83.25, -83.25, -83.4375, -83.4375, -83.4375, -83.4375, -83.9375, -83.9375, -84.0, -84.0, -83.875, -83.8125, -83.875, -83.875, -83.875, -83.875, -84.3125, -84.3125, -83.9375, -83.6875, -83.6875, -83.6875, -83.6875, -83.6875, -84.0, -84.125, -84.1875, -84.1875, -84.1875, -83.8125, -83.875, -83.875, -83.875, -83.875, -83.3125, -83.3125, -83.375, -83.375, -83.5, -83.5625, -83.5625, -83.5625, -83.3125, -83.3125, -83.1875, -83.375, -83.375, -83.375, -83.375, -83.0625, -83.3125, -83.375, -83.375, -83.375, -83.375, -82.5625, -82.5625, -81.8125, -81.875, -82.1875, -82.25, -82.25, -82.25, -83.0, -83.0, -82.875, -82.8125, -82.875, -82.9375, -82.9375, -82.9375, -82.25, -82.25, -82.125, -82.125, -82.0, -81.875, -82.0625, -82.0625, -82.0625, -82.0625, -83.0625, -83.0625, -82.75, -82.6875, -82.9375, -83.0, -83.0, -83.0, -81.8125, -81.8125, -82.0, -82.25, -82.5625, -82.625, -82.625, -82.625, -83.0, -83.0, -83.5625, -83.625, -83.625, -83.5625, -83.5625, -83.5625, -83.1875, -79.5625, -79.5625, -78.4375, -79.5, -80.0625, -80.5, -80.8125, -81.5, -81.8125, -81.8125, -82.0, -82.0, -82.5625, -82.5625, -82.3125, -82.1875, -82.375, -82.4375, -82.375, -82.375, -82.3125, -82.3125, -82.75, -82.75, -82.6875, -82.75, -82.9375, -82.9375, -82.9375, -82.9375, -83.0, -83.0, -82.375, -82.5625, -82.8125, -82.875, -82.875, -82.875, -83.0625, -83.0625, -82.5625, -82.4375, -82.4375, -82.4375, -82.4375, -82.4375, -82.3125, -82.3125, -82.1875, -82.0, -82.0, -82.0625, -82.0625, -82.0625, -82.0625, -82.1875, -82.375, -82.5, -82.5, -82.5, -82.5, -82.9375, -83.1875, -83.25, -83.3125, -83.3125, -83.3125, -83.4375, -83.4375, -83.5, -83.5625, -83.625, -83.625, -83.625, -83.625, -83.625, -83.625, -83.25, -83.125, -83.0, -83.0, -83.0, -83.0, -83.3125, -83.3125, -83.5625, -83.5625, -83.3125, -83.5, -83.5, -83.5, -83.5, -83.5, -83.1875, -83.1875, -83.5625, -83.625, -83.75, -80.0625, -80.1875, -80.1875, -81.0625, -81.5625, -81.9375, -82.0625, -82.375, -82.5, -82.5, -82.5, -82.75, -82.75, -82.8125, -82.875, -82.9375, -82.9375, -82.8125, -82.8125, -83.25, -83.25, -83.5625, -83.5625, -83.625, -83.625, -83.625, -83.625, -83.75, -83.75, -83.625, -83.1875]/home/gslee/.local/lib/python3.5/site-packages/numpy/core/fromnumeric.py:3335: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+/home/gslee/.local/lib/python3.5/site-packages/numpy/core/_methods.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+/home/gslee/.local/lib/python3.5/site-packages/numpy/core/_methods.py:217: RuntimeWarning: Degrees of freedom <= 0 for slice
+  keepdims=keepdims)
+/home/gslee/.local/lib/python3.5/site-packages/numpy/core/_methods.py:186: RuntimeWarning: invalid value encountered in true_divide
+  arrmean, rcount, out=arrmean, casting='unsafe', subok=False)
+/home/gslee/.local/lib/python3.5/site-packages/numpy/core/_methods.py:209: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 1553, in __call__
+    return self.func(*args)
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 599, in callit
+    func(*args)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backends/_backend_tk.py", line 310, in idle_draw
+    self.draw()
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backends/backend_tkagg.py", line 12, in draw
+    super(FigureCanvasTkAgg, self).draw()
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backends/backend_agg.py", line 437, in draw
+    self.figure.draw(self.renderer)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/artist.py", line 55, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/figure.py", line 1493, in draw
+    renderer, self, artists, self.suppressComposite)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/image.py", line 141, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/artist.py", line 55, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/axes/_base.py", line 2635, in draw
+    mimage._draw_list_compositing_images(renderer, self, artists)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/image.py", line 141, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/artist.py", line 55, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/axis.py", line 1202, in draw
+    self._update_label_position(renderer)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/axis.py", line 1913, in _update_label_position
+    spine.get_path()).get_extents()
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/transforms.py", line 1540, in transform_path
+    return self.transform_path_affine(self.transform_path_non_affine(path))
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/transforms.py", line 1552, in transform_path_affine
+    return self.get_affine().transform_path_affine(path)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/transforms.py", line 1806, in transform_path_affine
+    return Path(self.transform_affine(path.vertices),
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/transforms.py", line 1870, in transform_affine
+    if isinstance(points, np.ma.MaskedArray):
+KeyboardInterrupt
+
+RSRQ list:  [-10.375, -10.375, -10.375, -9.625, -9.625, -9.125, -9.25, -9.375, -9.4375, -9.4375, -9.4375, -9.125, -9.125, -9.0625, -8.6875, -8.875, -8.875, -8.875, -8.875, -11.0625, -11.0625, -11.875, -12.0625, -12.1875, -12.1875, -12.1875, -12.1875, -12.8125, -12.8125, -13.0625, -13.0625, -13.125, -12.9375, -13.375, -13.25, -13.25, -13.375, -13.5625, -13.4375, -13.375, -13.1875, -13.0, -13.0, -13.0625, -13.0625, -10.6875, -10.75, -10.75, -10.875, -10.875, -10.875, -10.75, -10.8125, -10.8125, -11.1875, -11.1875, -9.5625, -9.5625, -10.625, -10.625, -11.3125, -11.4375, -11.5625, -11.5625, -11.5625, -11.5625, -12.625, -12.5625, -12.6875, -12.6875, -12.6875, -12.75, -12.8125, -12.875, -12.875, -12.875, -13.375, -13.0625, -13.125, -13.0, -13.0, -13.0, -11.5, -11.5, -12.1875, -12.1875, -12.9375, -12.9375, -12.9375, -13.0, -13.0, -13.0, -13.0, -13.25, -13.25, -11.625, -11.8125, -11.875, -11.875, -11.875, -11.875, -10.75, -10.75, -10.4375, -10.5, -10.625, -10.6875, -10.6875, -11.0, -11.25, -11.25, -11.25, -11.25, -12.125, -12.125, -12.125, -12.0, -12.0, -12.0, -12.0, -12.0, -9.9375, -9.9375, -10.875, -10.875, -10.5, -10.6875, -10.875, -10.875, -10.875, -10.875, -11.75, -11.75, -11.0625, -11.375, -11.375, -11.4375, -11.4375, -11.4375, -10.25, -10.25, -11.1875, -11.5, -11.625, -11.625, -11.4375, -11.4375, -10.875, -10.875, -9.625, -9.625, -9.375, -9.3125, -9.5, -9.5, -9.5, -9.5, -8.875, -8.875, -10.3125, -10.625, -10.875, -11.125, -11.1875, -11.1875, -11.1875, -12.0, -12.0, -11.25, -10.875, -10.75, -10.75, -10.75, -10.75, -9.3125, -9.3125, -9.625, -9.625, -11.4375, -11.375, -11.5, -11.5, -11.5, -11.5, -12.625, -12.625, -11.5, -11.0, -11.0, -11.0, -11.0, -11.0, -10.3125, -10.3125, -11.3125, -11.125, -11.0, -11.0, -11.0, -11.0, -9.75, -9.75, -9.5, -9.4375, -9.625, -9.6875, -9.6875, -9.6875, -11.4375, -11.4375, -10.25, -10.25, -9.25, -9.3125, -9.4375, -9.4375, -9.4375, -9.4375, -9.0, -9.0, -9.0, -9.375, -9.625, -9.625, -9.625, -9.625, -8.8125, -8.8125, -10.0625, -11.6875, -13.4375, -13.375, -13.375, -13.3125, -13.3125, -13.3125, -13.3125, -13.3125, -13.3125, -12.375, -12.375, -12.1875, -12.1875, -10.6875, -10.75, -10.75, -10.8125, -10.5625, -10.5625, -11.0625, -11.0625, -11.4375, -11.4375, -11.4375, -11.4375, -11.4375, -11.4375, -10.25, -10.25, -9.1875, -8.9375, -9.0, -9.125, -9.25, -9.25, -9.25, -9.25, -11.1875, -11.1875, -10.4375, -10.4375, -10.625, -10.625, -10.625, -10.625, -9.375, -9.375, -10.0, -10.125, -10.3125, -10.3125, -10.3125, -11.0, -11.0625, -11.1875, -11.1875, -11.1875, -11.1875, -11.0625, -11.25, -11.3125, -11.1875, -11.25, -11.25, -11.25, -10.4375, -10.4375, -10.125, -10.125, -9.6875, -9.9375, -9.9375, -9.9375, -9.9375, -9.9375, -11.5625, -11.5625, -12.0, -12.0625, -12.1875, -12.1875, -12.1875, -12.1875, -13.0, -13.0, -11.6875, -11.3125, -11.125, -11.0, -10.9375, -11.0, -11.0, -11.0, -9.5625, -9.5625, -9.3125, -9.375, -9.375, -9.375, -9.375, -9.375, -9.3125, -9.4375, -9.625, -9.625, -9.625, -9.3125, -9.5, -9.5625, -9.5625, -9.5625, -9.5625, -9.5625, -9.625, -9.8125, -9.75, -9.875, -9.875, -9.875, -9.5625, -9.5625, -9.6875, -9.6875, -9.6875, -9.6875, -9.6875, -10.0, -10.0, -10.125, -10.125, -10.125, -10.125, -9.5, -9.5, -9.125, -9.0, -9.125, -9.1875, -9.1875, -9.1875, -7.6875, -7.6875, -8.3125, -8.3125, -8.4375, -8.5, -8.5, -8.5, -8.9375, -8.9375, -8.125, -8.125, -8.9375, -8.9375, -9.125, -9.125, -9.125, -9.125, -9.1875, -9.1875, -10.125, -10.4375, -10.5625, -10.5625, -10.5625, -10.5625, -9.75, -9.75, -11.0, -11.25, -11.25, -11.25, -11.25, -11.25, -9.9375, -9.9375, -11.0, -11.3125, -11.5, -11.5625, -11.5625, -11.5625, -12.0, -13.625, -13.625, -13.5625, -13.25, -13.0, -12.6875, -12.375, -12.0, -11.875, -11.875, -11.6875, -11.6875, -11.25, -11.25, -11.6875, -11.625, -11.6875, -11.625, -11.125, -11.125, -11.125, -11.125, -10.8125, -10.8125, -10.75, -10.8125, -10.8125, -10.8125, -10.8125, -10.8125, -10.75, -10.75, -9.8125, -10.0, -10.0625, -10.0625, -10.0625, -10.0625, -9.5625, -9.5625, -9.125, -9.375, -9.4375, -9.5, -9.5, -9.5, -9.5, -9.5, -9.0625, -8.75, -8.875, -9.0625, -9.1875, -9.1875, -9.1875, -8.875, -9.3125, -9.375, -9.375, -9.375, -9.375, -10.375, -10.6875, -10.75, -10.8125, -10.8125, -10.8125, -9.125, -9.125, -10.375, -10.5625, -10.75, -10.8125, -10.8125, -10.8125, -10.75, -10.75, -10.75, -10.8125, -11.0, -11.0625, -11.0625, -11.0625, -10.5, -10.5, -10.9375, -10.9375, -9.75, -10.25, -10.5625, -10.5625, -10.5625, -10.5625, -11.625, -11.625, -12.1875, -12.25, -12.375, -9.4375, -8.625, -8.625, -9.0, -9.1875, -9.25, -9.3125, -9.5, -9.625, -9.625, -9.625, -9.125, -9.125, -9.75, -9.875, -9.9375, -9.9375, -10.5, -10.5, -11.3125, -11.3125, -12.0625, -12.0625, -11.9375, -11.875, -11.875, -11.875, -10.1875, -10.1875, -10.3125, -9.9375]
+RSRP mean, std:  -83.0167204797048 0.8573865097648242
+RSRQ mean, std:  -10.730627306273062 1.2757775823052662
+Traceback (most recent call last):
+  File "booster-analysis.py", line 127, in <module>
+    plt.show()
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/pyplot.py", line 253, in show
+    return _show(*args, **kw)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backend_bases.py", line 208, in show
+    cls.mainloop()
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backends/_backend_tk.py", line 1075, in mainloop
+    Tk.mainloop()
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 408, in mainloop
+    _default_root.tk.mainloop(n)
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 1553, in __call__
+    return self.func(*args)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backends/_backend_tk.py", line 203, in filter_destroy
+    self._master.update_idletasks()
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 1033, in update_idletasks
+    self.tk.call('update', 'idletasks')
+KeyboardInterrupt
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/_pylab_helpers.py", line 78, in destroy_all
+    manager.destroy()
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backends/_backend_tk.py", line 560, in destroy
+    self.window.destroy()
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 1913, in destroy
+    self.tk.call('destroy', self._w)
+KeyboardInterrupt

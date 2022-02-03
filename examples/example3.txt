@@ -1,0 +1,1942 @@
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUSCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Buffer_Status_Internal
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUCCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Transport_Block
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: STARTED: 1621608602.4876802
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading 0521_mobile_vehicle/diag_log_20210521_025358.mi2log
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading: 1621608602.4877641
+SR1 time:  2796 False False
+SR progress is True
+SR1 time:  2801 True False
+SR1 time:  2806 True False
+Current time:  2808  Packet size:  12  Remaining buffer:  12  Incoming time:  -11  Packet tx time:  2808
+SR1 time:  2856 True False
+SR1 time:  2861 True False
+SR1 time:  2866 True False
+SR1 time:  2871 True False
+SR1 time:  2876 True False
+SR1 time:  2881 True False
+SR1 time:  2886 True False
+Current time:  2893  Packet size:  12  Remaining buffer:  12  Incoming time:  2856  Packet tx time:  2893
+SR1 time:  2891 True False
+SR1 time:  2921 True False
+SR1 time:  2926 True False
+Current time:  2936  Packet size:  2  Remaining buffer:  2  Incoming time:  2920  Packet tx time:  2936
+Current time:  2936  Packet size:  2  Remaining buffer:  2  Incoming time:  2926  Packet tx time:  2936
+SR1 time:  2931 True False
+SR1 time:  2951 True False
+SR1 time:  2956 True False
+SR1 time:  2961 True False
+SR1 time:  2966 True False
+Current time:  2958  Packet size:  2  Remaining buffer:  2  Incoming time:  2950  Packet tx time:  2958
+Current time:  2958  Packet size:  7  Remaining buffer:  7  Incoming time:  2953  Packet tx time:  2958
+SR1 time:  2971 True False
+SR1 time:  2976 True False
+SR1 time:  2981 True False
+SR1 time:  2986 True False
+SR1 time:  2991 True False
+SR1 time:  2996 True False
+SR1 time:  3001 True False
+SR1 time:  3006 True False
+SR1 time:  3011 True False
+SR1 time:  3016 True False
+SR1 time:  3026 True False
+SR1 time:  3031 True False
+SR1 time:  3036 True False
+SR1 time:  3041 True False
+SR1 time:  3046 True False
+SR1 time:  3051 True False
+SR1 time:  3056 True False
+SR1 time:  3061 True False
+SR1 time:  3066 True False
+SR1 time:  3086 True False
+SR1 time:  3091 True False
+SR1 time:  3096 True False
+SR1 time:  3101 True False
+SR1 time:  3106 True False
+SR1 time:  3111 True False
+SR1 time:  3116 True False
+SR1 time:  3121 True False
+SR1 time:  3126 True False
+SR1 time:  3131 True False
+SR1 time:  3136 True False
+SR1 time:  3141 True False
+SR1 time:  3146 True False
+SR1 time:  3281 True False
+Current time:  3308  Packet size:  990  Remaining buffer:  13  Incoming time:  2966  Packet tx time:  3069
+SR progress is False
+Three way:  [2796, 3069]
+SR2 time:  3331 False True
+Pend:  [3308, 3331]
+SR1 time:  3336 True False
+SR1 time:  3516 True False
+SR1 time:  3521 True False
+SR1 time:  3526 True False
+SR1 time:  3531 True False
+SR1 time:  3536 True False
+SR1 time:  3541 True False
+SR1 time:  3546 True False
+SR1 time:  3551 True False
+SR1 time:  3556 True False
+SR1 time:  3611 True False
+SR1 time:  3616 True False
+SR1 time:  3621 True False
+SR1 time:  3626 True False
+SR1 time:  3631 True False
+SR1 time:  3636 True False
+SR1 time:  3641 True False
+SR1 time:  3646 True False
+SR1 time:  3651 True False
+SR1 time:  3656 True False
+SR1 time:  3661 True False
+Current time:  3840  Packet size:  990  Remaining buffer:  13  Incoming time:  3545  Packet tx time:  3561
+Tx:  [3069, 3308] [[3069, 3308]]
+SR1 time:  3856 True True
+SR1 time:  3861 True True
+SR1 time:  3866 True True
+SR1 time:  3871 True True
+Current time:  3894  Packet size:  85  Remaining buffer:  85  Incoming time:  3891  Packet tx time:  3894
+SR1 time:  3891 True True
+SR1 time:  3896 True True
+SR1 time:  3921 True True
+SR1 time:  3926 True True
+SR1 time:  3931 True True
+SR1 time:  3986 True True
+SR1 time:  3991 True True
+SR1 time:  3996 True True
+SR1 time:  4001 True True
+SR1 time:  4006 True True
+SR1 time:  4061 True True
+SR1 time:  4066 True True
+SR1 time:  4071 True True
+SR1 time:  4076 True True
+SR1 time:  4081 True True
+SR1 time:  4086 True True
+SR1 time:  4091 True True
+SR1 time:  4096 True True
+SR1 time:  4101 True True
+SR1 time:  4106 True True
+SR1 time:  4111 True True
+SR1 time:  4116 True True
+SR1 time:  4121 True True
+SR1 time:  4126 True True
+SR1 time:  4131 True True
+SR1 time:  4136 True True
+SR1 time:  4141 True True
+SR1 time:  4146 True True
+SR1 time:  4151 True True
+SR1 time:  4156 True True
+SR1 time:  4161 True True
+SR1 time:  4166 True True
+SR1 time:  4171 True True
+SR1 time:  4176 True True
+SR1 time:  4181 True True
+SR1 time:  4186 True True
+SR1 time:  4191 True True
+SR1 time:  4196 True True
+SR1 time:  4201 True True
+SR1 time:  4206 True True
+SR1 time:  4211 True True
+SR1 time:  4216 True True
+SR1 time:  4221 True True
+SR1 time:  4226 True True
+SR1 time:  4231 True True
+SR1 time:  4236 True True
+SR1 time:  4241 True True
+SR1 time:  4246 True True
+SR1 time:  4251 True True
+SR1 time:  4256 True True
+SR1 time:  4261 True True
+SR1 time:  4266 True True
+SR1 time:  4271 True True
+SR1 time:  4276 True True
+SR1 time:  4281 True True
+SR1 time:  4286 True True
+SR1 time:  4291 True True
+SR1 time:  4296 True True
+SR1 time:  4301 True True
+SR1 time:  4306 True True
+SR1 time:  4311 True True
+SR1 time:  4316 True True
+SR1 time:  4321 True True
+SR1 time:  4326 True True
+SR1 time:  4331 True True
+SR1 time:  4336 True True
+SR1 time:  4341 True True
+SR1 time:  4346 True True
+SR1 time:  4351 True True
+SR1 time:  4356 True True
+SR1 time:  4361 True True
+SR1 time:  4366 True True
+SR1 time:  4371 True True
+SR1 time:  4376 True True
+Current time:  4585  Packet size:  990  Remaining buffer:  990  Incoming time:  4467  Packet tx time:  4585
+SR progress is False
+First byte:  [3331, 4585]
+SR1 time:  5255 False True
+SR progress is True
+Pend:  [4585, 5255]
+SR1 time:  5260 True False
+SR1 time:  5285 True False
+SR1 time:  5300 True False
+SR1 time:  5305 True False
+SR1 time:  5315 True False
+SR1 time:  5320 True False
+SR1 time:  5325 True False
+Current time:  5307  Packet size:  2  Remaining buffer:  2  Incoming time:  5301  Packet tx time:  5307
+Tx:  [4585, 4585] [[3069, 3308], [4585, 4585]]
+Current time:  5327  Packet size:  78  Remaining buffer:  2  Incoming time:  5313  Packet tx time:  5322
+Current time:  5340  Packet size:  8652  Remaining buffer:  1322  Incoming time:  5323  Packet tx time:  5327
+SR progress is False
+First byte:  [5255, 5327]
+SR1 time:  5360 False True
+SR progress is True
+Pend:  [5340, 5360]
+Current time:  5343  Packet size:  4326  Remaining buffer:  2  Incoming time:  5324  Packet tx time:  5340
+Current time:  5347  Packet size:  2884  Remaining buffer:  506  Incoming time:  5345  Packet tx time:  5346
+Tx:  [5327, 5343] [[3069, 3308], [4585, 4585], [5327, 5343]]
+Current time:  5379  Packet size:  2886  Remaining buffer:  632  Incoming time:  5362  Packet tx time:  5367
+SR progress is False
+First byte:  [5360, 5367]
+SR1 time:  5405 False True
+SR progress is True
+Pend:  [5379, 5405]
+SR1 time:  5410 True False
+Current time:  5383  Packet size:  5768  Remaining buffer:  413  Incoming time:  5364  Packet tx time:  5379
+Current time:  5383  Packet size:  1442  Remaining buffer:  1442  Incoming time:  5368  Packet tx time:  5383
+Current time:  5388  Packet size:  10094  Remaining buffer:  1722  Incoming time:  5369  Packet tx time:  5383
+Current time:  5392  Packet size:  7210  Remaining buffer:  1317  Incoming time:  5370  Packet tx time:  5388
+Current time:  5393  Packet size:  1442  Remaining buffer:  570  Incoming time:  5371  Packet tx time:  5392
+Current time:  5393  Packet size:  54  Remaining buffer:  54  Incoming time:  5375  Packet tx time:  5393
+Current time:  5393  Packet size:  837  Remaining buffer:  837  Incoming time:  5378  Packet tx time:  5393
+Current time:  5422  Packet size:  1271  Remaining buffer:  1155  Incoming time:  5402  Packet tx time:  5417
+Tx:  [5367, 5393] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393]]
+Current time:  5424  Packet size:  5768  Remaining buffer:  2168  Incoming time:  5404  Packet tx time:  5422
+SR progress is False
+First byte:  [5405, 5422]
+Current time:  5431  Packet size:  8652  Remaining buffer:  560  Incoming time:  5411  Packet tx time:  5424
+Current time:  5434  Packet size:  7098  Remaining buffer:  524  Incoming time:  5412  Packet tx time:  5431
+Current time:  5436  Packet size:  5768  Remaining buffer:  1534  Incoming time:  5413  Packet tx time:  5434
+Current time:  5437  Packet size:  2884  Remaining buffer:  2038  Incoming time:  5418  Packet tx time:  5436
+Current time:  5438  Packet size:  1946  Remaining buffer:  1607  Incoming time:  5425  Packet tx time:  5437
+Current time:  5440  Packet size:  4831  Remaining buffer:  1679  Incoming time:  5426  Packet tx time:  5438
+Current time:  5464  Packet size:  312  Remaining buffer:  2  Incoming time:  5446  Packet tx time:  5447
+Tx:  [5422, 5440] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440]]
+Current time:  5469  Packet size:  4642  Remaining buffer:  1969  Incoming time:  5448  Packet tx time:  5464
+SR progress is False
+Current time:  5472  Packet size:  6273  Remaining buffer:  722  Incoming time:  5449  Packet tx time:  5469
+Current time:  5473  Packet size:  2884  Remaining buffer:  1035  Incoming time:  5451  Packet tx time:  5472
+Current time:  5473  Packet size:  1442  Remaining buffer:  1442  Incoming time:  5452  Packet tx time:  5473
+Current time:  5477  Packet size:  2884  Remaining buffer:  221  Incoming time:  5453  Packet tx time:  5473
+Current time:  5478  Packet size:  4326  Remaining buffer:  1976  Incoming time:  5455  Packet tx time:  5477
+Current time:  5480  Packet size:  4326  Remaining buffer:  1164  Incoming time:  5456  Packet tx time:  5478
+Current time:  5481  Packet size:  1759  Remaining buffer:  543  Incoming time:  5458  Packet tx time:  5480
+Current time:  5481  Packet size:  574  Remaining buffer:  574  Incoming time:  5459  Packet tx time:  5481
+Current time:  5482  Packet size:  1442  Remaining buffer:  180  Incoming time:  5460  Packet tx time:  5481
+Current time:  5485  Packet size:  5768  Remaining buffer:  805  Incoming time:  5462  Packet tx time:  5482
+Current time:  5486  Packet size:  2884  Remaining buffer:  832  Incoming time:  5463  Packet tx time:  5485
+Current time:  5486  Packet size:  2  Remaining buffer:  2  Incoming time:  5467  Packet tx time:  5486
+Current time:  5486  Packet size:  504  Remaining buffer:  504  Incoming time:  5475  Packet tx time:  5486
+Current time:  5488  Packet size:  1755  Remaining buffer:  2  Incoming time:  5476  Packet tx time:  5486
+Current time:  5492  Packet size:  504  Remaining buffer:  504  Incoming time:  5491  Packet tx time:  5492
+Tx:  [5464, 5488] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440], [5464, 5488]]
+SR1 time:  5500 False True
+SR progress is True
+Pend:  [5488, 5500]
+SR1 time:  5505 True False
+Current time:  5522  Packet size:  5768  Remaining buffer:  67  Incoming time:  5499  Packet tx time:  5512
+SR progress is False
+First byte:  [5500, 5512]
+Current time:  5523  Packet size:  5768  Remaining buffer:  2783  Incoming time:  5500  Packet tx time:  5522
+Current time:  5525  Packet size:  2884  Remaining buffer:  2611  Incoming time:  5501  Packet tx time:  5523
+Current time:  5527  Packet size:  5672  Remaining buffer:  2171  Incoming time:  5507  Packet tx time:  5525
+Current time:  5529  Packet size:  5768  Remaining buffer:  1835  Incoming time:  5515  Packet tx time:  5527
+Current time:  5532  Packet size:  7210  Remaining buffer:  362  Incoming time:  5516  Packet tx time:  5529
+Current time:  5533  Packet size:  4546  Remaining buffer:  1854  Incoming time:  5517  Packet tx time:  5532
+Current time:  5534  Packet size:  4156  Remaining buffer:  2954  Incoming time:  5518  Packet tx time:  5533
+Current time:  5534  Packet size:  25  Remaining buffer:  25  Incoming time:  5524  Packet tx time:  5534
+SR2 time:  5545 False False
+Current time:  5566  Packet size:  5768  Remaining buffer:  902  Incoming time:  5545  Packet tx time:  5552
+Tx:  [5512, 5534] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440], [5464, 5488], [5512, 5534]]
+Current time:  5568  Packet size:  7210  Remaining buffer:  3015  Incoming time:  5546  Packet tx time:  5566
+SR progress is False
+First byte:  [5545, 5566]
+Current time:  5568  Packet size:  2  Remaining buffer:  2  Incoming time:  5547  Packet tx time:  5568
+Current time:  5571  Packet size:  5768  Remaining buffer:  104  Incoming time:  5554  Packet tx time:  5568
+Current time:  5574  Packet size:  7210  Remaining buffer:  1206  Incoming time:  5555  Packet tx time:  5571
+Current time:  5576  Packet size:  7210  Remaining buffer:  2304  Incoming time:  5556  Packet tx time:  5574
+Current time:  5579  Packet size:  8652  Remaining buffer:  1790  Incoming time:  5561  Packet tx time:  5576
+Current time:  5580  Packet size:  2913  Remaining buffer:  1647  Incoming time:  5562  Packet tx time:  5579
+Current time:  5582  Packet size:  4154  Remaining buffer:  174  Incoming time:  5563  Packet tx time:  5580
+Current time:  5611  Packet size:  2884  Remaining buffer:  387  Incoming time:  5590  Packet tx time:  5601
+Tx:  [5566, 5582] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440], [5464, 5488], [5512, 5534], [5566, 5582]]
+Current time:  5612  Packet size:  5240  Remaining buffer:  2575  Incoming time:  5591  Packet tx time:  5611
+SR progress is False
+Current time:  5617  Packet size:  2884  Remaining buffer:  2602  Incoming time:  5605  Packet tx time:  5612
+Current time:  5620  Packet size:  7210  Remaining buffer:  648  Incoming time:  5606  Packet tx time:  5617
+Current time:  5622  Packet size:  7092  Remaining buffer:  2503  Incoming time:  5607  Packet tx time:  5620
+Current time:  5624  Packet size:  5768  Remaining buffer:  2159  Incoming time:  5608  Packet tx time:  5622
+Current time:  5627  Packet size:  7210  Remaining buffer:  205  Incoming time:  5609  Packet tx time:  5624
+Current time:  5629  Packet size:  7210  Remaining buffer:  1303  Incoming time:  5610  Packet tx time:  5627
+Current time:  5633  Packet size:  6680  Remaining buffer:  2264  Incoming time:  5613  Packet tx time:  5629
+Current time:  5636  Packet size:  5768  Remaining buffer:  1951  Incoming time:  5614  Packet tx time:  5633
+Current time:  5651  Packet size:  5768  Remaining buffer:  2261  Incoming time:  5639  Packet tx time:  5644
+Tx:  [5611, 5636] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440], [5464, 5488], [5512, 5534], [5566, 5582], [5611, 5636]]
+Current time:  5651  Packet size:  314  Remaining buffer:  314  Incoming time:  5640  Packet tx time:  5651
+SR progress is False
+Current time:  5651  Packet size:  25  Remaining buffer:  25  Incoming time:  5641  Packet tx time:  5651
+Current time:  5660  Packet size:  2714  Remaining buffer:  1460  Incoming time:  5642  Packet tx time:  5651
+Current time:  5661  Packet size:  2140  Remaining buffer:  1029  Incoming time:  5643  Packet tx time:  5660
+Current time:  5668  Packet size:  8652  Remaining buffer:  1725  Incoming time:  5655  Packet tx time:  5661
+Current time:  5671  Packet size:  7210  Remaining buffer:  253  Incoming time:  5656  Packet tx time:  5668
+Current time:  5673  Packet size:  7092  Remaining buffer:  1241  Incoming time:  5657  Packet tx time:  5671
+Current time:  5677  Packet size:  7210  Remaining buffer:  2341  Incoming time:  5658  Packet tx time:  5673
+Current time:  5680  Packet size:  8652  Remaining buffer:  1827  Incoming time:  5659  Packet tx time:  5677
+Current time:  5682  Packet size:  5768  Remaining buffer:  2165  Incoming time:  5664  Packet tx time:  5680
+Current time:  5684  Packet size:  5768  Remaining buffer:  1825  Incoming time:  5666  Packet tx time:  5682
+Current time:  5684  Packet size:  25  Remaining buffer:  25  Incoming time:  5674  Packet tx time:  5684
+Current time:  5685  Packet size:  1270  Remaining buffer:  64  Incoming time:  5675  Packet tx time:  5684
+Current time:  5694  Packet size:  2  Remaining buffer:  2  Incoming time:  5693  Packet tx time:  5694
+Tx:  [5651, 5685] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440], [5464, 5488], [5512, 5534], [5566, 5582], [5611, 5636], [5651, 5685]]
+SR1 time:  5705 False True
+SR progress is True
+Pend:  [5685, 5705]
+Current time:  5718  Packet size:  5768  Remaining buffer:  2718  Incoming time:  5696  Packet tx time:  5717
+SR progress is False
+First byte:  [5705, 5717]
+Current time:  5719  Packet size:  2884  Remaining buffer:  2546  Incoming time:  5697  Packet tx time:  5718
+Current time:  5721  Packet size:  5768  Remaining buffer:  2687  Incoming time:  5701  Packet tx time:  5719
+Current time:  5722  Packet size:  2884  Remaining buffer:  2712  Incoming time:  5702  Packet tx time:  5721
+Current time:  5733  Packet size:  14420  Remaining buffer:  1858  Incoming time:  5703  Packet tx time:  5722
+Current time:  5738  Packet size:  7210  Remaining buffer:  493  Incoming time:  5704  Packet tx time:  5733
+Current time:  5740  Packet size:  5768  Remaining buffer:  1123  Incoming time:  5705  Packet tx time:  5738
+Current time:  5745  Packet size:  7210  Remaining buffer:  1197  Incoming time:  5706  Packet tx time:  5740
+Current time:  5747  Packet size:  4228  Remaining buffer:  670  Incoming time:  5707  Packet tx time:  5745
+Current time:  5756  Packet size:  8562  Remaining buffer:  1159  Incoming time:  5712  Packet tx time:  5747
+Current time:  5756  Packet size:  697  Remaining buffer:  697  Incoming time:  5748  Packet tx time:  5756
+Current time:  5759  Packet size:  3389  Remaining buffer:  487  Incoming time:  5749  Packet tx time:  5756
+Current time:  5765  Packet size:  5163  Remaining buffer:  1085  Incoming time:  5750  Packet tx time:  5759
+Current time:  5765  Packet size:  694  Remaining buffer:  694  Incoming time:  5752  Packet tx time:  5765
+Current time:  5773  Packet size:  3388  Remaining buffer:  409  Incoming time:  5755  Packet tx time:  5765
+Current time:  5773  Packet size:  508  Remaining buffer:  508  Incoming time:  5758  Packet tx time:  5773
+Current time:  5776  Packet size:  2790  Remaining buffer:  1138  Incoming time:  5760  Packet tx time:  5773
+Current time:  5776  Packet size:  2  Remaining buffer:  2  Incoming time:  5762  Packet tx time:  5776
+Current time:  5778  Packet size:  504  Remaining buffer:  266  Incoming time:  5764  Packet tx time:  5776
+Current time:  5783  Packet size:  6272  Remaining buffer:  1783  Incoming time:  5767  Packet tx time:  5778
+Current time:  5787  Packet size:  4835  Remaining buffer:  904  Incoming time:  5768  Packet tx time:  5783
+Current time:  5791  Packet size:  4831  Remaining buffer:  17  Incoming time:  5769  Packet tx time:  5787
+Current time:  5791  Packet size:  1946  Remaining buffer:  1946  Incoming time:  5770  Packet tx time:  5791
+Current time:  5792  Packet size:  976  Remaining buffer:  80  Incoming time:  5771  Packet tx time:  5791
+Current time:  5793  Packet size:  4831  Remaining buffer:  2052  Incoming time:  5774  Packet tx time:  5792
+Current time:  5794  Packet size:  3197  Remaining buffer:  2392  Incoming time:  5775  Packet tx time:  5793
+Current time:  5795  Packet size:  2884  Remaining buffer:  2418  Incoming time:  5777  Packet tx time:  5794
+Current time:  5795  Packet size:  313  Remaining buffer:  313  Incoming time:  5779  Packet tx time:  5795
+Current time:  5795  Packet size:  25  Remaining buffer:  25  Incoming time:  5781  Packet tx time:  5795
+Current time:  5796  Packet size:  506  Remaining buffer:  402  Incoming time:  5782  Packet tx time:  5795
+Current time:  5796  Packet size:  1467  Remaining buffer:  1467  Incoming time:  5784  Packet tx time:  5796
+Current time:  5796  Packet size:  505  Remaining buffer:  505  Incoming time:  5786  Packet tx time:  5796
+Current time:  5797  Packet size:  2913  Remaining buffer:  2428  Incoming time:  5788  Packet tx time:  5796
+Current time:  5799  Packet size:  3389  Remaining buffer:  101  Incoming time:  5790  Packet tx time:  5797
+Current time:  5817  Packet size:  7210  Remaining buffer:  2452  Incoming time:  5800  Packet tx time:  5801
+Tx:  [5717, 5799] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440], [5464, 5488], [5512, 5534], [5566, 5582], [5611, 5636], [5651, 5685], [5717, 5799]]
+Current time:  5821  Packet size:  5795  Remaining buffer:  149  Incoming time:  5802  Packet tx time:  5817
+SR progress is False
+Current time:  5821  Packet size:  507  Remaining buffer:  507  Incoming time:  5803  Packet tx time:  5821
+Current time:  5827  Packet size:  2909  Remaining buffer:  708  Incoming time:  5804  Packet tx time:  5821
+Current time:  5827  Packet size:  1467  Remaining buffer:  1467  Incoming time:  5805  Packet tx time:  5827
+Current time:  5828  Packet size:  2911  Remaining buffer:  2030  Incoming time:  5806  Packet tx time:  5827
+Current time:  5829  Packet size:  1748  Remaining buffer:  724  Incoming time:  5808  Packet tx time:  5828
+Current time:  5830  Packet size:  2884  Remaining buffer:  552  Incoming time:  5809  Packet tx time:  5829
+Current time:  5830  Packet size:  27  Remaining buffer:  27  Incoming time:  5811  Packet tx time:  5830
+Current time:  5830  Packet size:  217  Remaining buffer:  217  Incoming time:  5812  Packet tx time:  5830
+Current time:  5832  Packet size:  5768  Remaining buffer:  939  Incoming time:  5814  Packet tx time:  5830
+Current time:  5834  Packet size:  5768  Remaining buffer:  595  Incoming time:  5815  Packet tx time:  5832
+Current time:  5834  Packet size:  1949  Remaining buffer:  1949  Incoming time:  5816  Packet tx time:  5834
+Current time:  5835  Packet size:  2911  Remaining buffer:  2401  Incoming time:  5818  Packet tx time:  5834
+Current time:  5838  Packet size:  1949  Remaining buffer:  1294  Incoming time:  5822  Packet tx time:  5835
+Current time:  5838  Packet size:  27  Remaining buffer:  27  Incoming time:  5823  Packet tx time:  5838
+Current time:  5838  Packet size:  1467  Remaining buffer:  1467  Incoming time:  5824  Packet tx time:  5838
+Current time:  5840  Packet size:  1270  Remaining buffer:  1004  Incoming time:  5825  Packet tx time:  5838
+Current time:  5842  Packet size:  1469  Remaining buffer:  94  Incoming time:  5826  Packet tx time:  5840
+Current time:  5844  Packet size:  5795  Remaining buffer:  2665  Incoming time:  5836  Packet tx time:  5842
+Current time:  5853  Packet size:  4154  Remaining buffer:  537  Incoming time:  5837  Packet tx time:  5844
+Current time:  5855  Packet size:  5768  Remaining buffer:  193  Incoming time:  5839  Packet tx time:  5853
+Current time:  5856  Packet size:  2911  Remaining buffer:  1058  Incoming time:  5841  Packet tx time:  5855
+Current time:  5856  Packet size:  1467  Remaining buffer:  1467  Incoming time:  5845  Packet tx time:  5856
+Current time:  5858  Packet size:  5768  Remaining buffer:  2380  Incoming time:  5847  Packet tx time:  5856
+Current time:  5861  Packet size:  5768  Remaining buffer:  2036  Incoming time:  5848  Packet tx time:  5858
+Current time:  5863  Packet size:  2884  Remaining buffer:  1895  Incoming time:  5849  Packet tx time:  5861
+Current time:  5870  Packet size:  4158  Remaining buffer:  140  Incoming time:  5851  Packet tx time:  5863
+Current time:  5871  Packet size:  2714  Remaining buffer:  474  Incoming time:  5864  Packet tx time:  5870
+Current time:  5872  Packet size:  4154  Remaining buffer:  1574  Incoming time:  5865  Packet tx time:  5871
+Current time:  5880  Packet size:  7210  Remaining buffer:  2504  Incoming time:  5866  Packet tx time:  5872
+Current time:  5883  Packet size:  7210  Remaining buffer:  1232  Incoming time:  5867  Packet tx time:  5880
+Current time:  5883  Packet size:  27  Remaining buffer:  27  Incoming time:  5868  Packet tx time:  5883
+Current time:  5884  Packet size:  4038  Remaining buffer:  2245  Incoming time:  5873  Packet tx time:  5883
+Current time:  5894  Packet size:  7210  Remaining buffer:  967  Incoming time:  5874  Packet tx time:  5884
+Current time:  5898  Packet size:  5768  Remaining buffer:  1017  Incoming time:  5875  Packet tx time:  5894
+Current time:  5900  Packet size:  5768  Remaining buffer:  1549  Incoming time:  5876  Packet tx time:  5898
+Current time:  5902  Packet size:  5768  Remaining buffer:  2079  Incoming time:  5887  Packet tx time:  5900
+SR1 time:  5915 False True
+SR progress is True
+Pend:  [5821, 5915]
+Current time:  5908  Packet size:  3391  Remaining buffer:  239  Incoming time:  5888  Packet tx time:  5902
+Current time:  5908  Packet size:  25  Remaining buffer:  25  Incoming time:  5889  Packet tx time:  5908
+Current time:  5908  Packet size:  25  Remaining buffer:  25  Incoming time:  5895  Packet tx time:  5908
+Current time:  5909  Packet size:  4351  Remaining buffer:  1783  Incoming time:  5904  Packet tx time:  5908
+Current time:  5910  Packet size:  2909  Remaining buffer:  1833  Incoming time:  5905  Packet tx time:  5909
+Current time:  5912  Packet size:  4351  Remaining buffer:  945  Incoming time:  5906  Packet tx time:  5910
+Current time:  5912  Packet size:  505  Remaining buffer:  505  Incoming time:  5907  Packet tx time:  5912
+Current time:  5920  Packet size:  1442  Remaining buffer:  1442  Incoming time:  5914  Packet tx time:  5920
+Tx:  [5817, 5912] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440], [5464, 5488], [5512, 5534], [5566, 5582], [5611, 5636], [5651, 5685], [5717, 5799], [5817, 5912]]
+Current time:  5940  Packet size:  7210  Remaining buffer:  1219  Incoming time:  5915  Packet tx time:  5920
+SR progress is False
+First byte:  [5915, 5920]
+Current time:  5943  Packet size:  7210  Remaining buffer:  334  Incoming time:  5916  Packet tx time:  5940
+Current time:  5947  Packet size:  7210  Remaining buffer:  692  Incoming time:  5917  Packet tx time:  5943
+Current time:  5948  Packet size:  4156  Remaining buffer:  1989  Incoming time:  5918  Packet tx time:  5947
+Current time:  5953  Packet size:  4154  Remaining buffer:  1098  Incoming time:  5919  Packet tx time:  5948
+Current time:  5954  Packet size:  4326  Remaining buffer:  2370  Incoming time:  5925  Packet tx time:  5953
+Current time:  5957  Packet size:  7210  Remaining buffer:  416  Incoming time:  5926  Packet tx time:  5954
+Current time:  5961  Packet size:  5768  Remaining buffer:  74  Incoming time:  5927  Packet tx time:  5957
+Current time:  5966  Packet size:  7210  Remaining buffer:  1199  Incoming time:  5928  Packet tx time:  5961
+Current time:  5967  Packet size:  4326  Remaining buffer:  2473  Incoming time:  5929  Packet tx time:  5966
+Current time:  5971  Packet size:  2884  Remaining buffer:  48  Incoming time:  5934  Packet tx time:  5967
+Current time:  5983  Packet size:  7210  Remaining buffer:  2565  Incoming time:  5935  Packet tx time:  5971
+Current time:  5988  Packet size:  4741  Remaining buffer:  1411  Incoming time:  5936  Packet tx time:  5983
+Current time:  5990  Packet size:  2909  Remaining buffer:  1264  Incoming time:  5937  Packet tx time:  5988
+Current time:  5990  Packet size:  504  Remaining buffer:  504  Incoming time:  5939  Packet tx time:  5990
+Current time:  5993  Packet size:  2712  Remaining buffer:  1909  Incoming time:  5949  Packet tx time:  5990
+Current time:  5999  Packet size:  1755  Remaining buffer:  469  Incoming time:  5950  Packet tx time:  5993
+Current time:  5999  Packet size:  219  Remaining buffer:  219  Incoming time:  5951  Packet tx time:  5999
+Current time:  5999  Packet size:  408  Remaining buffer:  408  Incoming time:  5959  Packet tx time:  5999
+Current time:  6000  Packet size:  3482  Remaining buffer:  1910  Incoming time:  5960  Packet tx time:  5999
+Current time:  6003  Packet size:  2909  Remaining buffer:  2076  Incoming time:  5963  Packet tx time:  6000
+Current time:  6010  Packet size:  4154  Remaining buffer:  1218  Incoming time:  5965  Packet tx time:  6003
+Current time:  6010  Packet size:  313  Remaining buffer:  313  Incoming time:  5970  Packet tx time:  6010
+Current time:  6013  Packet size:  1469  Remaining buffer:  711  Incoming time:  5973  Packet tx time:  6010
+Current time:  6013  Packet size:  1270  Remaining buffer:  1270  Incoming time:  5974  Packet tx time:  6013
+Current time:  6013  Packet size:  217  Remaining buffer:  217  Incoming time:  5975  Packet tx time:  6013
+Current time:  6016  Packet size:  1467  Remaining buffer:  613  Incoming time:  5977  Packet tx time:  6013
+Current time:  6016  Packet size:  1270  Remaining buffer:  1270  Incoming time:  5978  Packet tx time:  6016
+Current time:  6019  Packet size:  1270  Remaining buffer:  103  Incoming time:  5979  Packet tx time:  6016
+Current time:  6019  Packet size:  1469  Remaining buffer:  1469  Incoming time:  5981  Packet tx time:  6019
+Current time:  6019  Packet size:  25  Remaining buffer:  25  Incoming time:  5985  Packet tx time:  6019
+Current time:  6022  Packet size:  4158  Remaining buffer:  1087  Incoming time:  5986  Packet tx time:  6019
+Current time:  6022  Packet size:  25  Remaining buffer:  25  Incoming time:  5989  Packet tx time:  6022
+Current time:  6023  Packet size:  3103  Remaining buffer:  1159  Incoming time:  5991  Packet tx time:  6022
+Current time:  6024  Packet size:  2714  Remaining buffer:  817  Incoming time:  5992  Packet tx time:  6023
+Current time:  6025  Packet size:  2712  Remaining buffer:  473  Incoming time:  5994  Packet tx time:  6024
+Current time:  6025  Packet size:  1270  Remaining buffer:  1270  Incoming time:  5995  Packet tx time:  6025
+Current time:  6026  Packet size:  2909  Remaining buffer:  1596  Incoming time:  5997  Packet tx time:  6025
+Current time:  6030  Packet size:  2911  Remaining buffer:  1652  Incoming time:  6001  Packet tx time:  6026
+Current time:  6031  Packet size:  2714  Remaining buffer:  2080  Incoming time:  6004  Packet tx time:  6030
+Current time:  6037  Packet size:  1658  Remaining buffer:  684  Incoming time:  6005  Packet tx time:  6031
+Current time:  6037  Packet size:  1471  Remaining buffer:  1471  Incoming time:  6006  Packet tx time:  6037
+Current time:  6045  Packet size:  2714  Remaining buffer:  27  Incoming time:  6012  Packet tx time:  6037
+Current time:  6045  Packet size:  1467  Remaining buffer:  1467  Incoming time:  6014  Packet tx time:  6045
+Current time:  6047  Packet size:  3100  Remaining buffer:  1372  Incoming time:  6015  Packet tx time:  6045
+Current time:  6048  Packet size:  2712  Remaining buffer:  1028  Incoming time:  6017  Packet tx time:  6047
+Current time:  6048  Packet size:  25  Remaining buffer:  25  Incoming time:  6018  Packet tx time:  6048
+Current time:  6048  Packet size:  1755  Remaining buffer:  1755  Incoming time:  6020  Packet tx time:  6048
+Current time:  6049  Packet size:  1270  Remaining buffer:  1022  Incoming time:  6027  Packet tx time:  6048
+Current time:  6050  Packet size:  4154  Remaining buffer:  2317  Incoming time:  6028  Packet tx time:  6049
+Current time:  6052  Packet size:  4154  Remaining buffer:  846  Incoming time:  6029  Packet tx time:  6050
+Current time:  6052  Packet size:  2  Remaining buffer:  2  Incoming time:  6032  Packet tx time:  6052
+Current time:  6052  Packet size:  27  Remaining buffer:  27  Incoming time:  6034  Packet tx time:  6052
+Current time:  6053  Packet size:  4543  Remaining buffer:  2364  Incoming time:  6035  Packet tx time:  6052
+Current time:  6056  Packet size:  7042  Remaining buffer:  437  Incoming time:  6036  Packet tx time:  6053
+Current time:  6057  Packet size:  2909  Remaining buffer:  294  Incoming time:  6039  Packet tx time:  6056
+Current time:  6058  Packet size:  4639  Remaining buffer:  1877  Incoming time:  6040  Packet tx time:  6057
+Current time:  6060  Packet size:  4353  Remaining buffer:  315  Incoming time:  6041  Packet tx time:  6058
+Current time:  6061  Packet size:  4154  Remaining buffer:  1898  Incoming time:  6042  Packet tx time:  6060
+SR2 time:  6075 False True
+Pend:  [5940, 6075]
+Current time:  6063  Packet size:  1467  Remaining buffer:  311  Incoming time:  6043  Packet tx time:  6061
+Current time:  6063  Packet size:  1467  Remaining buffer:  1467  Incoming time:  6062  Packet tx time:  6063
+Current time:  6098  Packet size:  7212  Remaining buffer:  916  Incoming time:  6072  Packet tx time:  6082
+Tx:  [5920, 6063] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440], [5464, 5488], [5512, 5534], [5566, 5582], [5611, 5636], [5651, 5685], [5717, 5799], [5817, 5912], [5920, 6063]]
+Current time:  6100  Packet size:  5768  Remaining buffer:  771  Incoming time:  6073  Packet tx time:  6098
+SR progress is False
+First byte:  [6075, 6098]
+Current time:  6102  Packet size:  7210  Remaining buffer:  2354  Incoming time:  6074  Packet tx time:  6100
+Current time:  6105  Packet size:  7210  Remaining buffer:  400  Incoming time:  6075  Packet tx time:  6102
+Current time:  6108  Packet size:  7210  Remaining buffer:  1889  Incoming time:  6076  Packet tx time:  6105
+Current time:  6112  Packet size:  7210  Remaining buffer:  702  Incoming time:  6077  Packet tx time:  6108
+Current time:  6115  Packet size:  10094  Remaining buffer:  1634  Incoming time:  6078  Packet tx time:  6112
+Current time:  6123  Packet size:  10094  Remaining buffer:  1729  Incoming time:  6079  Packet tx time:  6115
+Current time:  6125  Packet size:  5768  Remaining buffer:  1385  Incoming time:  6080  Packet tx time:  6123
+Current time:  6127  Packet size:  7210  Remaining buffer:  2483  Incoming time:  6081  Packet tx time:  6125
+Current time:  6130  Packet size:  4326  Remaining buffer:  699  Incoming time:  6090  Packet tx time:  6127
+Current time:  6143  Packet size:  7210  Remaining buffer:  2542  Incoming time:  6091  Packet tx time:  6130
+Current time:  6149  Packet size:  4158  Remaining buffer:  1688  Incoming time:  6092  Packet tx time:  6143
+Current time:  6151  Packet size:  4154  Remaining buffer:  2983  Incoming time:  6093  Packet tx time:  6149
+Current time:  6154  Packet size:  3101  Remaining buffer:  169  Incoming time:  6094  Packet tx time:  6151
+Current time:  6161  Packet size:  4154  Remaining buffer:  923  Incoming time:  6095  Packet tx time:  6154
+Current time:  6162  Packet size:  2718  Remaining buffer:  782  Incoming time:  6117  Packet tx time:  6161
+Current time:  6164  Packet size:  2714  Remaining buffer:  641  Incoming time:  6118  Packet tx time:  6162
+Current time:  6164  Packet size:  312  Remaining buffer:  312  Incoming time:  6120  Packet tx time:  6164
+Current time:  6164  Packet size:  25  Remaining buffer:  25  Incoming time:  6121  Packet tx time:  6164
+Current time:  6164  Packet size:  25  Remaining buffer:  25  Incoming time:  6128  Packet tx time:  6164
+Current time:  6168  Packet size:  4154  Remaining buffer:  1929  Incoming time:  6131  Packet tx time:  6164
+Current time:  6170  Packet size:  4355  Remaining buffer:  172  Incoming time:  6132  Packet tx time:  6168
+Current time:  6170  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6134  Packet tx time:  6170
+Current time:  6174  Packet size:  4543  Remaining buffer:  358  Incoming time:  6135  Packet tx time:  6170
+Current time:  6178  Packet size:  4154  Remaining buffer:  1458  Incoming time:  6136  Packet tx time:  6174
+Current time:  6183  Packet size:  4355  Remaining buffer:  2082  Incoming time:  6137  Packet tx time:  6178
+Current time:  6186  Packet size:  5596  Remaining buffer:  1566  Incoming time:  6139  Packet tx time:  6183
+Current time:  6191  Packet size:  1467  Remaining buffer:  111  Incoming time:  6141  Packet tx time:  6186
+Current time:  6191  Packet size:  25  Remaining buffer:  25  Incoming time:  6145  Packet tx time:  6191
+Current time:  6193  Packet size:  4156  Remaining buffer:  1236  Incoming time:  6147  Packet tx time:  6191
+Current time:  6195  Packet size:  2039  Remaining buffer:  416  Incoming time:  6150  Packet tx time:  6193
+Current time:  6196  Packet size:  2718  Remaining buffer:  1303  Incoming time:  6152  Packet tx time:  6195
+Current time:  6197  Packet size:  3101  Remaining buffer:  1348  Incoming time:  6155  Packet tx time:  6196
+Current time:  6197  Packet size:  29  Remaining buffer:  29  Incoming time:  6157  Packet tx time:  6197
+Current time:  6198  Packet size:  2714  Remaining buffer:  1236  Incoming time:  6158  Packet tx time:  6197
+Current time:  6201  Packet size:  6081  Remaining buffer:  1521  Incoming time:  6160  Packet tx time:  6198
+Current time:  6202  Packet size:  2712  Remaining buffer:  1374  Incoming time:  6163  Packet tx time:  6201
+Current time:  6202  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6166  Packet tx time:  6202
+Current time:  6202  Packet size:  27  Remaining buffer:  27  Incoming time:  6167  Packet tx time:  6202
+Current time:  6203  Packet size:  2712  Remaining buffer:  2333  Incoming time:  6171  Packet tx time:  6202
+Current time:  6204  Packet size:  2716  Remaining buffer:  1993  Incoming time:  6172  Packet tx time:  6203
+Current time:  6205  Packet size:  2909  Remaining buffer:  1846  Incoming time:  6175  Packet tx time:  6204
+Current time:  6206  Packet size:  1270  Remaining buffer:  60  Incoming time:  6176  Packet tx time:  6205
+Current time:  6206  Packet size:  2716  Remaining buffer:  2716  Incoming time:  6177  Packet tx time:  6206
+Current time:  6216  Packet size:  4326  Remaining buffer:  1017  Incoming time:  6179  Packet tx time:  6206
+Current time:  6221  Packet size:  5596  Remaining buffer:  702  Incoming time:  6181  Packet tx time:  6216
+Current time:  6221  Packet size:  1276  Remaining buffer:  1276  Incoming time:  6182  Packet tx time:  6221
+Current time:  6223  Packet size:  6177  Remaining buffer:  2049  Incoming time:  6185  Packet tx time:  6221
+Current time:  6226  Packet size:  1270  Remaining buffer:  288  Incoming time:  6188  Packet tx time:  6223
+Current time:  6226  Packet size:  1467  Remaining buffer:  1467  Incoming time:  6189  Packet tx time:  6226
+Current time:  6226  Packet size:  1274  Remaining buffer:  1274  Incoming time:  6192  Packet tx time:  6226
+Current time:  6231  Packet size:  4154  Remaining buffer:  1073  Incoming time:  6194  Packet tx time:  6226
+Current time:  6237  Packet size:  8480  Remaining buffer:  1659  Incoming time:  6208  Packet tx time:  6231
+Current time:  6238  Packet size:  2712  Remaining buffer:  1319  Incoming time:  6209  Packet tx time:  6237
+Current time:  6238  Packet size:  313  Remaining buffer:  313  Incoming time:  6210  Packet tx time:  6238
+Current time:  6240  Packet size:  5797  Remaining buffer:  1518  Incoming time:  6212  Packet tx time:  6238
+Current time:  6250  Packet size:  5768  Remaining buffer:  1685  Incoming time:  6213  Packet tx time:  6240
+Current time:  6267  Packet size:  4154  Remaining buffer:  43  Incoming time:  6214  Packet tx time:  6250
+Current time:  6268  Packet size:  1442  Remaining buffer:  681  Incoming time:  6215  Packet tx time:  6267
+Current time:  6271  Packet size:  5598  Remaining buffer:  1013  Incoming time:  6218  Packet tx time:  6268
+Current time:  6272  Packet size:  4156  Remaining buffer:  2113  Incoming time:  6219  Packet tx time:  6271
+Current time:  6272  Packet size:  312  Remaining buffer:  312  Incoming time:  6220  Packet tx time:  6272
+Current time:  6280  Packet size:  4154  Remaining buffer:  664  Incoming time:  6224  Packet tx time:  6272
+Current time:  6280  Packet size:  25  Remaining buffer:  25  Incoming time:  6228  Packet tx time:  6280
+Current time:  6281  Packet size:  4154  Remaining buffer:  2274  Incoming time:  6229  Packet tx time:  6280
+Current time:  6284  Packet size:  3197  Remaining buffer:  2612  Incoming time:  6230  Packet tx time:  6281
+Current time:  6284  Packet size:  25  Remaining buffer:  25  Incoming time:  6234  Packet tx time:  6284
+Current time:  6285  Packet size:  2909  Remaining buffer:  2490  Incoming time:  6241  Packet tx time:  6284
+Current time:  6290  Packet size:  4158  Remaining buffer:  567  Incoming time:  6242  Packet tx time:  6285
+Current time:  6291  Packet size:  2714  Remaining buffer:  711  Incoming time:  6243  Packet tx time:  6290
+Current time:  6292  Packet size:  4351  Remaining buffer:  2008  Incoming time:  6244  Packet tx time:  6291
+Current time:  6296  Packet size:  8480  Remaining buffer:  1324  Incoming time:  6245  Packet tx time:  6292
+Current time:  6303  Packet size:  5596  Remaining buffer:  2447  Incoming time:  6246  Packet tx time:  6296
+Current time:  6305  Packet size:  5596  Remaining buffer:  1931  Incoming time:  6248  Packet tx time:  6303
+Current time:  6305  Packet size:  412  Remaining buffer:  412  Incoming time:  6255  Packet tx time:  6305
+Current time:  6306  Packet size:  2712  Remaining buffer:  2003  Incoming time:  6256  Packet tx time:  6305
+Current time:  6308  Packet size:  4158  Remaining buffer:  51  Incoming time:  6257  Packet tx time:  6306
+Current time:  6309  Packet size:  4156  Remaining buffer:  1151  Incoming time:  6258  Packet tx time:  6308
+Current time:  6310  Packet size:  4351  Remaining buffer:  2446  Incoming time:  6259  Packet tx time:  6309
+Current time:  6315  Packet size:  6184  Remaining buffer:  3030  Incoming time:  6260  Packet tx time:  6310
+Current time:  6317  Packet size:  4582  Remaining buffer:  1701  Incoming time:  6262  Packet tx time:  6315
+Current time:  6326  Packet size:  2712  Remaining buffer:  1359  Incoming time:  6264  Packet tx time:  6317
+Current time:  6327  Packet size:  1702  Remaining buffer:  206  Incoming time:  6265  Packet tx time:  6326
+Current time:  6327  Packet size:  1274  Remaining buffer:  1274  Incoming time:  6275  Packet tx time:  6327
+Current time:  6329  Packet size:  2712  Remaining buffer:  1136  Incoming time:  6276  Packet tx time:  6327
+Current time:  6336  Packet size:  4156  Remaining buffer:  1896  Incoming time:  6277  Packet tx time:  6329
+Current time:  6338  Packet size:  2911  Remaining buffer:  1755  Incoming time:  6278  Packet tx time:  6336
+Current time:  6339  Packet size:  2712  Remaining buffer:  1413  Incoming time:  6279  Packet tx time:  6338
+Current time:  6340  Packet size:  2712  Remaining buffer:  1069  Incoming time:  6282  Packet tx time:  6339
+Current time:  6341  Packet size:  4351  Remaining buffer:  2849  Incoming time:  6283  Packet tx time:  6340
+Current time:  6342  Packet size:  2884  Remaining buffer:  2679  Incoming time:  6288  Packet tx time:  6341
+Current time:  6344  Packet size:  5598  Remaining buffer:  2165  Incoming time:  6297  Packet tx time:  6342
+Current time:  6345  Packet size:  2714  Remaining buffer:  1823  Incoming time:  6298  Packet tx time:  6344
+Current time:  6346  Packet size:  4154  Remaining buffer:  2923  Incoming time:  6299  Packet tx time:  6345
+Current time:  6357  Packet size:  507  Remaining buffer:  378  Incoming time:  6300  Packet tx time:  6346
+Current time:  6361  Packet size:  5596  Remaining buffer:  1312  Incoming time:  6301  Packet tx time:  6357
+Current time:  6361  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6312  Packet tx time:  6361
+Current time:  6366  Packet size:  4154  Remaining buffer:  845  Incoming time:  6313  Packet tx time:  6361
+Current time:  6368  Packet size:  5598  Remaining buffer:  532  Incoming time:  6318  Packet tx time:  6366
+Current time:  6370  Packet size:  4156  Remaining buffer:  1632  Incoming time:  6319  Packet tx time:  6368
+Current time:  6372  Packet size:  5093  Remaining buffer:  1098  Incoming time:  6320  Packet tx time:  6370
+Current time:  6373  Packet size:  4351  Remaining buffer:  2395  Incoming time:  6321  Packet tx time:  6372
+Current time:  6374  Packet size:  2712  Remaining buffer:  2051  Incoming time:  6322  Packet tx time:  6373
+Current time:  6375  Packet size:  2712  Remaining buffer:  1707  Incoming time:  6323  Packet tx time:  6374
+Current time:  6385  Packet size:  5768  Remaining buffer:  625  Incoming time:  6324  Packet tx time:  6375
+Current time:  6386  Packet size:  2884  Remaining buffer:  453  Incoming time:  6325  Packet tx time:  6385
+Current time:  6386  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6328  Packet tx time:  6386
+Current time:  6391  Packet size:  4830  Remaining buffer:  443  Incoming time:  6330  Packet tx time:  6386
+Current time:  6393  Packet size:  2714  Remaining buffer:  1543  Incoming time:  6331  Packet tx time:  6391
+Current time:  6393  Packet size:  25  Remaining buffer:  25  Incoming time:  6334  Packet tx time:  6393
+Current time:  6394  Packet size:  4154  Remaining buffer:  2668  Incoming time:  6335  Packet tx time:  6393
+Current time:  6396  Packet size:  2714  Remaining buffer:  2326  Incoming time:  6337  Packet tx time:  6394
+Current time:  6396  Packet size:  25  Remaining buffer:  25  Incoming time:  6347  Packet tx time:  6396
+Current time:  6399  Packet size:  4154  Remaining buffer:  401  Incoming time:  6348  Packet tx time:  6396
+Current time:  6399  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6349  Packet tx time:  6399
+Current time:  6399  Packet size:  313  Remaining buffer:  313  Incoming time:  6350  Packet tx time:  6399
+Current time:  6401  Packet size:  4353  Remaining buffer:  906  Incoming time:  6351  Packet tx time:  6399
+Current time:  6402  Packet size:  2712  Remaining buffer:  759  Incoming time:  6352  Packet tx time:  6401
+Current time:  6404  Packet size:  7210  Remaining buffer:  1861  Incoming time:  6353  Packet tx time:  6402
+Current time:  6414  Packet size:  2884  Remaining buffer:  100  Incoming time:  6354  Packet tx time:  6404
+Current time:  6414  Packet size:  2909  Remaining buffer:  2909  Incoming time:  6355  Packet tx time:  6414
+Current time:  6417  Packet size:  7210  Remaining buffer:  1053  Incoming time:  6356  Packet tx time:  6414
+Current time:  6419  Packet size:  2909  Remaining buffer:  742  Incoming time:  6359  Packet tx time:  6417
+Current time:  6419  Packet size:  598  Remaining buffer:  598  Incoming time:  6360  Packet tx time:  6419
+Current time:  6425  Packet size:  2714  Remaining buffer:  1197  Incoming time:  6362  Packet tx time:  6419
+Current time:  6426  Packet size:  4154  Remaining buffer:  2295  Incoming time:  6365  Packet tx time:  6425
+Current time:  6427  Packet size:  2712  Remaining buffer:  1951  Incoming time:  6369  Packet tx time:  6426
+Current time:  6428  Packet size:  2718  Remaining buffer:  1613  Incoming time:  6377  Packet tx time:  6427
+Current time:  6428  Packet size:  1272  Remaining buffer:  1272  Incoming time:  6378  Packet tx time:  6428
+Current time:  6431  Packet size:  5596  Remaining buffer:  2858  Incoming time:  6379  Packet tx time:  6428
+Current time:  6443  Packet size:  7210  Remaining buffer:  1240  Incoming time:  6381  Packet tx time:  6431
+Current time:  6445  Packet size:  7210  Remaining buffer:  2338  Incoming time:  6382  Packet tx time:  6443
+Current time:  6446  Packet size:  2714  Remaining buffer:  1998  Incoming time:  6383  Packet tx time:  6445
+Current time:  6447  Packet size:  1467  Remaining buffer:  409  Incoming time:  6384  Packet tx time:  6446
+Current time:  6448  Packet size:  4353  Remaining buffer:  1706  Incoming time:  6388  Packet tx time:  6447
+Current time:  6448  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6389  Packet tx time:  6448
+Current time:  6450  Packet size:  3197  Remaining buffer:  260  Incoming time:  6390  Packet tx time:  6448
+Current time:  6451  Packet size:  2909  Remaining buffer:  600  Incoming time:  6392  Packet tx time:  6450
+Current time:  6452  Packet size:  2712  Remaining buffer:  256  Incoming time:  6395  Packet tx time:  6451
+Current time:  6452  Packet size:  2  Remaining buffer:  2  Incoming time:  6397  Packet tx time:  6452
+Current time:  6452  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6405  Packet tx time:  6452
+Current time:  6453  Packet size:  4154  Remaining buffer:  2626  Incoming time:  6406  Packet tx time:  6452
+Current time:  6455  Packet size:  5797  Remaining buffer:  2311  Incoming time:  6408  Packet tx time:  6453
+Current time:  6456  Packet size:  2712  Remaining buffer:  1971  Incoming time:  6409  Packet tx time:  6455
+Current time:  6460  Packet size:  7210  Remaining buffer:  212  Incoming time:  6410  Packet tx time:  6456
+Current time:  6462  Packet size:  7210  Remaining buffer:  1797  Incoming time:  6411  Packet tx time:  6460
+Current time:  6463  Packet size:  1754  Remaining buffer:  495  Incoming time:  6420  Packet tx time:  6462
+Current time:  6464  Packet size:  4156  Remaining buffer:  1792  Incoming time:  6421  Packet tx time:  6463
+Current time:  6473  Packet size:  4154  Remaining buffer:  2890  Incoming time:  6422  Packet tx time:  6464
+Current time:  6474  Packet size:  2909  Remaining buffer:  2745  Incoming time:  6423  Packet tx time:  6473
+Current time:  6479  Packet size:  4156  Remaining buffer:  989  Incoming time:  6424  Packet tx time:  6474
+Current time:  6481  Packet size:  5768  Remaining buffer:  1132  Incoming time:  6434  Packet tx time:  6479
+Current time:  6485  Packet size:  4156  Remaining buffer:  2429  Incoming time:  6435  Packet tx time:  6481
+Current time:  6487  Packet size:  4156  Remaining buffer:  475  Incoming time:  6436  Packet tx time:  6485
+Current time:  6488  Packet size:  4353  Remaining buffer:  1774  Incoming time:  6437  Packet tx time:  6487
+Current time:  6490  Packet size:  4158  Remaining buffer:  19  Incoming time:  6438  Packet tx time:  6488
+Current time:  6494  Packet size:  7210  Remaining buffer:  3045  Incoming time:  6439  Packet tx time:  6490
+Current time:  6495  Packet size:  25  Remaining buffer:  14  Incoming time:  6441  Packet tx time:  6494
+Current time:  6495  Packet size:  2716  Remaining buffer:  2716  Incoming time:  6458  Packet tx time:  6495
+Current time:  6496  Packet size:  2714  Remaining buffer:  2390  Incoming time:  6465  Packet tx time:  6495
+Current time:  6503  Packet size:  5768  Remaining buffer:  2073  Incoming time:  6466  Packet tx time:  6496
+Current time:  6504  Packet size:  1467  Remaining buffer:  486  Incoming time:  6467  Packet tx time:  6503
+Current time:  6511  Packet size:  4156  Remaining buffer:  459  Incoming time:  6468  Packet tx time:  6504
+Current time:  6512  Packet size:  2712  Remaining buffer:  115  Incoming time:  6469  Packet tx time:  6511
+Current time:  6513  Packet size:  4641  Remaining buffer:  1700  Incoming time:  6470  Packet tx time:  6512
+Current time:  6519  Packet size:  4154  Remaining buffer:  1385  Incoming time:  6471  Packet tx time:  6513
+Current time:  6520  Packet size:  2712  Remaining buffer:  1041  Incoming time:  6472  Packet tx time:  6519
+Current time:  6526  Packet size:  5600  Remaining buffer:  1213  Incoming time:  6475  Packet tx time:  6520
+Current time:  6528  Packet size:  4154  Remaining buffer:  697  Incoming time:  6476  Packet tx time:  6526
+Current time:  6532  Packet size:  4156  Remaining buffer:  1996  Incoming time:  6477  Packet tx time:  6528
+Current time:  6533  Packet size:  1270  Remaining buffer:  210  Incoming time:  6482  Packet tx time:  6532
+Current time:  6534  Packet size:  4154  Remaining buffer:  1310  Incoming time:  6483  Packet tx time:  6533
+Current time:  6535  Packet size:  2712  Remaining buffer:  966  Incoming time:  6484  Packet tx time:  6534
+Current time:  6536  Packet size:  2714  Remaining buffer:  626  Incoming time:  6491  Packet tx time:  6535
+Current time:  6537  Packet size:  4154  Remaining buffer:  1724  Incoming time:  6492  Packet tx time:  6536
+Current time:  6538  Packet size:  1274  Remaining buffer:  141  Incoming time:  6498  Packet tx time:  6537
+Current time:  6542  Packet size:  4154  Remaining buffer:  116  Incoming time:  6499  Packet tx time:  6538
+Current time:  6547  Packet size:  4641  Remaining buffer:  1701  Incoming time:  6500  Packet tx time:  6542
+Current time:  6548  Packet size:  4154  Remaining buffer:  2799  Incoming time:  6501  Packet tx time:  6547
+Current time:  6553  Packet size:  4353  Remaining buffer:  874  Incoming time:  6505  Packet tx time:  6548
+Current time:  6554  Packet size:  4154  Remaining buffer:  1972  Incoming time:  6506  Packet tx time:  6553
+Current time:  6560  Packet size:  2712  Remaining buffer:  1628  Incoming time:  6507  Packet tx time:  6554
+Current time:  6565  Packet size:  4156  Remaining buffer:  184  Incoming time:  6508  Packet tx time:  6560
+Current time:  6566  Packet size:  4154  Remaining buffer:  1284  Incoming time:  6509  Packet tx time:  6565
+Current time:  6566  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6514  Packet tx time:  6566
+Current time:  6572  Packet size:  4156  Remaining buffer:  600  Incoming time:  6515  Packet tx time:  6566
+Current time:  6573  Packet size:  4154  Remaining buffer:  1698  Incoming time:  6516  Packet tx time:  6572
+Current time:  6574  Packet size:  2716  Remaining buffer:  1358  Incoming time:  6517  Packet tx time:  6573
+Current time:  6575  Packet size:  2712  Remaining buffer:  1014  Incoming time:  6522  Packet tx time:  6574
+Current time:  6582  Packet size:  4154  Remaining buffer:  1635  Incoming time:  6523  Packet tx time:  6575
+Current time:  6588  Packet size:  2712  Remaining buffer:  1490  Incoming time:  6524  Packet tx time:  6582
+Current time:  6589  Packet size:  4156  Remaining buffer:  2592  Incoming time:  6525  Packet tx time:  6588
+Current time:  6591  Packet size:  4154  Remaining buffer:  1119  Incoming time:  6529  Packet tx time:  6589
+Current time:  6595  Packet size:  3199  Remaining buffer:  1090  Incoming time:  6530  Packet tx time:  6591
+Current time:  6596  Packet size:  1270  Remaining buffer:  242  Incoming time:  6531  Packet tx time:  6595
+Current time:  6598  Packet size:  7038  Remaining buffer:  1172  Incoming time:  6539  Packet tx time:  6596
+Current time:  6601  Packet size:  8480  Remaining buffer:  1170  Incoming time:  6541  Packet tx time:  6598
+Current time:  6606  Packet size:  2909  Remaining buffer:  1048  Incoming time:  6543  Packet tx time:  6601
+Current time:  6608  Packet size:  7210  Remaining buffer:  2150  Incoming time:  6544  Packet tx time:  6606
+Current time:  6612  Packet size:  4156  Remaining buffer:  1133  Incoming time:  6545  Packet tx time:  6608
+Current time:  6614  Packet size:  2712  Remaining buffer:  791  Incoming time:  6546  Packet tx time:  6612
+Current time:  6614  Packet size:  1467  Remaining buffer:  1467  Incoming time:  6549  Packet tx time:  6614
+Current time:  6622  Packet size:  1756  Remaining buffer:  1155  Incoming time:  6550  Packet tx time:  6614
+Current time:  6623  Packet size:  2911  Remaining buffer:  1010  Incoming time:  6555  Packet tx time:  6622
+Current time:  6628  Packet size:  2712  Remaining buffer:  496  Incoming time:  6556  Packet tx time:  6623
+Current time:  6629  Packet size:  4156  Remaining buffer:  1602  Incoming time:  6557  Packet tx time:  6628
+Current time:  6631  Packet size:  4158  Remaining buffer:  132  Incoming time:  6558  Packet tx time:  6629
+Current time:  6631  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6559  Packet tx time:  6631
+Current time:  6632  Packet size:  2712  Remaining buffer:  1060  Incoming time:  6562  Packet tx time:  6631
+Current time:  6634  Packet size:  4154  Remaining buffer:  2546  Incoming time:  6563  Packet tx time:  6632
+Current time:  6637  Packet size:  2712  Remaining buffer:  2206  Incoming time:  6567  Packet tx time:  6634
+Current time:  6646  Packet size:  4353  Remaining buffer:  285  Incoming time:  6568  Packet tx time:  6637
+Current time:  6647  Packet size:  4154  Remaining buffer:  1383  Incoming time:  6569  Packet tx time:  6646
+Current time:  6647  Packet size:  315  Remaining buffer:  315  Incoming time:  6570  Packet tx time:  6647
+Current time:  6648  Packet size:  1270  Remaining buffer:  109  Incoming time:  6576  Packet tx time:  6647
+Current time:  6649  Packet size:  4156  Remaining buffer:  1600  Incoming time:  6577  Packet tx time:  6648
+Current time:  6652  Packet size:  2716  Remaining buffer:  132  Incoming time:  6578  Packet tx time:  6649
+Current time:  6652  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6583  Packet tx time:  6652
+Current time:  6656  Packet size:  4154  Remaining buffer:  888  Incoming time:  6584  Packet tx time:  6652
+Current time:  6657  Packet size:  4154  Remaining buffer:  2375  Incoming time:  6585  Packet tx time:  6656
+Current time:  6658  Packet size:  2712  Remaining buffer:  2033  Incoming time:  6586  Packet tx time:  6657
+Current time:  6658  Packet size:  768  Remaining buffer:  768  Incoming time:  6587  Packet tx time:  6658
+Current time:  6659  Packet size:  1469  Remaining buffer:  1218  Incoming time:  6592  Packet tx time:  6658
+Current time:  6662  Packet size:  8652  Remaining buffer:  1189  Incoming time:  6593  Packet tx time:  6659
+Current time:  6669  Packet size:  4156  Remaining buffer:  874  Incoming time:  6602  Packet tx time:  6662
+Current time:  6675  Packet size:  5091  Remaining buffer:  50  Incoming time:  6603  Packet tx time:  6669
+Current time:  6675  Packet size:  2712  Remaining buffer:  2712  Incoming time:  6604  Packet tx time:  6675
+Current time:  6677  Packet size:  4351  Remaining buffer:  1005  Incoming time:  6609  Packet tx time:  6675
+Current time:  6677  Packet size:  1755  Remaining buffer:  1755  Incoming time:  6610  Packet tx time:  6677
+Current time:  6679  Packet size:  4154  Remaining buffer:  808  Incoming time:  6615  Packet tx time:  6677
+Current time:  6680  Packet size:  4543  Remaining buffer:  2295  Incoming time:  6616  Packet tx time:  6679
+Current time:  6683  Packet size:  7212  Remaining buffer:  1023  Incoming time:  6617  Packet tx time:  6680
+Current time:  6691  Packet size:  4357  Remaining buffer:  2521  Incoming time:  6618  Packet tx time:  6683
+Current time:  6693  Packet size:  4154  Remaining buffer:  565  Incoming time:  6619  Packet tx time:  6691
+Current time:  6694  Packet size:  3197  Remaining buffer:  706  Incoming time:  6620  Packet tx time:  6693
+Current time:  6695  Packet size:  2712  Remaining buffer:  362  Incoming time:  6621  Packet tx time:  6694
+Current time:  6695  Packet size:  1851  Remaining buffer:  1851  Incoming time:  6624  Packet tx time:  6695
+Current time:  6704  Packet size:  5596  Remaining buffer:  1529  Incoming time:  6626  Packet tx time:  6695
+Current time:  6709  Packet size:  4154  Remaining buffer:  1013  Incoming time:  6627  Packet tx time:  6704
+Current time:  6710  Packet size:  2909  Remaining buffer:  866  Incoming time:  6635  Packet tx time:  6709
+Current time:  6711  Packet size:  2884  Remaining buffer:  1179  Incoming time:  6636  Packet tx time:  6710
+Current time:  6712  Packet size:  4353  Remaining buffer:  2478  Incoming time:  6639  Packet tx time:  6711
+Current time:  6714  Packet size:  4923  Remaining buffer:  1289  Incoming time:  6640  Packet tx time:  6712
+Current time:  6715  Packet size:  2909  Remaining buffer:  1142  Incoming time:  6641  Packet tx time:  6714
+Current time:  6716  Packet size:  2712  Remaining buffer:  800  Incoming time:  6642  Packet tx time:  6715
+Current time:  6718  Packet size:  5793  Remaining buffer:  485  Incoming time:  6643  Packet tx time:  6716
+Current time:  6719  Packet size:  4154  Remaining buffer:  1587  Incoming time:  6645  Packet tx time:  6718
+Current time:  6730  Packet size:  5598  Remaining buffer:  1755  Incoming time:  6651  Packet tx time:  6719
+Current time:  6734  Packet size:  8480  Remaining buffer:  1554  Incoming time:  6663  Packet tx time:  6730
+Current time:  6736  Packet size:  4543  Remaining buffer:  374  Incoming time:  6664  Packet tx time:  6734
+Current time:  6738  Packet size:  4156  Remaining buffer:  1503  Incoming time:  6665  Packet tx time:  6736
+Current time:  6742  Packet size:  4154  Remaining buffer:  991  Incoming time:  6666  Packet tx time:  6738
+Current time:  6744  Packet size:  4154  Remaining buffer:  2091  Incoming time:  6667  Packet tx time:  6742
+Current time:  6745  Packet size:  1757  Remaining buffer:  794  Incoming time:  6670  Packet tx time:  6744
+Current time:  6746  Packet size:  4154  Remaining buffer:  1892  Incoming time:  6671  Packet tx time:  6745
+Current time:  6747  Packet size:  1270  Remaining buffer:  106  Incoming time:  6672  Packet tx time:  6746
+Current time:  6748  Packet size:  4154  Remaining buffer:  1206  Incoming time:  6684  Packet tx time:  6747
+Current time:  6752  Packet size:  4156  Remaining buffer:  696  Incoming time:  6685  Packet tx time:  6748
+Current time:  6757  Packet size:  4154  Remaining buffer:  1796  Incoming time:  6686  Packet tx time:  6752
+Current time:  6758  Packet size:  4154  Remaining buffer:  2898  Incoming time:  6687  Packet tx time:  6757
+Current time:  6759  Packet size:  2716  Remaining buffer:  2562  Incoming time:  6688  Packet tx time:  6758
+Current time:  6776  Packet size:  4154  Remaining buffer:  1089  Incoming time:  6689  Packet tx time:  6759
+Current time:  6777  Packet size:  1442  Remaining buffer:  917  Incoming time:  6690  Packet tx time:  6776
+Current time:  6777  Packet size:  27  Remaining buffer:  27  Incoming time:  6697  Packet tx time:  6777
+Current time:  6778  Packet size:  2716  Remaining buffer:  608  Incoming time:  6698  Packet tx time:  6777
+Current time:  6778  Packet size:  1272  Remaining buffer:  1272  Incoming time:  6699  Packet tx time:  6778
+Current time:  6780  Packet size:  6080  Remaining buffer:  1854  Incoming time:  6700  Packet tx time:  6778
+Current time:  6785  Packet size:  4353  Remaining buffer:  776  Incoming time:  6701  Packet tx time:  6780
+Current time:  6786  Packet size:  2712  Remaining buffer:  432  Incoming time:  6702  Packet tx time:  6785
+Current time:  6791  Packet size:  7235  Remaining buffer:  1754  Incoming time:  6705  Packet tx time:  6786
+Current time:  6792  Packet size:  2714  Remaining buffer:  1609  Incoming time:  6706  Packet tx time:  6791
+Current time:  6793  Packet size:  4156  Remaining buffer:  2711  Incoming time:  6708  Packet tx time:  6792
+Current time:  6793  Packet size:  27  Remaining buffer:  27  Incoming time:  6721  Packet tx time:  6793
+Current time:  6794  Packet size:  2712  Remaining buffer:  2394  Incoming time:  6722  Packet tx time:  6793
+Current time:  6801  Packet size:  5793  Remaining buffer:  2079  Incoming time:  6723  Packet tx time:  6794
+Current time:  6802  Packet size:  1270  Remaining buffer:  490  Incoming time:  6724  Packet tx time:  6801
+Current time:  6802  Packet size:  1920  Remaining buffer:  1920  Incoming time:  6725  Packet tx time:  6802
+Current time:  6808  Packet size:  5768  Remaining buffer:  2265  Incoming time:  6726  Packet tx time:  6802
+Current time:  6809  Packet size:  2714  Remaining buffer:  1925  Incoming time:  6727  Packet tx time:  6808
+Current time:  6810  Packet size:  2714  Remaining buffer:  1583  Incoming time:  6728  Packet tx time:  6809
+Current time:  6810  Packet size:  25  Remaining buffer:  25  Incoming time:  6729  Packet tx time:  6810
+Current time:  6811  Packet size:  1272  Remaining buffer:  309  Incoming time:  6739  Packet tx time:  6810
+Current time:  6817  Packet size:  4830  Remaining buffer:  2110  Incoming time:  6740  Packet tx time:  6811
+Current time:  6818  Packet size:  2884  Remaining buffer:  1942  Incoming time:  6749  Packet tx time:  6817
+Current time:  6820  Packet size:  5091  Remaining buffer:  925  Incoming time:  6750  Packet tx time:  6818
+Current time:  6823  Packet size:  4543  Remaining buffer:  1477  Incoming time:  6755  Packet tx time:  6820
+Current time:  6824  Packet size:  2712  Remaining buffer:  1133  Incoming time:  6756  Packet tx time:  6823
+Current time:  6825  Packet size:  2909  Remaining buffer:  986  Incoming time:  6761  Packet tx time:  6824
+Current time:  6826  Packet size:  4156  Remaining buffer:  2086  Incoming time:  6762  Packet tx time:  6825
+Current time:  6834  Packet size:  7210  Remaining buffer:  1603  Incoming time:  6763  Packet tx time:  6826
+Current time:  6844  Packet size:  4154  Remaining buffer:  130  Incoming time:  6764  Packet tx time:  6834
+Current time:  6845  Packet size:  4154  Remaining buffer:  1228  Incoming time:  6765  Packet tx time:  6844
+Current time:  6846  Packet size:  2712  Remaining buffer:  884  Incoming time:  6766  Packet tx time:  6845
+Current time:  6847  Packet size:  4355  Remaining buffer:  2183  Incoming time:  6767  Packet tx time:  6846
+Current time:  6854  Packet size:  4156  Remaining buffer:  1675  Incoming time:  6768  Packet tx time:  6847
+Current time:  6855  Packet size:  2712  Remaining buffer:  1333  Incoming time:  6769  Packet tx time:  6854
+Current time:  6856  Packet size:  4639  Remaining buffer:  2916  Incoming time:  6770  Packet tx time:  6855
+Current time:  6858  Packet size:  4154  Remaining buffer:  960  Incoming time:  6771  Packet tx time:  6856
+Current time:  6858  Packet size:  1272  Remaining buffer:  1272  Incoming time:  6772  Packet tx time:  6858
+Current time:  6858  Packet size:  25  Remaining buffer:  25  Incoming time:  6774  Packet tx time:  6858
+Current time:  6860  Packet size:  4154  Remaining buffer:  305  Incoming time:  6775  Packet tx time:  6858
+Current time:  6860  Packet size:  1274  Remaining buffer:  1274  Incoming time:  6782  Packet tx time:  6860
+Current time:  6862  Packet size:  4154  Remaining buffer:  106  Incoming time:  6783  Packet tx time:  6860
+Current time:  6863  Packet size:  4154  Remaining buffer:  1204  Incoming time:  6784  Packet tx time:  6862
+Current time:  6871  Packet size:  2714  Remaining buffer:  1059  Incoming time:  6788  Packet tx time:  6863
+Current time:  6876  Packet size:  11364  Remaining buffer:  201  Incoming time:  6789  Packet tx time:  6871
+Current time:  6877  Packet size:  4639  Remaining buffer:  1784  Incoming time:  6790  Packet tx time:  6876
+Current time:  6884  Packet size:  2712  Remaining buffer:  1442  Incoming time:  6795  Packet tx time:  6877
+Current time:  6885  Packet size:  4351  Remaining buffer:  2739  Incoming time:  6796  Packet tx time:  6884
+Current time:  6886  Packet size:  1276  Remaining buffer:  959  Incoming time:  6797  Packet tx time:  6885
+Current time:  6887  Packet size:  4154  Remaining buffer:  2059  Incoming time:  6804  Packet tx time:  6886
+Current time:  6889  Packet size:  4154  Remaining buffer:  103  Incoming time:  6805  Packet tx time:  6887
+Current time:  6890  Packet size:  4154  Remaining buffer:  1203  Incoming time:  6806  Packet tx time:  6889
+Current time:  6890  Packet size:  1272  Remaining buffer:  1272  Incoming time:  6807  Packet tx time:  6890
+Current time:  6892  Packet size:  5598  Remaining buffer:  2446  Incoming time:  6812  Packet tx time:  6890
+Current time:  6894  Packet size:  2712  Remaining buffer:  2102  Incoming time:  6813  Packet tx time:  6892
+Current time:  6898  Packet size:  4154  Remaining buffer:  3032  Incoming time:  6815  Packet tx time:  6894
+Current time:  6899  Packet size:  1270  Remaining buffer:  1250  Incoming time:  6816  Packet tx time:  6898
+Current time:  6899  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6821  Packet tx time:  6899
+Current time:  6901  Packet size:  4154  Remaining buffer:  1049  Incoming time:  6829  Packet tx time:  6899
+Current time:  6902  Packet size:  4639  Remaining buffer:  2632  Incoming time:  6830  Packet tx time:  6901
+Current time:  6907  Packet size:  8480  Remaining buffer:  2141  Incoming time:  6831  Packet tx time:  6902
+Current time:  6917  Packet size:  7038  Remaining buffer:  692  Incoming time:  6833  Packet tx time:  6907
+Current time:  6919  Packet size:  5768  Remaining buffer:  354  Incoming time:  6836  Packet tx time:  6917
+Current time:  6921  Packet size:  5770  Remaining buffer:  499  Incoming time:  6837  Packet tx time:  6919
+Current time:  6922  Packet size:  4357  Remaining buffer:  1997  Incoming time:  6838  Packet tx time:  6921
+Current time:  6923  Packet size:  2712  Remaining buffer:  1653  Incoming time:  6839  Packet tx time:  6922
+Current time:  6929  Packet size:  4351  Remaining buffer:  2948  Incoming time:  6841  Packet tx time:  6923
+Current time:  6933  Packet size:  2909  Remaining buffer:  2629  Incoming time:  6842  Packet tx time:  6929
+Current time:  6935  Packet size:  4156  Remaining buffer:  673  Incoming time:  6843  Packet tx time:  6933
+Current time:  6936  Packet size:  2909  Remaining buffer:  725  Incoming time:  6849  Packet tx time:  6935
+Current time:  6936  Packet size:  1754  Remaining buffer:  1754  Incoming time:  6850  Packet tx time:  6936
+Current time:  6947  Packet size:  4154  Remaining buffer:  351  Incoming time:  6851  Packet tx time:  6936
+Current time:  6948  Packet size:  1272  Remaining buffer:  208  Incoming time:  6852  Packet tx time:  6947
+Current time:  6949  Packet size:  1714  Remaining buffer:  310  Incoming time:  6864  Packet tx time:  6948
+Current time:  6951  Packet size:  7210  Remaining buffer:  1893  Incoming time:  6865  Packet tx time:  6949
+Current time:  6959  Packet size:  4156  Remaining buffer:  140  Incoming time:  6866  Packet tx time:  6951
+Current time:  6960  Packet size:  4154  Remaining buffer:  1238  Incoming time:  6867  Packet tx time:  6959
+Current time:  6961  Packet size:  2911  Remaining buffer:  1578  Incoming time:  6868  Packet tx time:  6960
+Current time:  6962  Packet size:  2714  Remaining buffer:  1433  Incoming time:  6869  Packet tx time:  6961
+Current time:  6964  Packet size:  3197  Remaining buffer:  1574  Incoming time:  6870  Packet tx time:  6962
+Current time:  6965  Packet size:  1471  Remaining buffer:  188  Incoming time:  6878  Packet tx time:  6964
+Current time:  6965  Packet size:  1272  Remaining buffer:  1272  Incoming time:  6879  Packet tx time:  6965
+Current time:  6971  Packet size:  4639  Remaining buffer:  303  Incoming time:  6880  Packet tx time:  6965
+Current time:  6972  Packet size:  2909  Remaining buffer:  156  Incoming time:  6881  Packet tx time:  6971
+Current time:  6978  Packet size:  4351  Remaining buffer:  1453  Incoming time:  6882  Packet tx time:  6972
+Current time:  6978  Packet size:  1270  Remaining buffer:  1270  Incoming time:  6883  Packet tx time:  6978
+Current time:  6985  Packet size:  4326  Remaining buffer:  769  Incoming time:  6895  Packet tx time:  6978
+Current time:  6986  Packet size:  4351  Remaining buffer:  2261  Incoming time:  6896  Packet tx time:  6985
+Current time:  6989  Packet size:  4158  Remaining buffer:  139  Incoming time:  6904  Packet tx time:  6986
+Current time:  6989  Packet size:  2712  Remaining buffer:  2712  Incoming time:  6905  Packet tx time:  6989
+Current time:  6992  Packet size:  5596  Remaining buffer:  2843  Incoming time:  6911  Packet tx time:  6989
+Current time:  6995  Packet size:  4156  Remaining buffer:  889  Incoming time:  6912  Packet tx time:  6992
+Current time:  6996  Packet size:  2712  Remaining buffer:  545  Incoming time:  6913  Packet tx time:  6995
+Current time:  7004  Packet size:  8480  Remaining buffer:  2770  Incoming time:  6914  Packet tx time:  6996
+Current time:  7009  Packet size:  7040  Remaining buffer:  2086  Incoming time:  6915  Packet tx time:  7004
+Current time:  7010  Packet size:  2712  Remaining buffer:  1742  Incoming time:  6916  Packet tx time:  7009
+Current time:  7012  Packet size:  5795  Remaining buffer:  1912  Incoming time:  6925  Packet tx time:  7010
+Current time:  7024  Packet size:  2712  Remaining buffer:  1568  Incoming time:  6926  Packet tx time:  7012
+Current time:  7027  Packet size:  4156  Remaining buffer:  2668  Incoming time:  6927  Packet tx time:  7024
+Current time:  7028  Packet size:  2714  Remaining buffer:  2326  Incoming time:  6928  Packet tx time:  7027
+Current time:  7029  Packet size:  1757  Remaining buffer:  1027  Incoming time:  6930  Packet tx time:  7028
+Current time:  7030  Packet size:  4351  Remaining buffer:  2322  Incoming time:  6931  Packet tx time:  7029
+Current time:  7031  Packet size:  2714  Remaining buffer:  2467  Incoming time:  6937  Packet tx time:  7030
+Current time:  7037  Packet size:  4158  Remaining buffer:  714  Incoming time:  6938  Packet tx time:  7031
+Current time:  7039  Packet size:  4154  Remaining buffer:  1841  Incoming time:  6939  Packet tx time:  7037
+Current time:  7041  Packet size:  4641  Remaining buffer:  857  Incoming time:  6940  Packet tx time:  7039
+Current time:  7047  Packet size:  2909  Remaining buffer:  2351  Incoming time:  6941  Packet tx time:  7041
+Current time:  7054  Packet size:  4154  Remaining buffer:  418  Incoming time:  6942  Packet tx time:  7047
+Current time:  7057  Packet size:  5768  Remaining buffer:  78  Incoming time:  6952  Packet tx time:  7054
+Current time:  7060  Packet size:  4353  Remaining buffer:  1377  Incoming time:  6953  Packet tx time:  7057
+Current time:  7061  Packet size:  2712  Remaining buffer:  1520  Incoming time:  6954  Packet tx time:  7060
+Current time:  7062  Packet size:  4154  Remaining buffer:  3008  Incoming time:  6955  Packet tx time:  7061
+Current time:  7064  Packet size:  5596  Remaining buffer:  2494  Incoming time:  6956  Packet tx time:  7062
+Current time:  7068  Packet size:  1272  Remaining buffer:  907  Incoming time:  6957  Packet tx time:  7064
+Current time:  7071  Packet size:  2712  Remaining buffer:  563  Incoming time:  6966  Packet tx time:  7068
+Current time:  7074  Packet size:  4154  Remaining buffer:  49  Incoming time:  6967  Packet tx time:  7071
+Current time:  7074  Packet size:  2911  Remaining buffer:  2911  Incoming time:  6968  Packet tx time:  7074
+Current time:  7075  Packet size:  2911  Remaining buffer:  2815  Incoming time:  6974  Packet tx time:  7074
+Current time:  7079  Packet size:  4154  Remaining buffer:  1056  Incoming time:  6975  Packet tx time:  7075
+Current time:  7080  Packet size:  4154  Remaining buffer:  2351  Incoming time:  6976  Packet tx time:  7079
+Current time:  7080  Packet size:  2  Remaining buffer:  2  Incoming time:  6977  Packet tx time:  7080
+Current time:  7084  Packet size:  7210  Remaining buffer:  910  Incoming time:  6980  Packet tx time:  7080
+Current time:  7085  Packet size:  4353  Remaining buffer:  2207  Incoming time:  6981  Packet tx time:  7084
+Current time:  7097  Packet size:  7210  Remaining buffer:  79  Incoming time:  6982  Packet tx time:  7085
+Current time:  7099  Packet size:  8484  Remaining buffer:  2455  Incoming time:  6998  Packet tx time:  7097
+Current time:  7106  Packet size:  6081  Remaining buffer:  2938  Incoming time:  7000  Packet tx time:  7099
+Current time:  7106  Packet size:  27  Remaining buffer:  27  Incoming time:  7001  Packet tx time:  7106
+Current time:  7112  Packet size:  4351  Remaining buffer:  1401  Incoming time:  7002  Packet tx time:  7106
+Current time:  7115  Packet size:  5793  Remaining buffer:  2526  Incoming time:  7007  Packet tx time:  7112
+Current time:  7116  Packet size:  1272  Remaining buffer:  742  Incoming time:  7008  Packet tx time:  7115
+Current time:  7116  Packet size:  25  Remaining buffer:  25  Incoming time:  7014  Packet tx time:  7116
+Current time:  7117  Packet size:  4156  Remaining buffer:  1867  Incoming time:  7015  Packet tx time:  7116
+Current time:  7118  Packet size:  4156  Remaining buffer:  2969  Incoming time:  7016  Packet tx time:  7117
+Current time:  7119  Packet size:  1272  Remaining buffer:  1189  Incoming time:  7017  Packet tx time:  7118
+Current time:  7120  Packet size:  3392  Remaining buffer:  1527  Incoming time:  7020  Packet tx time:  7119
+Current time:  7122  Packet size:  4158  Remaining buffer:  256  Incoming time:  7021  Packet tx time:  7120
+Current time:  7122  Packet size:  2712  Remaining buffer:  2712  Incoming time:  7022  Packet tx time:  7122
+Current time:  7129  Packet size:  1270  Remaining buffer:  1184  Incoming time:  7023  Packet tx time:  7122
+Current time:  7129  Packet size:  25  Remaining buffer:  25  Incoming time:  7025  Packet tx time:  7129
+Current time:  7130  Packet size:  2714  Remaining buffer:  867  Incoming time:  7026  Packet tx time:  7129
+Current time:  7130  Packet size:  1270  Remaining buffer:  1270  Incoming time:  7032  Packet tx time:  7130
+Current time:  7134  Packet size:  4154  Remaining buffer:  668  Incoming time:  7033  Packet tx time:  7130
+Current time:  7136  Packet size:  4156  Remaining buffer:  156  Incoming time:  7034  Packet tx time:  7134
+Current time:  7136  Packet size:  2712  Remaining buffer:  2712  Incoming time:  7035  Packet tx time:  7136
+Current time:  7137  Packet size:  2712  Remaining buffer:  2524  Incoming time:  7042  Packet tx time:  7136
+Current time:  7147  Packet size:  9922  Remaining buffer:  1500  Incoming time:  7043  Packet tx time:  7137
+Current time:  7148  Packet size:  4154  Remaining buffer:  2598  Incoming time:  7044  Packet tx time:  7147
+Current time:  7150  Packet size:  4351  Remaining buffer:  1034  Incoming time:  7045  Packet tx time:  7148
+Current time:  7150  Packet size:  1272  Remaining buffer:  1272  Incoming time:  7046  Packet tx time:  7150
+Current time:  7151  Packet size:  315  Remaining buffer:  54  Incoming time:  7050  Packet tx time:  7150
+Current time:  7154  Packet size:  4156  Remaining buffer:  982  Incoming time:  7051  Packet tx time:  7151
+Current time:  7155  Packet size:  4154  Remaining buffer:  2080  Incoming time:  7052  Packet tx time:  7154
+Current time:  7156  Packet size:  1659  Remaining buffer:  685  Incoming time:  7053  Packet tx time:  7155
+Current time:  7157  Packet size:  4353  Remaining buffer:  1982  Incoming time:  7058  Packet tx time:  7156
+Current time:  7158  Packet size:  2712  Remaining buffer:  1640  Incoming time:  7059  Packet tx time:  7157
+Current time:  7159  Packet size:  4154  Remaining buffer:  2937  Incoming time:  7065  Packet tx time:  7158
+Current time:  7171  Packet size:  2714  Remaining buffer:  28  Incoming time:  7066  Packet tx time:  7159
+Current time:  7171  Packet size:  2712  Remaining buffer:  2712  Incoming time:  7067  Packet tx time:  7171
+Current time:  7175  Packet size:  4351  Remaining buffer:  1177  Incoming time:  7069  Packet tx time:  7171
+Current time:  7176  Packet size:  4641  Remaining buffer:  2762  Incoming time:  7070  Packet tx time:  7175
+Current time:  7177  Packet size:  2714  Remaining buffer:  2422  Incoming time:  7077  Packet tx time:  7176
+Current time:  7181  Packet size:  4158  Remaining buffer:  669  Incoming time:  7078  Packet tx time:  7177
+Current time:  7182  Packet size:  1467  Remaining buffer:  524  Incoming time:  7087  Packet tx time:  7181
+Current time:  7183  Packet size:  4154  Remaining buffer:  1622  Incoming time:  7088  Packet tx time:  7182
+Current time:  7184  Packet size:  4154  Remaining buffer:  2720  Incoming time:  7089  Packet tx time:  7183
+Current time:  7191  Packet size:  4641  Remaining buffer:  124  Incoming time:  7090  Packet tx time:  7184
+Current time:  7192  Packet size:  5768  Remaining buffer:  2838  Incoming time:  7091  Packet tx time:  7191
+Current time:  7198  Packet size:  7210  Remaining buffer:  2349  Incoming time:  7092  Packet tx time:  7192
+Current time:  7199  Packet size:  2884  Remaining buffer:  2179  Incoming time:  7093  Packet tx time:  7198
+Current time:  7206  Packet size:  2911  Remaining buffer:  2231  Incoming time:  7094  Packet tx time:  7199
+Current time:  7208  Packet size:  4154  Remaining buffer:  667  Incoming time:  7102  Packet tx time:  7206
+Current time:  7209  Packet size:  4154  Remaining buffer:  1964  Incoming time:  7103  Packet tx time:  7208
+Current time:  7211  Packet size:  4158  Remaining buffer:  884  Incoming time:  7104  Packet tx time:  7209
+Current time:  7211  Packet size:  1270  Remaining buffer:  1270  Incoming time:  7105  Packet tx time:  7211
+Current time:  7214  Packet size:  4156  Remaining buffer:  592  Incoming time:  7109  Packet tx time:  7211
+Current time:  7215  Packet size:  4641  Remaining buffer:  2378  Incoming time:  7110  Packet tx time:  7214
+Current time:  7224  Packet size:  4154  Remaining buffer:  814  Incoming time:  7111  Packet tx time:  7215
+Current time:  7227  Packet size:  8652  Remaining buffer:  893  Incoming time:  7123  Packet tx time:  7224
+Current time:  7231  Packet size:  11536  Remaining buffer:  1474  Incoming time:  7124  Packet tx time:  7227
+Current time:  7233  Packet size:  4352  Remaining buffer:  108  Incoming time:  7125  Packet tx time:  7231
+Current time:  7233  Packet size:  2714  Remaining buffer:  2714  Incoming time:  7126  Packet tx time:  7233
+Current time:  7244  Packet size:  5793  Remaining buffer:  325  Incoming time:  7132  Packet tx time:  7233
+Current time:  7246  Packet size:  5768  Remaining buffer:  182  Incoming time:  7133  Packet tx time:  7244
+Current time:  7247  Packet size:  2712  Remaining buffer:  35  Incoming time:  7139  Packet tx time:  7246
+Current time:  7256  Packet size:  4835  Remaining buffer:  30  Incoming time:  7140  Packet tx time:  7247
+Current time:  7257  Packet size:  4154  Remaining buffer:  1128  Incoming time:  7141  Packet tx time:  7256
+Current time:  7258  Packet size:  2712  Remaining buffer:  786  Incoming time:  7142  Packet tx time:  7257
+Current time:  7259  Packet size:  4154  Remaining buffer:  1886  Incoming time:  7144  Packet tx time:  7258
+Current time:  7259  Packet size:  316  Remaining buffer:  316  Incoming time:  7160  Packet tx time:  7259
+Current time:  7261  Packet size:  4351  Remaining buffer:  928  Incoming time:  7161  Packet tx time:  7259
+Current time:  7267  Packet size:  5596  Remaining buffer:  240  Incoming time:  7162  Packet tx time:  7261
+Current time:  7267  Packet size:  1272  Remaining buffer:  1272  Incoming time:  7163  Packet tx time:  7267
+Current time:  7268  Packet size:  4326  Remaining buffer:  2784  Incoming time:  7165  Packet tx time:  7267
+Current time:  7277  Packet size:  8678  Remaining buffer:  684  Incoming time:  7166  Packet tx time:  7268
+Current time:  7277  Packet size:  1442  Remaining buffer:  1442  Incoming time:  7167  Packet tx time:  7277
+Current time:  7285  Packet size:  9924  Remaining buffer:  1469  Incoming time:  7168  Packet tx time:  7277
+Current time:  7285  Packet size:  1270  Remaining buffer:  1270  Incoming time:  7169  Packet tx time:  7285
+Current time:  7287  Packet size:  4156  Remaining buffer:  984  Incoming time:  7172  Packet tx time:  7285
+Current time:  7292  Packet size:  4154  Remaining buffer:  1910  Incoming time:  7173  Packet tx time:  7287
+Current time:  7293  Packet size:  2712  Remaining buffer:  1566  Incoming time:  7179  Packet tx time:  7292
+Current time:  7296  Packet size:  4641  Remaining buffer:  124  Incoming time:  7180  Packet tx time:  7293
+Current time:  7296  Packet size:  2884  Remaining buffer:  2884  Incoming time:  7185  Packet tx time:  7296
+Current time:  7297  Packet size:  2911  Remaining buffer:  2863  Incoming time:  7186  Packet tx time:  7296
+Current time:  7308  Packet size:  4326  Remaining buffer:  1081  Incoming time:  7187  Packet tx time:  7297
+Current time:  7311  Packet size:  4154  Remaining buffer:  2204  Incoming time:  7188  Packet tx time:  7308
+Current time:  7315  Packet size:  4154  Remaining buffer:  248  Incoming time:  7195  Packet tx time:  7311
+Current time:  7316  Packet size:  4156  Remaining buffer:  1350  Incoming time:  7196  Packet tx time:  7315
+Current time:  7317  Packet size:  2884  Remaining buffer:  1182  Incoming time:  7200  Packet tx time:  7316
+Current time:  7319  Packet size:  7210  Remaining buffer:  2284  Incoming time:  7201  Packet tx time:  7317
+Current time:  7326  Packet size:  7210  Remaining buffer:  525  Incoming time:  7202  Packet tx time:  7319
+Current time:  7327  Packet size:  4355  Remaining buffer:  1826  Incoming time:  7203  Packet tx time:  7326
+Current time:  7332  Packet size:  5768  Remaining buffer:  67  Incoming time:  7204  Packet tx time:  7327
+Current time:  7332  Packet size:  2909  Remaining buffer:  2909  Incoming time:  7205  Packet tx time:  7332
+Current time:  7333  Packet size:  506  Remaining buffer:  426  Incoming time:  7217  Packet tx time:  7332
+Current time:  7334  Packet size:  4353  Remaining buffer:  1725  Incoming time:  7218  Packet tx time:  7333
+Current time:  7340  Packet size:  4353  Remaining buffer:  1410  Incoming time:  7219  Packet tx time:  7334
+Current time:  7344  Packet size:  4831  Remaining buffer:  806  Incoming time:  7220  Packet tx time:  7340
+Current time:  7345  Packet size:  4351  Remaining buffer:  2101  Incoming time:  7221  Packet tx time:  7344
+Current time:  7350  Packet size:  2909  Remaining buffer:  1956  Incoming time:  7222  Packet tx time:  7345
+Current time:  7351  Packet size:  3389  Remaining buffer:  2774  Incoming time:  7223  Packet tx time:  7350
+Current time:  7352  Packet size:  1270  Remaining buffer:  988  Incoming time:  7236  Packet tx time:  7351
+Current time:  7356  Packet size:  8654  Remaining buffer:  675  Incoming time:  7237  Packet tx time:  7352
+Current time:  7357  Packet size:  2911  Remaining buffer:  532  Incoming time:  7238  Packet tx time:  7356
+Current time:  7358  Packet size:  4833  Remaining buffer:  2311  Incoming time:  7239  Packet tx time:  7357
+Current time:  7360  Packet size:  3388  Remaining buffer:  528  Incoming time:  7240  Packet tx time:  7358
+Current time:  7361  Packet size:  3389  Remaining buffer:  1538  Incoming time:  7241  Packet tx time:  7360
+Current time:  7369  Packet size:  4351  Remaining buffer:  3030  Incoming time:  7242  Packet tx time:  7361
+Current time:  7371  Packet size:  2909  Remaining buffer:  314  Incoming time:  7243  Packet tx time:  7369
+Current time:  7372  Packet size:  4154  Remaining buffer:  1412  Incoming time:  7248  Packet tx time:  7371
+Current time:  7375  Packet size:  8482  Remaining buffer:  728  Incoming time:  7249  Packet tx time:  7372
+Current time:  7375  Packet size:  1755  Remaining buffer:  1755  Incoming time:  7250  Packet tx time:  7375
+Current time:  7377  Packet size:  2712  Remaining buffer:  2141  Incoming time:  7251  Packet tx time:  7375
+Current time:  7380  Packet size:  4355  Remaining buffer:  390  Incoming time:  7254  Packet tx time:  7377
+Current time:  7381  Packet size:  2712  Remaining buffer:  531  Incoming time:  7255  Packet tx time:  7380
+Current time:  7382  Packet size:  4351  Remaining buffer:  1826  Incoming time:  7262  Packet tx time:  7381
+Current time:  7390  Packet size:  4154  Remaining buffer:  1310  Incoming time:  7263  Packet tx time:  7382
+Current time:  7391  Packet size:  4158  Remaining buffer:  2897  Incoming time:  7264  Packet tx time:  7390
+Current time:  7397  Packet size:  5795  Remaining buffer:  2580  Incoming time:  7269  Packet tx time:  7391
+Current time:  7402  Packet size:  4638  Remaining buffer:  1110  Incoming time:  7270  Packet tx time:  7397
+Current time:  7403  Packet size:  4156  Remaining buffer:  2210  Incoming time:  7271  Packet tx time:  7402
+Current time:  7405  Packet size:  4154  Remaining buffer:  254  Incoming time:  7279  Packet tx time:  7403
+Current time:  7406  Packet size:  4641  Remaining buffer:  1841  Incoming time:  7280  Packet tx time:  7405
+Current time:  7408  Packet size:  4351  Remaining buffer:  277  Incoming time:  7281  Packet tx time:  7406
+Current time:  7408  Packet size:  2712  Remaining buffer:  2712  Incoming time:  7282  Packet tx time:  7408
+Current time:  7414  Packet size:  5598  Remaining buffer:  2475  Incoming time:  7288  Packet tx time:  7408
+Current time:  7421  Packet size:  4154  Remaining buffer:  718  Incoming time:  7289  Packet tx time:  7414
+Current time:  7422  Packet size:  3199  Remaining buffer:  863  Incoming time:  7290  Packet tx time:  7421
+Current time:  7422  Packet size:  25  Remaining buffer:  25  Incoming time:  7299  Packet tx time:  7422
+Current time:  7423  Packet size:  3199  Remaining buffer:  1031  Incoming time:  7300  Packet tx time:  7422
+Current time:  7429  Packet size:  5596  Remaining buffer:  712  Incoming time:  7301  Packet tx time:  7423
+Current time:  7430  Packet size:  2712  Remaining buffer:  1810  Incoming time:  7302  Packet tx time:  7429
+Current time:  7435  Packet size:  4351  Remaining buffer:  1978  Incoming time:  7303  Packet tx time:  7430
+Current time:  7437  Packet size:  4154  Remaining buffer:  24  Incoming time:  7304  Packet tx time:  7435
+Current time:  7437  Packet size:  2718  Remaining buffer:  2718  Incoming time:  7305  Packet tx time:  7437
+Current time:  7438  Packet size:  2712  Remaining buffer:  2402  Incoming time:  7306  Packet tx time:  7437
+Current time:  7439  Packet size:  2712  Remaining buffer:  2060  Incoming time:  7307  Packet tx time:  7438
+Current time:  7440  Packet size:  1270  Remaining buffer:  471  Incoming time:  7312  Packet tx time:  7439
+Current time:  7450  Packet size:  5596  Remaining buffer:  441  Incoming time:  7313  Packet tx time:  7440
+Current time:  7450  Packet size:  313  Remaining buffer:  313  Incoming time:  7320  Packet tx time:  7450
+Current time:  7452  Packet size:  4353  Remaining buffer:  2536  Incoming time:  7321  Packet tx time:  7450
+Current time:  7458  Packet size:  4154  Remaining buffer:  1350  Incoming time:  7322  Packet tx time:  7452
+Current time:  7467  Packet size:  4154  Remaining buffer:  494  Incoming time:  7323  Packet tx time:  7458
+Current time:  7469  Packet size:  5596  Remaining buffer:  2864  Incoming time:  7329  Packet tx time:  7467
+Current time:  7471  Packet size:  4639  Remaining buffer:  1876  Incoming time:  7330  Packet tx time:  7469
+Current time:  7474  Packet size:  8679  Remaining buffer:  2067  Incoming time:  7336  Packet tx time:  7471
+Current time:  7476  Packet size:  4156  Remaining buffer:  113  Incoming time:  7337  Packet tx time:  7474
+Current time:  7478  Packet size:  4156  Remaining buffer:  2852  Incoming time:  7338  Packet tx time:  7476
+Current time:  7482  Packet size:  4154  Remaining buffer:  1575  Incoming time:  7339  Packet tx time:  7478
+Current time:  7486  Packet size:  4156  Remaining buffer:  2677  Incoming time:  7341  Packet tx time:  7482
+Current time:  7487  Packet size:  1270  Remaining buffer:  891  Incoming time:  7342  Packet tx time:  7486
+Current time:  7489  Packet size:  7210  Remaining buffer:  2668  Incoming time:  7347  Packet tx time:  7487
+Current time:  7496  Packet size:  4353  Remaining buffer:  1110  Incoming time:  7348  Packet tx time:  7489
+Current time:  7498  Packet size:  7210  Remaining buffer:  2407  Incoming time:  7349  Packet tx time:  7496
+Current time:  7502  Packet size:  1270  Remaining buffer:  451  Incoming time:  7362  Packet tx time:  7498
+Current time:  7503  Packet size:  2712  Remaining buffer:  107  Incoming time:  7363  Packet tx time:  7502
+Current time:  7504  Packet size:  5094  Remaining buffer:  2145  Incoming time:  7364  Packet tx time:  7503
+Current time:  7510  Packet size:  4156  Remaining buffer:  189  Incoming time:  7365  Packet tx time:  7504
+Current time:  7512  Packet size:  4154  Remaining buffer:  1774  Incoming time:  7366  Packet tx time:  7510
+Current time:  7515  Packet size:  2909  Remaining buffer:  1455  Incoming time:  7367  Packet tx time:  7512
+Current time:  7515  Packet size:  1270  Remaining buffer:  1270  Incoming time:  7368  Packet tx time:  7515
+Current time:  7518  Packet size:  7235  Remaining buffer:  798  Incoming time:  7376  Packet tx time:  7515
+Current time:  7528  Packet size:  11366  Remaining buffer:  145  Incoming time:  7378  Packet tx time:  7518
+Current time:  7532  Packet size:  2911  Remaining buffer:  27  Incoming time:  7384  Packet tx time:  7528
+Current time:  7533  Packet size:  4156  Remaining buffer:  1127  Incoming time:  7385  Packet tx time:  7532
+Current time:  7534  Packet size:  4154  Remaining buffer:  2225  Incoming time:  7386  Packet tx time:  7533
+Current time:  7536  Packet size:  5596  Remaining buffer:  1711  Incoming time:  7388  Packet tx time:  7534
+Current time:  7537  Packet size:  2714  Remaining buffer:  1371  Incoming time:  7389  Packet tx time:  7536
+Current time:  7538  Packet size:  2909  Remaining buffer:  1423  Incoming time:  7392  Packet tx time:  7537
+Current time:  7546  Packet size:  4154  Remaining buffer:  911  Incoming time:  7393  Packet tx time:  7538
+Current time:  7548  Packet size:  4156  Remaining buffer:  1841  Incoming time:  7394  Packet tx time:  7546
+Current time:  7549  Packet size:  1274  Remaining buffer:  256  Incoming time:  7395  Packet tx time:  7548
+Current time:  7549  Packet size:  1469  Remaining buffer:  1469  Incoming time:  7399  Packet tx time:  7549
+Current time:  7551  Packet size:  4639  Remaining buffer:  737  Incoming time:  7400  Packet tx time:  7549
+Current time:  7551  Packet size:  1467  Remaining buffer:  1467  Incoming time:  7401  Packet tx time:  7551
+Current time:  7558  Packet size:  4158  Remaining buffer:  80  Incoming time:  7409  Packet tx time:  7551
+Current time:  7563  Packet size:  4638  Remaining buffer:  2936  Incoming time:  7410  Packet tx time:  7558
+Current time:  7570  Packet size:  4154  Remaining buffer:  980  Incoming time:  7411  Packet tx time:  7563
+Current time:  7570  Packet size:  1272  Remaining buffer:  1272  Incoming time:  7412  Packet tx time:  7570
+Current time:  7571  Packet size:  1270  Remaining buffer:  951  Incoming time:  7416  Packet tx time:  7570
+Current time:  7572  Packet size:  4156  Remaining buffer:  2051  Incoming time:  7417  Packet tx time:  7571
+Current time:  7581  Packet size:  9924  Remaining buffer:  70  Incoming time:  7418  Packet tx time:  7572
+Current time:  7585  Packet size:  2884  Remaining buffer:  95  Incoming time:  7419  Packet tx time:  7581
+Current time:  7586  Packet size:  5600  Remaining buffer:  2641  Incoming time:  7425  Packet tx time:  7585
+Current time:  7588  Packet size:  4156  Remaining buffer:  689  Incoming time:  7426  Packet tx time:  7586
+Current time:  7589  Packet size:  4154  Remaining buffer:  1787  Incoming time:  7427  Packet tx time:  7588
+Current time:  7590  Packet size:  2712  Remaining buffer:  1443  Incoming time:  7428  Packet tx time:  7589
+Current time:  7592  Packet size:  4351  Remaining buffer:  167  Incoming time:  7432  Packet tx time:  7590
+Current time:  7593  Packet size:  4154  Remaining buffer:  1267  Incoming time:  7433  Packet tx time:  7592
+Current time:  7594  Packet size:  4154  Remaining buffer:  2365  Incoming time:  7434  Packet tx time:  7593
+Current time:  7594  Packet size:  27  Remaining buffer:  27  Incoming time:  7441  Packet tx time:  7594
+Current time:  7594  Packet size:  24  Remaining buffer:  24  Incoming time:  7443  Packet tx time:  7594
+Current time:  7606  Packet size:  4156  Remaining buffer:  682  Incoming time:  7444  Packet tx time:  7594
+Current time:  7608  Packet size:  4156  Remaining buffer:  172  Incoming time:  7445  Packet tx time:  7606
+Current time:  7609  Packet size:  4156  Remaining buffer:  1272  Incoming time:  7446  Packet tx time:  7608
+Current time:  7615  Packet size:  2909  Remaining buffer:  1125  Incoming time:  7447  Packet tx time:  7609
+Current time:  7616  Packet size:  4154  Remaining buffer:  2223  Incoming time:  7448  Packet tx time:  7615
+Current time:  7617  Packet size:  1270  Remaining buffer:  439  Incoming time:  7449  Packet tx time:  7616
+Current time:  7622  Packet size:  5795  Remaining buffer:  155  Incoming time:  7451  Packet tx time:  7617
+Current time:  7624  Packet size:  4326  Remaining buffer:  1255  Incoming time:  7453  Packet tx time:  7622
+Current time:  7624  Packet size:  1270  Remaining buffer:  1270  Incoming time:  7454  Packet tx time:  7624
+Current time:  7625  Packet size:  2884  Remaining buffer:  2353  Incoming time:  7456  Packet tx time:  7624
+Current time:  7627  Packet size:  4328  Remaining buffer:  768  Incoming time:  7457  Packet tx time:  7625
+Current time:  7627  Packet size:  1467  Remaining buffer:  1467  Incoming time:  7459  Packet tx time:  7627
+Current time:  7632  Packet size:  6081  Remaining buffer:  2206  Incoming time:  7460  Packet tx time:  7627
+Current time:  7632  Packet size:  506  Remaining buffer:  506  Incoming time:  7463  Packet tx time:  7632
+Current time:  7633  Packet size:  1467  Remaining buffer:  1125  Incoming time:  7464  Packet tx time:  7632
+Current time:  7638  Packet size:  2716  Remaining buffer:  814  Incoming time:  7465  Packet tx time:  7633
+Current time:  7645  Packet size:  4156  Remaining buffer:  1916  Incoming time:  7477  Packet tx time:  7638
+Current time:  7647  Packet size:  4830  Remaining buffer:  638  Incoming time:  7480  Packet tx time:  7645
+Current time:  7647  Packet size:  25  Remaining buffer:  25  Incoming time:  7481  Packet tx time:  7647
+Current time:  7647  Packet size:  1272  Remaining buffer:  1272  Incoming time:  7483  Packet tx time:  7647
+Current time:  7652  Packet size:  4154  Remaining buffer:  176  Incoming time:  7484  Packet tx time:  7647
+Current time:  7652  Packet size:  2714  Remaining buffer:  2714  Incoming time:  7485  Packet tx time:  7652
+Current time:  7655  Packet size:  3197  Remaining buffer:  174  Incoming time:  7490  Packet tx time:  7652
+Current time:  7658  Packet size:  4154  Remaining buffer:  1272  Incoming time:  7491  Packet tx time:  7655
+Current time:  7661  Packet size:  7210  Remaining buffer:  1243  Incoming time:  7492  Packet tx time:  7658
+Current time:  7661  Packet size:  1442  Remaining buffer:  1442  Incoming time:  7493  Packet tx time:  7661
+Current time:  7662  Packet size:  1270  Remaining buffer:  899  Incoming time:  7499  Packet tx time:  7661
+Current time:  7665  Packet size:  8967  Remaining buffer:  702  Incoming time:  7500  Packet tx time:  7662
+Current time:  7666  Packet size:  4355  Remaining buffer:  2001  Incoming time:  7505  Packet tx time:  7665
+Current time:  7667  Packet size:  2712  Remaining buffer:  1659  Incoming time:  7506  Packet tx time:  7666
+Current time:  7668  Packet size:  4156  Remaining buffer:  2761  Incoming time:  7507  Packet tx time:  7667
+Current time:  7669  Packet size:  1270  Remaining buffer:  975  Incoming time:  7508  Packet tx time:  7668
+Current time:  7669  Packet size:  25  Remaining buffer:  25  Incoming time:  7511  Packet tx time:  7669
+Current time:  7677  Packet size:  2712  Remaining buffer:  853  Incoming time:  7519  Packet tx time:  7669
+Current time:  7678  Packet size:  4641  Remaining buffer:  2444  Incoming time:  7520  Packet tx time:  7677
+Current time:  7680  Packet size:  4351  Remaining buffer:  687  Incoming time:  7521  Packet tx time:  7678
+Current time:  7681  Packet size:  4351  Remaining buffer:  2466  Incoming time:  7522  Packet tx time:  7680
+Current time:  7682  Packet size:  2712  Remaining buffer:  2319  Incoming time:  7523  Packet tx time:  7681
+Current time:  7691  Packet size:  2712  Remaining buffer:  1977  Incoming time:  7524  Packet tx time:  7682
+Current time:  7696  Packet size:  7210  Remaining buffer:  19  Incoming time:  7529  Packet tx time:  7691
+Current time:  7698  Packet size:  7210  Remaining buffer:  1124  Incoming time:  7530  Packet tx time:  7696
+Current time:  7702  Packet size:  5598  Remaining buffer:  1122  Incoming time:  7539  Packet tx time:  7698
+Current time:  7703  Packet size:  3196  Remaining buffer:  1262  Incoming time:  7540  Packet tx time:  7702
+Current time:  7704  Packet size:  4156  Remaining buffer:  2362  Incoming time:  7541  Packet tx time:  7703
+Current time:  7705  Packet size:  2909  Remaining buffer:  2215  Incoming time:  7542  Packet tx time:  7704
+Current time:  7708  Packet size:  7040  Remaining buffer:  480  Incoming time:  7543  Packet tx time:  7705
+Current time:  7708  Packet size:  1270  Remaining buffer:  1270  Incoming time:  7544  Packet tx time:  7708
+Current time:  7708  Packet size:  25  Remaining buffer:  25  Incoming time:  7552  Packet tx time:  7708
+Current time:  7716  Packet size:  5598  Remaining buffer:  1842  Incoming time:  7555  Packet tx time:  7708
+Current time:  7717  Packet size:  2911  Remaining buffer:  1699  Incoming time:  7556  Packet tx time:  7716
+Current time:  7719  Packet size:  4156  Remaining buffer:  2633  Incoming time:  7557  Packet tx time:  7717
+Current time:  7720  Packet size:  504  Remaining buffer:  278  Incoming time:  7560  Packet tx time:  7719
+Current time:  7721  Packet size:  4353  Remaining buffer:  2060  Incoming time:  7561  Packet tx time:  7720
+Current time:  7728  Packet size:  2712  Remaining buffer:  1915  Incoming time:  7562  Packet tx time:  7721
+Current time:  7729  Packet size:  1467  Remaining buffer:  326  Incoming time:  7564  Packet tx time:  7728
+Current time:  7730  Packet size:  4156  Remaining buffer:  1428  Incoming time:  7565  Packet tx time:  7729
+Current time:  7732  Packet size:  5768  Remaining buffer:  1570  Incoming time:  7566  Packet tx time:  7730
+Current time:  7732  Packet size:  1272  Remaining buffer:  1272  Incoming time:  7567  Packet tx time:  7732
+Current time:  7732  Packet size:  25  Remaining buffer:  25  Incoming time:  7568  Packet tx time:  7732
+Current time:  7734  Packet size:  4353  Remaining buffer:  1110  Incoming time:  7576  Packet tx time:  7732
+Current time:  7738  Packet size:  5598  Remaining buffer:  625  Incoming time:  7578  Packet tx time:  7734
+Current time:  7739  Packet size:  4156  Remaining buffer:  1727  Incoming time:  7582  Packet tx time:  7738
+Current time:  7753  Packet size:  4154  Remaining buffer:  274  Incoming time:  7583  Packet tx time:  7739
+Current time:  7753  Packet size:  2712  Remaining buffer:  2712  Incoming time:  7584  Packet tx time:  7753
+Current time:  7760  Packet size:  5598  Remaining buffer:  2300  Incoming time:  7596  Packet tx time:  7753
+Current time:  7761  Packet size:  2718  Remaining buffer:  2447  Incoming time:  7597  Packet tx time:  7760
+Current time:  7763  Packet size:  4156  Remaining buffer:  690  Incoming time:  7598  Packet tx time:  7761
+Current time:  7763  Packet size:  312  Remaining buffer:  312  Incoming time:  7600  Packet tx time:  7763
+Current time:  7768  Packet size:  4351  Remaining buffer:  882  Incoming time:  7601  Packet tx time:  7763
+Current time:  7769  Packet size:  4158  Remaining buffer:  1984  Incoming time:  7602  Packet tx time:  7768
+Current time:  7772  Packet size:  7210  Remaining buffer:  513  Incoming time:  7603  Packet tx time:  7769
+Current time:  7773  Packet size:  2908  Remaining buffer:  365  Incoming time:  7604  Packet tx time:  7772
+Current time:  7774  Packet size:  4156  Remaining buffer:  1465  Incoming time:  7605  Packet tx time:  7773
+Current time:  7774  Packet size:  313  Remaining buffer:  313  Incoming time:  7610  Packet tx time:  7774
+Current time:  7776  Packet size:  4351  Remaining buffer:  17  Incoming time:  7611  Packet tx time:  7774
+Current time:  7777  Packet size:  4156  Remaining buffer:  1119  Incoming time:  7612  Packet tx time:  7776
+Current time:  7777  Packet size:  1270  Remaining buffer:  1270  Incoming time:  7613  Packet tx time:  7777
+Current time:  7782  Packet size:  1270  Remaining buffer:  636  Incoming time:  7614  Packet tx time:  7777
+Current time:  7782  Packet size:  1754  Remaining buffer:  1754  Incoming time:  7620  Packet tx time:  7782
+Current time:  7784  Packet size:  4156  Remaining buffer:  434  Incoming time:  7621  Packet tx time:  7782
+Current time:  7792  Packet size:  7038  Remaining buffer:  1557  Incoming time:  7628  Packet tx time:  7784
+Current time:  7796  Packet size:  5596  Remaining buffer:  2485  Incoming time:  7629  Packet tx time:  7792
+Current time:  7798  Packet size:  4639  Remaining buffer:  1020  Incoming time:  7630  Packet tx time:  7796
+Current time:  7803  Packet size:  4154  Remaining buffer:  508  Incoming time:  7634  Packet tx time:  7798
+Current time:  7804  Packet size:  4156  Remaining buffer:  1608  Incoming time:  7635  Packet tx time:  7803
+Current time:  7807  Packet size:  4156  Remaining buffer:  1291  Incoming time:  7636  Packet tx time:  7804
+Current time:  7807  Packet size:  1467  Remaining buffer:  1467  Incoming time:  7641  Packet tx time:  7807
+Current time:  7809  Packet size:  4156  Remaining buffer:  806  Incoming time:  7642  Packet tx time:  7807
+Current time:  7810  Packet size:  4154  Remaining buffer:  1904  Incoming time:  7643  Packet tx time:  7809
+Current time:  7811  Packet size:  2712  Remaining buffer:  2045  Incoming time:  7644  Packet tx time:  7810
+Current time:  7813  Packet size:  4154  Remaining buffer:  89  Incoming time:  7649  Packet tx time:  7811
+Current time:  7814  Packet size:  4639  Remaining buffer:  1672  Incoming time:  7650  Packet tx time:  7813
+Current time:  7815  Packet size:  2712  Remaining buffer:  1330  Incoming time:  7651  Packet tx time:  7814
+Current time:  7817  Packet size:  5598  Remaining buffer:  816  Incoming time:  7656  Packet tx time:  7815
+Current time:  7818  Packet size:  4158  Remaining buffer:  1924  Incoming time:  7657  Packet tx time:  7817
+Current time:  7819  Packet size:  1755  Remaining buffer:  625  Incoming time:  7670  Packet tx time:  7818
+Current time:  7838  Packet size:  7038  Remaining buffer:  1551  Incoming time:  7671  Packet tx time:  7819
+Current time:  7842  Packet size:  4156  Remaining buffer:  2485  Incoming time:  7672  Packet tx time:  7838
+Current time:  7846  Packet size:  7210  Remaining buffer:  728  Incoming time:  7673  Packet tx time:  7842
+Current time:  7850  Packet size:  2712  Remaining buffer:  1826  Incoming time:  7674  Packet tx time:  7846
+Current time:  7851  Packet size:  1442  Remaining buffer:  697  Incoming time:  7675  Packet tx time:  7850
+Current time:  7852  Packet size:  4351  Remaining buffer:  1992  Incoming time:  7683  Packet tx time:  7851
+Current time:  7854  Packet size:  2714  Remaining buffer:  1650  Incoming time:  7684  Packet tx time:  7852
+Current time:  7860  Packet size:  4154  Remaining buffer:  1333  Incoming time:  7685  Packet tx time:  7854
+Current time:  7863  Packet size:  4154  Remaining buffer:  2770  Incoming time:  7686  Packet tx time:  7860
+Current time:  7865  Packet size:  4158  Remaining buffer:  816  Incoming time:  7687  Packet tx time:  7863
+Current time:  7866  Packet size:  4154  Remaining buffer:  1916  Incoming time:  7688  Packet tx time:  7865
+Current time:  7867  Packet size:  4154  Remaining buffer:  3014  Incoming time:  7689  Packet tx time:  7866
+Current time:  7869  Packet size:  3389  Remaining buffer:  293  Incoming time:  7690  Packet tx time:  7867
+Current time:  7869  Packet size:  2714  Remaining buffer:  2714  Incoming time:  7692  Packet tx time:  7869
+Current time:  7871  Packet size:  2714  Remaining buffer:  290  Incoming time:  7699  Packet tx time:  7869
+Current time:  7874  Packet size:  4326  Remaining buffer:  1560  Incoming time:  7709  Packet tx time:  7871
+Current time:  7878  Packet size:  6080  Remaining buffer:  113  Incoming time:  7710  Packet tx time:  7874
+Current time:  7878  Packet size:  1274  Remaining buffer:  1274  Incoming time:  7711  Packet tx time:  7878
+Current time:  7890  Packet size:  14420  Remaining buffer:  2170  Incoming time:  7712  Packet tx time:  7878
+Current time:  7892  Packet size:  5768  Remaining buffer:  2316  Incoming time:  7713  Packet tx time:  7890
+Current time:  7896  Packet size:  1467  Remaining buffer:  727  Incoming time:  7714  Packet tx time:  7892
+Current time:  7906  Packet size:  1270  Remaining buffer:  410  Incoming time:  7722  Packet tx time:  7896
+Current time:  7908  Packet size:  4351  Remaining buffer:  93  Incoming time:  7723  Packet tx time:  7906
+Current time:  7909  Packet size:  4154  Remaining buffer:  2633  Incoming time:  7724  Packet tx time:  7908
+Current time:  7911  Packet size:  4154  Remaining buffer:  1162  Incoming time:  7725  Packet tx time:  7909
+Current time:  7912  Packet size:  4156  Remaining buffer:  2264  Incoming time:  7726  Packet tx time:  7911
+Current time:  7914  Packet size:  2714  Remaining buffer:  1922  Incoming time:  7727  Packet tx time:  7912
+Current time:  7915  Packet size:  2714  Remaining buffer:  1582  Incoming time:  7736  Packet tx time:  7914
+Current time:  7915  Packet size:  1272  Remaining buffer:  1272  Incoming time:  7741  Packet tx time:  7915
+Current time:  7917  Packet size:  4154  Remaining buffer:  2538  Incoming time:  7742  Packet tx time:  7915
+Current time:  7918  Packet size:  2712  Remaining buffer:  2196  Incoming time:  7743  Packet tx time:  7917
+Current time:  7920  Packet size:  4351  Remaining buffer:  634  Incoming time:  7744  Packet tx time:  7918
+Current time:  7921  Packet size:  4154  Remaining buffer:  2219  Incoming time:  7745  Packet tx time:  7920
+Current time:  7929  Packet size:  4158  Remaining buffer:  292  Incoming time:  7746  Packet tx time:  7921
+Current time:  7933  Packet size:  4156  Remaining buffer:  1589  Incoming time:  7747  Packet tx time:  7929
+Current time:  7933  Packet size:  1467  Remaining buffer:  1467  Incoming time:  7748  Packet tx time:  7933
+Current time:  7937  Packet size:  7210  Remaining buffer:  2739  Incoming time:  7749  Packet tx time:  7933
+Current time:  7939  Packet size:  5768  Remaining buffer:  2399  Incoming time:  7750  Packet tx time:  7937
+Current time:  7941  Packet size:  4156  Remaining buffer:  930  Incoming time:  7751  Packet tx time:  7939
+Current time:  7942  Packet size:  2911  Remaining buffer:  787  Incoming time:  7756  Packet tx time:  7941
+Current time:  7943  Packet size:  4158  Remaining buffer:  1889  Incoming time:  7757  Packet tx time:  7942
+Current time:  7944  Packet size:  2714  Remaining buffer:  1547  Incoming time:  7758  Packet tx time:  7943
+Current time:  7951  Packet size:  4154  Remaining buffer:  2842  Incoming time:  7764  Packet tx time:  7944
+Current time:  7959  Packet size:  4156  Remaining buffer:  745  Incoming time:  7765  Packet tx time:  7951
+Current time:  7960  Packet size:  2714  Remaining buffer:  403  Incoming time:  7766  Packet tx time:  7959
+Current time:  7960  Packet size:  1274  Remaining buffer:  1274  Incoming time:  7778  Packet tx time:  7960
+Current time:  7966  Packet size:  4154  Remaining buffer:  206  Incoming time:  7779  Packet tx time:  7960
+Current time:  7970  Packet size:  6080  Remaining buffer:  1815  Incoming time:  7780  Packet tx time:  7966
+Current time:  7976  Packet size:  5768  Remaining buffer:  1790  Incoming time:  7786  Packet tx time:  7970
+Current time:  7980  Packet size:  4158  Remaining buffer:  37  Incoming time:  7787  Packet tx time:  7976
+Current time:  7983  Packet size:  4154  Remaining buffer:  8  Incoming time:  7788  Packet tx time:  7980
+Current time:  7983  Packet size:  2712  Remaining buffer:  2712  Incoming time:  7789  Packet tx time:  7983
+Current time:  7985  Packet size:  3389  Remaining buffer:  3053  Incoming time:  7790  Packet tx time:  7983
+Current time:  7986  Packet size:  1270  Remaining buffer:  1267  Incoming time:  7793  Packet tx time:  7985
+Current time:  7989  Packet size:  9922  Remaining buffer:  2023  Incoming time:  7794  Packet tx time:  7986
+Current time:  8000  Packet size:  5793  Remaining buffer:  2041  Incoming time:  7799  Packet tx time:  7989
+Current time:  8002  Packet size:  4639  Remaining buffer:  1254  Incoming time:  7800  Packet tx time:  8000
+Current time:  8003  Packet size:  2909  Remaining buffer:  1107  Incoming time:  7801  Packet tx time:  8002
+Current time:  8003  Packet size:  1270  Remaining buffer:  1270  Incoming time:  7805  Packet tx time:  8003
+Current time:  8006  Packet size:  1947  Remaining buffer:  1268  Incoming time:  7820  Packet tx time:  8003
+Current time:  8012  Packet size:  7210  Remaining buffer:  1243  Incoming time:  7821  Packet tx time:  8006
+Current time:  8014  Packet size:  7210  Remaining buffer:  2341  Incoming time:  7822  Packet tx time:  8012
+Current time:  8021  Packet size:  5768  Remaining buffer:  1543  Incoming time:  7823  Packet tx time:  8014
+Current time:  8022  Packet size:  4156  Remaining buffer:  2645  Incoming time:  7824  Packet tx time:  8021
+Current time:  8024  Packet size:  4831  Remaining buffer:  1366  Incoming time:  7825  Packet tx time:  8022
+Current time:  8024  Packet size:  1469  Remaining buffer:  1469  Incoming time:  7827  Packet tx time:  8024
+Current time:  8025  Packet size:  2712  Remaining buffer:  2491  Incoming time:  7828  Packet tx time:  8024
+Current time:  8027  Packet size:  4156  Remaining buffer:  537  Incoming time:  7829  Packet tx time:  8025
+Current time:  8039  Packet size:  5091  Remaining buffer:  815  Incoming time:  7830  Packet tx time:  8027
+Current time:  8045  Packet size:  4326  Remaining buffer:  668  Incoming time:  7832  Packet tx time:  8039
+Current time:  8045  Packet size:  1469  Remaining buffer:  1469  Incoming time:  7834  Packet tx time:  8045
+Current time:  8048  Packet size:  7466  Remaining buffer:  439  Incoming time:  7835  Packet tx time:  8045
+Current time:  8049  Packet size:  4154  Remaining buffer:  1537  Incoming time:  7836  Packet tx time:  8048
+Current time:  8049  Packet size:  1274  Remaining buffer:  1274  Incoming time:  7837  Packet tx time:  8049
+Current time:  8054  Packet size:  6246  Remaining buffer:  575  Incoming time:  7840  Packet tx time:  8049
+Current time:  8056  Packet size:  1467  Remaining buffer:  256  Incoming time:  7841  Packet tx time:  8054
+Current time:  8059  Packet size:  5596  Remaining buffer:  2798  Incoming time:  7845  Packet tx time:  8056
+Current time:  8062  Packet size:  7210  Remaining buffer:  1329  Incoming time:  7847  Packet tx time:  8059
+Current time:  8062  Packet size:  1272  Remaining buffer:  1272  Incoming time:  7848  Packet tx time:  8062
+Current time:  8064  Packet size:  4353  Remaining buffer:  1039  Incoming time:  7849  Packet tx time:  8062
+Current time:  8075  Packet size:  7210  Remaining buffer:  527  Incoming time:  7856  Packet tx time:  8064
+Current time:  8080  Packet size:  4156  Remaining buffer:  431  Incoming time:  7857  Packet tx time:  8075
+Current time:  8083  Packet size:  5768  Remaining buffer:  857  Incoming time:  7858  Packet tx time:  8080
+Current time:  8085  Packet size:  5768  Remaining buffer:  515  Incoming time:  7859  Packet tx time:  8083
+Current time:  8086  Packet size:  5596  Remaining buffer:  3055  Incoming time:  7872  Packet tx time:  8085
+Current time:  8092  Packet size:  7210  Remaining buffer:  1583  Incoming time:  7873  Packet tx time:  8086
+Current time:  8093  Packet size:  2714  Remaining buffer:  1243  Incoming time:  7877  Packet tx time:  8092
+Current time:  8093  Packet size:  317  Remaining buffer:  317  Incoming time:  7880  Packet tx time:  8093
+Current time:  8094  Packet size:  4351  Remaining buffer:  2857  Incoming time:  7881  Packet tx time:  8093
+Current time:  8096  Packet size:  4154  Remaining buffer:  899  Incoming time:  7882  Packet tx time:  8094
+Current time:  8097  Packet size:  2909  Remaining buffer:  752  Incoming time:  7883  Packet tx time:  8096
+Current time:  8102  Packet size:  4154  Remaining buffer:  437  Incoming time:  7884  Packet tx time:  8097
+Current time:  8107  Packet size:  4156  Remaining buffer:  1367  Incoming time:  7885  Packet tx time:  8102
+Current time:  8107  Packet size:  25  Remaining buffer:  25  Incoming time:  7887  Packet tx time:  8107
+Current time:  8108  Packet size:  4156  Remaining buffer:  2492  Incoming time:  7897  Packet tx time:  8107
+Current time:  8110  Packet size:  4156  Remaining buffer:  538  Incoming time:  7898  Packet tx time:  8108
+Current time:  8111  Packet size:  4154  Remaining buffer:  2121  Incoming time:  7899  Packet tx time:  8110
+Current time:  8117  Packet size:  3651  Remaining buffer:  1301  Incoming time:  7900  Packet tx time:  8111
+Current time:  8118  Packet size:  4158  Remaining buffer:  2405  Incoming time:  7901  Packet tx time:  8117
+Current time:  8124  Packet size:  1270  Remaining buffer:  646  Incoming time:  7902  Packet tx time:  8118
+Current time:  8125  Packet size:  2712  Remaining buffer:  302  Incoming time:  7903  Packet tx time:  8124
+Current time:  8126  Packet size:  4351  Remaining buffer:  1597  Incoming time:  7904  Packet tx time:  8125
+Current time:  8131  Packet size:  4326  Remaining buffer:  12  Incoming time:  7923  Packet tx time:  8126
+Current time:  8135  Packet size:  7210  Remaining buffer:  1139  Incoming time:  7924  Packet tx time:  8131
+Current time:  8137  Packet size:  3388  Remaining buffer:  1301  Incoming time:  7925  Packet tx time:  8135
+Current time:  8138  Packet size:  4156  Remaining buffer:  2403  Incoming time:  7926  Packet tx time:  8137
+Current time:  8140  Packet size:  4156  Remaining buffer:  449  Incoming time:  7927  Packet tx time:  8138
+Current time:  8149  Packet size:  3483  Remaining buffer:  1553  Incoming time:  7930  Packet tx time:  8140
+Current time:  8152  Packet size:  4156  Remaining buffer:  2850  Incoming time:  7931  Packet tx time:  8149
+Current time:  8155  Packet size:  4156  Remaining buffer:  898  Incoming time:  7932  Packet tx time:  8152
+Current time:  8155  Packet size:  1659  Remaining buffer:  1659  Incoming time:  7935  Packet tx time:  8155
+Current time:  8162  Packet size:  4154  Remaining buffer:  628  Incoming time:  7945  Packet tx time:  8155
+Current time:  8164  Packet size:  4156  Remaining buffer:  1732  Incoming time:  7946  Packet tx time:  8162
+Current time:  8165  Packet size:  2712  Remaining buffer:  1388  Incoming time:  7947  Packet tx time:  8164
+Current time:  8166  Packet size:  4351  Remaining buffer:  2685  Incoming time:  7948  Packet tx time:  8165
+Current time:  8168  Packet size:  4156  Remaining buffer:  731  Incoming time:  7949  Packet tx time:  8166
+Current time:  8169  Packet size:  3198  Remaining buffer:  873  Incoming time:  7950  Packet tx time:  8168
+Current time:  8173  Packet size:  11366  Remaining buffer:  504  Incoming time:  7952  Packet tx time:  8169
+Current time:  8173  Packet size:  1467  Remaining buffer:  1467  Incoming time:  7953  Packet tx time:  8173
+Current time:  8188  Packet size:  4154  Remaining buffer:  1161  Incoming time:  7955  Packet tx time:  8173
+Current time:  8191  Packet size:  2714  Remaining buffer:  2263  Incoming time:  7956  Packet tx time:  8188
+Current time:  8193  Packet size:  1469  Remaining buffer:  676  Incoming time:  7961  Packet tx time:  8191
+Current time:  8194  Packet size:  1270  Remaining buffer:  334  Incoming time:  7962  Packet tx time:  8193
+Current time:  8203  Packet size:  9922  Remaining buffer:  2221  Incoming time:  7963  Packet tx time:  8194
+Current time:  8203  Packet size:  25  Remaining buffer:  25  Incoming time:  7965  Packet tx time:  8203
+Current time:  8205  Packet size:  5768  Remaining buffer:  1906  Incoming time:  7967  Packet tx time:  8203
+Current time:  8207  Packet size:  4326  Remaining buffer:  317  Incoming time:  7968  Packet tx time:  8205
+Current time:  8208  Packet size:  4154  Remaining buffer:  1415  Incoming time:  7972  Packet tx time:  8207
+Current time:  8209  Packet size:  2909  Remaining buffer:  1270  Incoming time:  7973  Packet tx time:  8208
+Current time:  8210  Packet size:  2712  Remaining buffer:  926  Incoming time:  7974  Packet tx time:  8209
+Current time:  8211  Packet size:  2714  Remaining buffer:  1261  Incoming time:  7978  Packet tx time:  8210
+Current time:  8218  Packet size:  2712  Remaining buffer:  2359  Incoming time:  7979  Packet tx time:  8211
+Current time:  8218  Packet size:  27  Remaining buffer:  27  Incoming time:  7981  Packet tx time:  8218
+Current time:  8219  Packet size:  1272  Remaining buffer:  608  Incoming time:  7991  Packet tx time:  8218
+Current time:  8220  Packet size:  4154  Remaining buffer:  1706  Incoming time:  7992  Packet tx time:  8219
+Current time:  8222  Packet size:  5768  Remaining buffer:  1848  Incoming time:  7993  Packet tx time:  8220
+Current time:  8229  Packet size:  4351  Remaining buffer:  89  Incoming time:  7994  Packet tx time:  8222
+Current time:  8230  Packet size:  4154  Remaining buffer:  1187  Incoming time:  7995  Packet tx time:  8229
+Current time:  8230  Packet size:  1274  Remaining buffer:  1274  Incoming time:  7996  Packet tx time:  8230
+Current time:  8230  Packet size:  27  Remaining buffer:  27  Incoming time:  7998  Packet tx time:  8230
+Current time:  8230  Packet size:  25  Remaining buffer:  25  Incoming time:  8007  Packet tx time:  8230
+Current time:  8240  Packet size:  9922  Remaining buffer:  2167  Incoming time:  8008  Packet tx time:  8230
+Current time:  8242  Packet size:  4154  Remaining buffer:  1084  Incoming time:  8009  Packet tx time:  8240
+Current time:  8244  Packet size:  5795  Remaining buffer:  771  Incoming time:  8016  Packet tx time:  8242
+Current time:  8245  Packet size:  2714  Remaining buffer:  429  Incoming time:  8017  Packet tx time:  8244
+Current time:  8246  Packet size:  4156  Remaining buffer:  1531  Incoming time:  8018  Packet tx time:  8245
+Current time:  8247  Packet size:  4156  Remaining buffer:  2828  Incoming time:  8019  Packet tx time:  8246
+Current time:  8257  Packet size:  8652  Remaining buffer:  2142  Incoming time:  8029  Packet tx time:  8247
+Current time:  8263  Packet size:  4641  Remaining buffer:  675  Incoming time:  8030  Packet tx time:  8257
+Current time:  8264  Packet size:  2911  Remaining buffer:  530  Incoming time:  8031  Packet tx time:  8263
+Current time:  8268  Packet size:  4154  Remaining buffer:  41  Incoming time:  8032  Packet tx time:  8264
+Current time:  8270  Packet size:  7210  Remaining buffer:  1139  Incoming time:  8033  Packet tx time:  8268
+Current time:  8270  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8034  Packet tx time:  8270
+Current time:  8270  Packet size:  25  Remaining buffer:  25  Incoming time:  8035  Packet tx time:  8270
+Current time:  8271  Packet size:  2714  Remaining buffer:  2577  Incoming time:  8036  Packet tx time:  8270
+Current time:  8273  Packet size:  5768  Remaining buffer:  2237  Incoming time:  8040  Packet tx time:  8271
+Current time:  8273  Packet size:  29  Remaining buffer:  29  Incoming time:  8041  Packet tx time:  8273
+Current time:  8274  Packet size:  2884  Remaining buffer:  2094  Incoming time:  8042  Packet tx time:  8273
+Current time:  8275  Packet size:  1467  Remaining buffer:  507  Incoming time:  8043  Packet tx time:  8274
+Current time:  8276  Packet size:  2712  Remaining buffer:  163  Incoming time:  8052  Packet tx time:  8275
+Current time:  8277  Packet size:  4351  Remaining buffer:  1657  Incoming time:  8053  Packet tx time:  8276
+Current time:  8279  Packet size:  5795  Remaining buffer:  1344  Incoming time:  8057  Packet tx time:  8277
+Current time:  8280  Packet size:  2714  Remaining buffer:  1002  Incoming time:  8058  Packet tx time:  8279
+Current time:  8284  Packet size:  4154  Remaining buffer:  1362  Incoming time:  8065  Packet tx time:  8280
+Current time:  8292  Packet size:  7210  Remaining buffer:  2487  Incoming time:  8066  Packet tx time:  8284
+Current time:  8294  Packet size:  4156  Remaining buffer:  533  Incoming time:  8067  Packet tx time:  8292
+Current time:  8295  Packet size:  4351  Remaining buffer:  2025  Incoming time:  8068  Packet tx time:  8294
+Current time:  8299  Packet size:  2712  Remaining buffer:  1511  Incoming time:  8069  Packet tx time:  8295
+Current time:  8303  Packet size:  7210  Remaining buffer:  238  Incoming time:  8070  Packet tx time:  8299
+Current time:  8304  Packet size:  2714  Remaining buffer:  1338  Incoming time:  8072  Packet tx time:  8303
+Current time:  8304  Packet size:  1467  Remaining buffer:  1467  Incoming time:  8073  Packet tx time:  8304
+Current time:  8305  Packet size:  2712  Remaining buffer:  2461  Incoming time:  8076  Packet tx time:  8304
+Current time:  8307  Packet size:  4328  Remaining buffer:  679  Incoming time:  8077  Packet tx time:  8305
+Current time:  8307  Packet size:  27  Remaining buffer:  27  Incoming time:  8081  Packet tx time:  8307
+Current time:  8307  Packet size:  1469  Remaining buffer:  1469  Incoming time:  8088  Packet tx time:  8307
+Current time:  8314  Packet size:  4156  Remaining buffer:  244  Incoming time:  8089  Packet tx time:  8307
+Current time:  8314  Packet size:  1274  Remaining buffer:  1274  Incoming time:  8098  Packet tx time:  8314
+Current time:  8316  Packet size:  5596  Remaining buffer:  1004  Incoming time:  8099  Packet tx time:  8314
+Current time:  8317  Packet size:  3197  Remaining buffer:  1147  Incoming time:  8100  Packet tx time:  8316
+Current time:  8319  Packet size:  4351  Remaining buffer:  1029  Incoming time:  8104  Packet tx time:  8317
+Current time:  8321  Packet size:  4154  Remaining buffer:  998  Incoming time:  8105  Packet tx time:  8319
+Current time:  8322  Packet size:  2714  Remaining buffer:  855  Incoming time:  8106  Packet tx time:  8321
+Current time:  8324  Packet size:  7210  Remaining buffer:  1955  Incoming time:  8113  Packet tx time:  8322
+Current time:  8330  Packet size:  5768  Remaining buffer:  1808  Incoming time:  8114  Packet tx time:  8324
+Current time:  8334  Packet size:  7210  Remaining buffer:  535  Incoming time:  8115  Packet tx time:  8330
+Current time:  8334  Packet size:  1272  Remaining buffer:  1272  Incoming time:  8116  Packet tx time:  8334
+Current time:  8336  Packet size:  6081  Remaining buffer:  1778  Incoming time:  8120  Packet tx time:  8334
+Current time:  8338  Packet size:  4355  Remaining buffer:  414  Incoming time:  8121  Packet tx time:  8336
+Current time:  8339  Packet size:  2712  Remaining buffer:  72  Incoming time:  8122  Packet tx time:  8338
+Current time:  8339  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8123  Packet tx time:  8339
+Current time:  8340  Packet size:  2712  Remaining buffer:  998  Incoming time:  8128  Packet tx time:  8339
+Current time:  8344  Packet size:  8480  Remaining buffer:  2261  Incoming time:  8129  Packet tx time:  8340
+Current time:  8344  Packet size:  313  Remaining buffer:  313  Incoming time:  8130  Packet tx time:  8344
+Current time:  8345  Packet size:  2716  Remaining buffer:  2431  Incoming time:  8141  Packet tx time:  8344
+Current time:  8346  Packet size:  2712  Remaining buffer:  2087  Incoming time:  8142  Packet tx time:  8345
+Current time:  8348  Packet size:  5596  Remaining buffer:  1573  Incoming time:  8143  Packet tx time:  8346
+Current time:  8351  Packet size:  4351  Remaining buffer:  1931  Incoming time:  8144  Packet tx time:  8348
+Current time:  8352  Packet size:  2712  Remaining buffer:  1589  Incoming time:  8145  Packet tx time:  8351
+Current time:  8354  Packet size:  4158  Remaining buffer:  2693  Incoming time:  8146  Packet tx time:  8352
+Current time:  8356  Packet size:  4154  Remaining buffer:  735  Incoming time:  8147  Packet tx time:  8354
+Current time:  8357  Packet size:  2712  Remaining buffer:  395  Incoming time:  8148  Packet tx time:  8356
+Current time:  8359  Packet size:  5598  Remaining buffer:  82  Incoming time:  8158  Packet tx time:  8357
+Current time:  8359  Packet size:  2712  Remaining buffer:  2712  Incoming time:  8159  Packet tx time:  8359
+Current time:  8361  Packet size:  4831  Remaining buffer:  1998  Incoming time:  8160  Packet tx time:  8359
+Current time:  8362  Packet size:  2909  Remaining buffer:  2050  Incoming time:  8161  Packet tx time:  8361
+Current time:  8363  Packet size:  2712  Remaining buffer:  1708  Incoming time:  8163  Packet tx time:  8362
+Current time:  8363  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8174  Packet tx time:  8363
+Current time:  8365  Packet size:  4154  Remaining buffer:  1020  Incoming time:  8176  Packet tx time:  8363
+Current time:  8366  Packet size:  2913  Remaining buffer:  877  Incoming time:  8177  Packet tx time:  8365
+Current time:  8368  Packet size:  4158  Remaining buffer:  367  Incoming time:  8178  Packet tx time:  8366
+Current time:  8368  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8179  Packet tx time:  8368
+Current time:  8371  Packet size:  6080  Remaining buffer:  1607  Incoming time:  8180  Packet tx time:  8368
+Current time:  8372  Packet size:  4160  Remaining buffer:  2713  Incoming time:  8182  Packet tx time:  8371
+Current time:  8372  Packet size:  25  Remaining buffer:  25  Incoming time:  8186  Packet tx time:  8372
+Current time:  8374  Packet size:  2884  Remaining buffer:  2765  Incoming time:  8187  Packet tx time:  8372
+Current time:  8376  Packet size:  4154  Remaining buffer:  807  Incoming time:  8189  Packet tx time:  8374
+Current time:  8376  Packet size:  1947  Remaining buffer:  1947  Incoming time:  8190  Packet tx time:  8376
+Current time:  8377  Packet size:  1272  Remaining buffer:  972  Incoming time:  8192  Packet tx time:  8376
+Current time:  8378  Packet size:  2909  Remaining buffer:  827  Incoming time:  8195  Packet tx time:  8377
+Current time:  8378  Packet size:  1754  Remaining buffer:  1754  Incoming time:  8200  Packet tx time:  8378
+Current time:  8379  Packet size:  1467  Remaining buffer:  1191  Incoming time:  8201  Packet tx time:  8378
+Current time:  8382  Packet size:  5598  Remaining buffer:  679  Incoming time:  8212  Packet tx time:  8379
+Current time:  8384  Packet size:  4156  Remaining buffer:  1806  Incoming time:  8213  Packet tx time:  8382
+Current time:  8430  Packet size:  9922  Remaining buffer:  930  Incoming time:  8214  Packet tx time:  8384
+Current time:  8434  Packet size:  4351  Remaining buffer:  2709  Incoming time:  8215  Packet tx time:  8430
+Current time:  8436  Packet size:  2712  Remaining buffer:  2367  Incoming time:  8216  Packet tx time:  8434
+Current time:  8437  Packet size:  1272  Remaining buffer:  583  Incoming time:  8217  Packet tx time:  8436
+Current time:  8447  Packet size:  2884  Remaining buffer:  413  Incoming time:  8224  Packet tx time:  8437
+Current time:  8448  Packet size:  2911  Remaining buffer:  1710  Incoming time:  8225  Packet tx time:  8447
+Current time:  8449  Packet size:  2712  Remaining buffer:  1368  Incoming time:  8226  Packet tx time:  8448
+Current time:  8450  Packet size:  2712  Remaining buffer:  1024  Incoming time:  8227  Packet tx time:  8449
+Current time:  8450  Packet size:  1469  Remaining buffer:  1469  Incoming time:  8232  Packet tx time:  8450
+Current time:  8451  Packet size:  2712  Remaining buffer:  2634  Incoming time:  8233  Packet tx time:  8450
+Current time:  8453  Packet size:  4154  Remaining buffer:  678  Incoming time:  8234  Packet tx time:  8451
+Current time:  8453  Packet size:  1274  Remaining buffer:  1274  Incoming time:  8237  Packet tx time:  8453
+Current time:  8454  Packet size:  1272  Remaining buffer:  170  Incoming time:  8238  Packet tx time:  8453
+Current time:  8455  Packet size:  4154  Remaining buffer:  1268  Incoming time:  8248  Packet tx time:  8454
+Current time:  8456  Packet size:  4154  Remaining buffer:  2366  Incoming time:  8249  Packet tx time:  8455
+Current time:  8458  Packet size:  3391  Remaining buffer:  2900  Incoming time:  8250  Packet tx time:  8456
+Current time:  8461  Packet size:  1272  Remaining buffer:  1118  Incoming time:  8252  Packet tx time:  8458
+Current time:  8461  Packet size:  1442  Remaining buffer:  1442  Incoming time:  8253  Packet tx time:  8461
+Current time:  8466  Packet size:  5793  Remaining buffer:  1407  Incoming time:  8254  Packet tx time:  8461
+Current time:  8466  Packet size:  27  Remaining buffer:  27  Incoming time:  8258  Packet tx time:  8466
+Current time:  8467  Packet size:  1272  Remaining buffer:  1094  Incoming time:  8259  Packet tx time:  8466
+Current time:  8478  Packet size:  2884  Remaining buffer:  414  Incoming time:  8260  Packet tx time:  8467
+Current time:  8478  Packet size:  27  Remaining buffer:  27  Incoming time:  8262  Packet tx time:  8478
+Current time:  8478  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8265  Packet tx time:  8478
+Current time:  8481  Packet size:  5598  Remaining buffer:  1684  Incoming time:  8282  Packet tx time:  8478
+Current time:  8482  Packet size:  1270  Remaining buffer:  95  Incoming time:  8283  Packet tx time:  8481
+Current time:  8483  Packet size:  4156  Remaining buffer:  1197  Incoming time:  8286  Packet tx time:  8482
+Current time:  8484  Packet size:  4154  Remaining buffer:  2297  Incoming time:  8287  Packet tx time:  8483
+Current time:  8487  Packet size:  1467  Remaining buffer:  708  Incoming time:  8288  Packet tx time:  8484
+Current time:  8487  Packet size:  313  Remaining buffer:  313  Incoming time:  8290  Packet tx time:  8487
+Current time:  8493  Packet size:  7042  Remaining buffer:  2152  Incoming time:  8296  Packet tx time:  8487
+Current time:  8494  Packet size:  1444  Remaining buffer:  544  Incoming time:  8297  Packet tx time:  8493
+Current time:  8495  Packet size:  4156  Remaining buffer:  1644  Incoming time:  8302  Packet tx time:  8494
+Current time:  8495  Packet size:  313  Remaining buffer:  313  Incoming time:  8310  Packet tx time:  8495
+Current time:  8496  Packet size:  1272  Remaining buffer:  562  Incoming time:  8311  Packet tx time:  8495
+Current time:  8497  Packet size:  2911  Remaining buffer:  417  Incoming time:  8312  Packet tx time:  8496
+Current time:  8497  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8313  Packet tx time:  8497
+Current time:  8498  Packet size:  4156  Remaining buffer:  2791  Incoming time:  8326  Packet tx time:  8497
+Current time:  8501  Packet size:  2712  Remaining buffer:  2646  Incoming time:  8327  Packet tx time:  8498
+Current time:  8503  Packet size:  4154  Remaining buffer:  887  Incoming time:  8328  Packet tx time:  8501
+Current time:  8503  Packet size:  1272  Remaining buffer:  1272  Incoming time:  8329  Packet tx time:  8503
+Current time:  8507  Packet size:  1467  Remaining buffer:  574  Incoming time:  8387  Packet tx time:  8503
+Current time:  8512  Packet size:  1270  Remaining buffer:  62  Incoming time:  8389  Packet tx time:  8507
+Current time:  8512  Packet size:  1755  Remaining buffer:  1755  Incoming time:  8390  Packet tx time:  8512
+Current time:  8514  Packet size:  4156  Remaining buffer:  2919  Incoming time:  8392  Packet tx time:  8512
+Current time:  8518  Packet size:  4326  Remaining buffer:  1137  Incoming time:  8393  Packet tx time:  8514
+Current time:  8518  Packet size:  1467  Remaining buffer:  1467  Incoming time:  8394  Packet tx time:  8518
+Current time:  8519  Packet size:  1272  Remaining buffer:  822  Incoming time:  8396  Packet tx time:  8518
+Current time:  8520  Packet size:  2714  Remaining buffer:  480  Incoming time:  8397  Packet tx time:  8519
+Current time:  8520  Packet size:  27  Remaining buffer:  27  Incoming time:  8398  Packet tx time:  8520
+Current time:  8520  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8399  Packet tx time:  8520
+Current time:  8520  Packet size:  598  Remaining buffer:  598  Incoming time:  8400  Packet tx time:  8520
+Current time:  8521  Packet size:  1469  Remaining buffer:  1273  Incoming time:  8401  Packet tx time:  8520
+Current time:  8521  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8403  Packet tx time:  8521
+Current time:  8525  Packet size:  1270  Remaining buffer:  782  Incoming time:  8404  Packet tx time:  8521
+Current time:  8525  Packet size:  25  Remaining buffer:  25  Incoming time:  8405  Packet tx time:  8525
+Current time:  8529  Packet size:  4326  Remaining buffer:  2102  Incoming time:  8407  Packet tx time:  8525
+Current time:  8531  Packet size:  4156  Remaining buffer:  631  Incoming time:  8408  Packet tx time:  8529
+Current time:  8534  Packet size:  2712  Remaining buffer:  287  Incoming time:  8409  Packet tx time:  8531
+Current time:  8535  Packet size:  4639  Remaining buffer:  1872  Incoming time:  8410  Packet tx time:  8534
+Current time:  8538  Packet size:  4154  Remaining buffer:  303  Incoming time:  8411  Packet tx time:  8535
+Current time:  8541  Packet size:  2714  Remaining buffer:  162  Incoming time:  8412  Packet tx time:  8538
+Current time:  8548  Packet size:  4156  Remaining buffer:  1459  Incoming time:  8413  Packet tx time:  8541
+Current time:  8554  Packet size:  5598  Remaining buffer:  2132  Incoming time:  8414  Packet tx time:  8548
+Current time:  8556  Packet size:  2712  Remaining buffer:  851  Incoming time:  8415  Packet tx time:  8554
+Current time:  8557  Packet size:  4154  Remaining buffer:  2146  Incoming time:  8416  Packet tx time:  8556
+Current time:  8562  Packet size:  4156  Remaining buffer:  1546  Incoming time:  8417  Packet tx time:  8557
+Current time:  8564  Packet size:  4355  Remaining buffer:  183  Incoming time:  8418  Packet tx time:  8562
+Current time:  8565  Packet size:  2712  Remaining buffer:  517  Incoming time:  8419  Packet tx time:  8564
+Current time:  8569  Packet size:  4639  Remaining buffer:  1266  Incoming time:  8420  Packet tx time:  8565
+Current time:  8572  Packet size:  8480  Remaining buffer:  2391  Incoming time:  8421  Packet tx time:  8569
+Current time:  8572  Packet size:  27  Remaining buffer:  27  Incoming time:  8422  Packet tx time:  8572
+Current time:  8577  Packet size:  9924  Remaining buffer:  1566  Incoming time:  8423  Packet tx time:  8572
+Current time:  8578  Packet size:  2712  Remaining buffer:  1224  Incoming time:  8424  Packet tx time:  8577
+Current time:  8583  Packet size:  5596  Remaining buffer:  737  Incoming time:  8425  Packet tx time:  8578
+Current time:  8584  Packet size:  2714  Remaining buffer:  395  Incoming time:  8426  Packet tx time:  8583
+Current time:  8585  Packet size:  4154  Remaining buffer:  1495  Incoming time:  8427  Packet tx time:  8584
+Current time:  8590  Packet size:  2716  Remaining buffer:  1157  Incoming time:  8428  Packet tx time:  8585
+Current time:  8592  Packet size:  5596  Remaining buffer:  1128  Incoming time:  8431  Packet tx time:  8590
+Current time:  8594  Packet size:  4158  Remaining buffer:  2230  Incoming time:  8432  Packet tx time:  8592
+Current time:  8599  Packet size:  5768  Remaining buffer:  1917  Incoming time:  8433  Packet tx time:  8594
+Current time:  8605  Packet size:  5768  Remaining buffer:  860  Incoming time:  8439  Packet tx time:  8599
+Current time:  8606  Packet size:  4835  Remaining buffer:  3032  Incoming time:  8440  Packet tx time:  8605
+Current time:  8610  Packet size:  4734  Remaining buffer:  238  Incoming time:  8441  Packet tx time:  8606
+Current time:  8611  Packet size:  4326  Remaining buffer:  2279  Incoming time:  8442  Packet tx time:  8610
+Current time:  8613  Packet size:  4156  Remaining buffer:  712  Incoming time:  8443  Packet tx time:  8611
+Current time:  8616  Packet size:  7210  Remaining buffer:  781  Incoming time:  8444  Packet tx time:  8613
+Current time:  8620  Packet size:  5768  Remaining buffer:  1711  Incoming time:  8445  Packet tx time:  8616
+Current time:  8620  Packet size:  27  Remaining buffer:  27  Incoming time:  8446  Packet tx time:  8620
+Current time:  8621  Packet size:  1272  Remaining buffer:  725  Incoming time:  8457  Packet tx time:  8620
+Current time:  8622  Packet size:  4154  Remaining buffer:  1823  Incoming time:  8459  Packet tx time:  8621
+Current time:  8622  Packet size:  598  Remaining buffer:  598  Incoming time:  8460  Packet tx time:  8622
+Current time:  8623  Packet size:  1442  Remaining buffer:  807  Incoming time:  8462  Packet tx time:  8622
+Current time:  8632  Packet size:  4156  Remaining buffer:  2104  Incoming time:  8463  Packet tx time:  8623
+Current time:  8638  Packet size:  5596  Remaining buffer:  1424  Incoming time:  8468  Packet tx time:  8632
+Current time:  8638  Packet size:  25  Remaining buffer:  25  Incoming time:  8469  Packet tx time:  8638
+Current time:  8643  Packet size:  2759  Remaining buffer:  1154  Incoming time:  8470  Packet tx time:  8638
+Current time:  8643  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8472  Packet tx time:  8643
+Current time:  8644  Packet size:  2911  Remaining buffer:  2279  Incoming time:  8473  Packet tx time:  8643
+Current time:  8645  Packet size:  1442  Remaining buffer:  665  Incoming time:  8475  Packet tx time:  8644
+Current time:  8645  Packet size:  25  Remaining buffer:  25  Incoming time:  8485  Packet tx time:  8645
+Current time:  8646  Packet size:  4154  Remaining buffer:  1790  Incoming time:  8486  Packet tx time:  8645
+Current time:  8647  Packet size:  2712  Remaining buffer:  1446  Incoming time:  8488  Packet tx time:  8646
+Current time:  8648  Packet size:  4156  Remaining buffer:  2550  Incoming time:  8489  Packet tx time:  8647
+Current time:  8650  Packet size:  4638  Remaining buffer:  1273  Incoming time:  8490  Packet tx time:  8648
+Current time:  8651  Packet size:  2712  Remaining buffer:  1414  Incoming time:  8491  Packet tx time:  8650
+Current time:  8664  Packet size:  4326  Remaining buffer:  2514  Incoming time:  8499  Packet tx time:  8651
+Current time:  8670  Packet size:  3481  Remaining buffer:  82  Incoming time:  8500  Packet tx time:  8664
+Current time:  8672  Packet size:  5768  Remaining buffer:  421  Incoming time:  8504  Packet tx time:  8670
+Current time:  8681  Packet size:  7210  Remaining buffer:  106  Incoming time:  8505  Packet tx time:  8672
+Current time:  8684  Packet size:  10119  Remaining buffer:  1254  Incoming time:  8506  Packet tx time:  8681
+Current time:  8687  Packet size:  7038  Remaining buffer:  2207  Incoming time:  8508  Packet tx time:  8684
+Current time:  8688  Packet size:  1442  Remaining buffer:  595  Incoming time:  8509  Packet tx time:  8687
+Current time:  8688  Packet size:  1946  Remaining buffer:  1946  Incoming time:  8510  Packet tx time:  8688
+Current time:  8689  Packet size:  1272  Remaining buffer:  757  Incoming time:  8513  Packet tx time:  8688
+Current time:  8690  Packet size:  4156  Remaining buffer:  1859  Incoming time:  8522  Packet tx time:  8689
+Current time:  8691  Packet size:  2714  Remaining buffer:  2003  Incoming time:  8523  Packet tx time:  8690
+Current time:  8692  Packet size:  1274  Remaining buffer:  221  Incoming time:  8527  Packet tx time:  8691
+Current time:  8693  Packet size:  1270  Remaining buffer:  74  Incoming time:  8528  Packet tx time:  8692
+Current time:  8693  Packet size:  27  Remaining buffer:  27  Incoming time:  8532  Packet tx time:  8693
+Current time:  8693  Packet size:  2  Remaining buffer:  2  Incoming time:  8537  Packet tx time:  8693
+Current time:  8700  Packet size:  5091  Remaining buffer:  2140  Incoming time:  8540  Packet tx time:  8693
+Current time:  8703  Packet size:  7715  Remaining buffer:  1368  Incoming time:  8542  Packet tx time:  8700
+Current time:  8705  Packet size:  7237  Remaining buffer:  2690  Incoming time:  8543  Packet tx time:  8703
+Current time:  8714  Packet size:  7210  Remaining buffer:  761  Incoming time:  8544  Packet tx time:  8705
+Current time:  8721  Packet size:  6074  Remaining buffer:  754  Incoming time:  8545  Packet tx time:  8714
+Current time:  8724  Packet size:  6246  Remaining buffer:  2527  Incoming time:  8546  Packet tx time:  8721
+Current time:  8725  Packet size:  698  Remaining buffer:  169  Incoming time:  8547  Packet tx time:  8724
+Current time:  8725  Packet size:  25  Remaining buffer:  25  Incoming time:  8549  Packet tx time:  8725
+Current time:  8725  Packet size:  27  Remaining buffer:  27  Incoming time:  8558  Packet tx time:  8725
+Current time:  8726  Packet size:  2911  Remaining buffer:  78  Incoming time:  8559  Packet tx time:  8725
+Current time:  8727  Packet size:  3388  Remaining buffer:  607  Incoming time:  8560  Packet tx time:  8726
+Current time:  8734  Packet size:  5793  Remaining buffer:  1732  Incoming time:  8566  Packet tx time:  8727
+Current time:  8737  Packet size:  4351  Remaining buffer:  170  Incoming time:  8567  Packet tx time:  8734
+Current time:  8741  Packet size:  11364  Remaining buffer:  2685  Incoming time:  8573  Packet tx time:  8737
+Current time:  8744  Packet size:  4639  Remaining buffer:  1411  Incoming time:  8580  Packet tx time:  8741
+Current time:  8744  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8581  Packet tx time:  8744
+Current time:  8744  Packet size:  25  Remaining buffer:  25  Incoming time:  8586  Packet tx time:  8744
+Current time:  8751  Packet size:  2714  Remaining buffer:  752  Incoming time:  8587  Packet tx time:  8744
+Current time:  8755  Packet size:  5984  Remaining buffer:  626  Incoming time:  8588  Packet tx time:  8751
+Current time:  8757  Packet size:  5768  Remaining buffer:  284  Incoming time:  8589  Packet tx time:  8755
+Current time:  8758  Packet size:  5602  Remaining buffer:  2834  Incoming time:  8595  Packet tx time:  8757
+Current time:  8767  Packet size:  4542  Remaining buffer:  1874  Incoming time:  8596  Packet tx time:  8758
+Current time:  8769  Packet size:  5793  Remaining buffer:  2999  Incoming time:  8601  Packet tx time:  8767
+Current time:  8774  Packet size:  4154  Remaining buffer:  1526  Incoming time:  8602  Packet tx time:  8769
+Current time:  8781  Packet size:  5598  Remaining buffer:  1211  Incoming time:  8609  Packet tx time:  8774
+Current time:  8785  Packet size:  2714  Remaining buffer:  699  Incoming time:  8618  Packet tx time:  8781
+Current time:  8787  Packet size:  4326  Remaining buffer:  1797  Incoming time:  8625  Packet tx time:  8785
+Current time:  8789  Packet size:  5768  Remaining buffer:  1455  Incoming time:  8626  Packet tx time:  8787
+Current time:  8790  Packet size:  4160  Remaining buffer:  2561  Incoming time:  8627  Packet tx time:  8789
+Current time:  8791  Packet size:  2712  Remaining buffer:  2702  Incoming time:  8628  Packet tx time:  8790
+Current time:  8793  Packet size:  4154  Remaining buffer:  744  Incoming time:  8629  Packet tx time:  8791
+Current time:  8794  Packet size:  4639  Remaining buffer:  2524  Incoming time:  8630  Packet tx time:  8793
+Current time:  8794  Packet size:  25  Remaining buffer:  25  Incoming time:  8631  Packet tx time:  8794
+Current time:  8798  Packet size:  7038  Remaining buffer:  2066  Incoming time:  8633  Packet tx time:  8794
+Current time:  8799  Packet size:  2712  Remaining buffer:  1724  Incoming time:  8634  Packet tx time:  8798
+Current time:  8800  Packet size:  2712  Remaining buffer:  1382  Incoming time:  8635  Packet tx time:  8799
+Current time:  8801  Packet size:  1467  Remaining buffer:  278  Incoming time:  8639  Packet tx time:  8800
+Current time:  8802  Packet size:  3197  Remaining buffer:  616  Incoming time:  8640  Packet tx time:  8801
+Current time:  8814  Packet size:  2909  Remaining buffer:  297  Incoming time:  8641  Packet tx time:  8802
+Current time:  8814  Packet size:  1272  Remaining buffer:  1272  Incoming time:  8642  Packet tx time:  8814
+Current time:  8815  Packet size:  2714  Remaining buffer:  2673  Incoming time:  8652  Packet tx time:  8814
+Current time:  8818  Packet size:  2909  Remaining buffer:  2526  Incoming time:  8653  Packet tx time:  8815
+Current time:  8821  Packet size:  2712  Remaining buffer:  2184  Incoming time:  8654  Packet tx time:  8818
+Current time:  8827  Packet size:  2712  Remaining buffer:  278  Incoming time:  8655  Packet tx time:  8821
+Current time:  8827  Packet size:  2712  Remaining buffer:  2712  Incoming time:  8656  Packet tx time:  8827
+Current time:  8827  Packet size:  31  Remaining buffer:  31  Incoming time:  8657  Packet tx time:  8827
+Current time:  8831  Packet size:  2712  Remaining buffer:  2679  Incoming time:  8659  Packet tx time:  8827
+Current time:  8833  Packet size:  3197  Remaining buffer:  2820  Incoming time:  8660  Packet tx time:  8831
+Current time:  8834  Packet size:  217  Remaining buffer:  178  Incoming time:  8661  Packet tx time:  8833
+Current time:  8834  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8666  Packet tx time:  8834
+Current time:  8839  Packet size:  2714  Remaining buffer:  766  Incoming time:  8667  Packet tx time:  8834
+Current time:  8840  Packet size:  2714  Remaining buffer:  424  Incoming time:  8668  Packet tx time:  8839
+Current time:  8841  Packet size:  4326  Remaining buffer:  2181  Incoming time:  8669  Packet tx time:  8840
+Current time:  8843  Packet size:  5768  Remaining buffer:  2034  Incoming time:  8673  Packet tx time:  8841
+Current time:  8858  Packet size:  7040  Remaining buffer:  2819  Incoming time:  8674  Packet tx time:  8843
+Current time:  8859  Packet size:  2714  Remaining buffer:  2481  Incoming time:  8675  Packet tx time:  8858
+Current time:  8860  Packet size:  2714  Remaining buffer:  2139  Incoming time:  8678  Packet tx time:  8859
+Current time:  8861  Packet size:  2712  Remaining buffer:  2279  Incoming time:  8679  Packet tx time:  8860
+Current time:  8861  Packet size:  315  Remaining buffer:  315  Incoming time:  8680  Packet tx time:  8861
+Current time:  8862  Packet size:  1270  Remaining buffer:  812  Incoming time:  8694  Packet tx time:  8861
+Current time:  8862  Packet size:  1272  Remaining buffer:  1272  Incoming time:  8695  Packet tx time:  8862
+Current time:  8864  Packet size:  4154  Remaining buffer:  126  Incoming time:  8696  Packet tx time:  8862
+Current time:  8864  Packet size:  2716  Remaining buffer:  2716  Incoming time:  8697  Packet tx time:  8864
+Current time:  8865  Packet size:  2714  Remaining buffer:  2500  Incoming time:  8707  Packet tx time:  8864
+Current time:  8866  Packet size:  2714  Remaining buffer:  2158  Incoming time:  8708  Packet tx time:  8865
+Current time:  8867  Packet size:  2712  Remaining buffer:  1816  Incoming time:  8709  Packet tx time:  8866
+Current time:  8867  Packet size:  314  Remaining buffer:  314  Incoming time:  8710  Packet tx time:  8867
+Current time:  8875  Packet size:  5596  Remaining buffer:  1813  Incoming time:  8716  Packet tx time:  8867
+Current time:  8882  Packet size:  4156  Remaining buffer:  58  Incoming time:  8718  Packet tx time:  8875
+Current time:  8889  Packet size:  5596  Remaining buffer:  1912  Incoming time:  8719  Packet tx time:  8882
+Current time:  8891  Packet size:  4641  Remaining buffer:  926  Incoming time:  8720  Packet tx time:  8889
+Current time:  8894  Packet size:  8480  Remaining buffer:  240  Incoming time:  8722  Packet tx time:  8891
+Current time:  8895  Packet size:  4156  Remaining buffer:  1340  Incoming time:  8728  Packet tx time:  8894
+Current time:  8908  Packet size:  4154  Remaining buffer:  490  Incoming time:  8729  Packet tx time:  8895
+Current time:  8911  Packet size:  4640  Remaining buffer:  2271  Incoming time:  8730  Packet tx time:  8908
+Current time:  8914  Packet size:  4156  Remaining buffer:  317  Incoming time:  8731  Packet tx time:  8911
+Current time:  8914  Packet size:  2712  Remaining buffer:  2712  Incoming time:  8732  Packet tx time:  8914
+Current time:  8920  Packet size:  2712  Remaining buffer:  2347  Incoming time:  8743  Packet tx time:  8914
+Current time:  8929  Packet size:  4352  Remaining buffer:  921  Incoming time:  8746  Packet tx time:  8920
+Current time:  8930  Packet size:  4158  Remaining buffer:  2025  Incoming time:  8747  Packet tx time:  8929
+Current time:  8934  Packet size:  4154  Remaining buffer:  1994  Incoming time:  8748  Packet tx time:  8930
+Current time:  8935  Packet size:  2712  Remaining buffer:  1650  Incoming time:  8749  Packet tx time:  8934
+Current time:  8937  Packet size:  6273  Remaining buffer:  1813  Incoming time:  8750  Packet tx time:  8935
+Current time:  8942  Packet size:  9922  Remaining buffer:  2  Incoming time:  8752  Packet tx time:  8937
+Current time:  8953  Packet size:  7210  Remaining buffer:  2857  Incoming time:  8753  Packet tx time:  8942
+Current time:  8956  Packet size:  2712  Remaining buffer:  2515  Incoming time:  8759  Packet tx time:  8953
+Current time:  8968  Packet size:  6081  Remaining buffer:  2531  Incoming time:  8760  Packet tx time:  8956
+Current time:  8972  Packet size:  10119  Remaining buffer:  917  Incoming time:  8762  Packet tx time:  8968
+Current time:  8973  Packet size:  4154  Remaining buffer:  2015  Incoming time:  8763  Packet tx time:  8972
+Current time:  8974  Packet size:  1270  Remaining buffer:  231  Incoming time:  8764  Packet tx time:  8973
+Current time:  8977  Packet size:  5795  Remaining buffer:  495  Incoming time:  8766  Packet tx time:  8974
+Current time:  8978  Packet size:  5596  Remaining buffer:  3037  Incoming time:  8776  Packet tx time:  8977
+Current time:  8979  Packet size:  1276  Remaining buffer:  1261  Incoming time:  8777  Packet tx time:  8978
+Current time:  8988  Packet size:  4156  Remaining buffer:  2191  Incoming time:  8778  Packet tx time:  8979
+Current time:  8990  Packet size:  4353  Remaining buffer:  436  Incoming time:  8779  Packet tx time:  8988
+Current time:  8990  Packet size:  1754  Remaining buffer:  1754  Incoming time:  8780  Packet tx time:  8990
+Current time:  8992  Packet size:  2909  Remaining buffer:  2812  Incoming time:  8783  Packet tx time:  8990
+Current time:  8995  Packet size:  4156  Remaining buffer:  1055  Incoming time:  8784  Packet tx time:  8992
+Current time:  8995  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8796  Packet tx time:  8995
+Current time:  8996  Packet size:  1270  Remaining buffer:  541  Incoming time:  8803  Packet tx time:  8995
+Current time:  8997  Packet size:  2714  Remaining buffer:  199  Incoming time:  8804  Packet tx time:  8996
+Current time:  8998  Packet size:  4351  Remaining buffer:  1496  Incoming time:  8805  Packet tx time:  8997
+Current time:  8999  Packet size:  4156  Remaining buffer:  2598  Incoming time:  8807  Packet tx time:  8998
+Current time:  9001  Packet size:  4154  Remaining buffer:  1326  Incoming time:  8808  Packet tx time:  8999
+Current time:  9002  Packet size:  4353  Remaining buffer:  2820  Incoming time:  8809  Packet tx time:  9001
+Current time:  9012  Packet size:  4639  Remaining buffer:  218  Incoming time:  8810  Packet tx time:  9002
+Current time:  9012  Packet size:  2712  Remaining buffer:  2712  Incoming time:  8811  Packet tx time:  9012
+Current time:  9016  Packet size:  4154  Remaining buffer:  1171  Incoming time:  8812  Packet tx time:  9012
+Current time:  9017  Packet size:  4351  Remaining buffer:  2468  Incoming time:  8813  Packet tx time:  9016
+Current time:  9018  Packet size:  2712  Remaining buffer:  2126  Incoming time:  8816  Packet tx time:  9017
+Current time:  9019  Packet size:  2913  Remaining buffer:  1985  Incoming time:  8817  Packet tx time:  9018
+Current time:  9020  Packet size:  2714  Remaining buffer:  1647  Incoming time:  8819  Packet tx time:  9019
+Current time:  9020  Packet size:  313  Remaining buffer:  313  Incoming time:  8820  Packet tx time:  9020
+Current time:  9032  Packet size:  7210  Remaining buffer:  881  Incoming time:  8823  Packet tx time:  9020
+Current time:  9033  Packet size:  4326  Remaining buffer:  2151  Incoming time:  8824  Packet tx time:  9032
+Current time:  9034  Packet size:  1270  Remaining buffer:  367  Incoming time:  8828  Packet tx time:  9033
+Current time:  9034  Packet size:  1467  Remaining buffer:  1467  Incoming time:  8829  Packet tx time:  9034
+Current time:  9034  Packet size:  315  Remaining buffer:  315  Incoming time:  8830  Packet tx time:  9034
+Current time:  9035  Packet size:  2712  Remaining buffer:  1807  Incoming time:  8832  Packet tx time:  9034
+Current time:  9036  Packet size:  2714  Remaining buffer:  1465  Incoming time:  8836  Packet tx time:  9035
+Current time:  9036  Packet size:  29  Remaining buffer:  29  Incoming time:  8837  Packet tx time:  9036
+Current time:  9040  Packet size:  2714  Remaining buffer:  1349  Incoming time:  8847  Packet tx time:  9036
+Current time:  9042  Packet size:  2712  Remaining buffer:  1490  Incoming time:  8848  Packet tx time:  9040
+Current time:  9046  Packet size:  4154  Remaining buffer:  1171  Incoming time:  8849  Packet tx time:  9042
+Current time:  9047  Packet size:  3197  Remaining buffer:  1312  Incoming time:  8850  Packet tx time:  9046
+Current time:  9048  Packet size:  4353  Remaining buffer:  2609  Incoming time:  8851  Packet tx time:  9047
+Current time:  9049  Packet size:  2712  Remaining buffer:  2265  Incoming time:  8852  Packet tx time:  9048
+Current time:  9050  Packet size:  1270  Remaining buffer:  680  Incoming time:  8854  Packet tx time:  9049
+Current time:  9050  Packet size:  1467  Remaining buffer:  1467  Incoming time:  8855  Packet tx time:  9050
+Current time:  9051  Packet size:  1274  Remaining buffer:  850  Incoming time:  8857  Packet tx time:  9050
+Current time:  9056  Packet size:  2712  Remaining buffer:  1776  Incoming time:  8868  Packet tx time:  9051
+Current time:  9061  Packet size:  4154  Remaining buffer:  303  Incoming time:  8869  Packet tx time:  9056
+Current time:  9062  Packet size:  3197  Remaining buffer:  444  Incoming time:  8870  Packet tx time:  9061
+Current time:  9062  Packet size:  27  Remaining buffer:  27  Incoming time:  8871  Packet tx time:  9062
+Current time:  9064  Packet size:  8480  Remaining buffer:  2839  Incoming time:  8872  Packet tx time:  9062
+Current time:  9066  Packet size:  5768  Remaining buffer:  2497  Incoming time:  8873  Packet tx time:  9064
+Current time:  9067  Packet size:  2716  Remaining buffer:  2157  Incoming time:  8876  Packet tx time:  9066
+Current time:  9068  Packet size:  2714  Remaining buffer:  1817  Incoming time:  8878  Packet tx time:  9067
+Current time:  9068  Packet size:  25  Remaining buffer:  25  Incoming time:  8879  Packet tx time:  9068
+Current time:  9068  Packet size:  313  Remaining buffer:  313  Incoming time:  8880  Packet tx time:  9068
+Current time:  9068  Packet size:  27  Remaining buffer:  27  Incoming time:  8881  Packet tx time:  9068
+Current time:  9075  Packet size:  5793  Remaining buffer:  1865  Incoming time:  8883  Packet tx time:  9068
+Current time:  9075  Packet size:  27  Remaining buffer:  27  Incoming time:  8887  Packet tx time:  9075
+Current time:  9077  Packet size:  2911  Remaining buffer:  1944  Incoming time:  8896  Packet tx time:  9075
+Current time:  9080  Packet size:  4156  Remaining buffer:  1436  Incoming time:  8898  Packet tx time:  9077
+Current time:  9082  Packet size:  2712  Remaining buffer:  1577  Incoming time:  8899  Packet tx time:  9080
+Current time:  9082  Packet size:  505  Remaining buffer:  505  Incoming time:  8900  Packet tx time:  9082
+Current time:  9083  Packet size:  1272  Remaining buffer:  298  Incoming time:  8901  Packet tx time:  9082
+Current time:  9083  Packet size:  2712  Remaining buffer:  2712  Incoming time:  8902  Packet tx time:  9083
+Current time:  9088  Packet size:  4154  Remaining buffer:  1052  Incoming time:  8903  Packet tx time:  9083
+Current time:  9094  Packet size:  4351  Remaining buffer:  2376  Incoming time:  8904  Packet tx time:  9088
+Current time:  9098  Packet size:  1270  Remaining buffer:  619  Incoming time:  8905  Packet tx time:  9094
+Current time:  9099  Packet size:  2712  Remaining buffer:  279  Incoming time:  8909  Packet tx time:  9098
+Current time:  9099  Packet size:  313  Remaining buffer:  313  Incoming time:  8910  Packet tx time:  9099
+Current time:  9104  Packet size:  2909  Remaining buffer:  646  Incoming time:  8912  Packet tx time:  9099
+Current time:  9106  Packet size:  4353  Remaining buffer:  331  Incoming time:  8916  Packet tx time:  9104
+Current time:  9107  Packet size:  5770  Remaining buffer:  3045  Incoming time:  8917  Packet tx time:  9106
+Current time:  9112  Packet size:  2884  Remaining buffer:  1259  Incoming time:  8918  Packet tx time:  9107
+Current time:  9112  Packet size:  1469  Remaining buffer:  1469  Incoming time:  8921  Packet tx time:  9112
+Current time:  9114  Packet size:  2884  Remaining buffer:  2556  Incoming time:  8923  Packet tx time:  9112
+Current time:  9119  Packet size:  5793  Remaining buffer:  824  Incoming time:  8924  Packet tx time:  9114
+Current time:  9119  Packet size:  1272  Remaining buffer:  1272  Incoming time:  8926  Packet tx time:  9119
+Current time:  9119  Packet size:  25  Remaining buffer:  25  Incoming time:  8928  Packet tx time:  9119
+Current time:  9120  Packet size:  1272  Remaining buffer:  341  Incoming time:  8931  Packet tx time:  9119
+Current time:  9120  Packet size:  27  Remaining buffer:  27  Incoming time:  8939  Packet tx time:  9120
+Current time:  9121  Packet size:  2714  Remaining buffer:  511  Incoming time:  8943  Packet tx time:  9120
+Current time:  9122  Packet size:  2712  Remaining buffer:  364  Incoming time:  8944  Packet tx time:  9121
+Current time:  9122  Packet size:  25  Remaining buffer:  25  Incoming time:  8945  Packet tx time:  9122
+Current time:  9122  Packet size:  1270  Remaining buffer:  1270  Incoming time:  8947  Packet tx time:  9122
+Current time:  9124  Packet size:  5596  Remaining buffer:  1143  Incoming time:  8948  Packet tx time:  9122
+Current time:  9125  Packet size:  2911  Remaining buffer:  1000  Incoming time:  8949  Packet tx time:  9124
+Current time:  9125  Packet size:  27  Remaining buffer:  27  Incoming time:  8957  Packet tx time:  9125
+Current time:  9126  Packet size:  2716  Remaining buffer:  687  Incoming time:  8958  Packet tx time:  9125
+Current time:  9126  Packet size:  313  Remaining buffer:  313  Incoming time:  8960  Packet tx time:  9126
+Current time:  9128  Packet size:  5793  Remaining buffer:  681  Incoming time:  8961  Packet tx time:  9126
+Current time:  9130  Packet size:  2712  Remaining buffer:  366  Incoming time:  8962  Packet tx time:  9128
+Current time:  9135  Packet size:  2714  Remaining buffer:  1951  Incoming time:  8963  Packet tx time:  9130
+Current time:  9138  Packet size:  4154  Remaining buffer:  3049  Incoming time:  8964  Packet tx time:  9135
+Current time:  9139  Packet size:  1270  Remaining buffer:  1265  Incoming time:  8966  Packet tx time:  9138
+Current time:  9140  Packet size:  2712  Remaining buffer:  925  Incoming time:  8975  Packet tx time:  9139
+Current time:  9140  Packet size:  505  Remaining buffer:  505  Incoming time:  8980  Packet tx time:  9140
+Current time:  9141  Packet size:  4154  Remaining buffer:  3013  Incoming time:  8981  Packet tx time:  9140
+Current time:  9150  Packet size:  4154  Remaining buffer:  1055  Incoming time:  8982  Packet tx time:  9141
+Current time:  9151  Packet size:  2714  Remaining buffer:  2640  Incoming time:  8983  Packet tx time:  9150
+Current time:  9154  Packet size:  4154  Remaining buffer:  682  Incoming time:  8984  Packet tx time:  9151
+Current time:  9154  Packet size:  1467  Remaining buffer:  1467  Incoming time:  8986  Packet tx time:  9154
+Current time:  9156  Packet size:  5598  Remaining buffer:  1639  Incoming time:  8987  Packet tx time:  9154
+Current time:  9158  Packet size:  5793  Remaining buffer:  1322  Incoming time:  9003  Packet tx time:  9156
+Current time:  9159  Packet size:  4156  Remaining buffer:  2424  Incoming time:  9004  Packet tx time:  9158
+Current time:  9160  Packet size:  2712  Remaining buffer:  2084  Incoming time:  9005  Packet tx time:  9159
+Current time:  9162  Packet size:  4154  Remaining buffer:  808  Incoming time:  9006  Packet tx time:  9160
+Current time:  9174  Packet size:  4351  Remaining buffer:  319  Incoming time:  9007  Packet tx time:  9162
+Current time:  9177  Packet size:  9922  Remaining buffer:  1075  Incoming time:  9008  Packet tx time:  9174
+Current time:  9183  Packet size:  4158  Remaining buffer:  2179  Incoming time:  9009  Packet tx time:  9177
+Current time:  9188  Packet size:  2712  Remaining buffer:  1663  Incoming time:  9015  Packet tx time:  9183
+Current time:  9190  Packet size:  5596  Remaining buffer:  1151  Incoming time:  9022  Packet tx time:  9188
+Current time:  9191  Packet size:  2712  Remaining buffer:  1484  Incoming time:  9023  Packet tx time:  9190
+Current time:  9194  Packet size:  4156  Remaining buffer:  970  Incoming time:  9024  Packet tx time:  9191
+Current time:  9195  Packet size:  4154  Remaining buffer:  2070  Incoming time:  9025  Packet tx time:  9194
+Current time:  9197  Packet size:  4154  Remaining buffer:  112  Incoming time:  9026  Packet tx time:  9195
+Current time:  9197  Packet size:  2716  Remaining buffer:  2716  Incoming time:  9029  Packet tx time:  9197
+Current time:  9201  Packet size:  4639  Remaining buffer:  1556  Incoming time:  9030  Packet tx time:  9197
+Current time:  9202  Packet size:  2712  Remaining buffer:  1409  Incoming time:  9031  Packet tx time:  9201
+Current time:  9203  Packet size:  2714  Remaining buffer:  1067  Incoming time:  9037  Packet tx time:  9202
+Current time:  9209  Packet size:  4156  Remaining buffer:  2364  Incoming time:  9038  Packet tx time:  9203
+Current time:  9215  Packet size:  4158  Remaining buffer:  416  Incoming time:  9039  Packet tx time:  9209
+Current time:  9215  Packet size:  1467  Remaining buffer:  1467  Incoming time:  9041  Packet tx time:  9215
+Current time:  9218  Packet size:  8652  Remaining buffer:  1371  Incoming time:  9043  Packet tx time:  9215
+Current time:  9222  Packet size:  2714  Remaining buffer:  2670  Incoming time:  9044  Packet tx time:  9218
+Current time:  9229  Packet size:  10119  Remaining buffer:  2009  Incoming time:  9053  Packet tx time:  9222
+Current time:  9230  Packet size:  1274  Remaining buffer:  231  Incoming time:  9054  Packet tx time:  9229
+Current time:  9231  Packet size:  2712  Remaining buffer:  372  Incoming time:  9055  Packet tx time:  9230
+Current time:  9232  Packet size:  2911  Remaining buffer:  227  Incoming time:  9057  Packet tx time:  9231
+Current time:  9232  Packet size:  1272  Remaining buffer:  1272  Incoming time:  9058  Packet tx time:  9232
+Current time:  9234  Packet size:  5600  Remaining buffer:  989  Incoming time:  9059  Packet tx time:  9232
+Current time:  9237  Packet size:  2913  Remaining buffer:  1045  Incoming time:  9069  Packet tx time:  9234
+Current time:  9238  Packet size:  4638  Remaining buffer:  2629  Incoming time:  9070  Packet tx time:  9237
+Current time:  9239  Packet size:  1272  Remaining buffer:  847  Incoming time:  9071  Packet tx time:  9238
+Current time:  9241  Packet size:  5596  Remaining buffer:  820  Incoming time:  9072  Packet tx time:  9239
+Current time:  9252  Packet size:  2712  Remaining buffer:  673  Incoming time:  9073  Packet tx time:  9241
+Current time:  9255  Packet size:  5596  Remaining buffer:  354  Incoming time:  9076  Packet tx time:  9252
+Current time:  9257  Packet size:  2714  Remaining buffer:  12  Incoming time:  9078  Packet tx time:  9255
+Current time:  9257  Packet size:  25  Remaining buffer:  25  Incoming time:  9081  Packet tx time:  9257
+Current time:  9261  Packet size:  4158  Remaining buffer:  2442  Incoming time:  9084  Packet tx time:  9257
+Current time:  9263  Packet size:  4154  Remaining buffer:  484  Incoming time:  9085  Packet tx time:  9261
+Current time:  9263  Packet size:  1270  Remaining buffer:  1270  Incoming time:  9086  Packet tx time:  9263
+Current time:  9263  Packet size:  313  Remaining buffer:  313  Incoming time:  9090  Packet tx time:  9263
+Current time:  9265  Packet size:  5596  Remaining buffer:  1553  Incoming time:  9091  Packet tx time:  9263
+Current time:  9266  Packet size:  4154  Remaining buffer:  2651  Incoming time:  9092  Packet tx time:  9265
+Current time:  9267  Packet size:  1270  Remaining buffer:  865  Incoming time:  9093  Packet tx time:  9266
+Current time:  9267  Packet size:  1270  Remaining buffer:  1270  Incoming time:  9095  Packet tx time:  9267
+Current time:  9276  Packet size:  4154  Remaining buffer:  179  Incoming time:  9096  Packet tx time:  9267
+Current time:  9279  Packet size:  2884  Remaining buffer:  7  Incoming time:  9101  Packet tx time:  9276
+Current time:  9285  Packet size:  4154  Remaining buffer:  5  Incoming time:  9102  Packet tx time:  9279
+Current time:  9286  Packet size:  4351  Remaining buffer:  1302  Incoming time:  9103  Packet tx time:  9285
+Current time:  9287  Packet size:  4351  Remaining buffer:  2597  Incoming time:  9108  Packet tx time:  9286
+Current time:  9291  Packet size:  4158  Remaining buffer:  840  Incoming time:  9109  Packet tx time:  9287
+Current time:  9294  Packet size:  4639  Remaining buffer:  809  Incoming time:  9110  Packet tx time:  9291
+Current time:  9296  Packet size:  5596  Remaining buffer:  295  Incoming time:  9116  Packet tx time:  9294
+Current time:  9301  Packet size:  2716  Remaining buffer:  152  Incoming time:  9117  Packet tx time:  9296
+Current time:  9302  Packet size:  4154  Remaining buffer:  1250  Incoming time:  9131  Packet tx time:  9301
+Current time:  9304  Packet size:  4154  Remaining buffer:  2545  Incoming time:  9132  Packet tx time:  9302
+Current time:  9307  Packet size:  7210  Remaining buffer:  589  Incoming time:  9133  Packet tx time:  9304
+Current time:  9308  Packet size:  4158  Remaining buffer:  1693  Incoming time:  9134  Packet tx time:  9307
+Current time:  9314  Packet size:  5793  Remaining buffer:  1573  Incoming time:  9136  Packet tx time:  9308
+Current time:  9314  Packet size:  1444  Remaining buffer:  1444  Incoming time:  9137  Packet tx time:  9314
+Current time:  9321  Packet size:  4351  Remaining buffer:  2530  Incoming time:  9142  Packet tx time:  9314
+Current time:  9322  Packet size:  2714  Remaining buffer:  2387  Incoming time:  9144  Packet tx time:  9321
+Current time:  9324  Packet size:  5596  Remaining buffer:  1871  Incoming time:  9145  Packet tx time:  9322
+Current time:  9325  Packet size:  2712  Remaining buffer:  1529  Incoming time:  9146  Packet tx time:  9324
+Current time:  9326  Packet size:  4351  Remaining buffer:  2824  Incoming time:  9147  Packet tx time:  9325
+Current time:  9334  Packet size:  4154  Remaining buffer:  2507  Incoming time:  9148  Packet tx time:  9326
+Current time:  9335  Packet size:  2716  Remaining buffer:  2167  Incoming time:  9149  Packet tx time:  9334
+Current time:  9337  Packet size:  4154  Remaining buffer:  211  Incoming time:  9163  Packet tx time:  9335
+Current time:  9337  Packet size:  25  Remaining buffer:  25  Incoming time:  9166  Packet tx time:  9337
+Current time:  9337  Packet size:  2714  Remaining buffer:  2714  Incoming time:  9167  Packet tx time:  9337
+Current time:  9348  Packet size:  4154  Remaining buffer:  1023  Incoming time:  9168  Packet tx time:  9337
+Current time:  9350  Packet size:  5600  Remaining buffer:  2152  Incoming time:  9169  Packet tx time:  9348
+Current time:  9352  Packet size:  4639  Remaining buffer:  1166  Incoming time:  9170  Packet tx time:  9350
+Current time:  9353  Packet size:  2712  Remaining buffer:  822  Incoming time:  9171  Packet tx time:  9352
+Current time:  9353  Packet size:  25  Remaining buffer:  25  Incoming time:  9172  Packet tx time:  9353
+Current time:  9353  Packet size:  1442  Remaining buffer:  1442  Incoming time:  9173  Packet tx time:  9353
+Current time:  9353  Packet size:  27  Remaining buffer:  27  Incoming time:  9178  Packet tx time:  9353
+Current time:  9359  Packet size:  4158  Remaining buffer:  362  Incoming time:  9179  Packet tx time:  9353
+Current time:  9363  Packet size:  4639  Remaining buffer:  530  Incoming time:  9180  Packet tx time:  9359
+Current time:  9365  Packet size:  4154  Remaining buffer:  2017  Incoming time:  9181  Packet tx time:  9363
+Current time:  9374  Packet size:  4154  Remaining buffer:  61  Incoming time:  9182  Packet tx time:  9365
+Current time:  9374  Packet size:  27  Remaining buffer:  27  Incoming time:  9184  Packet tx time:  9374
+Current time:  9375  Packet size:  4156  Remaining buffer:  1188  Incoming time:  9186  Packet tx time:  9374
+Current time:  9375  Packet size:  1270  Remaining buffer:  1270  Incoming time:  9187  Packet tx time:  9375
+Current time:  9377  Packet size:  5596  Remaining buffer:  1946  Incoming time:  9192  Packet tx time:  9375
+Current time:  9378  Packet size:  2718  Remaining buffer:  1610  Incoming time:  9199  Packet tx time:  9377
+Current time:  9380  Packet size:  4638  Remaining buffer:  721  Incoming time:  9200  Packet tx time:  9378
+Current time:  9380  Packet size:  1274  Remaining buffer:  1274  Incoming time:  9204  Packet tx time:  9380
+Current time:  9386  Packet size:  4154  Remaining buffer:  525  Incoming time:  9205  Packet tx time:  9380
+Current time:  9387  Packet size:  4154  Remaining buffer:  1623  Incoming time:  9206  Packet tx time:  9386
+Current time:  9389  Packet size:  4154  Remaining buffer:  54  Incoming time:  9207  Packet tx time:  9387
+Current time:  9389  Packet size:  2712  Remaining buffer:  2712  Incoming time:  9208  Packet tx time:  9389
+Current time:  9396  Packet size:  4351  Remaining buffer:  463  Incoming time:  9211  Packet tx time:  9389
+Current time:  9398  Packet size:  2712  Remaining buffer:  119  Incoming time:  9212  Packet tx time:  9396
+Current time:  9404  Packet size:  7210  Remaining buffer:  1706  Incoming time:  9213  Packet tx time:  9398
+Current time:  9405  Packet size:  4158  Remaining buffer:  2808  Incoming time:  9219  Packet tx time:  9404
+Current time:  9412  Packet size:  4639  Remaining buffer:  1824  Incoming time:  9220  Packet tx time:  9405
+Current time:  9415  Packet size:  4154  Remaining buffer:  63  Incoming time:  9221  Packet tx time:  9412
+Current time:  9416  Packet size:  1467  Remaining buffer:  1360  Incoming time:  9225  Packet tx time:  9415
+Current time:  9418  Packet size:  4154  Remaining buffer:  2288  Incoming time:  9226  Packet tx time:  9416
+Current time:  9427  Packet size:  4154  Remaining buffer:  1803  Incoming time:  9227  Packet tx time:  9418
+Current time:  9428  Packet size:  1270  Remaining buffer:  17  Incoming time:  9235  Packet tx time:  9427
+Current time:  9428  Packet size:  1270  Remaining buffer:  1270  Incoming time:  9236  Packet tx time:  9428
+Current time:  9432  Packet size:  5596  Remaining buffer:  775  Incoming time:  9242  Packet tx time:  9428
+Current time:  9433  Packet size:  4154  Remaining buffer:  1873  Incoming time:  9243  Packet tx time:  9432
+Current time:  9441  Packet size:  2714  Remaining buffer:  116  Incoming time:  9244  Packet tx time:  9433
+Current time:  9443  Packet size:  4351  Remaining buffer:  3054  Incoming time:  9245  Packet tx time:  9441
+Current time:  9446  Packet size:  7210  Remaining buffer:  1096  Incoming time:  9246  Packet tx time:  9443
+Current time:  9448  Packet size:  5768  Remaining buffer:  754  Incoming time:  9247  Packet tx time:  9446
+Current time:  9449  Packet size:  4154  Remaining buffer:  1852  Incoming time:  9248  Packet tx time:  9448
+Current time:  9451  Packet size:  4355  Remaining buffer:  777  Incoming time:  9249  Packet tx time:  9449
+Current time:  9452  Packet size:  4639  Remaining buffer:  2364  Incoming time:  9250  Packet tx time:  9451
+Current time:  9458  Packet size:  1270  Remaining buffer:  578  Incoming time:  9251  Packet tx time:  9452
+Current time:  9459  Packet size:  2716  Remaining buffer:  240  Incoming time:  9254  Packet tx time:  9458
+Current time:  9460  Packet size:  4154  Remaining buffer:  1338  Incoming time:  9256  Packet tx time:  9459
+Current time:  9461  Packet size:  3197  Remaining buffer:  1964  Incoming time:  9260  Packet tx time:  9460
+Current time:  9461  Packet size:  29  Remaining buffer:  29  Incoming time:  9269  Packet tx time:  9461
+Current time:  9462  Packet size:  3196  Remaining buffer:  2137  Incoming time:  9270  Packet tx time:  9461
+Current time:  9463  Packet size:  2714  Remaining buffer:  1795  Incoming time:  9271  Packet tx time:  9462
+Current time:  9470  Packet size:  4154  Remaining buffer:  34  Incoming time:  9272  Packet tx time:  9463
+Current time:  9471  Packet size:  4351  Remaining buffer:  1814  Incoming time:  9273  Packet tx time:  9470
+Current time:  9474  Packet size:  4156  Remaining buffer:  2916  Incoming time:  9274  Packet tx time:  9471
+Current time:  9477  Packet size:  4154  Remaining buffer:  960  Incoming time:  9275  Packet tx time:  9474
+Current time:  9477  Packet size:  1272  Remaining buffer:  1272  Incoming time:  9277  Packet tx time:  9477
+Current time:  9478  Packet size:  1469  Remaining buffer:  649  Incoming time:  9278  Packet tx time:  9477
+Current time:  9478  Packet size:  25  Remaining buffer:  25  Incoming time:  9281  Packet tx time:  9478
+Current time:  9480  Packet size:  4326  Remaining buffer:  332  Incoming time:  9283  Packet tx time:  9478
+Current time:  9486  Packet size:  2714  Remaining buffer:  495  Incoming time:  9289  Packet tx time:  9480
+Current time:  9487  Packet size:  4641  Remaining buffer:  2080  Incoming time:  9290  Packet tx time:  9486
+Current time:  9488  Packet size:  2714  Remaining buffer:  1740  Incoming time:  9297  Packet tx time:  9487
+Current time:  9489  Packet size:  4156  Remaining buffer:  2840  Incoming time:  9298  Packet tx time:  9488
+Current time:  9491  Packet size:  4156  Remaining buffer:  1369  Incoming time:  9299  Packet tx time:  9489
+Current time:  9491  Packet size:  315  Remaining buffer:  315  Incoming time:  9300  Packet tx time:  9491
+Current time:  9492  Packet size:  2712  Remaining buffer:  1539  Incoming time:  9303  Packet tx time:  9491
+Current time:  9492  Packet size:  314  Remaining buffer:  314  Incoming time:  9310  Packet tx time:  9492
+Current time:  9493  Packet size:  2714  Remaining buffer:  1513  Incoming time:  9311  Packet tx time:  9492
+Current time:  9507  Packet size:  5596  Remaining buffer:  1482  Incoming time:  9312  Packet tx time:  9493
+Current time:  9509  Packet size:  7210  Remaining buffer:  2580  Incoming time:  9313  Packet tx time:  9507
+Current time:  9510  Packet size:  1467  Remaining buffer:  993  Incoming time:  9316  Packet tx time:  9509
+Current time:  9511  Packet size:  4156  Remaining buffer:  2578  Incoming time:  9317  Packet tx time:  9510
+Current time:  9516  Packet size:  4156  Remaining buffer:  819  Incoming time:  9318  Packet tx time:  9511
+Current time:  9517  Packet size:  2712  Remaining buffer:  477  Incoming time:  9327  Packet tx time:  9516
+Current time:  9518  Packet size:  2712  Remaining buffer:  133  Incoming time:  9328  Packet tx time:  9517
+Current time:  9519  Packet size:  5598  Remaining buffer:  2679  Incoming time:  9329  Packet tx time:  9518
+Current time:  9519  Packet size:  313  Remaining buffer:  313  Incoming time:  9330  Packet tx time:  9519
+Current time:  9524  Packet size:  4353  Remaining buffer:  1063  Incoming time:  9331  Packet tx time:  9519
+Current time:  9524  Packet size:  313  Remaining buffer:  313  Incoming time:  9340  Packet tx time:  9524
+Current time:  9525  Packet size:  4156  Remaining buffer:  2677  Incoming time:  9341  Packet tx time:  9524
+Current time:  9527  Packet size:  4156  Remaining buffer:  721  Incoming time:  9342  Packet tx time:  9525
+Current time:  9527  Packet size:  1270  Remaining buffer:  1270  Incoming time:  9343  Packet tx time:  9527
+Current time:  9528  Packet size:  1467  Remaining buffer:  402  Incoming time:  9344  Packet tx time:  9527
+Current time:  9541  Packet size:  8480  Remaining buffer:  57  Incoming time:  9345  Packet tx time:  9528
+Current time:  9542  Packet size:  4156  Remaining buffer:  1159  Incoming time:  9346  Packet tx time:  9541
+Current time:  9549  Packet size:  4154  Remaining buffer:  668  Incoming time:  9347  Packet tx time:  9542
+Current time:  9549  Packet size:  1270  Remaining buffer:  1270  Incoming time:  9355  Packet tx time:  9549
+Current time:  9551  Packet size:  5768  Remaining buffer:  2081  Incoming time:  9356  Packet tx time:  9549
+Current time:  9554  Packet size:  5797  Remaining buffer:  1766  Incoming time:  9357  Packet tx time:  9551
+Current time:  9555  Packet size:  2716  Remaining buffer:  1428  Incoming time:  9358  Packet tx time:  9554
+Current time:  9555  Packet size:  312  Remaining buffer:  312  Incoming time:  9360  Packet tx time:  9555
+Current time:  9555  Packet size:  27  Remaining buffer:  27  Incoming time:  9362  Packet tx time:  9555
+Current time:  9556  Packet size:  2712  Remaining buffer:  1427  Incoming time:  9364  Packet tx time:  9555
+Current time:  9557  Packet size:  2908  Remaining buffer:  1279  Incoming time:  9366  Packet tx time:  9556
+Current time:  9558  Packet size:  4156  Remaining buffer:  2381  Incoming time:  9368  Packet tx time:  9557
+Current time:  9564  Packet size:  5598  Remaining buffer:  2066  Incoming time:  9369  Packet tx time:  9558
+Current time:  9570  Packet size:  3390  Remaining buffer:  2402  Incoming time:  9370  Packet tx time:  9564
+Current time:  9571  Packet size:  217  Remaining buffer:  50  Incoming time:  9371  Packet tx time:  9570
+Current time:  9574  Packet size:  4156  Remaining buffer:  1347  Incoming time:  9381  Packet tx time:  9571
+Current time:  9577  Packet size:  4154  Remaining buffer:  2447  Incoming time:  9382  Packet tx time:  9574
+Current time:  9583  Packet size:  7210  Remaining buffer:  694  Incoming time:  9383  Packet tx time:  9577
+Current time:  9586  Packet size:  4154  Remaining buffer:  1819  Incoming time:  9384  Packet tx time:  9583
+Current time:  9587  Packet size:  4154  Remaining buffer:  2917  Incoming time:  9391  Packet tx time:  9586
+Current time:  9594  Packet size:  5768  Remaining buffer:  447  Incoming time:  9392  Packet tx time:  9587
+Current time:  9594  Packet size:  1442  Remaining buffer:  1442  Incoming time:  9393  Packet tx time:  9594
+Current time:  9594  Packet size:  2  Remaining buffer:  2  Incoming time:  9397  Packet tx time:  9594
+Current time:  9595  Packet size:  1469  Remaining buffer:  306  Incoming time:  9399  Packet tx time:  9594
+Current time:  9597  Packet size:  5793  Remaining buffer:  184  Incoming time:  9401  Packet tx time:  9595
+Current time:  9598  Packet size:  4154  Remaining buffer:  1286  Incoming time:  9402  Packet tx time:  9597
+Current time:  9599  Packet size:  3101  Remaining buffer:  1335  Incoming time:  9403  Packet tx time:  9598
+Current time:  9599  Packet size:  1467  Remaining buffer:  1467  Incoming time:  9406  Packet tx time:  9599
+Current time:  9600  Packet size:  2712  Remaining buffer:  2458  Incoming time:  9407  Packet tx time:  9599
+Current time:  9602  Packet size:  4154  Remaining buffer:  1181  Incoming time:  9408  Packet tx time:  9600
+Current time:  9603  Packet size:  2714  Remaining buffer:  843  Incoming time:  9409  Packet tx time:  9602
+Current time:  9603  Packet size:  27  Remaining buffer:  27  Incoming time:  9419  Packet tx time:  9603
+Current time:  9604  Packet size:  4640  Remaining buffer:  2651  Incoming time:  9420  Packet tx time:  9603
+Current time:  9606  Packet size:  4154  Remaining buffer:  695  Incoming time:  9421  Packet tx time:  9604
+Current time:  9607  Packet size:  4156  Remaining buffer:  1795  Incoming time:  9422  Packet tx time:  9606
+Current time:  9608  Packet size:  2712  Remaining buffer:  1453  Incoming time:  9423  Packet tx time:  9607
+Current time:  9609  Packet size:  2712  Remaining buffer:  1109  Incoming time:  9426  Packet tx time:  9608
+Current time:  9610  Packet size:  2712  Remaining buffer:  765  Incoming time:  9435  Packet tx time:  9609
+Current time:  9611  Packet size:  4156  Remaining buffer:  2542  Incoming time:  9436  Packet tx time:  9610
+Current time:  9615  Packet size:  4156  Remaining buffer:  590  Incoming time:  9437  Packet tx time:  9611
+Current time:  9616  Packet size:  2911  Remaining buffer:  445  Incoming time:  9438  Packet tx time:  9615
+Current time:  9617  Packet size:  4326  Remaining buffer:  2104  Incoming time:  9439  Packet tx time:  9616
+Current time:  9619  Packet size:  6081  Remaining buffer:  2077  Incoming time:  9440  Packet tx time:  9617
+Current time:  9619  Packet size:  25  Remaining buffer:  25  Incoming time:  9442  Packet tx time:  9619
+Current time:  9620  Packet size:  1467  Remaining buffer:  515  Incoming time:  9454  Packet tx time:  9619
+Current time:  9622  Packet size:  5596  Remaining buffer:  769  Incoming time:  9455  Packet tx time:  9620
+Current time:  9623  Packet size:  2716  Remaining buffer:  429  Incoming time:  9456  Packet tx time:  9622
+Current time:  9624  Packet size:  4156  Remaining buffer:  1529  Incoming time:  9457  Packet tx time:  9623
+Current time:  9624  Packet size:  1270  Remaining buffer:  1270  Incoming time:  9464  Packet tx time:  9624
+Current time:  9626  Packet size:  4154  Remaining buffer:  1044  Incoming time:  9465  Packet tx time:  9624
+Current time:  9628  Packet size:  5768  Remaining buffer:  700  Incoming time:  9466  Packet tx time:  9626
+Current time:  9630  Packet size:  2714  Remaining buffer:  358  Incoming time:  9467  Packet tx time:  9628
+Current time:  9633  Packet size:  8480  Remaining buffer:  354  Incoming time:  9468  Packet tx time:  9630
+Current time:  9633  Packet size:  27  Remaining buffer:  27  Incoming time:  9472  Packet tx time:  9633
+Current time:  9634  Packet size:  2884  Remaining buffer:  209  Incoming time:  9473  Packet tx time:  9633
+Current time:  9636  Packet size:  2909  Remaining buffer:  64  Incoming time:  9476  Packet tx time:  9634
+Current time:  9637  Packet size:  5795  Remaining buffer:  3002  Incoming time:  9481  Packet tx time:  9636
+Current time:  9639  Packet size:  4156  Remaining buffer:  1050  Incoming time:  9482  Packet tx time:  9637
+Current time:  9640  Packet size:  2712  Remaining buffer:  706  Incoming time:  9483  Packet tx time:  9639
+Current time:  9640  Packet size:  25  Remaining buffer:  25  Incoming time:  9485  Packet tx time:  9640
+Current time:  9641  Packet size:  4156  Remaining buffer:  2316  Incoming time:  9494  Packet tx time:  9640
+Current time:  9643  Packet size:  4154  Remaining buffer:  754  Incoming time:  9495  Packet tx time:  9641
+Current time:  9644  Packet size:  2909  Remaining buffer:  607  Incoming time:  9496  Packet tx time:  9643
+Current time:  9645  Packet size:  4158  Remaining buffer:  1711  Incoming time:  9497  Packet tx time:  9644
+Current time:  9646  Packet size:  4156  Remaining buffer:  2811  Incoming time:  9498  Packet tx time:  9645
+Current time:  9648  Packet size:  4154  Remaining buffer:  857  Incoming time:  9499  Packet tx time:  9646
+Current time:  9649  Packet size:  2884  Remaining buffer:  685  Incoming time:  9501  Packet tx time:  9648
+Current time:  9650  Packet size:  4355  Remaining buffer:  2181  Incoming time:  9504  Packet tx time:  9649
+Current time:  9651  Packet size:  2712  Remaining buffer:  2322  Incoming time:  9505  Packet tx time:  9650
+Current time:  9654  Packet size:  5596  Remaining buffer:  1808  Incoming time:  9506  Packet tx time:  9651
+Current time:  9659  Packet size:  14420  Remaining buffer:  1350  Incoming time:  9513  Packet tx time:  9654
+Current time:  9660  Packet size:  2716  Remaining buffer:  1010  Incoming time:  9514  Packet tx time:  9659
+Current time:  9660  Packet size:  1270  Remaining buffer:  1270  Incoming time:  9515  Packet tx time:  9660
+Current time:  9661  Packet size:  505  Remaining buffer:  214  Incoming time:  9520  Packet tx time:  9660
+Current time:  9662  Packet size:  2909  Remaining buffer:  69  Incoming time:  9521  Packet tx time:  9661
+Current time:  9663  Packet size:  4156  Remaining buffer:  1366  Incoming time:  9529  Packet tx time:  9662
+Current time:  9664  Packet size:  4639  Remaining buffer:  2949  Incoming time:  9530  Packet tx time:  9663
+Current time:  9665  Packet size:  1270  Remaining buffer:  1165  Incoming time:  9535  Packet tx time:  9664
+Current time:  9666  Packet size:  2909  Remaining buffer:  1018  Incoming time:  9536  Packet tx time:  9665
+Current time:  9667  Packet size:  2716  Remaining buffer:  877  Incoming time:  9537  Packet tx time:  9666
+Current time:  9668  Packet size:  [32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Decoding_inter: 0.006368398666381836
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: sending_inter: 0.34624814987182617
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Offline replay is completed.
+4156  Remaining buffer:  1979  Incoming time:  9538  Packet tx time:  9667
+Current time:  9670  Packet size:  4326  Remaining buffer:  193  Incoming time:  9539  Packet tx time:  9668
+Current time:  9671  Packet size:  4156  Remaining buffer:  1778  Incoming time:  9544  Packet tx time:  9670
+Current time:  9672  Packet size:  4156  Remaining buffer:  2880  Incoming time:  9545  Packet tx time:  9671
+Current time:  9674  Packet size:  4351  Remaining buffer:  1119  Incoming time:  9546  Packet tx time:  9672
+Current time:  9675  Packet size:  4154  Remaining buffer:  2219  Incoming time:  9547  Packet tx time:  9674
+Current time:  9675  Packet size:  25  Remaining buffer:  25  Incoming time:  9559  Packet tx time:  9675
+Current time:  9677  Packet size:  4641  Remaining buffer:  972  Incoming time:  9560  Packet tx time:  9675
+Current time:  9678  Packet size:  4351  Remaining buffer:  2269  Incoming time:  9561  Packet tx time:  9677
+Current time:  9679  Packet size:  2884  Remaining buffer:  2099  Incoming time:  9562  Packet tx time:  9678
+Current time:  9680  Packet size:  1272  Remaining buffer:  317  Incoming time:  9565  Packet tx time:  9679
+Current time:  9681  Packet size:  4154  Remaining buffer:  2091  Incoming time:  9566  Packet tx time:  9680
+Current time:  9683  Packet size:  4154  Remaining buffer:  332  Incoming time:  9567  Packet tx time:  9681
+Current time:  9683  Packet size:  2712  Remaining buffer:  2712  Incoming time:  9568  Packet tx time:  9683
+Current time:  9684  Packet size:  1270  Remaining buffer:  1258  Incoming time:  9569  Packet tx time:  9683
+Current time:  9687  Packet size:  2712  Remaining buffer:  918  Incoming time:  9572  Packet tx time:  9684
+Current time:  9687  Packet size:  1272  Remaining buffer:  1272  Incoming time:  9578  Packet tx time:  9687
+Current time:  9689  Packet size:  4156  Remaining buffer:  433  Incoming time:  9579  Packet tx time:  9687
+Current time:  9689  Packet size:  1754  Remaining buffer:  1754  Incoming time:  9580  Packet tx time:  9689
+Current time:  9690  Packet size:  1270  Remaining buffer:  401  Incoming time:  9585  Packet tx time:  9689
+Current time:  9691  Packet size:  2909  Remaining buffer:  739  Incoming time:  9589  Packet tx time:  9690
+Current time:  9692  Packet size:  3197  Remaining buffer:  880  Incoming time:  9590  Packet tx time:  9691
+Current time:  9693  Packet size:  4154  Remaining buffer:  2177  Incoming time:  9591  Packet tx time:  9692
+Current time:  9698  Packet size:  2  Remaining buffer:  2  Incoming time:  9697  Packet tx time:  9698
+Tx:  [6098, 9693] [[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440], [5464, 5488], [5512, 5534], [5566, 5582], [5611, 5636], [5651, 5685], [5717, 5799], [5817, 5912], [5920, 6063], [6098, 9693]]
+SR1 time:  9720 False True
+SR progress is True
+Pend:  [9693, 9720]
+SR1 time:  9725 True False
+Current time:  9727  Packet size:  2  Remaining buffer:  2  Incoming time:  9717  Packet tx time:  9727
+SR2 time:  9745 True False
+SR1 time:  9750 True False
+Current time:  9747  Packet size:  3056  Remaining buffer:  3056  Incoming time:  9746  Packet tx time:  9747
+SR progress is False
+First byte:  [9720, 9747]
+SR1 time:  5070 False False
+SR progress is True
+SR1 time:  5075 True False
+SR subframe number:  None
+SR RB slots:  None None
+Ul BW:  0.0
+Ul BW utilized:  0.0
+RSSI list:  []
+Certain message type(s) missing in the provided log.
+Three way latency:  4678
+Total first byte latency:  1460
+Total pending latency:  1036
+Total tx latency:  4349
+[[3308, 3331], [4585, 5255], [5340, 5360], [5379, 5405], [5488, 5500], [5685, 5705], [5821, 5915], [5940, 6075], [9693, 9720]]
+[[3069, 3308], [4585, 4585], [5327, 5343], [5367, 5393], [5422, 5440], [5464, 5488], [5512, 5534], [5566, 5582], [5611, 5636], [5651, 5685], [5717, 5799], [5817, 5912], [5920, 6063], [6098, 9693]]

@@ -1,0 +1,971 @@
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUSCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Buffer_Status_Internal
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUCCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Transport_Block
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: STARTED: 1621833912.698823
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading 0524_transportblock/diag_log_20210524_140628.mi2log
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading: 1621833912.6988845
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:24.226597', 'fn and subfn': 1215}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:24.226597', 'fn and subfn': 1220}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:24.255767', 'fn and subfn': 1245}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:24.255767', 'fn and subfn': 1250}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:24.265756', 'fn and subfn': 1255}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:24.265756', 'fn and subfn': 1260}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:24.286620', 'fn and subfn': 1280}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:24.296564', 'fn and subfn': 1285}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:24.296564', 'fn and subfn': 1290}
+SR time1:  1215
+SR time1:  1220
+Time:  2421  Grant bytes:  97
+Time:  2426  Grant bytes:  97
+Time:  1222  Grant bytes:  22
+Time:  1227  Grant bytes:  22
+SR time1:  1245
+SR time1:  1250
+Current time:  1222  Packet size:  12  Remaining buffer:  12  Incoming time:  2452  Packet tx time:  1222
+Current time:  1252  Packet size:  2  Remaining buffer:  2  Incoming time:  1244  Packet tx time:  1252
+Current time:  1252  Packet size:  7  Remaining buffer:  7  Incoming time:  1247  Packet tx time:  1252
+SR time1:  1255
+SR time1:  1260
+SR time1:  1280
+SR time1:  1285
+SR time1:  1290
+Current time:  1262  Packet size:  62  Remaining buffer:  62  Incoming time:  1259  Packet tx time:  1262
+Current time:  1287  Packet size:  2  Remaining buffer:  2  Incoming time:  1284  Packet tx time:  1287
+Current time:  1292  Packet size:  54  Remaining buffer:  54  Incoming time:  1288  Packet tx time:  1292
+Time:  1252  Grant bytes:  22
+Time:  1257  Grant bytes:  97
+Time:  1262  Grant bytes:  93
+Time:  1267  Grant bytes:  93
+Time:  1282  Grant bytes:  93
+Time:  1287  Grant bytes:  93
+Time:  1292  Grant bytes:  109
+Time:  1297  Grant bytes:  109
+Time:  1302  Grant bytes:  41
+Time:  1307  Grant bytes:  201
+Time:  1308  Grant bytes:  161
+Time:  1309  Grant bytes:  177
+Time:  1311  Grant bytes:  201
+Time:  1312  Grant bytes:  201
+Time:  1313  Grant bytes:  145
+Time:  1314  Grant bytes:  177
+Time:  1315  Grant bytes:  161
+Time:  1316  Grant bytes:  201
+Time:  1317  Grant bytes:  225
+Time:  1319  Grant bytes:  225
+Time:  1320  Grant bytes:  225
+Time:  1321  Grant bytes:  253
+Time:  1322  Grant bytes:  293
+Time:  1323  Grant bytes:  293
+Time:  1324  Grant bytes:  293
+Current time:  1302  Packet size:  78  Remaining buffer:  32  Incoming time:  1290  Packet tx time:  1292
+Time:  1325  Grant bytes:  293
+Time:  1326  Grant bytes:  357
+Time:  1327  Grant bytes:  405
+Time:  1328  Grant bytes:  325
+Time:  1329  Grant bytes:  405
+Time:  1330  Grant bytes:  357
+Time:  1331  Grant bytes:  357
+Time:  1332  Grant bytes:  405
+Time:  1333  Grant bytes:  325
+Time:  1334  Grant bytes:  405
+Time:  1335  Grant bytes:  357
+Time:  1336  Grant bytes:  177
+Time:  1337  Grant bytes:  357
+Time:  1338  Grant bytes:  357
+Time:  1339  Grant bytes:  357
+Time:  1340  Grant bytes:  325
+Time:  1341  Grant bytes:  269
+Time:  1342  Grant bytes:  437
+Time:  1343  Grant bytes:  389
+Time:  1344  Grant bytes:  437
+Time:  1345  Grant bytes:  469
+Time:  1346  Grant bytes:  597
+Time:  1347  Grant bytes:  597
+Time:  1348  Grant bytes:  389
+Time:  1349  Grant bytes:  621
+Current time:  1341  Packet size:  8652  Remaining buffer:  66  Incoming time:  1294  Packet tx time:  1302
+Current time:  1350  Packet size:  2884  Remaining buffer:  194  Incoming time:  1295  Packet tx time:  1341
+Current time:  1352  Packet size:  1340  Remaining buffer:  74  Incoming time:  1297  Packet tx time:  1350
+Current time:  1352  Packet size:  2  Remaining buffer:  2  Incoming time:  1310  Packet tx time:  1352
+Current time:  1357  Packet size:  2662  Remaining buffer:  714  Incoming time:  1319  Packet tx time:  1352
+Current time:  1363  Packet size:  2454  Remaining buffer:  150  Incoming time:  1342  Packet tx time:  1357
+Current time:  1370  Packet size:  2290  Remaining buffer:  142  Incoming time:  1346  Packet tx time:  1363
+Time:  1350  Grant bytes:  693
+Time:  1351  Grant bytes:  775
+Time:  1352  Grant bytes:  775
+Time:  1353  Grant bytes:  573
+Time:  1354  Grant bytes:  693
+Time:  1355  Grant bytes:  693
+Time:  1356  Grant bytes:  693
+Time:  1357  Grant bytes:  775
+Time:  1358  Grant bytes:  357
+Time:  1359  Grant bytes:  357
+Time:  1360  Grant bytes:  775
+Time:  1361  Grant bytes:  775
+Time:  1362  Grant bytes:  717
+Time:  1363  Grant bytes:  437
+Time:  1364  Grant bytes:  717
+Time:  1365  Grant bytes:  775
+Time:  1366  Grant bytes:  597
+Time:  1367  Grant bytes:  389
+Time:  1368  Grant bytes:  775
+Time:  1369  Grant bytes:  871
+Time:  1370  Grant bytes:  549
+Time:  1371  Grant bytes:  261
+Time:  1372  Grant bytes:  999
+Time:  1373  Grant bytes:  775
+Time:  1374  Grant bytes:  871
+Time:  1375  Grant bytes:  253
+Time:  1376  Grant bytes:  839
+Time:  1377  Grant bytes:  1143
+Time:  1378  Grant bytes:  1031
+Time:  1379  Grant bytes:  1143
+Time:  1380  Grant bytes:  1287
+Time:  1381  Grant bytes:  1431
+Time:  1382  Grant bytes:  1527
+Time:  1383  Grant bytes:  693
+Time:  1384  Grant bytes:  1527
+Time:  1385  Grant bytes:  1479
+Time:  1386  Grant bytes:  1620
+Time:  1387  Grant bytes:  1836
+Time:  1388  Grant bytes:  1287
+Time:  1389  Grant bytes:  1620
+Time:  1390  Grant bytes:  1620
+Time:  1391  Grant bytes:  485
+Time:  1392  Grant bytes:  2052
+Time:  1393  Grant bytes:  1335
+Time:  1394  Grant bytes:  1836
+Time:  1395  Grant bytes:  1836
+Time:  1396  Grant bytes:  2196
+Time:  1397  Grant bytes:  2124
+Time:  1398  Grant bytes:  1764
+Time:  1399  Grant bytes:  1287
+Current time:  1377  Packet size:  2502  Remaining buffer:  78  Incoming time:  1348  Packet tx time:  1370
+Current time:  1381  Packet size:  3636  Remaining buffer:  158  Incoming time:  1354  Packet tx time:  1377
+Current time:  1381  Packet size:  752  Remaining buffer:  752  Incoming time:  1355  Packet tx time:  1381
+Current time:  1385  Packet size:  2176  Remaining buffer:  139  Incoming time:  1362  Packet tx time:  1381
+Current time:  1385  Packet size:  672  Remaining buffer:  672  Incoming time:  1365  Packet tx time:  1385
+Current time:  1386  Packet size:  848  Remaining buffer:  185  Incoming time:  1366  Packet tx time:  1385
+Current time:  1391  Packet size:  4902  Remaining buffer:  28  Incoming time:  1369  Packet tx time:  1386
+Current time:  1392  Packet size:  2018  Remaining buffer:  1564  Incoming time:  1374  Packet tx time:  1391
+Current time:  1395  Packet size:  2634  Remaining buffer:  826  Incoming time:  1375  Packet tx time:  1392
+Current time:  1396  Packet size:  2050  Remaining buffer:  1045  Incoming time:  1376  Packet tx time:  1395
+Current time:  1399  Packet size:  1856  Remaining buffer:  395  Incoming time:  1378  Packet tx time:  1396
+Current time:  1400  Packet size:  1366  Remaining buffer:  477  Incoming time:  1382  Packet tx time:  1399
+Current time:  1401  Packet size:  2194  Remaining buffer:  553  Incoming time:  1383  Packet tx time:  1400
+Current time:  1401  Packet size:  1606  Remaining buffer:  1606  Incoming time:  1388  Packet tx time:  1401
+Current time:  1402  Packet size:  1269  Remaining buffer:  1141  Incoming time:  1389  Packet tx time:  1401
+Current time:  1406  Packet size:  3937  Remaining buffer:  845  Incoming time:  1394  Packet tx time:  1402
+Current time:  1407  Packet size:  2209  Remaining buffer:  936  Incoming time:  1397  Packet tx time:  1406
+Current time:  1412  Packet size:  2423  Remaining buffer:  808  Incoming time:  1403  Packet tx time:  1407
+Time:  1400  Grant bytes:  2124
+Time:  1401  Grant bytes:  2292
+Time:  1402  Grant bytes:  2124
+Time:  1403  Grant bytes:  1908
+Time:  1404  Grant bytes:  2124
+Time:  1405  Grant bytes:  2124
+Time:  1406  Grant bytes:  2124
+Time:  1407  Grant bytes:  2385
+Time:  1408  Grant bytes:  1692
+Time:  1409  Grant bytes:  1908
+Time:  1410  Grant bytes:  1572
+Time:  1411  Grant bytes:  1620
+Time:  1412  Grant bytes:  2385
+Time:  1413  Grant bytes:  1692
+Time:  1414  Grant bytes:  1431
+Time:  1417  Grant bytes:  2124
+Time:  1418  Grant bytes:  1836
+Time:  1419  Grant bytes:  2292
+Time:  1420  Grant bytes:  161
+Time:  1422  Grant bytes:  2292
+Time:  1423  Grant bytes:  1692
+Time:  1424  Grant bytes:  2292
+Time:  1425  Grant bytes:  1572
+Time:  1426  Grant bytes:  2577
+Time:  1427  Grant bytes:  2577
+Current time:  1419  Packet size:  5092  Remaining buffer:  1838  Incoming time:  1404  Packet tx time:  1412
+Current time:  1424  Packet size:  5527  Remaining buffer:  1109  Incoming time:  1408  Packet tx time:  1419
+Current time:  1426  Packet size:  5308  Remaining buffer:  2564  Incoming time:  1409  Packet tx time:  1424
+Current time:  1433  Packet size:  5643  Remaining buffer:  950  Incoming time:  1410  Packet tx time:  1426
+Current time:  1442  Packet size:  4342  Remaining buffer:  355  Incoming time:  1414  Packet tx time:  1433
+Current time:  1445  Packet size:  2884  Remaining buffer:  163  Incoming time:  1415  Packet tx time:  1442
+Current time:  1453  Packet size:  8652  Remaining buffer:  901  Incoming time:  1416  Packet tx time:  1445
+Current time:  1454  Packet size:  767  Remaining buffer:  534  Incoming time:  1417  Packet tx time:  1453
+Time:  1429  Grant bytes:  2124
+Time:  1430  Grant bytes:  1980
+Time:  1431  Grant bytes:  1692
+Time:  1433  Grant bytes:  967
+Time:  1434  Grant bytes:  2124
+Time:  1435  Grant bytes:  1620
+Time:  1436  Grant bytes:  1620
+Time:  1437  Grant bytes:  2124
+Time:  1438  Grant bytes:  967
+Time:  1439  Grant bytes:  903
+Time:  1440  Grant bytes:  903
+Time:  1441  Grant bytes:  437
+Time:  1442  Grant bytes:  1031
+Time:  1443  Grant bytes:  1031
+Time:  1444  Grant bytes:  1031
+Time:  1445  Grant bytes:  1031
+Time:  1446  Grant bytes:  1031
+Time:  1447  Grant bytes:  1143
+Time:  1448  Grant bytes:  1143
+Time:  1449  Grant bytes:  749
+Time:  1450  Grant bytes:  967
+Time:  1451  Grant bytes:  749
+Time:  1452  Grant bytes:  1143
+Time:  1453  Grant bytes:  1143
+Time:  1454  Grant bytes:  1908
+Time:  1455  Grant bytes:  2481
+Time:  1456  Grant bytes:  967
+Time:  1457  Grant bytes:  1143
+Time:  1458  Grant bytes:  1908
+Time:  1459  Grant bytes:  2481
+Time:  1460  Grant bytes:  935
+Time:  1461  Grant bytes:  807
+Time:  1462  Grant bytes:  2673
+Time:  1463  Grant bytes:  1980
+Time:  1464  Grant bytes:  2673
+Time:  1465  Grant bytes:  1191
+Time:  1466  Grant bytes:  2124
+Time:  1467  Grant bytes:  3062
+Time:  1468  Grant bytes:  1836
+Time:  1470  Grant bytes:  1335
+Time:  1471  Grant bytes:  749
+Time:  1474  Grant bytes:  2124
+Time:  1475  Grant bytes:  1335
+Time:  1476  Grant bytes:  1572
+Time:  1477  Grant bytes:  2124
+Time:  1478  Grant bytes:  1572
+Time:  1479  Grant bytes:  1031
+Time:  1480  Grant bytes:  2124
+Time:  1481  Grant bytes:  1063
+Time:  1482  Grant bytes:  2481
+Current time:  1459  Packet size:  3938  Remaining buffer:  94  Incoming time:  1418  Packet tx time:  1454
+Current time:  1460  Packet size:  2726  Remaining buffer:  345  Incoming time:  1420  Packet tx time:  1459
+Current time:  1462  Packet size:  2884  Remaining buffer:  1495  Incoming time:  1421  Packet tx time:  1460
+Current time:  1462  Packet size:  2  Remaining buffer:  2  Incoming time:  1428  Packet tx time:  1462
+Current time:  1464  Packet size:  3793  Remaining buffer:  2623  Incoming time:  1430  Packet tx time:  1462
+Current time:  1467  Packet size:  5523  Remaining buffer:  2174  Incoming time:  1431  Packet tx time:  1464
+Current time:  1477  Packet size:  5768  Remaining buffer:  699  Incoming time:  1432  Packet tx time:  1467
+Current time:  1478  Packet size:  2711  Remaining buffer:  1292  Incoming time:  1435  Packet tx time:  1477
+Current time:  1482  Packet size:  5596  Remaining buffer:  2177  Incoming time:  1436  Packet tx time:  1478
+Current time:  1483  Packet size:  2207  Remaining buffer:  1908  Incoming time:  1437  Packet tx time:  1482
+Current time:  1484  Packet size:  1986  Remaining buffer:  1608  Incoming time:  1440  Packet tx time:  1483
+Current time:  1492  Packet size:  5334  Remaining buffer:  612  Incoming time:  1441  Packet tx time:  1484
+Time:  1483  Grant bytes:  2292
+Time:  1484  Grant bytes:  1692
+Time:  1485  Grant bytes:  1692
+Time:  1486  Grant bytes:  1431
+Time:  1487  Grant bytes:  1143
+Time:  1488  Grant bytes:  1143
+Time:  1489  Grant bytes:  1143
+Time:  1491  Grant bytes:  693
+Time:  1492  Grant bytes:  1031
+Time:  1493  Grant bytes:  967
+Time:  1494  Grant bytes:  1572
+Time:  1495  Grant bytes:  1143
+Time:  1496  Grant bytes:  2865
+Time:  1497  Grant bytes:  2481
+Time:  1498  Grant bytes:  1143
+Time:  1499  Grant bytes:  1143
+Time:  1500  Grant bytes:  645
+Time:  1501  Grant bytes:  749
+Time:  1502  Grant bytes:  1908
+Time:  1503  Grant bytes:  967
+Time:  1504  Grant bytes:  2673
+Time:  1505  Grant bytes:  1191
+Time:  1506  Grant bytes:  2292
+Time:  1507  Grant bytes:  2385
+Time:  1508  Grant bytes:  2385
+Current time:  1497  Packet size:  7688  Remaining buffer:  1714  Incoming time:  1456  Packet tx time:  1492
+Current time:  1504  Packet size:  6072  Remaining buffer:  171  Incoming time:  1457  Packet tx time:  1497
+Current time:  1508  Packet size:  3867  Remaining buffer:  189  Incoming time:  1458  Packet tx time:  1504
+Current time:  1511  Packet size:  6682  Remaining buffer:  381  Incoming time:  1463  Packet tx time:  1508
+Current time:  1511  Packet size:  1057  Remaining buffer:  1057  Incoming time:  1468  Packet tx time:  1511
+Current time:  1514  Packet size:  4438  Remaining buffer:  1211  Incoming time:  1475  Packet tx time:  1511
+Current time:  1515  Packet size:  2759  Remaining buffer:  2143  Incoming time:  1476  Packet tx time:  1514
+Current time:  1518  Packet size:  7594  Remaining buffer:  1635  Incoming time:  1481  Packet tx time:  1515
+Current time:  1519  Packet size:  2900  Remaining buffer:  2155  Incoming time:  1486  Packet tx time:  1518
+Current time:  1519  Packet size:  304  Remaining buffer:  304  Incoming time:  1487  Packet tx time:  1519
+Current time:  1525  Packet size:  4804  Remaining buffer:  105  Incoming time:  1493  Packet tx time:  1519
+Current time:  1531  Packet size:  6568  Remaining buffer:  107  Incoming time:  1500  Packet tx time:  1525
+Time:  1509  Grant bytes:  2292
+Time:  1510  Grant bytes:  1836
+Time:  1511  Grant bytes:  2385
+Time:  1512  Grant bytes:  2385
+Time:  1513  Grant bytes:  2292
+Time:  1514  Grant bytes:  1836
+Time:  1515  Grant bytes:  2385
+Time:  1516  Grant bytes:  3062
+Time:  1517  Grant bytes:  2673
+Time:  1518  Grant bytes:  2385
+Time:  1519  Grant bytes:  2673
+Time:  1520  Grant bytes:  2124
+Time:  1521  Grant bytes:  3062
+Time:  1522  Grant bytes:  2673
+Time:  1523  Grant bytes:  2385
+Time:  1524  Grant bytes:  2385
+Time:  1525  Grant bytes:  2673
+Time:  1526  Grant bytes:  3062
+Time:  1528  Grant bytes:  2292
+Time:  1529  Grant bytes:  2673
+Time:  1531  Grant bytes:  2865
+Time:  1535  Grant bytes:  2385
+Time:  1536  Grant bytes:  2577
+Time:  1538  Grant bytes:  1908
+Time:  1539  Grant bytes:  2124
+Time:  1540  Grant bytes:  1980
+Time:  1541  Grant bytes:  2124
+Time:  1542  Grant bytes:  2124
+Time:  1543  Grant bytes:  2124
+Time:  1544  Grant bytes:  1908
+Time:  1545  Grant bytes:  2124
+Time:  1546  Grant bytes:  2385
+Time:  1547  Grant bytes:  1335
+Time:  1548  Grant bytes:  2124
+Time:  1549  Grant bytes:  2124
+Time:  1550  Grant bytes:  1980
+Time:  1551  Grant bytes:  2196
+Time:  1552  Grant bytes:  2196
+Time:  1555  Grant bytes:  1836
+Time:  1556  Grant bytes:  1980
+Time:  1557  Grant bytes:  1980
+Time:  1558  Grant bytes:  1980
+Time:  1559  Grant bytes:  1980
+Time:  1560  Grant bytes:  1980
+Time:  1561  Grant bytes:  2196
+Time:  1562  Grant bytes:  1980
+Time:  1563  Grant bytes:  1572
+Time:  1565  Grant bytes:  999
+Time:  1566  Grant bytes:  2196
+Time:  1567  Grant bytes:  1980
+Current time:  1540  Packet size:  7906  Remaining buffer:  1132  Incoming time:  1501  Packet tx time:  1531
+Current time:  1541  Packet size:  2040  Remaining buffer:  1200  Incoming time:  1506  Packet tx time:  1540
+Current time:  1545  Packet size:  4830  Remaining buffer:  1793  Incoming time:  1507  Packet tx time:  1541
+Current time:  1546  Packet size:  504  Remaining buffer:  182  Incoming time:  1512  Packet tx time:  1545
+Current time:  1548  Packet size:  5596  Remaining buffer:  2069  Incoming time:  1521  Packet tx time:  1546
+Current time:  1555  Packet size:  4543  Remaining buffer:  406  Incoming time:  1522  Packet tx time:  1548
+Current time:  1560  Packet size:  4830  Remaining buffer:  903  Incoming time:  1523  Packet tx time:  1555
+Current time:  1563  Packet size:  5989  Remaining buffer:  754  Incoming time:  1529  Packet tx time:  1560
+Current time:  1569  Packet size:  1442  Remaining buffer:  629  Incoming time:  1530  Packet tx time:  1563
+Current time:  1572  Packet size:  5768  Remaining buffer:  905  Incoming time:  1534  Packet tx time:  1569
+Time:  1568  Grant bytes:  1479
+Time:  1569  Grant bytes:  1980
+Time:  1570  Grant bytes:  1335
+Time:  1571  Grant bytes:  2196
+Time:  1572  Grant bytes:  2124
+Time:  1573  Grant bytes:  967
+Time:  1574  Grant bytes:  967
+Time:  1575  Grant bytes:  967
+Time:  1576  Grant bytes:  967
+Time:  1577  Grant bytes:  1031
+Time:  1578  Grant bytes:  1031
+Time:  1579  Grant bytes:  1143
+Time:  1580  Grant bytes:  967
+Time:  1581  Grant bytes:  645
+Time:  1582  Grant bytes:  125
+Time:  1583  Grant bytes:  621
+Time:  1584  Grant bytes:  1191
+Time:  1585  Grant bytes:  1191
+Time:  1586  Grant bytes:  1143
+Time:  1587  Grant bytes:  125
+Time:  1588  Grant bytes:  185
+Time:  1590  Grant bytes:  233
+Time:  1591  Grant bytes:  935
+Time:  1592  Grant bytes:  1191
+Time:  1593  Grant bytes:  1335
+Current time:  1579  Packet size:  3393  Remaining buffer:  254  Incoming time:  1535  Packet tx time:  1572
+Current time:  1579  Packet size:  313  Remaining buffer:  313  Incoming time:  1536  Packet tx time:  1579
+Current time:  1594  Packet size:  9417  Remaining buffer:  1400  Incoming time:  1543  Packet tx time:  1579
+Current time:  1596  Packet size:  3866  Remaining buffer:  1275  Incoming time:  1544  Packet tx time:  1594
+Current time:  1601  Packet size:  3577  Remaining buffer:  67  Incoming time:  1551  Packet tx time:  1596
+Current time:  1603  Packet size:  694  Remaining buffer:  111  Incoming time:  1552  Packet tx time:  1601
+Current time:  1611  Packet size:  6677  Remaining buffer:  2835  Incoming time:  1557  Packet tx time:  1603
+Time:  1594  Grant bytes:  1620
+Time:  1595  Grant bytes:  2385
+Time:  1596  Grant bytes:  2124
+Time:  1597  Grant bytes:  2673
+Time:  1599  Grant bytes:  113
+Time:  1600  Grant bytes:  437
+Time:  1601  Grant bytes:  125
+Time:  1602  Grant bytes:  533
+Time:  1603  Grant bytes:  125
+Time:  1604  Grant bytes:  533
+Time:  1605  Grant bytes:  469
+Time:  1607  Grant bytes:  1191
+Time:  1608  Grant bytes:  2673
+Time:  1609  Grant bytes:  533
+Time:  1610  Grant bytes:  113
+Time:  1611  Grant bytes:  3062
+Time:  1612  Grant bytes:  3062
+Time:  1613  Grant bytes:  2292
+Time:  1614  Grant bytes:  2673
+Time:  1615  Grant bytes:  3062
+Time:  1616  Grant bytes:  3062
+Time:  1617  Grant bytes:  2124
+Time:  1618  Grant bytes:  2481
+Time:  1619  Grant bytes:  3062
+Time:  1620  Grant bytes:  2292
+Time:  1621  Grant bytes:  3062
+Time:  1623  Grant bytes:  2292
+Time:  1624  Grant bytes:  2673
+Time:  1625  Grant bytes:  1836
+Time:  1626  Grant bytes:  2673
+Time:  1627  Grant bytes:  2865
+Time:  1628  Grant bytes:  1836
+Time:  1629  Grant bytes:  2673
+Time:  1630  Grant bytes:  1764
+Time:  1631  Grant bytes:  2124
+Time:  1633  Grant bytes:  1980
+Time:  1634  Grant bytes:  2673
+Time:  1635  Grant bytes:  2124
+Time:  1636  Grant bytes:  1191
+Time:  1637  Grant bytes:  2673
+Time:  1638  Grant bytes:  1980
+Time:  1639  Grant bytes:  2673
+Time:  1640  Grant bytes:  2292
+Time:  1641  Grant bytes:  2052
+Time:  1642  Grant bytes:  2052
+Time:  1643  Grant bytes:  1191
+Time:  1644  Grant bytes:  1191
+Time:  1645  Grant bytes:  1191
+Time:  1646  Grant bytes:  1191
+Time:  1647  Grant bytes:  1143
+Current time:  1615  Packet size:  3793  Remaining buffer:  518  Incoming time:  1558  Packet tx time:  1611
+Current time:  1617  Packet size:  6220  Remaining buffer:  630  Incoming time:  1565  Packet tx time:  1615
+Current time:  1620  Packet size:  5019  Remaining buffer:  1917  Incoming time:  1566  Packet tx time:  1617
+Current time:  1623  Packet size:  5236  Remaining buffer:  1812  Incoming time:  1567  Packet tx time:  1620
+Current time:  1625  Packet size:  4296  Remaining buffer:  1155  Incoming time:  1568  Packet tx time:  1623
+Current time:  1627  Packet size:  3368  Remaining buffer:  29  Incoming time:  1575  Packet tx time:  1625
+Current time:  1630  Packet size:  4806  Remaining buffer:  366  Incoming time:  1576  Packet tx time:  1627
+Current time:  1635  Packet size:  4740  Remaining buffer:  60  Incoming time:  1577  Packet tx time:  1630
+Current time:  1638  Packet size:  7626  Remaining buffer:  1719  Incoming time:  1578  Packet tx time:  1635
+Current time:  1642  Packet size:  6570  Remaining buffer:  1983  Incoming time:  1581  Packet tx time:  1638
+Time:  1648  Grant bytes:  1191
+Time:  1649  Grant bytes:  1191
+Time:  1650  Grant bytes:  1031
+Time:  1651  Grant bytes:  807
+Time:  1652  Grant bytes:  1191
+Time:  1653  Grant bytes:  1143
+Time:  1654  Grant bytes:  1191
+Time:  1655  Grant bytes:  1191
+Time:  1656  Grant bytes:  1191
+Time:  1657  Grant bytes:  1143
+Time:  1658  Grant bytes:  1836
+Time:  1659  Grant bytes:  3062
+Time:  1660  Grant bytes:  2292
+Time:  1661  Grant bytes:  1239
+Time:  1662  Grant bytes:  2385
+Time:  1663  Grant bytes:  2481
+Time:  1665  Grant bytes:  2481
+Time:  1666  Grant bytes:  2673
+Time:  1667  Grant bytes:  2385
+Time:  1668  Grant bytes:  2673
+Time:  1669  Grant bytes:  2673
+Time:  1670  Grant bytes:  2577
+Time:  1671  Grant bytes:  1908
+Time:  1672  Grant bytes:  2673
+Time:  1673  Grant bytes:  2673
+Current time:  1661  Packet size:  8474  Remaining buffer:  1037  Incoming time:  1588  Packet tx time:  1642
+Current time:  1666  Packet size:  2884  Remaining buffer:  212  Incoming time:  1589  Packet tx time:  1661
+Current time:  1668  Packet size:  2656  Remaining buffer:  201  Incoming time:  1590  Packet tx time:  1666
+Current time:  1669  Packet size:  4438  Remaining buffer:  1976  Incoming time:  1593  Packet tx time:  1668
+Current time:  1673  Packet size:  2774  Remaining buffer:  495  Incoming time:  1599  Packet tx time:  1669
+Current time:  1674  Packet size:  2452  Remaining buffer:  279  Incoming time:  1600  Packet tx time:  1673
+Current time:  1677  Packet size:  3864  Remaining buffer:  290  Incoming time:  1605  Packet tx time:  1674
+Current time:  1677  Packet size:  1698  Remaining buffer:  1698  Incoming time:  1607  Packet tx time:  1677
+Current time:  1677  Packet size:  597  Remaining buffer:  597  Incoming time:  1613  Packet tx time:  1677
+Current time:  1678  Packet size:  217  Remaining buffer:  135  Incoming time:  1614  Packet tx time:  1677
+Current time:  1679  Packet size:  1851  Remaining buffer:  299  Incoming time:  1618  Packet tx time:  1678
+Current time:  1679  Packet size:  2351  Remaining buffer:  2351  Incoming time:  1633  Packet tx time:  1679
+Current time:  1682  Packet size:  4543  Remaining buffer:  954  Incoming time:  1639  Packet tx time:  1679
+Current time:  1689  Packet size:  7514  Remaining buffer:  1735  Incoming time:  1647  Packet tx time:  1682
+Current time:  1693  Packet size:  6028  Remaining buffer:  339  Incoming time:  1648  Packet tx time:  1689
+Time:  1674  Grant bytes:  2673
+Time:  1675  Grant bytes:  2481
+Time:  1676  Grant bytes:  1191
+Time:  1677  Grant bytes:  2673
+Time:  1678  Grant bytes:  1692
+Time:  1679  Grant bytes:  3062
+Time:  1680  Grant bytes:  1143
+Time:  1681  Grant bytes:  2052
+Time:  1682  Grant bytes:  2385
+Time:  1683  Grant bytes:  1692
+Time:  1684  Grant bytes:  2673
+Time:  1685  Grant bytes:  1143
+Time:  1686  Grant bytes:  3062
+Time:  1687  Grant bytes:  2673
+Time:  1688  Grant bytes:  2385
+Time:  1689  Grant bytes:  2673
+Time:  1691  Grant bytes:  2385
+Time:  1692  Grant bytes:  2385
+Time:  1693  Grant bytes:  1191
+Time:  1694  Grant bytes:  1980
+Time:  1696  Grant bytes:  2124
+Time:  1697  Grant bytes:  2124
+Time:  1698  Grant bytes:  1143
+Time:  1699  Grant bytes:  2385
+Time:  1701  Grant bytes:  2052
+Time:  1702  Grant bytes:  2124
+Time:  1704  Grant bytes:  2292
+Time:  1705  Grant bytes:  2673
+Time:  1706  Grant bytes:  2385
+Time:  1707  Grant bytes:  2124
+Time:  1708  Grant bytes:  1980
+Time:  1709  Grant bytes:  2124
+Time:  1710  Grant bytes:  1836
+Time:  1711  Grant bytes:  2124
+Time:  1712  Grant bytes:  1980
+Time:  1713  Grant bytes:  1620
+Time:  1714  Grant bytes:  2124
+Time:  1715  Grant bytes:  2124
+Time:  1716  Grant bytes:  2124
+Time:  1717  Grant bytes:  2124
+Time:  1718  Grant bytes:  1191
+Time:  1719  Grant bytes:  2124
+Time:  1720  Grant bytes:  1836
+Time:  1721  Grant bytes:  2124
+Time:  1722  Grant bytes:  1980
+Time:  1724  Grant bytes:  2124
+Time:  1725  Grant bytes:  2124
+Time:  1726  Grant bytes:  2124
+Time:  1727  Grant bytes:  2481
+Time:  1728  Grant bytes:  1191
+Current time:  1702  Packet size:  4580  Remaining buffer:  550  Incoming time:  1649  Packet tx time:  1693
+Current time:  1705  Packet size:  3302  Remaining buffer:  1734  Incoming time:  1650  Packet tx time:  1702
+Current time:  1709  Packet size:  4580  Remaining buffer:  1272  Incoming time:  1652  Packet tx time:  1705
+Current time:  1714  Packet size:  6072  Remaining buffer:  1278  Incoming time:  1653  Packet tx time:  1709
+Current time:  1716  Packet size:  4582  Remaining buffer:  1623  Incoming time:  1654  Packet tx time:  1714
+Current time:  1720  Packet size:  6028  Remaining buffer:  114  Incoming time:  1655  Packet tx time:  1716
+Current time:  1720  Packet size:  256  Remaining buffer:  256  Incoming time:  1656  Packet tx time:  1720
+Current time:  1721  Packet size:  1744  Remaining buffer:  283  Incoming time:  1657  Packet tx time:  1720
+Current time:  1721  Packet size:  1270  Remaining buffer:  1270  Incoming time:  1659  Packet tx time:  1721
+Current time:  1728  Packet size:  3483  Remaining buffer:  444  Incoming time:  1660  Packet tx time:  1721
+Current time:  1728  Packet size:  505  Remaining buffer:  505  Incoming time:  1662  Packet tx time:  1728
+Current time:  1730  Packet size:  412  Remaining buffer:  179  Incoming time:  1665  Packet tx time:  1728
+Current time:  1730  Packet size:  505  Remaining buffer:  505  Incoming time:  1667  Packet tx time:  1730
+Current time:  1730  Packet size:  217  Remaining buffer:  217  Incoming time:  1672  Packet tx time:  1730
+Current time:  1731  Packet size:  413  Remaining buffer:  286  Incoming time:  1675  Packet tx time:  1730
+Time:  1730  Grant bytes:  1031
+Time:  1731  Grant bytes:  807
+Time:  1732  Grant bytes:  1191
+Time:  1733  Grant bytes:  1143
+Time:  1735  Grant bytes:  1191
+Time:  1736  Grant bytes:  1191
+Time:  1737  Grant bytes:  1143
+Time:  1738  Grant bytes:  1191
+Time:  1740  Grant bytes:  1031
+Time:  1741  Grant bytes:  807
+Time:  1742  Grant bytes:  2385
+Time:  1743  Grant bytes:  2292
+Time:  1744  Grant bytes:  2481
+Time:  1745  Grant bytes:  2385
+Time:  1746  Grant bytes:  3062
+Time:  1747  Grant bytes:  2124
+Time:  1748  Grant bytes:  2385
+Time:  1750  Grant bytes:  2385
+Time:  1751  Grant bytes:  3062
+Time:  1752  Grant bytes:  3062
+Time:  1753  Grant bytes:  2673
+Time:  1756  Grant bytes:  2865
+Time:  1757  Grant bytes:  2673
+Time:  1758  Grant bytes:  2052
+Time:  1760  Grant bytes:  1031
+Current time:  1738  Packet size:  3192  Remaining buffer:  304  Incoming time:  1685  Packet tx time:  1731
+Current time:  1742  Packet size:  4154  Remaining buffer:  1444  Incoming time:  1686  Packet tx time:  1738
+Current time:  1743  Packet size:  1659  Remaining buffer:  724  Incoming time:  1687  Packet tx time:  1742
+Current time:  1748  Packet size:  6276  Remaining buffer:  984  Incoming time:  1688  Packet tx time:  1743
+Current time:  1748  Packet size:  910  Remaining buffer:  910  Incoming time:  1694  Packet tx time:  1748
+Current time:  1752  Packet size:  7210  Remaining buffer:  1296  Incoming time:  1695  Packet tx time:  1748
+Current time:  1753  Packet size:  3653  Remaining buffer:  1893  Incoming time:  1696  Packet tx time:  1752
+Current time:  1758  Packet size:  6533  Remaining buffer:  236  Incoming time:  1697  Packet tx time:  1753
+Current time:  1758  Packet size:  505  Remaining buffer:  505  Incoming time:  1699  Packet tx time:  1758
+Current time:  1762  Packet size:  2884  Remaining buffer:  553  Incoming time:  1700  Packet tx time:  1758
+Current time:  1764  Packet size:  2884  Remaining buffer:  1574  Incoming time:  1703  Packet tx time:  1762
+Current time:  1765  Packet size:  2039  Remaining buffer:  946  Incoming time:  1704  Packet tx time:  1764
+Current time:  1766  Packet size:  3649  Remaining buffer:  2476  Incoming time:  1707  Packet tx time:  1765
+Current time:  1768  Packet size:  3798  Remaining buffer:  166  Incoming time:  1708  Packet tx time:  1766
+Current time:  1768  Packet size:  909  Remaining buffer:  909  Incoming time:  1712  Packet tx time:  1768
+Current time:  1768  Packet size:  1269  Remaining buffer:  1269  Incoming time:  1713  Packet tx time:  1768
+Current time:  1773  Packet size:  5236  Remaining buffer:  2250  Incoming time:  1722  Packet tx time:  1768
+Time:  1761  Grant bytes:  2865
+Time:  1762  Grant bytes:  2124
+Time:  1763  Grant bytes:  1191
+Time:  1764  Grant bytes:  2673
+Time:  1765  Grant bytes:  2124
+Time:  1766  Grant bytes:  3062
+Time:  1767  Grant bytes:  3062
+Time:  1768  Grant bytes:  2673
+Time:  1769  Grant bytes:  2673
+Time:  1770  Grant bytes:  1692
+Time:  1771  Grant bytes:  3062
+Time:  1773  Grant bytes:  2385
+Time:  1774  Grant bytes:  3062
+Time:  1775  Grant bytes:  3062
+Time:  1776  Grant bytes:  2865
+Time:  1777  Grant bytes:  3062
+Time:  1778  Grant bytes:  2052
+Time:  1779  Grant bytes:  2673
+Time:  1780  Grant bytes:  2292
+Time:  1781  Grant bytes:  2865
+Time:  1782  Grant bytes:  2673
+Time:  1783  Grant bytes:  2481
+Time:  1784  Grant bytes:  2673
+Time:  1785  Grant bytes:  2673
+Time:  1786  Grant bytes:  2292
+Time:  1787  Grant bytes:  2673
+Time:  1788  Grant bytes:  2124
+Time:  1789  Grant bytes:  3062
+Time:  1790  Grant bytes:  2292
+Time:  1791  Grant bytes:  2673
+Time:  1792  Grant bytes:  2673
+Time:  1793  Grant bytes:  2124
+Time:  1794  Grant bytes:  2292
+Time:  1795  Grant bytes:  2673
+Time:  1796  Grant bytes:  2673
+Time:  1797  Grant bytes:  3062
+Time:  1798  Grant bytes:  1143
+Time:  1799  Grant bytes:  1191
+Time:  1800  Grant bytes:  1031
+Time:  1801  Grant bytes:  807
+Time:  1802  Grant bytes:  2673
+Time:  1803  Grant bytes:  1143
+Time:  1804  Grant bytes:  1191
+Time:  1805  Grant bytes:  1191
+Time:  1806  Grant bytes:  2385
+Time:  1807  Grant bytes:  2481
+Time:  1808  Grant bytes:  1191
+Time:  1809  Grant bytes:  1191
+Time:  1810  Grant bytes:  1031
+Time:  1811  Grant bytes:  749
+Current time:  1778  Packet size:  7210  Remaining buffer:  797  Incoming time:  1723  Packet tx time:  1773
+Current time:  1780  Packet size:  5091  Remaining buffer:  1175  Incoming time:  1724  Packet tx time:  1778
+Current time:  1780  Packet size:  766  Remaining buffer:  766  Incoming time:  1725  Packet tx time:  1780
+Current time:  1781  Packet size:  769  Remaining buffer:  423  Incoming time:  1726  Packet tx time:  1780
+Current time:  1787  Packet size:  7210  Remaining buffer:  2494  Incoming time:  1729  Packet tx time:  1781
+Current time:  1788  Packet size:  1746  Remaining buffer:  1573  Incoming time:  1733  Packet tx time:  1787
+Current time:  1789  Packet size:  2884  Remaining buffer:  2342  Incoming time:  1734  Packet tx time:  1788
+Current time:  1790  Packet size:  1702  Remaining buffer:  988  Incoming time:  1736  Packet tx time:  1789
+Current time:  1792  Packet size:  4630  Remaining buffer:  667  Incoming time:  1737  Packet tx time:  1790
+Current time:  1792  Packet size:  1851  Remaining buffer:  1851  Incoming time:  1744  Packet tx time:  1792
+Current time:  1801  Packet size:  4831  Remaining buffer:  277  Incoming time:  1745  Packet tx time:  1792
+Current time:  1805  Packet size:  2884  Remaining buffer:  1175  Incoming time:  1749  Packet tx time:  1801
+Time:  1812  Grant bytes:  1191
+Time:  1813  Grant bytes:  1063
+Time:  1814  Grant bytes:  1191
+Time:  1816  Grant bytes:  1143
+Time:  1817  Grant bytes:  3062
+Time:  1818  Grant bytes:  2673
+Time:  1819  Grant bytes:  2673
+Time:  1820  Grant bytes:  1031
+Time:  1821  Grant bytes:  669
+Time:  1822  Grant bytes:  1191
+Time:  1824  Grant bytes:  1143
+Time:  1825  Grant bytes:  1191
+Time:  1826  Grant bytes:  1191
+Time:  1827  Grant bytes:  1191
+Time:  1828  Grant bytes:  1143
+Time:  1829  Grant bytes:  1063
+Time:  1830  Grant bytes:  1031
+Time:  1831  Grant bytes:  2124
+Time:  1832  Grant bytes:  2673
+Time:  1833  Grant bytes:  2292
+Time:  1834  Grant bytes:  2673
+Time:  1835  Grant bytes:  2673
+Time:  1836  Grant bytes:  2124
+Time:  1837  Grant bytes:  3062
+Time:  1838  Grant bytes:  2385
+Current time:  1817  Packet size:  5768  Remaining buffer:  1221  Incoming time:  1755  Packet tx time:  1805
+Current time:  1825  Packet size:  5795  Remaining buffer:  1084  Incoming time:  1761  Packet tx time:  1817
+Current time:  1831  Packet size:  1197  Remaining buffer:  69  Incoming time:  1770  Packet tx time:  1825
+Current time:  1833  Packet size:  4156  Remaining buffer:  2108  Incoming time:  1771  Packet tx time:  1831
+Current time:  1835  Packet size:  2884  Remaining buffer:  38  Incoming time:  1772  Packet tx time:  1833
+Current time:  1836  Packet size:  4355  Remaining buffer:  1726  Incoming time:  1776  Packet tx time:  1835
+Current time:  1843  Packet size:  5985  Remaining buffer:  776  Incoming time:  1782  Packet tx time:  1836
+Current time:  1846  Packet size:  4735  Remaining buffer:  368  Incoming time:  1783  Packet tx time:  1843
+Current time:  1847  Packet size:  3101  Remaining buffer:  2287  Incoming time:  1784  Packet tx time:  1846
+Current time:  1847  Packet size:  216  Remaining buffer:  216  Incoming time:  1785  Packet tx time:  1847
+Time:  1839  Grant bytes:  1527
+Time:  1840  Grant bytes:  2292
+Time:  1841  Grant bytes:  1692
+Time:  1842  Grant bytes:  2385
+Time:  1843  Grant bytes:  2481
+Time:  1844  Grant bytes:  2673
+Time:  1846  Grant bytes:  1191
+Time:  1847  Grant bytes:  2673
+Time:  1848  Grant bytes:  2481
+Time:  1851  Grant bytes:  1692
+Time:  1852  Grant bytes:  2481
+Time:  1853  Grant bytes:  2124
+Time:  1854  Grant bytes:  3062
+Time:  1856  Grant bytes:  2385
+Time:  1857  Grant bytes:  3062
+Time:  1858  Grant bytes:  2673
+Time:  1859  Grant bytes:  2481
+Time:  1860  Grant bytes:  2124
+Time:  1863  Grant bytes:  2124
+Time:  1864  Grant bytes:  2481
+Time:  1865  Grant bytes:  1836
+Time:  1867  Grant bytes:  2292
+Time:  1868  Grant bytes:  1572
+Time:  1869  Grant bytes:  2865
+Time:  1870  Grant bytes:  1908
+Current time:  1856  Packet size:  4543  Remaining buffer:  577  Incoming time:  1795  Packet tx time:  1847
+Current time:  1863  Packet size:  10315  Remaining buffer:  675  Incoming time:  1796  Packet tx time:  1856
+Current time:  1864  Packet size:  2712  Remaining buffer:  1270  Incoming time:  1797  Packet tx time:  1863
+Current time:  1867  Packet size:  4628  Remaining buffer:  1592  Incoming time:  1798  Packet tx time:  1864
+Current time:  1872  Packet size:  7466  Remaining buffer:  2354  Incoming time:  1799  Packet tx time:  1867
+Current time:  1874  Packet size:  416  Remaining buffer:  295  Incoming time:  1800  Packet tx time:  1872
+Current time:  1875  Packet size:  3100  Remaining buffer:  538  Incoming time:  1802  Packet tx time:  1874
+Current time:  1882  Packet size:  6072  Remaining buffer:  339  Incoming time:  1803  Packet tx time:  1875
+Current time:  1891  Packet size:  4735  Remaining buffer:  682  Incoming time:  1807  Packet tx time:  1882
+Current time:  1891  Packet size:  260  Remaining buffer:  260  Incoming time:  1808  Packet tx time:  1891
+Current time:  1891  Packet size:  1698  Remaining buffer:  1698  Incoming time:  1809  Packet tx time:  1891
+Time:  1871  Grant bytes:  2124
+Time:  1872  Grant bytes:  2481
+Time:  1874  Grant bytes:  2865
+Time:  1875  Grant bytes:  2292
+Time:  1876  Grant bytes:  2124
+Time:  1877  Grant bytes:  2865
+Time:  1878  Grant bytes:  1143
+Time:  1879  Grant bytes:  1143
+Time:  1880  Grant bytes:  967
+Time:  1881  Grant bytes:  749
+Time:  1882  Grant bytes:  1143
+Time:  1883  Grant bytes:  967
+Time:  1884  Grant bytes:  1143
+Time:  1885  Grant bytes:  1143
+Time:  1886  Grant bytes:  935
+Time:  1887  Grant bytes:  1191
+Time:  1888  Grant bytes:  1191
+Time:  1889  Grant bytes:  1143
+Time:  1890  Grant bytes:  1031
+Time:  1891  Grant bytes:  3062
+Time:  1892  Grant bytes:  1191
+Time:  1893  Grant bytes:  2385
+Time:  1894  Grant bytes:  2292
+Time:  1895  Grant bytes:  2124
+Time:  1896  Grant bytes:  3062
+Time:  1897  Grant bytes:  3062
+Time:  1898  Grant bytes:  2124
+Time:  1899  Grant bytes:  2481
+Time:  1900  Grant bytes:  1572
+Time:  1901  Grant bytes:  3062
+Time:  1902  Grant bytes:  2052
+Time:  1903  Grant bytes:  2292
+Time:  1904  Grant bytes:  2673
+Time:  1905  Grant bytes:  2385
+Time:  1906  Grant bytes:  2385
+Time:  1907  Grant bytes:  2385
+Time:  1908  Grant bytes:  2292
+Time:  1909  Grant bytes:  3062
+Time:  1910  Grant bytes:  2124
+Time:  1911  Grant bytes:  2673
+Time:  1912  Grant bytes:  2385
+Time:  1913  Grant bytes:  2385
+Time:  1914  Grant bytes:  2865
+Time:  1915  Grant bytes:  2673
+Time:  1916  Grant bytes:  3062
+Time:  1917  Grant bytes:  3062
+Time:  1918  Grant bytes:  2385
+Time:  1921  Grant bytes:  2481
+Time:  1922  Grant bytes:  1335
+Time:  1923  Grant bytes:  2385
+Current time:  1899  Packet size:  5024  Remaining buffer:  1043  Incoming time:  1811  Packet tx time:  1891
+Current time:  1901  Packet size:  3140  Remaining buffer:  142  Incoming time:  1812  Packet tx time:  1899
+Current time:  1902  Packet size:  3268  Remaining buffer:  356  Incoming time:  1813  Packet tx time:  1901
+Current time:  1902  Packet size:  254  Remaining buffer:  254  Incoming time:  1814  Packet tx time:  1902
+Current time:  1905  Packet size:  2884  Remaining buffer:  1447  Incoming time:  1815  Packet tx time:  1902
+Current time:  1905  Packet size:  217  Remaining buffer:  217  Incoming time:  1818  Packet tx time:  1905
+Current time:  1905  Packet size:  217  Remaining buffer:  217  Incoming time:  1819  Packet tx time:  1905
+Current time:  1907  Packet size:  4326  Remaining buffer:  1449  Incoming time:  1823  Packet tx time:  1905
+Current time:  1911  Packet size:  4630  Remaining buffer:  742  Incoming time:  1824  Packet tx time:  1907
+Current time:  1912  Packet size:  1700  Remaining buffer:  1217  Incoming time:  1826  Packet tx time:  1911
+Current time:  1917  Packet size:  1698  Remaining buffer:  366  Incoming time:  1827  Packet tx time:  1912
+Current time:  1917  Packet size:  306  Remaining buffer:  306  Incoming time:  1828  Packet tx time:  1917
+Current time:  1917  Packet size:  386  Remaining buffer:  386  Incoming time:  1829  Packet tx time:  1917
+Current time:  1917  Packet size:  217  Remaining buffer:  217  Incoming time:  1832  Packet tx time:  1917
+Current time:  1921  Packet size:  3388  Remaining buffer:  1609  Incoming time:  1838  Packet tx time:  1917
+Current time:  1923  Packet size:  3482  Remaining buffer:  1288  Incoming time:  1840  Packet tx time:  1921
+Current time:  1923  Packet size:  505  Remaining buffer:  505  Incoming time:  1842  Packet tx time:  1923
+Current time:  1924  Packet size:  1853  Remaining buffer:  1267  Incoming time:  1848  Packet tx time:  1923
+Current time:  1925  Packet size:  1442  Remaining buffer:  41  Incoming time:  1849  Packet tx time:  1924
+Current time:  1926  Packet size:  2884  Remaining buffer:  546  Incoming time:  1850  Packet tx time:  1925
+Current time:  1930  Packet size:  4735  Remaining buffer:  503  Incoming time:  1852  Packet tx time:  1926
+Current time:  1931  Packet size:  2712  Remaining buffer:  1096  Incoming time:  1854  Packet tx time:  1930
+Current time:  1933  Packet size:  3293  Remaining buffer:  85  Incoming time:  1859  Packet tx time:  1931
+Time:  1924  Grant bytes:  2673
+Time:  1925  Grant bytes:  2385
+Time:  1926  Grant bytes:  1335
+Time:  1927  Grant bytes:  1572
+Time:  1928  Grant bytes:  1335
+Time:  1929  Grant bytes:  2673
+Time:  1930  Grant bytes:  2124
+Time:  1931  Grant bytes:  2481
+Time:  1932  Grant bytes:  1836
+Time:  1933  Grant bytes:  1620
+Time:  1934  Grant bytes:  3062
+Time:  1935  Grant bytes:  1836
+Time:  1936  Grant bytes:  2673
+Time:  1937  Grant bytes:  3062
+Time:  1938  Grant bytes:  2673
+Time:  1939  Grant bytes:  2481
+Time:  1940  Grant bytes:  1431
+Time:  1941  Grant bytes:  2673
+Time:  1942  Grant bytes:  2385
+Time:  1944  Grant bytes:  2673
+Time:  1946  Grant bytes:  2865
+Time:  1947  Grant bytes:  2385
+Time:  1948  Grant bytes:  1692
+Time:  1951  Grant bytes:  2124
+Time:  1952  Grant bytes:  2292
+Current time:  1935  Packet size:  5768  Remaining buffer:  1184  Incoming time:  1861  Packet tx time:  1933
+Current time:  1937  Packet size:  3865  Remaining buffer:  553  Incoming time:  1870  Packet tx time:  1935
+Current time:  1937  Packet size:  2208  Remaining buffer:  2208  Incoming time:  1871  Packet tx time:  1937
+Current time:  1940  Packet size:  6534  Remaining buffer:  1098  Incoming time:  1876  Packet tx time:  1937
+Current time:  1940  Packet size:  27  Remaining buffer:  27  Incoming time: [32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:24.995799', 'fn and subfn': 1990}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:25.006494', 'fn and subfn': 1995}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:25.026498', 'fn and subfn': 2015}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:25.026498', 'fn and subfn': 2020}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:25.046611', 'fn and subfn': 2040}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:25.056627', 'fn and subfn': 2050}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:25.065781', 'fn and subfn': 2055}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:26.199350', 'fn and subfn': 3185}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:26.199350', 'fn and subfn': 3190}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:26.239334', 'fn and subfn': 3230}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:26.249382', 'fn and subfn': 3235}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:26.348939', 'fn and subfn': 3335}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:26.348939', 'fn and subfn': 3340}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:26.388939', 'fn and subfn': 3375}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:26.388939', 'fn and subfn': 3380}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:27.480325', 'fn and subfn': 4465}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:27.480325', 'fn and subfn': 4470}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:27.520556', 'fn and subfn': 4510}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:27.530411', 'fn and subfn': 4515}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:27.560324', 'fn and subfn': 4545}
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-05-24 05:06:27.560324', 'fn and subfn': 4550}
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Decoding_inter: 0.0018775463104248047
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: sending_inter: 0.06627464294433594
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Offline replay is completed.
+ 1877  Packet tx time:  1940
+Current time:  1944  Packet size:  7690  Remaining buffer:  2345  Incoming time:  1883  Packet tx time:  1940
+Current time:  1944  Packet size:  306  Remaining buffer:  306  Incoming time:  1884  Packet tx time:  1944
+Current time:  1947  Packet size:  3142  Remaining buffer:  269  Incoming time:  1888  Packet tx time:  1944
+Current time:  1951  Packet size:  4634  Remaining buffer:  841  Incoming time:  1889  Packet tx time:  1947
+Current time:  1952  Packet size:  1856  Remaining buffer:  582  Incoming time:  1890  Packet tx time:  1951
+Current time:  1956  Packet size:  4925  Remaining buffer:  847  Incoming time:  1894  Packet tx time:  1952
+Current time:  1960  Packet size:  3650  Remaining buffer:  991  Incoming time:  1895  Packet tx time:  1956
+Current time:  1964  Packet size:  4154  Remaining buffer:  1003  Incoming time:  1896  Packet tx time:  1960
+Current time:  1967  Packet size:  2714  Remaining buffer:  1343  Incoming time:  1897  Packet tx time:  1964
+Current time:  1967  Packet size:  766  Remaining buffer:  766  Incoming time:  1898  Packet tx time:  1967
+Current time:  1968  Packet size:  598  Remaining buffer:  332  Incoming time:  1903  Packet tx time:  1967
+Current time:  1968  Packet size:  218  Remaining buffer:  218  Incoming time:  1904  Packet tx time:  1968
+Current time:  1970  Packet size:  4156  Remaining buffer:  984  Incoming time:  1909  Packet tx time:  1968
+Current time:  1971  Packet size:  505  Remaining buffer:  63  Incoming time:  1913  Packet tx time:  1970
+Current time:  1971  Packet size:  27  Remaining buffer:  27  Incoming time:  1914  Packet tx time:  1971
+Current time:  1971  Packet size:  216  Remaining buffer:  216  Incoming time:  1915  Packet tx time:  1971
+Current time:  1971  Packet size:  504  Remaining buffer:  504  Incoming time:  1918  Packet tx time:  1971
+Current time:  1973  Packet size:  4326  Remaining buffer:  92  Incoming time:  1920  Packet tx time:  1971
+Time:  1953  Grant bytes:  1191
+Time:  1954  Grant bytes:  1191
+Time:  1956  Grant bytes:  1143
+Time:  1957  Grant bytes:  1191
+Time:  1959  Grant bytes:  1191
+Time:  1960  Grant bytes:  1031
+Time:  1961  Grant bytes:  749
+Time:  1962  Grant bytes:  1191
+Time:  1963  Grant bytes:  1191
+Time:  1964  Grant bytes:  1191
+Time:  1965  Grant bytes:  1191
+Time:  1967  Grant bytes:  2385
+Time:  1968  Grant bytes:  1063
+Time:  1969  Grant bytes:  2673
+Time:  1970  Grant bytes:  1431
+Time:  1971  Grant bytes:  2673
+Time:  1972  Grant bytes:  2385
+Time:  1973  Grant bytes:  2385
+Time:  1974  Grant bytes:  1191
+Time:  1975  Grant bytes:  1527
+Time:  1976  Grant bytes:  2385
+Time:  1977  Grant bytes:  2673
+Time:  1978  Grant bytes:  1836
+Time:  1980  Grant bytes:  2124
+Time:  1981  Grant bytes:  2673
+SR time1:  1990
+SR time1:  1995
+Current time:  1978  Packet size:  11652  Remaining buffer:  1613  Incoming time:  1928  Packet tx time:  1973
+Current time:  1997  Packet size:  2  Remaining buffer:  2  Incoming time:  1988  Packet tx time:  1997
+SR time1:  2015
+SR time1:  2020
+SR time1:  2040
+SR time2:  2050
+Current time:  2022  Packet size:  2  Remaining buffer:  2  Incoming time:  2013  Packet tx time:  2022
+Current time:  2036  Packet size:  2667  Remaining buffer:  2667  Incoming time:  2032  Packet tx time:  2036
+SR time1:  2055
+Time:  1982  Grant bytes:  2385
+Time:  1983  Grant bytes:  1692
+Time:  1984  Grant bytes:  2385
+Time:  1985  Grant bytes:  2673
+Time:  1986  Grant bytes:  3062
+Time:  1987  Grant bytes:  1980
+Time:  1997  Grant bytes:  105
+Time:  2002  Grant bytes:  105
+Time:  2022  Grant bytes:  105
+Time:  2027  Grant bytes:  105
+Time:  2043  Grant bytes:  105
+Time:  2047  Grant bytes:  133
+Time:  2057  Grant bytes:  121
+Time:  2062  Grant bytes:  121
+Time:  2063  Grant bytes:  87
+Time:  2068  Grant bytes:  97
+Current time:  2057  Packet size:  2  Remaining buffer:  2  Incoming time:  2051  Packet tx time:  2057
+Time:  3192  Grant bytes:  113
+SR time1:  3185
+SR time1:  3190
+Current time:  3192  Packet size:  2  Remaining buffer:  2  Incoming time:  3185  Packet tx time:  3192
+SR time1:  3230
+SR time1:  3235
+Current time:  3237  Packet size:  54  Remaining buffer:  54  Incoming time:  3228  Packet tx time:  3237
+Time:  3197  Grant bytes:  113
+Time:  3237  Grant bytes:  105
+Time:  3243  Grant bytes:  105
+SR time1:  3335
+SR time1:  3340
+Current time:  3342  Packet size:  2  Remaining buffer:  2  Incoming time:  3334  Packet tx time:  3342
+SR time1:  3375
+SR time1:  3380
+Time:  3342  Grant bytes:  93
+Time:  3347  Grant bytes:  93
+Time:  3382  Grant bytes:  113
+Time:  3387  Grant bytes:  113
+Current time:  3382  Packet size:  54  Remaining buffer:  54  Incoming time:  3376  Packet tx time:  3382
+Time:  3512  Grant bytes:  233
+Time:  3557  Grant bytes:  97
+SR time1:  4465
+SR time1:  4470
+Current time:  4472  Packet size:  2  Remaining buffer:  2  Incoming time:  4465  Packet tx time:  4472
+Time:  4472  Grant bytes:  105
+Time:  4477  Grant bytes:  105
+SR time1:  4510
+SR time1:  4515
+Current time:  4517  Packet size:  54  Remaining buffer:  54  Incoming time:  4509  Packet tx time:  4517
+SR time2:  4545
+SR time1:  4550
+Current time:  4552  Packet size:  2  Remaining buffer:  2  Incoming time:  4546  Packet tx time:  4552
+Current time:  4552  Packet size:  66  Remaining buffer:  66  Incoming time:  4549  Packet tx time:  4552
+Time:  4517  Grant bytes:  105
+Time:  4522  Grant bytes:  105
+Time:  4552  Grant bytes:  105
+Time:  4557  Grant bytes:  105
+SR subframe number:  None
+SR RB slots:  None None
+Ul BW:  0.0
+Ul BW utilized:  0.0
+RSSI list:  []
+Certain message type(s) missing in the provided log.
+Traceback (most recent call last):
+  File "offline-phy-analysis.py", line 88, in <module>
+    fb.calc_latency()
+AttributeError: 'SchedulingLatencyAnalyzer' object has no attribute 'calc_latency'

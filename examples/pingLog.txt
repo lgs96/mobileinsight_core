@@ -1,0 +1,2096 @@
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Connected_Mode_Intra_Freq_Meas
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Serv_Cell_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Connected_Mode_Neighbor_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Inter_RAT_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Inter_RAT_CDMA_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUSCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Buffer_Status_Internal
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUCCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Tx_Statistics
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_Rach_Trigger
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_Rach_Attempt
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: STARTED: 1633612493.6481404
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading 1007-udp/1MB_withPing.mi2log
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading: 1633612493.6482742
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:10.576915 PUSCH UL grant: received=400 bytes used=51 bytes utilization=12.75% total utilized51
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:10.676920 PUSCH UL grant: received=194 bytes used=12 bytes utilization=6.19% total utilized63
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:10.776911 PUSCH UL grant: received=388 bytes used=55 bytes utilization=14.18% total utilized118
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:10.876913 PUSCH UL grant: received=388 bytes used=55 bytes utilization=14.18% total utilized173
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:10.914629', 'fn and subfn': 3633}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:10.924643', 'fn and subfn': 3638}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:10.944642', 'fn and subfn': 3658}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:10.944642', 'fn and subfn': 3663}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:10.976915 PUSCH UL grant: received=388 bytes used=55 bytes utilization=14.18% total utilized228
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.004615', 'fn and subfn': 3723}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.014635', 'fn and subfn': 3728}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.034638', 'fn and subfn': 3748}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.034638', 'fn and subfn': 3753}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:11.076915 PUSCH UL grant: received=388 bytes used=55 bytes utilization=14.18% total utilized283
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.104648', 'fn and subfn': 3818}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.104648', 'fn and subfn': 3823}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.124614', 'fn and subfn': 3843}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.134638', 'fn and subfn': 3848}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:11.176917 PUSCH UL grant: received=412 bytes used=55 bytes utilization=13.35% total utilized338
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.234637', 'fn and subfn': 3948}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.234637', 'fn and subfn': 3953}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.254613', 'fn and subfn': 3973}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.264643', 'fn and subfn': 3978}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:11.276911 PUSCH UL grant: received=436 bytes used=55 bytes utilization=12.61% total utilized393
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.314612', 'fn and subfn': 4033}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.324643', 'fn and subfn': 4038}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.344639', 'fn and subfn': 4058}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.344639', 'fn and subfn': 4063}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:11.376915 PUSCH UL grant: received=436 bytes used=55 bytes utilization=12.61% total utilized448
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.424670', 'fn and subfn': 4143}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.434648', 'fn and subfn': 4148}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.464642', 'fn and subfn': 4178}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:11.476913 PUSCH UL grant: received=436 bytes used=55 bytes utilization=12.61% total utilized503
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.564646', 'fn and subfn': 4278}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.564646', 'fn and subfn': 4283}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:11.576919 PUSCH UL grant: received=218 bytes used=43 bytes utilization=19.72% total utilized546
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.594634', 'fn and subfn': 4308}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.594634', 'fn and subfn': 4313}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.674635', 'fn and subfn': 4388}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.674635', 'fn and subfn': 4393}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:11.676915 PUSCH UL grant: received=436 bytes used=55 bytes utilization=12.61% total utilized601
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.694619', 'fn and subfn': 4413}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.704645', 'fn and subfn': 4418}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.764657', 'fn and subfn': 4483}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.774642', 'fn and subfn': 4488}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:11.776913 PUSCH UL grant: received=388 bytes used=55 bytes utilization=14.18% total utilized656
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.794635', 'fn and subfn': 4508}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.794635', 'fn and subfn': 4513}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.864647', 'fn and subfn': 4578}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.864647', 'fn and subfn': 4583}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:11.876879 PUSCH UL grant: received=412 bytes used=55 bytes utilization=13.35% total utilized711
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.884627', 'fn and subfn': 4603}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.894636', 'fn and subfn': 4608}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.964642', 'fn and subfn': 4678}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.964642', 'fn and subfn': 4683}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:11.976919 PUSCH UL grant: received=412 bytes used=55 bytes utilization=13.35% total utilized766
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.984672', 'fn and subfn': 4703}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:11.994639', 'fn and subfn': 4708}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:12.076918 PUSCH UL grant: received=327 bytes used=18 bytes utilization=5.5% total utilized784
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.084644', 'fn and subfn': 4798}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.084644', 'fn and subfn': 4803}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.104625', 'fn and subfn': 4823}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.114035', 'fn and subfn': 4828}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.174607', 'fn and subfn': 4893}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:12.176932 PUSCH UL grant: received=549 bytes used=94 bytes utilization=17.12% total utilized878
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.184642', 'fn and subfn': 4898}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.204636', 'fn and subfn': 4918}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.204636', 'fn and subfn': 4923}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:12.276913 PUSCH UL grant: received=299 bytes used=16 bytes utilization=5.35% total utilized894
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.304657', 'fn and subfn': 5023}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.314649', 'fn and subfn': 5028}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.344639', 'fn and subfn': 5058}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.344639', 'fn and subfn': 5063}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:12.376918 PUSCH UL grant: received=372 bytes used=55 bytes utilization=14.78% total utilized949
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.444647', 'fn and subfn': 5158}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.444647', 'fn and subfn': 5163}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.474640', 'fn and subfn': 5193}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:12.476935 PUSCH UL grant: received=331 bytes used=51 bytes utilization=15.41% total utilized1000
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.484641', 'fn and subfn': 5198}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.574618', 'fn and subfn': 5293}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:12.576930 PUSCH UL grant: received=210 bytes used=43 bytes utilization=20.48% total utilized1043
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.584666', 'fn and subfn': 5298}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.614634', 'fn and subfn': 5328}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.614634', 'fn and subfn': 5333}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:12.676912 PUSCH UL grant: received=299 bytes used=16 bytes utilization=5.35% total utilized1059
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.714635', 'fn and subfn': 5428}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.714635', 'fn and subfn': 5433}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.734675', 'fn and subfn': 5453}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.744635', 'fn and subfn': 5458}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:12.776919 PUSCH UL grant: received=396 bytes used=55 bytes utilization=13.89% total utilized1114
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.834605', 'fn and subfn': 5553}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.844641', 'fn and subfn': 5558}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.874630', 'fn and subfn': 5588}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.874630', 'fn and subfn': 5593}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:12.876913 PUSCH UL grant: received=380 bytes used=55 bytes utilization=14.47% total utilized1169
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.974635', 'fn and subfn': 5688}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.974635', 'fn and subfn': 5693}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:12.976912 PUSCH UL grant: received=194 bytes used=43 bytes utilization=22.16% total utilized1212
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:12.995058', 'fn and subfn': 5713}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.004637', 'fn and subfn': 5718}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:13.076914 PUSCH UL grant: received=194 bytes used=12 bytes utilization=6.19% total utilized1224
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.084637', 'fn and subfn': 5798}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.084637', 'fn and subfn': 5803}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.104608', 'fn and subfn': 5823}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.114628', 'fn and subfn': 5828}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:13.176911 PUSCH UL grant: received=412 bytes used=55 bytes utilization=13.35% total utilized1279
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.204605', 'fn and subfn': 5923}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.214629', 'fn and subfn': 5928}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.234626', 'fn and subfn': 5948}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.234626', 'fn and subfn': 5953}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:13.276915 PUSCH UL grant: received=436 bytes used=55 bytes utilization=12.61% total utilized1334
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.334606', 'fn and subfn': 6053}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.344650', 'fn and subfn': 6058}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.364605', 'fn and subfn': 6083}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.374635', 'fn and subfn': 6088}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:13.376916 PUSCH UL grant: received=412 bytes used=55 bytes utilization=13.35% total utilized1389
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.434635', 'fn and subfn': 6148}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.434635', 'fn and subfn': 6153}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.464635', 'fn and subfn': 6178}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.464635', 'fn and subfn': 6183}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:13.476915 PUSCH UL grant: received=436 bytes used=55 bytes utilization=12.61% total utilized1444
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.524608', 'fn and subfn': 6243}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.534635', 'fn and subfn': 6248}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.554628', 'fn and subfn': 6268}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.554628', 'fn and subfn': 6273}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:13.576914 PUSCH UL grant: received=436 bytes used=55 bytes utilization=12.61% total utilized1499
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.634601', 'fn and subfn': 6353}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.644035', 'fn and subfn': 6358}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.674626', 'fn and subfn': 6388}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:13.676916 PUSCH UL grant: received=436 bytes used=55 bytes utilization=12.61% total utilized1554
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.744602', 'fn and subfn': 6463}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.754631', 'fn and subfn': 6468}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:13.776930 PUSCH UL grant: received=315 bytes used=51 bytes utilization=16.19% total utilized1605
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.784634', 'fn and subfn': 6498}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.834627', 'fn and subfn': 6548}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:13.834627', 'fn and subfn': 6553}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:13.876913 PUSCH UL grant: received=66267 bytes used=66174 bytes utilization=99.86% total utilized67779
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:13.976821 PUSCH UL grant: received=236781 bytes used=236781 bytes utilization=100.0% total utilized304560
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:14.076916 PUSCH UL grant: received=339986 bytes used=339986 bytes utilization=100.0% total utilized644546
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:14.176928 PUSCH UL grant: received=317378 bytes used=317378 bytes utilization=100.0% total utilized961924
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.254632', 'fn and subfn': 6968}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.254632', 'fn and subfn': 6973}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.274623', 'fn and subfn': 6988}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.274623', 'fn and subfn': 6993}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:14.276936 PUSCH UL grant: received=125742 bytes used=102690 bytes utilization=81.67% total utilized1064614
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.314602', 'fn and subfn': 7033}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.324666', 'fn and subfn': 7038}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.344627', 'fn and subfn': 7058}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.344627', 'fn and subfn': 7063}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:14.376920 PUSCH UL grant: received=3964 bytes used=1534 bytes utilization=38.7% total utilized1066148
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.444607', 'fn and subfn': 7163}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.454635', 'fn and subfn': 7168}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.474634', 'fn and subfn': 7188}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.474634', 'fn and subfn': 7193}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:14.476938 PUSCH UL grant: received=436 bytes used=55 bytes utilization=12.61% total utilized1066203
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.564640', 'fn and subfn': 7283}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.574631', 'fn and subfn': 7288}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:14.576916 PUSCH UL grant: received=371 bytes used=49 bytes utilization=13.21% total utilized1066252
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.594626', 'fn and subfn': 7308}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.594626', 'fn and subfn': 7313}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:14.676913 PUSCH UL grant: received=238 bytes used=12 bytes utilization=5.04% total utilized1066264
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.694597', 'fn and subfn': 7413}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.704630', 'fn and subfn': 7418}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.724539', 'fn and subfn': 7438}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.724539', 'fn and subfn': 7443}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:14.776916 PUSCH UL grant: received=436 bytes used=55 bytes utilization=12.61% total utilized1066319
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.814602', 'fn and subfn': 7533}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.824637', 'fn and subfn': 7538}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.844626', 'fn and subfn': 7558}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.844626', 'fn and subfn': 7563}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:14.876912 PUSCH UL grant: received=420 bytes used=55 bytes utilization=13.1% total utilized1066374
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.914623', 'fn and subfn': 7628}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.914623', 'fn and subfn': 7633}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.934671', 'fn and subfn': 7653}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:14.944631', 'fn and subfn': 7658}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:14.976914 PUSCH UL grant: received=396 bytes used=55 bytes utilization=13.89% total utilized1066429
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.004602', 'fn and subfn': 7723}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.014627', 'fn and subfn': 7728}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.035011', 'fn and subfn': 7753}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.044632', 'fn and subfn': 7758}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:15.076917 PUSCH UL grant: received=420 bytes used=55 bytes utilization=13.1% total utilized1066484
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.134604', 'fn and subfn': 7853}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.144636', 'fn and subfn': 7858}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.164629', 'fn and subfn': 7878}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.164629', 'fn and subfn': 7883}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:15.176912 PUSCH UL grant: received=412 bytes used=55 bytes utilization=13.35% total utilized1066539
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.254620', 'fn and subfn': 7968}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.254620', 'fn and subfn': 7973}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:15.276915 PUSCH UL grant: received=352 bytes used=212 bytes utilization=60.23% total utilized1066751
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.284599', 'fn and subfn': 8003}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.294621', 'fn and subfn': 8008}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.354624', 'fn and subfn': 8068}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.354624', 'fn and subfn': 8073}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:15.376916 PUSCH UL grant: received=444 bytes used=55 bytes utilization=12.39% total utilized1066806
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.384625', 'fn and subfn': 8098}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.384625', 'fn and subfn': 8103}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:15.476915 PUSCH UL grant: received=202 bytes used=12 bytes utilization=5.94% total utilized1066818
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.484642', 'fn and subfn': 8198}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.484642', 'fn and subfn': 8203}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.504599', 'fn and subfn': 8223}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.514618', 'fn and subfn': 8228}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.524596', 'fn and subfn': 8243}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.534622', 'fn and subfn': 8248}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.574601', 'fn and subfn': 8293}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:15.576927 PUSCH UL grant: received=846 bytes used=272 bytes utilization=32.15% total utilized1067090
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.584622', 'fn and subfn': 8298}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.604620', 'fn and subfn': 8318}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.604620', 'fn and subfn': 8323}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:15.676922 PUSCH UL grant: received=291 bytes used=16 bytes utilization=5.5% total utilized1067106
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.704624', 'fn and subfn': 8418}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.704624', 'fn and subfn': 8423}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.734618', 'fn and subfn': 8448}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.734618', 'fn and subfn': 8453}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:15.776917 PUSCH UL grant: received=412 bytes used=55 bytes utilization=13.35% total utilized1067161
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.794596', 'fn and subfn': 8513}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.804624', 'fn and subfn': 8518}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.834618', 'fn and subfn': 8548}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.834618', 'fn and subfn': 8553}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.863958', 'fn and subfn': 8578}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.863958', 'fn and subfn': 8583}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:15.876912 PUSCH UL grant: received=4501 bytes used=237 bytes utilization=5.27% total utilized1067398
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.964652', 'fn and subfn': 8678}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.964652', 'fn and subfn': 8683}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:15.976869 PUSCH UL grant: received=194 bytes used=43 bytes utilization=22.16% total utilized1067441
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:15.985004', 'fn and subfn': 8703}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:16.076915 PUSCH UL grant: received=194 bytes used=12 bytes utilization=6.19% total utilized1067453
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.084613', 'fn and subfn': 8803}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.094615', 'fn and subfn': 8808}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.114628', 'fn and subfn': 8828}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.114628', 'fn and subfn': 8833}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:16.176912 PUSCH UL grant: received=388 bytes used=55 bytes utilization=14.18% total utilized1067508
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.214620', 'fn and subfn': 8928}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.214620', 'fn and subfn': 8933}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.234594', 'fn and subfn': 8953}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.244621', 'fn and subfn': 8958}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:16.276918 PUSCH UL grant: received=396 bytes used=55 bytes utilization=13.89% total utilized1067563
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.304626', 'fn and subfn': 9018}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.304626', 'fn and subfn': 9023}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.324606', 'fn and subfn': 9043}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.334622', 'fn and subfn': 9048}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.344623', 'fn and subfn': 9058}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.344623', 'fn and subfn': 9063}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:16.376917 PUSCH UL grant: received=655 bytes used=233 bytes utilization=35.57% total utilized1067796
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.414615', 'fn and subfn': 9133}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.424630', 'fn and subfn': 9138}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.444618', 'fn and subfn': 9158}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.444618', 'fn and subfn': 9163}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:16.476913 PUSCH UL grant: received=388 bytes used=55 bytes utilization=14.18% total utilized1067851
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.514636', 'fn and subfn': 9233}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.524634', 'fn and subfn': 9238}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.544621', 'fn and subfn': 9258}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.544621', 'fn and subfn': 9263}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:16.576916 PUSCH UL grant: received=396 bytes used=55 bytes utilization=13.89% total utilized1067906
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.624595', 'fn and subfn': 9343}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.634622', 'fn and subfn': 9348}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.654590', 'fn and subfn': 9373}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.664624', 'fn and subfn': 9378}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:16.676920 PUSCH UL grant: received=505 bytes used=61 bytes utilization=12.08% total utilized1067967
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.754594', 'fn and subfn': 9473}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.764631', 'fn and subfn': 9478}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:16.776854 PUSCH UL grant: received=194 bytes used=43 bytes utilization=22.16% total utilized1068010
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.784621', 'fn and subfn': 9498}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.784621', 'fn and subfn': 9503}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:16.876920 PUSCH UL grant: received=194 bytes used=12 bytes utilization=6.19% total utilized1068022
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.884663', 'fn and subfn': 9603}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.894636', 'fn and subfn': 9608}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.915056', 'fn and subfn': 9633}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:16.924632', 'fn and subfn': 9638}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:16.976911 PUSCH UL grant: received=388 bytes used=55 bytes utilization=14.18% total utilized1068077
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.004591', 'fn and subfn': 9723}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.014615', 'fn and subfn': 9728}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.034615', 'fn and subfn': 9748}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.034615', 'fn and subfn': 9753}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:17.076912 PUSCH UL grant: received=388 bytes used=55 bytes utilization=14.18% total utilized1068132
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.094589', 'fn and subfn': 9813}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.104619', 'fn and subfn': 9818}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.124590', 'fn and subfn': 9843}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.134615', 'fn and subfn': 9848}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:17.176915 PUSCH UL grant: received=396 bytes used=55 bytes utilization=13.89% total utilized1068187
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.224613', 'fn and subfn': 9938}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.224613', 'fn and subfn': 9943}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.244591', 'fn and subfn': 9963}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.254616', 'fn and subfn': 9968}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:17.276910 PUSCH UL grant: received=388 bytes used=55 bytes utilization=14.18% total utilized1068242
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.354615', 'fn and subfn': 10068}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.354615', 'fn and subfn': 10073}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.374589', 'fn and subfn': 10093}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:17.376927 PUSCH UL grant: received=291 bytes used=51 bytes utilization=17.53% total utilized1068293
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.384616', 'fn and subfn': 10098}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.434609', 'fn and subfn': 10148}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.434609', 'fn and subfn': 10153}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.454611', 'fn and subfn': 10168}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:17.476925 PUSCH UL grant: received=679 bytes used=233 bytes utilization=34.32% total utilized1068526
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.484615', 'fn and subfn': 10198}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:17.576918 PUSCH UL grant: received=97 bytes used=4 bytes utilization=4.12% total utilized1068530
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.584608', 'fn and subfn': 58}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.584608', 'fn and subfn': 63}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.604587', 'fn and subfn': 83}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.614614', 'fn and subfn': 88}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.674588', 'fn and subfn': 153}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: 2021-10-07 13:13:17.676914 PUSCH UL grant: received=485 bytes used=94 bytes utilization=19.38% total utilized1068624
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.684615', 'fn and subfn': 158}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.704611', 'fn and subfn': 178}
+[32m[1m[INFO][0m[0m[1m [ObjectLatencyAnalyzer][0m: SR_EVENT: {'timestamp': '2021-10-07 13:13:17.704611', 'fn and subfn': 183}
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Decoding_inter: 0.006345510482788086
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: sending_inter: 0.16909193992614746
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Offline replay is completed.
+Init RRC Analyzer
+sec 0 10239
+Total data Tx (RLC analyzer):  0
+Total ctrl Tx (RLC analyzer):  0
+0 3312  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3313  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3314  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3315  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3316  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3317  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3318  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3319  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3320  Granted size:  0.0  Txed size:  2.0  Buffer size:  0.0  RB:  0.0 State:  -1
+0 3409  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3410  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3411  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3412  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3413  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3414  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3415  Granted size:  0.0  Txed size:  31.0  Buffer size:  0.0  RB:  0.0 State:  -1
+0 3436  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3437  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3438  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3439  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3440  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3441  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3442  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3443  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3444  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3445  Granted size:  0.0  Txed size:  2.0  Buffer size:  0.0  RB:  0.0 State:  -1
+0 3537  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3538  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3539  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3540  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3541  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3542  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3543  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3544  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3545  Granted size:  0.0  Txed size:  31.0  Buffer size:  0.0  RB:  0.0 State:  -1
+0 3566  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3567  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3568  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3569  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3570  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3571  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3572  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3573  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3574  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3575  Granted size:  0.0  Txed size:  2.0  Buffer size:  0.0  RB:  0.0 State:  -1
+0 3580  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3631  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3632  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3633 SR
+0 3633  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3634  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3635  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3636  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3637  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3638 SR
+0 3638  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3639  Granted size:  0.0  Txed size:  31.0  Buffer size:  0.0  RB:  0.0 State:  -1
+0 3640  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3645  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3658 SR
+0 3660  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3661  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3662  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 3663 SR
+0 3663  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3664  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3665  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3670  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3723 SR
+0 3725  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3726  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3727  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3728 SR
+0 3728  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3729  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3730  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3735  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3748 SR
+0 3749  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3750  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3751  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3752  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 3753 SR
+0 3753  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3754  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3755  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3760  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3818 SR
+0 3818  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3819  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3820  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3821  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3822  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3823 SR
+0 3823  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3825  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3830  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3843 SR
+0 3845  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3846  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3847  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 3848 SR
+0 3848  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3849  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3850  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3855  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3947  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3948 SR
+0 3948  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3949  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3950  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3951  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3952  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3953 SR
+0 3953  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3954  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 3955  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3960  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3973 SR
+0 3973  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3974  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3975  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3976  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3977  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3978 SR
+0 3978  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3979  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 3980  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 3985  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4033 SR
+0 4034  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4035  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4036  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4037  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4038 SR
+0 4038  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4039  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4040  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4045  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4058 SR
+0 4059  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4060  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4061  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 4062  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4063 SR
+0 4063  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4064  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4065  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4070  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4142  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4143 SR
+0 4143  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4144  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4145  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4146  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4147  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4148 SR
+0 4148  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4149  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4150  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4155  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4175  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 4176  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4177  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4178 SR
+0 4178  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4179  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4180  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4185  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4277  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4278 SR
+0 4278  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4279  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4280  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4281  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4282  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4283 SR
+0 4283  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4285  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4290  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4308 SR
+0 4308  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4309  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4310  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 4311  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4312  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4313 SR
+0 4313  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4314  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4315  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4320  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4387  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4388 SR
+0 4388  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4389  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4390  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4391  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4392  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4393 SR
+0 4393  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4395  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4400  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4413 SR
+0 4415  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4416  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4417  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 4418 SR
+0 4418  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4419  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4420  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 4425  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 4481  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4482  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4483 SR
+0 4483  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4484  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4485  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4486  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4487  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4488 SR
+0 4488  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4490  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 4495  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 4507  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 4508 SR
+0 4508  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4509  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4510  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4511  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4512  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4513 SR
+0 4513  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4514  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4515  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 4520  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 4528  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 4578 SR
+0 4580  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4581  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4582  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4583 SR
+0 4583  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4584  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4585  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4590  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4598  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4603 SR
+0 4603  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4604  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4605  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4606  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4607  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4608 SR
+0 4608  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4609  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4610  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4615  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4678 SR
+0 4678  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4679  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4680  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4681  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4682  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4683 SR
+0 4683  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4684  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4685  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4690  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4703 SR
+0 4705  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4706  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4707  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 4708 SR
+0 4708  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4709  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4710  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4715  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4725  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4797  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4798 SR
+0 4798  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4799  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4800  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4801  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4802  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4803 SR
+0 4803  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4805  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4810  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4822  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 4823 SR
+0 4823  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4824  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4825  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4826  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4827  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4828 SR
+0 4828  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4829  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4830  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4835  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 4893 SR
+0 4893  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4894  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4895  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4896  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4897  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4898 SR
+0 4898  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4899  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 4900  Granted size:  113.0  Txed size:  31.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 4905  Granted size:  113.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 4918 SR
+0 4919  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4920  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4921  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 4922  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4923 SR
+0 4923  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4924  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 4925  Granted size:  93.0  Txed size:  2.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 4930  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5023 SR
+0 5024  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5025  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5026  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5027  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5028 SR
+0 5028  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5029  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5030  Granted size:  93.0  Txed size:  31.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5035  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5038  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5056  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5057  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5058 SR
+0 5058  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5059  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5060  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5061  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5062  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5063 SR
+0 5063  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5064  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5065  Granted size:  93.0  Txed size:  2.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5070  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5157  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5158 SR
+0 5158  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5159  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5160  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5161  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5162  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5163 SR
+0 5163  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5164  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5165  Granted size:  113.0  Txed size:  31.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5170  Granted size:  113.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5173  Granted size:  113.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5178  Granted size:  113.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5193 SR
+0 5193  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5194  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5195  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 5196  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5197  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5198 SR
+0 5198  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5199  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5200  Granted size:  105.0  Txed size:  2.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5205  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5293 SR
+0 5296  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5297  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5298 SR
+0 5298  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5299  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5300  Granted size:  105.0  Txed size:  31.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5305  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5308  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5313  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5328 SR
+0 5328  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5329  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5330  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 5331  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5332  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5333 SR
+0 5333  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5334  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5335  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 5340  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 5428 SR
+0 5429  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5430  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5431  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5432  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5433 SR
+0 5433  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5435  Granted size:  93.0  Txed size:  31.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5440  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5453 SR
+0 5454  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5455  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5456  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 5457  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5458 SR
+0 5458  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5459  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5460  Granted size:  105.0  Txed size:  2.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5465  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5553 SR
+0 5554  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5555  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5556  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5557  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5558 SR
+0 5558  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5559  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5560  Granted size:  93.0  Txed size:  31.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5565  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5568  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5573  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  -1
+0 5587  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5588 SR
+0 5588  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5589  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 5590  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5591  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5592  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5593 SR
+0 5593  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5594  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5595  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 5600  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 5603  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 5608  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 5687  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5688 SR
+0 5688  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5689  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5690  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5691  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5692  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5693 SR
+0 5693  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5694  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5695  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5700  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5713 SR
+0 5714  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5715  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5716  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 5717  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5718 SR
+0 5718  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5719  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5720  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5725  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5797  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5798 SR
+0 5798  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5799  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5800  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5801  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5802  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5803 SR
+0 5803  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5804  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5805  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5810  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5823 SR
+0 5823  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5824  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5825  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5826  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5827  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5828 SR
+0 5828  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5829  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5830  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5835  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5923 SR
+0 5925  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5926  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5927  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5928 SR
+0 5928  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5929  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 5930  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5935  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5948 SR
+0 5949  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5950  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5951  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5952  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 5953 SR
+0 5953  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5954  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 5955  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 5960  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6052  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6053 SR
+0 6053  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6054  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6055  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6056  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6057  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6058 SR
+0 6058  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6059  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6060  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 6065  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 6082  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6083 SR
+0 6083  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6084  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 6085  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6086  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6087  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6088 SR
+0 6088  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6089  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6090  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6095  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6148 SR
+0 6150  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6151  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6152  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6153 SR
+0 6153  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6154  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6155  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6160  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6177  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6178 SR
+0 6178  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6179  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 6180  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6181  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6182  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6183 SR
+0 6183  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6184  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6185  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6190  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6243 SR
+0 6243  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6244  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6245  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6246  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6247  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6248 SR
+0 6248  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6249  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6250  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6255  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6268 SR
+0 6269  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6270  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6271  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6272  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 6273 SR
+0 6273  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6274  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6275  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6280  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6353 SR
+0 6355  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6356  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6357  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6358 SR
+0 6358  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6359  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6360  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6365  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6385  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6386  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6387  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 6388 SR
+0 6388  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6389  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6390  Granted size:  109.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6395  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6463 SR
+0 6465  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6466  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6467  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6468 SR
+0 6468  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6469  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  -1
+0 6470  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6475  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  -1
+0 6495  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6496  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6497  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  -1
+0 6498 SR
+0 6498  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6499  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  -1
+0 6500  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 6505  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  -1
+0 6547  Granted size:  0.0  Txed size:  0.0  Buffer size:  54.0  RB:  0.0 State:  -1
+0 6548 SR
+0 6548  Granted size:  0.0  Txed size:  0.0  Buffer size:  54.0  RB:  0.0 State:  -1
+0 6549  Granted size:  0.0  Txed size:  0.0  Buffer size:  54.0  RB:  0.0 State:  -1
+0 6550  Granted size:  0.0  Txed size:  0.0  Buffer size:  108.0  RB:  0.0 State:  -1
+UDP start
+0 6551  Granted size:  0.0  Txed size:  0.0  Buffer size:  19080.0  RB:  0.0 State:  1
+0 6552  Granted size:  0.0  Txed size:  0.0  Buffer size:  40160.0  RB:  0.0 State:  1
+0 6553 SR
+0 6553  Granted size:  0.0  Txed size:  0.0  Buffer size:  51754.0  RB:  0.0 State:  1
+0 6554  Granted size:  0.0  Txed size:  0.0  Buffer size:  59132.0  RB:  0.0 State:  1
+0 6555  Granted size:  97.0  Txed size:  97.0  Buffer size:  68530.0  RB:  4.0 State:  1
+0 6556  Granted size:  0.0  Txed size:  0.0  Buffer size:  81178.0  RB:  0.0 State:  1
+0 6557  Granted size:  0.0  Txed size:  0.0  Buffer size:  88556.0  RB:  0.0 State:  1
+0 6558  Granted size:  0.0  Txed size:  0.0  Buffer size:  99096.0  RB:  0.0 State:  1
+0 6559  Granted size:  0.0  Txed size:  0.0  Buffer size:  110690.0  RB:  0.0 State:  1
+0 6560  Granted size:  97.0  Txed size:  97.0  Buffer size:  117978.0  RB:  4.0 State:  1
+0 6561  Granted size:  0.0  Txed size:  0.0  Buffer size:  127464.0  RB:  0.0 State:  1
+0 6562  Granted size:  0.0  Txed size:  0.0  Buffer size:  147490.0  RB:  0.0 State:  1
+0 6563  Granted size:  0.0  Txed size:  0.0  Buffer size:  155922.0  RB:  0.0 State:  1
+0 6564  Granted size:  0.0  Txed size:  0.0  Buffer size:  169624.0  RB:  0.0 State:  1
+0 6565  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  174888.0  RB:  44.0 State:  2
+0 6566  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  182256.0  RB:  44.0 State:  2
+0 6567  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  192786.0  RB:  44.0 State:  2
+0 6568  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  198046.0  RB:  44.0 State:  2
+0 6569  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  204360.0  RB:  44.0 State:  2
+0 6570  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  215946.0  RB:  44.0 State:  2
+0 6571  Granted size:  1692.0  Txed size:  1692.0  Buffer size:  221637.0  RB:  44.0 State:  2
+0 6572  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  226897.0  RB:  44.0 State:  2
+0 6573  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  239535.0  RB:  44.0 State:  2
+0 6574  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  244795.0  RB:  44.0 State:  2
+0 6575  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  251113.0  RB:  44.0 State:  2
+0 6576  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  264815.0  RB:  44.0 State:  2
+0 6577  Granted size:  1692.0  Txed size:  1692.0  Buffer size:  270507.0  RB:  40.0 State:  2
+0 6578  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  275767.0  RB:  44.0 State:  2
+0 6579  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  288405.0  RB:  44.0 State:  2
+0 6580  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  293667.0  RB:  44.0 State:  2
+0 6581  Granted size:  0.0  Txed size:  0.0  Buffer size:  301045.0  RB:  0.0 State:  0
+0 6582  Granted size:  1692.0  Txed size:  1692.0  Buffer size:  314114.0  RB:  40.0 State:  2
+0 6583  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  311996.0  RB:  44.0 State:  2
+0 6584  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  309878.0  RB:  44.0 State:  2
+0 6585  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  314090.0  RB:  44.0 State:  2
+0 6586  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  311972.0  RB:  44.0 State:  2
+0 6587  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  309854.0  RB:  44.0 State:  2
+0 6588  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  307736.0  RB:  44.0 State:  2
+0 6589  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  307736.0  RB:  44.0 State:  2
+0 6590  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  305620.0  RB:  44.0 State:  2
+0 6591  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  303933.0  RB:  44.0 State:  2
+0 6592  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  301815.0  RB:  44.0 State:  2
+0 6593  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  299697.0  RB:  44.0 State:  2
+0 6594  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  297579.0  RB:  44.0 State:  2
+0 6595  Granted size:  2124.0  Txed size:  2114.0  Buffer size:  295465.0  RB:  44.0 State:  2
+0 6596  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  295465.0  RB:  44.0 State:  2
+0 6597  Granted size:  1692.0  Txed size:  1686.0  Buffer size:  293779.0  RB:  40.0 State:  2
+0 6598  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  291661.0  RB:  44.0 State:  2
+0 6599  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  289543.0  RB:  44.0 State:  2
+0 6600  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  287259.0  RB:  44.0 State:  2
+0 6601  Granted size:  0.0  Txed size:  0.0  Buffer size:  287259.0  RB:  0.0 State:  0
+0 6602  Granted size:  1692.0  Txed size:  1686.0  Buffer size:  285573.0  RB:  40.0 State:  2
+0 6603  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  285573.0  RB:  44.0 State:  2
+0 6604  Granted size:  2124.0  Txed size:  993.0  Buffer size:  284580.0  RB:  44.0 State:  2
+0 6605  Granted size:  2124.0  Txed size:  3239.0  Buffer size:  281341.0  RB:  44.0 State:  2
+0 6606  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  279510.0  RB:  36.0 State:  2
+0 6607  Granted size:  2292.0  Txed size:  2292.0  Buffer size:  279510.0  RB:  44.0 State:  2
+0 6608  Granted size:  2481.0  Txed size:  4759.0  Buffer size:  274751.0  RB:  44.0 State:  2
+0 6609  Granted size:  2124.0  Txed size:  2124.0  Buffer size:  274751.0  RB:  44.0 State:  2
+0 6610  Granted size:  2481.0  Txed size:  2473.0  Buffer size:  272278.0  RB:  44.0 State:  2
+0 6611  Granted size:  1980.0  Txed size:  1974.0  Buffer size:  270304.0  RB:  44.0 State:  2
+0 6612  Granted size:  2481.0  Txed size:  480.0  Buffer size:  269824.0  RB:  44.0 State:  2
+0 6613  Granted size:  2481.0  Txed size:  4468.0  Buffer size:  265356.0  RB:  44.0 State:  2
+0 6614  Granted size:  1980.0  Txed size:  1974.0  Buffer size:  263382.0  RB:  36.0 State:  2
+0 6615  Granted size:  2481.0  Txed size:  2471.0  Buffer size:  260911.0  RB:  44.0 State:  2
+0 6616  Granted size:  2481.0  Txed size:  1830.0  Buffer size:  259081.0  RB:  44.0 State:  2
+0 6617  Granted size:  1836.0  Txed size:  0.0  Buffer size:  0.0  RB:  40.0 State:  0
+0 6618  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  256795.0  RB:  44.0 State:  2
+0 6619  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  254320.0  RB:  44.0 State:  2
+0 6620  Granted size:  2481.0  Txed size:  2471.0  Buffer size:  251849.0  RB:  44.0 State:  2
+0 6621  Granted size:  0.0  Txed size:  1831.0  Buffer size:  250018.0  RB:  0.0 State:  2
+0 6622  Granted size:  1836.0  Txed size:  2473.0  Buffer size:  247545.0  RB:  36.0 State:  2
+0 6623  Granted size:  2481.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6624  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  244878.0  RB:  44.0 State:  2
+0 6625  Granted size:  2673.0  Txed size:  2661.0  Buffer size:  242217.0  RB:  44.0 State:  2
+0 6626  Granted size:  2673.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6627  Granted size:  3182.0  Txed size:  5841.0  Buffer size:  236376.0  RB:  44.0 State:  2
+0 6628  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  233202.0  RB:  44.0 State:  2
+0 6629  Granted size:  2481.0  Txed size:  2481.0  Buffer size:  233202.0  RB:  44.0 State:  2
+0 6630  Granted size:  2196.0  Txed size:  2376.0  Buffer size:  230826.0  RB:  36.0 State:  2
+0 6631  Granted size:  2385.0  Txed size:  2189.0  Buffer size:  228637.0  RB:  44.0 State:  2
+0 6632  Granted size:  2673.0  Txed size:  2673.0  Buffer size:  228637.0  RB:  44.0 State:  2
+0 6633  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  225970.0  RB:  44.0 State:  2
+0 6634  Granted size:  2673.0  Txed size:  2665.0  Buffer size:  223305.0  RB:  44.0 State:  2
+0 6635  Granted size:  2961.0  Txed size:  2951.0  Buffer size:  220354.0  RB:  44.0 State:  2
+0 6636  Granted size:  3182.0  Txed size:  2188.0  Buffer size:  218166.0  RB:  44.0 State:  2
+0 6637  Granted size:  2196.0  Txed size:  0.0  Buffer size:  0.0  RB:  40.0 State:  0
+0 6638  Granted size:  2196.0  Txed size:  2190.0  Buffer size:  215976.0  RB:  36.0 State:  2
+0 6639  Granted size:  2961.0  Txed size:  2955.0  Buffer size:  213021.0  RB:  44.0 State:  2
+0 6640  Granted size:  2961.0  Txed size:  2951.0  Buffer size:  210070.0  RB:  44.0 State:  2
+0 6642  Granted size:  2196.0  Txed size:  2190.0  Buffer size:  207880.0  RB:  40.0 State:  2
+0 6643  Granted size:  2961.0  Txed size:  6127.0  Buffer size:  201753.0  RB:  44.0 State:  2
+0 6644  Granted size:  3182.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6645  Granted size:  3182.0  Txed size:  3170.0  Buffer size:  198583.0  RB:  44.0 State:  2
+0 6646  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  195409.0  RB:  44.0 State:  2
+0 6647  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  192235.0  RB:  44.0 State:  2
+0 6648  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  189061.0  RB:  44.0 State:  2
+0 6649  Granted size:  2673.0  Txed size:  2673.0  Buffer size:  189061.0  RB:  44.0 State:  2
+0 6650  Granted size:  2673.0  Txed size:  2673.0  Buffer size:  193776.0  RB:  44.0 State:  2
+0 6651  Granted size:  0.0  Txed size:  0.0  Buffer size:  224342.0  RB:  0.0 State:  0
+0 6652  Granted size:  2961.0  Txed size:  2961.0  Buffer size:  228765.0  RB:  44.0 State:  2
+0 6653  Granted size:  2577.0  Txed size:  2569.0  Buffer size:  226196.0  RB:  32.0 State:  2
+0 6654  Granted size:  3182.0  Txed size:  3182.0  Buffer size:  252534.0  RB:  44.0 State:  2
+0 6655  Granted size:  3182.0  Txed size:  3182.0  Buffer size:  256742.0  RB:  44.0 State:  2
+0 6656  Granted size:  3182.0  Txed size:  3182.0  Buffer size:  271498.0  RB:  44.0 State:  2
+0 6657  Granted size:  2385.0  Txed size:  2385.0  Buffer size:  276497.0  RB:  40.0 State:  2
+0 6658  Granted size:  2577.0  Txed size:  2577.0  Buffer size:  281337.0  RB:  32.0 State:  2
+0 6659  Granted size:  2961.0  Txed size:  2961.0  Buffer size:  296093.0  RB:  44.0 State:  2
+0 6660  Granted size:  2961.0  Txed size:  2961.0  Buffer size:  303471.0  RB:  44.0 State:  2
+0 6661  Granted size:  2577.0  Txed size:  2577.0  Buffer size:  310849.0  RB:  44.0 State:  2
+0 6662  Granted size:  2196.0  Txed size:  2196.0  Buffer size:  316039.0  RB:  40.0 State:  2
+0 6663  Granted size:  2385.0  Txed size:  5553.0  Buffer size:  310486.0  RB:  36.0 State:  2
+0 6664  Granted size:  3182.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6665  Granted size:  3182.0  Txed size:  3172.0  Buffer size:  307314.0  RB:  44.0 State:  2
+0 6666  Granted size:  3182.0  Txed size:  3182.0  Buffer size:  309907.0  RB:  44.0 State:  2
+0 6667  Granted size:  3182.0  Txed size:  4723.0  Buffer size:  305184.0  RB:  44.0 State:  2
+0 6668  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  302010.0  RB:  44.0 State:  2
+0 6669  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  298836.0  RB:  44.0 State:  2
+0 6670  Granted size:  2961.0  Txed size:  2953.0  Buffer size:  295883.0  RB:  44.0 State:  2
+0 6671  Granted size:  2577.0  Txed size:  2577.0  Buffer size:  295883.0  RB:  44.0 State:  2
+0 6672  Granted size:  3542.0  Txed size:  6102.0  Buffer size:  289781.0  RB:  44.0 State:  2
+0 6673  Granted size:  3822.0  Txed size:  3814.0  Buffer size:  285967.0  RB:  44.0 State:  2
+0 6674  Granted size:  4107.0  Txed size:  8194.0  Buffer size:  277773.0  RB:  44.0 State:  2
+0 6675  Granted size:  4107.0  Txed size:  4107.0  Buffer size:  277773.0  RB:  44.0 State:  2
+0 6676  Granted size:  3182.0  Txed size:  540.0  Buffer size:  277233.0  RB:  44.0 State:  2
+0 6677  Granted size:  2769.0  Txed size:  0.0  Buffer size:  0.0  RB:  40.0 State:  0
+0 6678  Granted size:  2481.0  Txed size:  4694.0  Buffer size:  272539.0  RB:  28.0 State:  2
+0 6679  Granted size:  3822.0  Txed size:  3813.0  Buffer size:  268726.0  RB:  44.0 State:  2
+0 6680  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  265552.0  RB:  44.0 State:  2
+0 6681  Granted size:  0.0  Txed size:  0.0  Buffer size:  265552.0  RB:  0.0 State:  0
+0 6682  Granted size:  2769.0  Txed size:  5183.0  Buffer size:  260369.0  RB:  40.0 State:  2
+0 6683  Granted size:  3822.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6684  Granted size:  3822.0  Txed size:  5205.0  Buffer size:  255164.0  RB:  44.0 State:  2
+0 6685  Granted size:  3822.0  Txed size:  3811.0  Buffer size:  251353.0  RB:  44.0 State:  2
+0 6686  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  247255.0  RB:  44.0 State:  2
+0 6687  Granted size:  3822.0  Txed size:  3811.0  Buffer size:  243444.0  RB:  44.0 State:  2
+0 6688  Granted size:  3062.0  Txed size:  3056.0  Buffer size:  240388.0  RB:  40.0 State:  2
+0 6689  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  240388.0  RB:  44.0 State:  2
+0 6690  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  237214.0  RB:  44.0 State:  2
+0 6691  Granted size:  0.0  Txed size:  0.0  Buffer size:  237214.0  RB:  0.0 State:  0
+0 6692  Granted size:  3542.0  Txed size:  3531.0  Buffer size:  233683.0  RB:  44.0 State:  2
+0 6693  Granted size:  3062.0  Txed size:  3054.0  Buffer size:  230629.0  RB:  40.0 State:  2
+0 6694  Granted size:  4107.0  Txed size:  4107.0  Buffer size:  230629.0  RB:  44.0 State:  2
+0 6695  Granted size:  4251.0  Txed size:  8338.0  Buffer size:  222291.0  RB:  44.0 State:  2
+0 6696  Granted size:  4251.0  Txed size:  4242.0  Buffer size:  218049.0  RB:  44.0 State:  2
+0 6697  Granted size:  3422.0  Txed size:  3412.0  Buffer size:  214637.0  RB:  40.0 State:  2
+0 6698  Granted size:  3422.0  Txed size:  3414.0  Buffer size:  211223.0  RB:  36.0 State:  2
+0 6699  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  211223.0  RB:  44.0 State:  2
+0 6700  Granted size:  3822.0  Txed size:  3813.0  Buffer size:  207410.0  RB:  44.0 State:  2
+0 6701  Granted size:  3422.0  Txed size:  3414.0  Buffer size:  203996.0  RB:  44.0 State:  2
+0 6702  Granted size:  3422.0  Txed size:  3412.0  Buffer size:  200584.0  RB:  40.0 State:  2
+0 6703  Granted size:  3422.0  Txed size:  3414.0  Buffer size:  197170.0  RB:  36.0 State:  2
+0 6704  Granted size:  4587.0  Txed size:  4587.0  Buffer size:  197170.0  RB:  44.0 State:  2
+0 6705  Granted size:  4587.0  Txed size:  9152.0  Buffer size:  188018.0  RB:  44.0 State:  2
+0 6706  Granted size:  4736.0  Txed size:  4725.0  Buffer size:  183293.0  RB:  44.0 State:  2
+0 6707  Granted size:  5477.0  Txed size:  5477.0  Buffer size:  201017.0  RB:  44.0 State:  2
+0 6708  Granted size:  5477.0  Txed size:  5477.0  Buffer size:  210307.0  RB:  44.0 State:  2
+0 6709  Granted size:  5477.0  Txed size:  5477.0  Buffer size:  216101.0  RB:  44.0 State:  2
+0 6710  Granted size:  4587.0  Txed size:  4587.0  Buffer size:  220291.0  RB:  44.0 State:  2
+0 6711  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  223855.0  RB:  44.0 State:  2
+0 6712  Granted size:  5477.0  Txed size:  5477.0  Buffer size:  225769.0  RB:  44.0 State:  2
+0 6713  Granted size:  4395.0  Txed size:  4395.0  Buffer size:  239289.0  RB:  36.0 State:  2
+0 6714  Granted size:  5477.0  Txed size:  1237.0  Buffer size:  238052.0  RB:  44.0 State:  2
+0 6715  Granted size:  5477.0  Txed size:  5477.0  Buffer size:  254722.0  RB:  44.0 State:  2
+0 6716  Granted size:  5477.0  Txed size:  5477.0  Buffer size:  262100.0  RB:  44.0 State:  2
+0 6717  Granted size:  5477.0  Txed size:  5477.0  Buffer size:  269478.0  RB:  44.0 State:  2
+0 6718  Granted size:  4587.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6719  Granted size:  3422.0  Txed size:  3422.0  Buffer size:  280822.0  RB:  40.0 State:  2
+0 6720  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  284387.0  RB:  44.0 State:  2
+0 6721  Granted size:  4395.0  Txed size:  4395.0  Buffer size:  291765.0  RB:  44.0 State:  2
+0 6722  Granted size:  3422.0  Txed size:  614.0  Buffer size:  305907.0  RB:  40.0 State:  2
+0 6723  Granted size:  4587.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6724  Granted size:  4587.0  Txed size:  4587.0  Buffer size:  308711.0  RB:  44.0 State:  2
+0 6725  Granted size:  4587.0  Txed size:  4576.0  Buffer size:  304135.0  RB:  44.0 State:  2
+0 6726  Granted size:  4587.0  Txed size:  4578.0  Buffer size:  299557.0  RB:  44.0 State:  2
+0 6727  Granted size:  4587.0  Txed size:  3522.0  Buffer size:  296035.0  RB:  44.0 State:  2
+0 6728  Granted size:  4736.0  Txed size:  4727.0  Buffer size:  291308.0  RB:  44.0 State:  2
+0 6729  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  291308.0  RB:  44.0 State:  2
+0 6730  Granted size:  4251.0  Txed size:  8965.0  Buffer size:  282343.0  RB:  44.0 State:  2
+0 6731  Granted size:  0.0  Txed size:  0.0  Buffer size:  282343.0  RB:  0.0 State:  0
+0 6732  Granted size:  4251.0  Txed size:  4242.0  Buffer size:  278101.0  RB:  44.0 State:  2
+0 6733  Granted size:  4736.0  Txed size:  4727.0  Buffer size:  273374.0  RB:  44.0 State:  2
+0 6734  Granted size:  4736.0  Txed size:  4723.0  Buffer size:  268651.0  RB:  44.0 State:  2
+0 6735  Granted size:  4736.0  Txed size:  4725.0  Buffer size:  263926.0  RB:  44.0 State:  2
+0 6736  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  263926.0  RB:  44.0 State:  2
+0 6737  Granted size:  3662.0  Txed size:  3653.0  Buffer size:  260273.0  RB:  40.0 State:  2
+0 6738  Granted size:  4736.0  Txed size:  4727.0  Buffer size:  255546.0  RB:  44.0 State:  2
+0 6739  Granted size:  4587.0  Txed size:  4587.0  Buffer size:  255546.0  RB:  44.0 State:  2
+0 6740  Granted size:  4251.0  Txed size:  4240.0  Buffer size:  251306.0  RB:  44.0 State:  2
+0 6741  Granted size:  0.0  Txed size:  0.0  Buffer size:  251306.0  RB:  0.0 State:  0
+0 6742  Granted size:  3422.0  Txed size:  7990.0  Buffer size:  243316.0  RB:  40.0 State:  2
+0 6743  Granted size:  4587.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6744  Granted size:  4736.0  Txed size:  4725.0  Buffer size:  238591.0  RB:  44.0 State:  2
+0 6745  Granted size:  4736.0  Txed size:  4721.0  Buffer size:  233870.0  RB:  44.0 State:  2
+0 6746  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  233870.0  RB:  44.0 State:  2
+0 6747  Granted size:  4587.0  Txed size:  4098.0  Buffer size:  229772.0  RB:  44.0 State:  2
+0 6748  Granted size:  4587.0  Txed size:  5058.0  Buffer size:  224714.0  RB:  44.0 State:  2
+0 6749  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  224714.0  RB:  44.0 State:  2
+0 6750  Granted size:  4107.0  Txed size:  4096.0  Buffer size:  220618.0  RB:  44.0 State:  2
+0 6751  Granted size:  3422.0  Txed size:  1386.0  Buffer size:  219232.0  RB:  44.0 State:  2
+0 6752  Granted size:  4736.0  Txed size:  6753.0  Buffer size:  212479.0  RB:  44.0 State:  2
+0 6753  Granted size:  4736.0  Txed size:  4727.0  Buffer size:  207752.0  RB:  44.0 State:  2
+0 6754  Granted size:  4736.0  Txed size:  4725.0  Buffer size:  203027.0  RB:  44.0 State:  2
+0 6755  Granted size:  4736.0  Txed size:  4723.0  Buffer size:  198304.0  RB:  44.0 State:  2
+0 6756  Granted size:  4587.0  Txed size:  4587.0  Buffer size:  198304.0  RB:  44.0 State:  2
+0 6757  Granted size:  3422.0  Txed size:  8584.0  Buffer size:  189720.0  RB:  40.0 State:  2
+0 6758  Granted size:  4587.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6759  Granted size:  4736.0  Txed size:  4134.0  Buffer size:  185586.0  RB:  44.0 State:  2
+0 6760  Granted size:  4251.0  Txed size:  4240.0  Buffer size:  181346.0  RB:  44.0 State:  2
+0 6761  Granted size:  0.0  Txed size:  0.0  Buffer size:  211912.0  RB:  0.0 State:  0
+0 6762  Granted size:  3662.0  Txed size:  3662.0  Buffer size:  215637.0  RB:  40.0 State:  2
+0 6763  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  223015.0  RB:  44.0 State:  2
+0 6764  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  228319.0  RB:  44.0 State:  2
+0 6765  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  230974.0  RB:  44.0 State:  2
+0 6766  Granted size:  4587.0  Txed size:  4587.0  Buffer size:  238352.0  RB:  44.0 State:  2
+0 6767  Granted size:  4587.0  Txed size:  4587.0  Buffer size:  249798.0  RB:  44.0 State:  2
+0 6768  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  251183.0  RB:  44.0 State:  2
+0 6769  Granted size:  0.0  Txed size:  0.0  Buffer size:  258561.0  RB:  0.0 State:  0
+0 6770  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  271185.0  RB:  44.0 State:  2
+0 6771  Granted size:  0.0  Txed size:  0.0  Buffer size:  282779.0  RB:  0.0 State:  0
+0 6772  Granted size:  4587.0  Txed size:  1414.0  Buffer size:  281365.0  RB:  44.0 State:  2
+0 6773  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  296527.0  RB:  36.0 State:  2
+0 6774  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  298126.0  RB:  44.0 State:  2
+0 6775  Granted size:  4587.0  Txed size:  1412.0  Buffer size:  296714.0  RB:  44.0 State:  2
+0 6776  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  317794.0  RB:  44.0 State:  2
+0 6777  Granted size:  0.0  Txed size:  0.0  Buffer size:  317794.0  RB:  0.0 State:  0
+0 6778  Granted size:  3422.0  Txed size:  3414.0  Buffer size:  314380.0  RB:  36.0 State:  2
+0 6779  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  318596.0  RB:  44.0 State:  2
+0 6780  Granted size:  4251.0  Txed size:  4240.0  Buffer size:  314356.0  RB:  44.0 State:  2
+0 6781  Granted size:  3822.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6782  Granted size:  3422.0  Txed size:  3414.0  Buffer size:  310942.0  RB:  40.0 State:  2
+0 6783  Granted size:  4587.0  Txed size:  4576.0  Buffer size:  306366.0  RB:  44.0 State:  2
+0 6784  Granted size:  4587.0  Txed size:  4578.0  Buffer size:  301788.0  RB:  44.0 State:  2
+0 6785  Granted size:  0.0  Txed size:  4572.0  Buffer size:  297216.0  RB:  0.0 State:  2
+0 6786  Granted size:  4587.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6787  Granted size:  4587.0  Txed size:  4578.0  Buffer size:  292638.0  RB:  44.0 State:  2
+0 6788  Granted size:  4587.0  Txed size:  4578.0  Buffer size:  288060.0  RB:  44.0 State:  2
+0 6789  Granted size:  4587.0  Txed size:  4576.0  Buffer size:  283484.0  RB:  44.0 State:  2
+0 6790  Granted size:  4107.0  Txed size:  4099.0  Buffer size:  279385.0  RB:  44.0 State:  2
+0 6791  Granted size:  3422.0  Txed size:  3411.0  Buffer size:  275974.0  RB:  44.0 State:  2
+0 6792  Granted size:  4587.0  Txed size:  4578.0  Buffer size:  271396.0  RB:  44.0 State:  2
+0 6794  Granted size:  4587.0  Txed size:  4578.0  Buffer size:  266818.0  RB:  44.0 State:  2
+0 6795  Granted size:  4736.0  Txed size:  4725.0  Buffer size:  262093.0  RB:  44.0 State:  2
+0 6796  Granted size:  4587.0  Txed size:  4587.0  Buffer size:  262093.0  RB:  44.0 State:  2
+0 6797  Granted size:  3422.0  Txed size:  3422.0  Buffer size:  262093.0  RB:  40.0 State:  2
+0 6798  Granted size:  4587.0  Txed size:  7988.0  Buffer size:  254105.0  RB:  44.0 State:  2
+0 6799  Granted size:  4587.0  Txed size:  4576.0  Buffer size:  249529.0  RB:  44.0 State:  2
+0 6800  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  246355.0  RB:  32.0 State:  2
+0 6801  Granted size:  0.0  Txed size:  0.0  Buffer size:  246355.0  RB:  0.0 State:  0
+0 6802  Granted size:  3662.0  Txed size:  3652.0  Buffer size:  242703.0  RB:  40.0 State:  2
+0 6803  Granted size:  4587.0  Txed size:  2391.0  Buffer size:  240312.0  RB:  44.0 State:  2
+0 6804  Granted size:  4587.0  Txed size:  6763.0  Buffer size:  233549.0  RB:  44.0 State:  2
+0 6805  Granted size:  4587.0  Txed size:  4578.0  Buffer size:  228971.0  RB:  44.0 State:  2
+0 6806  Granted size:  4587.0  Txed size:  4576.0  Buffer size:  224395.0  RB:  44.0 State:  2
+0 6807  Granted size:  4736.0  Txed size:  2001.0  Buffer size:  222394.0  RB:  44.0 State:  2
+0 6808  Granted size:  3822.0  Txed size:  6535.0  Buffer size:  215859.0  RB:  32.0 State:  2
+0 6809  Granted size:  0.0  Txed size:  0.0  Buffer size:  215859.0  RB:  0.0 State:  0
+0 6810  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  220586.0  RB:  44.0 State:  2
+0 6811  Granted size:  3822.0  Txed size:  8047.0  Buffer size:  212539.0  RB:  44.0 State:  2
+0 6812  Granted size:  4251.0  Txed size:  4240.0  Buffer size:  208299.0  RB:  44.0 State:  2
+0 6813  Granted size:  4587.0  Txed size:  4578.0  Buffer size:  203721.0  RB:  44.0 State:  2
+0 6814  Granted size:  4587.0  Txed size:  4576.0  Buffer size:  199145.0  RB:  44.0 State:  2
+0 6815  Granted size:  4587.0  Txed size:  4578.0  Buffer size:  194567.0  RB:  44.0 State:  2
+0 6816  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  194567.0  RB:  32.0 State:  2
+0 6817  Granted size:  3182.0  Txed size:  4847.0  Buffer size:  189720.0  RB:  40.0 State:  2
+0 6818  Granted size:  4107.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6819  Granted size:  4587.0  Txed size:  5945.0  Buffer size:  183775.0  RB:  44.0 State:  2
+0 6820  Granted size:  4107.0  Txed size:  1433.0  Buffer size:  216567.0  RB:  44.0 State:  2
+0 6821  Granted size:  0.0  Txed size:  0.0  Buffer size:  231323.0  RB:  0.0 State:  0
+0 6822  Granted size:  3182.0  Txed size:  0.0  Buffer size:  0.0  RB:  40.0 State:  0
+0 6823  Granted size:  4251.0  Txed size:  36.0  Buffer size:  231287.0  RB:  44.0 State:  0
+0 6824  Granted size:  3422.0  Txed size:  3422.0  Buffer size:  246636.0  RB:  32.0 State:  2
+0 6825  Granted size:  4251.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6826  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  248901.0  RB:  44.0 State:  2
+0 6827  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  256279.0  RB:  44.0 State:  2
+0 6828  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  262555.0  RB:  44.0 State:  2
+0 6829  Granted size:  4587.0  Txed size:  4587.0  Buffer size:  269933.0  RB:  44.0 State:  2
+0 6830  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  273498.0  RB:  44.0 State:  2
+0 6831  Granted size:  3422.0  Txed size:  3422.0  Buffer size:  284840.0  RB:  44.0 State:  2
+0 6832  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  288796.0  RB:  32.0 State:  2
+0 6833  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  291058.0  RB:  44.0 State:  2
+0 6834  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  294066.0  RB:  44.0 State:  2
+0 6835  Granted size:  4736.0  Txed size:  5082.0  Buffer size:  288984.0  RB:  44.0 State:  2
+0 6836  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  288984.0  RB:  44.0 State:  2
+0 6837  Granted size:  3422.0  Txed size:  3422.0  Buffer size:  293254.0  RB:  40.0 State:  2
+0 6838  Granted size:  4251.0  Txed size:  7651.0  Buffer size:  285603.0  RB:  44.0 State:  2
+0 6839  Granted size:  4251.0  Txed size:  4242.0  Buffer size:  281361.0  RB:  44.0 State:  2
+0 6840  Granted size:  3822.0  Txed size:  4105.0  Buffer size:  277547.0  RB:  44.0 State:  2
+0 6842  Granted size:  3182.0  Txed size:  3172.0  Buffer size:  274375.0  RB:  40.0 State:  2
+0 6843  Granted size:  4251.0  Txed size:  3443.0  Buffer size:  270932.0  RB:  44.0 State:  2
+0 6844  Granted size:  4251.0  Txed size:  5041.0  Buffer size:  265891.0  RB:  44.0 State:  2
+0 6845  Granted size:  4251.0  Txed size:  4242.0  Buffer size:  261649.0  RB:  44.0 State:  2
+0 6846  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  261649.0  RB:  44.0 State:  2
+0 6847  Granted size:  4107.0  Txed size:  1257.0  Buffer size:  260392.0  RB:  44.0 State:  2
+0 6848  Granted size:  4251.0  Txed size:  7079.0  Buffer size:  253313.0  RB:  44.0 State:  2
+0 6849  Granted size:  4736.0  Txed size:  4736.0  Buffer size:  253313.0  RB:  44.0 State:  2
+0 6850  Granted size:  3822.0  Txed size:  3813.0  Buffer size:  249500.0  RB:  44.0 State:  2
+0 6852  Granted size:  4107.0  Txed size:  4096.0  Buffer size:  245404.0  RB:  44.0 State:  2
+0 6853  Granted size:  4251.0  Txed size:  4242.0  Buffer size:  241162.0  RB:  44.0 State:  2
+0 6854  Granted size:  4251.0  Txed size:  4242.0  Buffer size:  236920.0  RB:  44.0 State:  2
+0 6855  Granted size:  4251.0  Txed size:  4242.0  Buffer size:  232678.0  RB:  44.0 State:  2
+0 6856  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  232678.0  RB:  44.0 State:  2
+0 6857  Granted size:  3182.0  Txed size:  3170.0  Buffer size:  229508.0  RB:  40.0 State:  2
+0 6858  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  225410.0  RB:  44.0 State:  2
+0 6859  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  225410.0  RB:  44.0 State:  2
+0 6860  Granted size:  3542.0  Txed size:  3534.0  Buffer size:  221876.0  RB:  44.0 State:  2
+0 6862  Granted size:  2577.0  Txed size:  2569.0  Buffer size:  219307.0  RB:  40.0 State:  2
+0 6863  Granted size:  3822.0  Txed size:  3813.0  Buffer size:  215494.0  RB:  44.0 State:  2
+0 6864  Granted size:  3822.0  Txed size:  3813.0  Buffer size:  211681.0  RB:  44.0 State:  2
+0 6865  Granted size:  3822.0  Txed size:  3814.0  Buffer size:  207867.0  RB:  44.0 State:  2
+0 6866  Granted size:  3822.0  Txed size:  3813.0  Buffer size:  204054.0  RB:  44.0 State:  2
+0 6867  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  204054.0  RB:  44.0 State:  2
+0 6868  Granted size:  3822.0  Txed size:  7623.0  Buffer size:  196431.0  RB:  44.0 State:  2
+0 6869  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  196431.0  RB:  44.0 State:  2
+0 6870  Granted size:  3182.0  Txed size:  333.0  Buffer size:  196098.0  RB:  44.0 State:  2
+0 6871  Granted size:  2577.0  Txed size:  5410.0  Buffer size:  190688.0  RB:  44.0 State:  2
+0 6872  Granted size:  3542.0  Txed size:  3532.0  Buffer size:  187156.0  RB:  44.0 State:  2
+0 6873  Granted size:  3542.0  Txed size:  3534.0  Buffer size:  183622.0  RB:  44.0 State:  2
+0 6874  Granted size:  3542.0  Txed size:  3533.0  Buffer size:  180089.0  RB:  44.0 State:  2
+0 6875  Granted size:  3542.0  Txed size:  3534.0  Buffer size:  176555.0  RB:  44.0 State:  2
+0 6876  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  176555.0  RB:  44.0 State:  2
+0 6877  Granted size:  2577.0  Txed size:  2577.0  Buffer size:  176555.0  RB:  40.0 State:  2
+0 6878  Granted size:  3182.0  Txed size:  5741.0  Buffer size:  170814.0  RB:  44.0 State:  2
+0 6879  Granted size:  3542.0  Txed size:  3502.0  Buffer size:  167312.0  RB:  44.0 State:  2
+0 6880  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  164138.0  RB:  44.0 State:  2
+0 6882  Granted size:  2577.0  Txed size:  2569.0  Buffer size:  161569.0  RB:  40.0 State:  2
+0 6883  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  158395.0  RB:  44.0 State:  2
+0 6884  Granted size:  3542.0  Txed size:  3533.0  Buffer size:  154862.0  RB:  44.0 State:  2
+0 6885  Granted size:  3542.0  Txed size:  3534.0  Buffer size:  151328.0  RB:  44.0 State:  2
+0 6886  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  147230.0  RB:  44.0 State:  2
+0 6887  Granted size:  3822.0  Txed size:  3809.0  Buffer size:  143421.0  RB:  44.0 State:  2
+0 6888  Granted size:  3822.0  Txed size:  3814.0  Buffer size:  139607.0  RB:  44.0 State:  2
+0 6889  Granted size:  3542.0  Txed size:  3542.0  Buffer size:  139607.0  RB:  44.0 State:  2
+0 6890  Granted size:  3542.0  Txed size:  3534.0  Buffer size:  136073.0  RB:  44.0 State:  2
+0 6891  Granted size:  3182.0  Txed size:  2130.0  Buffer size:  133943.0  RB:  44.0 State:  2
+0 6892  Granted size:  3822.0  Txed size:  4855.0  Buffer size:  129088.0  RB:  44.0 State:  2
+0 6893  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  124990.0  RB:  44.0 State:  2
+0 6894  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  120892.0  RB:  44.0 State:  2
+0 6895  Granted size:  3422.0  Txed size:  3414.0  Buffer size:  117478.0  RB:  40.0 State:  2
+0 6896  Granted size:  3822.0  Txed size:  3822.0  Buffer size:  117478.0  RB:  44.0 State:  2
+0 6897  Granted size:  3182.0  Txed size:  3170.0  Buffer size:  114308.0  RB:  40.0 State:  2
+0 6898  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  110210.0  RB:  44.0 State:  2
+0 6899  Granted size:  4251.0  Txed size:  4242.0  Buffer size:  105968.0  RB:  44.0 State:  2
+0 6900  Granted size:  3822.0  Txed size:  3813.0  Buffer size:  102155.0  RB:  44.0 State:  2
+0 6902  Granted size:  3542.0  Txed size:  3532.0  Buffer size:  98623.0  RB:  44.0 State:  2
+0 6903  Granted size:  3822.0  Txed size:  3813.0  Buffer size:  94810.0  RB:  44.0 State:  2
+0 6904  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  90712.0  RB:  44.0 State:  2
+0 6905  Granted size:  4107.0  Txed size:  4099.0  Buffer size:  86613.0  RB:  44.0 State:  2
+0 6906  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  82515.0  RB:  44.0 State:  2
+0 6907  Granted size:  4107.0  Txed size:  4094.0  Buffer size:  78421.0  RB:  44.0 State:  2
+0 6908  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  74323.0  RB:  44.0 State:  2
+0 6909  Granted size:  4107.0  Txed size:  4107.0  Buffer size:  74323.0  RB:  44.0 State:  2
+0 6910  Granted size:  3822.0  Txed size:  3813.0  Buffer size:  70510.0  RB:  44.0 State:  2
+0 6911  Granted size:  3182.0  Txed size:  6131.0  Buffer size:  64379.0  RB:  44.0 State:  2
+0 6912  Granted size:  4107.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6913  Granted size:  4251.0  Txed size:  5381.0  Buffer size:  58998.0  RB:  44.0 State:  2
+0 6914  Granted size:  4251.0  Txed size:  1997.0  Buffer size:  57001.0  RB:  44.0 State:  2
+0 6915  Granted size:  4251.0  Txed size:  6487.0  Buffer size:  50514.0  RB:  44.0 State:  2
+0 6916  Granted size:  4107.0  Txed size:  4107.0  Buffer size:  50514.0  RB:  44.0 State:  2
+0 6917  Granted size:  3062.0  Txed size:  3062.0  Buffer size:  50514.0  RB:  40.0 State:  2
+0 6918  Granted size:  3822.0  Txed size:  6864.0  Buffer size:  43650.0  RB:  44.0 State:  2
+0 6919  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  39552.0  RB:  44.0 State:  2
+0 6920  Granted size:  3542.0  Txed size:  3534.0  Buffer size:  36018.0  RB:  44.0 State:  2
+0 6922  Granted size:  3062.0  Txed size:  3052.0  Buffer size:  32966.0  RB:  40.0 State:  2
+0 6923  Granted size:  4107.0  Txed size:  4107.0  Buffer size:  32966.0  RB:  44.0 State:  2
+0 6924  Granted size:  4107.0  Txed size:  8196.0  Buffer size:  24770.0  RB:  44.0 State:  2
+0 6925  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  20672.0  RB:  44.0 State:  2
+0 6926  Granted size:  4107.0  Txed size:  4098.0  Buffer size:  16574.0  RB:  44.0 State:  2
+0 6927  Granted size:  3822.0  Txed size:  2787.0  Buffer size:  13787.0  RB:  44.0 State:  2
+0 6928  Granted size:  4107.0  Txed size:  5121.0  Buffer size:  8666.0  RB:  44.0 State:  2
+0 6929  Granted size:  4251.0  Txed size:  4251.0  Buffer size:  8666.0  RB:  44.0 State:  2
+0 6930  Granted size:  3182.0  Txed size:  3174.0  Buffer size:  5492.0  RB:  44.0 State:  2
+0 6931  Granted size:  0.0  Txed size:  0.0  Buffer size:  5492.0  RB:  0.0 State:  0
+0 6932  Granted size:  3822.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6933  Granted size:  4107.0  Txed size:  5492.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6934  Granted size:  4107.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6935  Granted size:  4107.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6936  Granted size:  4107.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6937  Granted size:  3062.0  Txed size:  0.0  Buffer size:  0.0  RB:  40.0 State:  0
+0 6938  Granted size:  3822.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6939  Granted size:  4107.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6940  Granted size:  3542.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6942  Granted size:  4107.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6943  Granted size:  1836.0  Txed size:  0.0  Buffer size:  0.0  RB:  32.0 State:  0
+0 6949  Granted size:  4107.0  Txed size:  0.0  Buffer size:  0.0  RB:  44.0 State:  0
+0 6966  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  0
+0 6967  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  0
+0 6968 SR
+0 6968  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 6969  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 6970  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 6971  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 6972  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 6973 SR
+0 6973  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 6974  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 6975  Granted size:  105.0  Txed size:  2.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 6980  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 6988 SR
+0 6988  Granted size:  0.0  Txed size:  0.0  Buffer size:  1681.0  RB:  0.0 State:  1
+0 6989  Granted size:  0.0  Txed size:  0.0  Buffer size:  1681.0  RB:  0.0 State:  1
+0 6990  Granted size:  0.0  Txed size:  0.0  Buffer size:  1681.0  RB:  0.0 State:  1
+0 6991  Granted size:  0.0  Txed size:  0.0  Buffer size:  1681.0  RB:  0.0 State:  1
+0 6992  Granted size:  0.0  Txed size:  0.0  Buffer size:  1681.0  RB:  0.0 State:  1
+0 6993 SR
+0 6993  Granted size:  0.0  Txed size:  0.0  Buffer size:  1681.0  RB:  0.0 State:  1
+0 6994  Granted size:  0.0  Txed size:  0.0  Buffer size:  1681.0  RB:  0.0 State:  1
+0 6995  Granted size:  105.0  Txed size:  96.0  Buffer size:  1585.0  RB:  2.0 State:  1
+0 6996  Granted size:  0.0  Txed size:  0.0  Buffer size:  1585.0  RB:  0.0 State:  1
+0 6997  Granted size:  0.0  Txed size:  0.0  Buffer size:  1585.0  RB:  0.0 State:  1
+0 6998  Granted size:  0.0  Txed size:  0.0  Buffer size:  1585.0  RB:  0.0 State:  1
+0 6999  Granted size:  0.0  Txed size:  0.0  Buffer size:  1585.0  RB:  0.0 State:  1
+0 7000  Granted size:  133.0  Txed size:  126.0  Buffer size:  1459.0  RB:  3.0 State:  1
+0 7001  Granted size:  0.0  Txed size:  0.0  Buffer size:  1459.0  RB:  0.0 State:  1
+0 7002  Granted size:  0.0  Txed size:  0.0  Buffer size:  1459.0  RB:  0.0 State:  1
+0 7003  Granted size:  0.0  Txed size:  0.0  Buffer size:  1459.0  RB:  0.0 State:  1
+0 7004  Granted size:  0.0  Txed size:  0.0  Buffer size:  1459.0  RB:  0.0 State:  1
+0 7005  Granted size:  1908.0  Txed size:  1459.0  Buffer size:  0.0  RB:  30.0 State:  0
+0 7010  Granted size:  1620.0  Txed size:  0.0  Buffer size:  0.0  RB:  30.0 State:  0
+0 7033 SR
+0 7033  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7034  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7035  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7036  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7037  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7038 SR
+0 7038  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7039  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7040  Granted size:  105.0  Txed size:  31.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7045  Granted size:  113.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7058 SR
+0 7058  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7059  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7060  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 7061  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7062  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7063 SR
+0 7063  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7064  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7065  Granted size:  113.0  Txed size:  2.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7070  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7162  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7163 SR
+0 7163  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7164  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7165  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7166  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7167  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7168 SR
+0 7168  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7170  Granted size:  105.0  Txed size:  31.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7175  Granted size:  113.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7188 SR
+0 7190  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7191  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7192  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 7193 SR
+0 7193  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7194  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7195  Granted size:  113.0  Txed size:  2.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7200  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7203  Granted size:  113.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7260  Granted size:  133.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7283 SR
+0 7286  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7287  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7288 SR
+0 7288  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7289  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7290  Granted size:  133.0  Txed size:  31.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7295  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7308 SR
+0 7308  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7309  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7310  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7311  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7312  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7313 SR
+0 7313  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7314  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7315  Granted size:  105.0  Txed size:  2.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7320  Granted size:  133.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7412  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7413 SR
+0 7413  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7414  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7415  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7416  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7417  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7418 SR
+0 7418  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7419  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7420  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7425  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 7438 SR
+0 7440  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7441  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7442  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 7443 SR
+0 7443  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7444  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7445  Granted size:  121.0  Txed size:  2.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7450  Granted size:  121.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7533 SR
+0 7534  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7535  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7536  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7537  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7538 SR
+0 7538  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7539  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7540  Granted size:  105.0  Txed size:  31.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7545  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7558 SR
+0 7558  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7559  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7560  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7561  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7562  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7563 SR
+0 7563  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7564  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7565  Granted size:  105.0  Txed size:  2.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7570  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7628 SR
+0 7629  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7630  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7631  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7632  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7633 SR
+0 7633  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7635  Granted size:  105.0  Txed size:  31.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7640  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7653 SR
+0 7654  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7655  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7656  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 7657  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7658 SR
+0 7658  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7659  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7660  Granted size:  93.0  Txed size:  2.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7665  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7673  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 7723 SR
+0 7723  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7724  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7725  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7726  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7727  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7728 SR
+0 7728  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7729  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7730  Granted size:  113.0  Txed size:  31.0  Buffer size:  0.0  RB:  4.0 State:  1
+0 7735  Granted size:  113.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  1
+0 7753 SR
+0 7754  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7755  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7756  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 7757  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7758 SR
+0 7758  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7759  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7760  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  4.0 State:  1
+0 7765  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  1
+0 7853 SR
+0 7856  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7857  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7858 SR
+0 7858  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7859  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 7860  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 7865  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 7877  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 7878 SR
+0 7878  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7879  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7880  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7881  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7882  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7883 SR
+0 7883  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7884  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7885  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 7890  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 7968 SR
+0 7968  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 7969  Granted size:  0.0  Txed size:  0.0  Buffer size:  157.0  RB:  0.0 State:  1
+0 7970  Granted size:  0.0  Txed size:  0.0  Buffer size:  188.0  RB:  2.0 State:  1
+0 7971  Granted size:  0.0  Txed size:  0.0  Buffer size:  188.0  RB:  0.0 State:  1
+0 7972  Granted size:  0.0  Txed size:  0.0  Buffer size:  188.0  RB:  0.0 State:  1
+0 7973 SR
+0 7973  Granted size:  0.0  Txed size:  0.0  Buffer size:  188.0  RB:  0.0 State:  1
+0 7974  Granted size:  0.0  Txed size:  0.0  Buffer size:  188.0  RB:  0.0 State:  1
+0 7975  Granted size:  101.0  Txed size:  92.0  Buffer size:  96.0  RB:  6.0 State:  1
+0 7976  Granted size:  0.0  Txed size:  0.0  Buffer size:  96.0  RB:  0.0 State:  1
+0 7977  Granted size:  0.0  Txed size:  0.0  Buffer size:  96.0  RB:  0.0 State:  1
+0 7978  Granted size:  0.0  Txed size:  0.0  Buffer size:  96.0  RB:  0.0 State:  1
+0 7980  Granted size:  101.0  Txed size:  96.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 7985  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 7990  Granted size:  41.0  Txed size:  0.0  Buffer size:  0.0  RB:  2.0 State:  1
+0 8002  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8003 SR
+0 8003  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8004  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 8005  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8006  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8007  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8008 SR
+0 8008  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8009  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8010  Granted size:  101.0  Txed size:  2.0  Buffer size:  0.0  RB:  8.0 State:  1
+0 8015  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0 State:  1
+0 8067  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8068 SR
+0 8068  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8069  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8070  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8071  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8072  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8073 SR
+0 8073  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8074  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8075  Granted size:  121.0  Txed size:  31.0  Buffer size:  0.0  RB:  8.0 State:  1
+0 8080  Granted size:  121.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0 State:  1
+0 8098 SR
+0 8098  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8099  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8100  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 8101  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8102  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8103 SR
+0 8103  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8104  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8105  Granted size:  101.0  Txed size:  2.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 8110  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 8198 SR
+0 8199  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8200  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8201  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8202  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8203 SR
+0 8203  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8204  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8205  Granted size:  101.0  Txed size:  31.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 8210  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 8223 SR
+0 8223  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8224  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8225  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8226  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8227  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8228 SR
+0 8228  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8229  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8230  Granted size:  121.0  Txed size:  2.0  Buffer size:  0.0  RB:  8.0 State:  1
+0 8235  Granted size:  121.0  Txed size:  0.0  Buffer size:  0.0  RB:  8.0 State:  1
+0 8243 SR
+0 8244  Granted size:  0.0  Txed size:  0.0  Buffer size:  155.0  RB:  2.0 State:  1
+0 8245  Granted size:  0.0  Txed size:  0.0  Buffer size:  155.0  RB:  0.0 State:  1
+0 8246  Granted size:  0.0  Txed size:  0.0  Buffer size:  155.0  RB:  0.0 State:  1
+0 8247  Granted size:  0.0  Txed size:  0.0  Buffer size:  155.0  RB:  0.0 State:  1
+0 8248 SR
+0 8248  Granted size:  0.0  Txed size:  0.0  Buffer size:  157.0  RB:  0.0 State:  1
+0 8249  Granted size:  0.0  Txed size:  0.0  Buffer size:  157.0  RB:  0.0 State:  1
+0 8250  Granted size:  121.0  Txed size:  112.0  Buffer size:  45.0  RB:  8.0 State:  1
+0 8251  Granted size:  0.0  Txed size:  0.0  Buffer size:  45.0  RB:  0.0 State:  1
+0 8252  Granted size:  0.0  Txed size:  0.0  Buffer size:  45.0  RB:  0.0 State:  1
+0 8253  Granted size:  0.0  Txed size:  0.0  Buffer size:  45.0  RB:  0.0 State:  1
+0 8255  Granted size:  121.0  Txed size:  45.0  Buffer size:  0.0  RB:  8.0 State:  1
+0 8260  Granted size:  63.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 8293 SR
+0 8293  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8294  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8295  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8296  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8297  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8298 SR
+0 8298  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8299  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8300  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8305  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8318 SR
+0 8318  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8319  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8320  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 8321  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8322  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8323 SR
+0 8323  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8324  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8325  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8330  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8416  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8417  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8418 SR
+0 8418  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8419  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8420  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8421  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8422  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8423 SR
+0 8423  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8424  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8425  Granted size:  109.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8430  Granted size:  109.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8446  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8447  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8448 SR
+0 8448  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8449  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 8450  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8451  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8452  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8453 SR
+0 8453  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8454  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8455  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8460  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8513 SR
+0 8514  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8515  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8516  Granted size:  0.0  Txed size:  0.0  Buffer size:  157.0  RB:  0.0 State:  1
+0 8517  Granted size:  0.0  Txed size:  0.0  Buffer size:  157.0  RB:  2.0 State:  1
+0 8518 SR
+0 8518  Granted size:  0.0  Txed size:  0.0  Buffer size:  157.0  RB:  0.0 State:  1
+0 8519  Granted size:  0.0  Txed size:  0.0  Buffer size:  157.0  RB:  0.0 State:  1
+0 8520  Granted size:  97.0  Txed size:  88.0  Buffer size:  69.0  RB:  5.0 State:  1
+0 8521  Granted size:  0.0  Txed size:  0.0  Buffer size:  69.0  RB:  0.0 State:  1
+0 8522  Granted size:  0.0  Txed size:  0.0  Buffer size:  69.0  RB:  0.0 State:  1
+0 8523  Granted size:  0.0  Txed size:  0.0  Buffer size:  69.0  RB:  0.0 State:  1
+0 8525  Granted size:  97.0  Txed size:  69.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8530  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  1
+0 8547  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8548 SR
+0 8548  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8549  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8550  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8551  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8552  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8553 SR
+0 8553  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8554  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8555  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8560  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8563  Granted size:  3822.0  Txed size:  0.0  Buffer size:  0.0  RB:  16.0 State:  1
+0 8576  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8577  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8578 SR
+0 8578  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8579  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 8580  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8581  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8582  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8583 SR
+0 8583  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8585  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8590  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8676  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8677  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8678 SR
+0 8678  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8679  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8680  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8681  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8682  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8683 SR
+0 8683  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8684  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8685  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8690  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8703 SR
+0 8703  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8704  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8705  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8706  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  4.0 State:  1
+0 8710  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8803 SR
+0 8804  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8805  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8806  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8807  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8808 SR
+0 8808  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8809  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8810  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8815  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8827  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 8828 SR
+0 8828  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8829  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8830  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8831  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8832  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8833 SR
+0 8833  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8834  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8835  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8840  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8928 SR
+0 8929  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8930  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8931  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8932  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8933 SR
+0 8933  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 8935  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8940  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 8952  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 8953 SR
+0 8953  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8954  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8955  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8956  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8957  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8958 SR
+0 8958  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8959  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 8960  Granted size:  101.0  Txed size:  2.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 8965  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 9018 SR
+0 9020  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9021  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9022  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9023 SR
+0 9023  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9024  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9025  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9030  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9042  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 9043 SR
+0 9043  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9044  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9045  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9046  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9047  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9048 SR
+0 9048  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9049  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9050  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9055  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9058 SR
+0 9060  Granted size:  0.0  Txed size:  0.0  Buffer size:  155.0  RB:  0.0 State:  1
+0 9061  Granted size:  0.0  Txed size:  0.0  Buffer size:  155.0  RB:  2.0 State:  1
+0 9062  Granted size:  0.0  Txed size:  0.0  Buffer size:  155.0  RB:  0.0 State:  1
+0 9063 SR
+0 9063  Granted size:  0.0  Txed size:  0.0  Buffer size:  155.0  RB:  0.0 State:  1
+0 9064  Granted size:  0.0  Txed size:  0.0  Buffer size:  155.0  RB:  0.0 State:  1
+0 9065  Granted size:  97.0  Txed size:  90.0  Buffer size:  65.0  RB:  5.0 State:  1
+0 9066  Granted size:  0.0  Txed size:  0.0  Buffer size:  65.0  RB:  0.0 State:  1
+0 9067  Granted size:  0.0  Txed size:  0.0  Buffer size:  67.0  RB:  0.0 State:  1
+0 9068  Granted size:  0.0  Txed size:  0.0  Buffer size:  67.0  RB:  0.0 State:  1
+0 9070  Granted size:  97.0  Txed size:  67.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9075  Granted size:  73.0  Txed size:  0.0  Buffer size:  0.0  RB:  3.0 State:  1
+0 9133 SR
+0 9133  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9134  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9135  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9136  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9137  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9138 SR
+0 9138  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9140  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9145  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9157  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 9158 SR
+0 9158  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9159  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9160  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9161  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9162  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9163 SR
+0 9163  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9164  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9165  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9170  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9233 SR
+0 9235  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9236  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9237  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9238 SR
+0 9238  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9239  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9240  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9245  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9258 SR
+0 9260  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9261  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9262  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 9263 SR
+0 9263  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9264  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9265  Granted size:  101.0  Txed size:  2.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 9270  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 9325  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 9343 SR
+0 9345  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9346  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9347  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9348 SR
+0 9348  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9349  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9350  Granted size:  101.0  Txed size:  31.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 9355  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 9372  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9373 SR
+0 9373  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9374  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 9375  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9376  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9377  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9378 SR
+0 9378  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9379  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9380  Granted size:  101.0  Txed size:  2.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 9385  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 9473 SR
+0 9475  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9476  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9477  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9478 SR
+0 9478  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9479  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9480  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9485  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9498 SR
+0 9499  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9500  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9501  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 9502  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9503 SR
+0 9503  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9504  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9505  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9510  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9601  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9602  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9603 SR
+0 9603  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9604  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9605  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9606  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9607  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9608 SR
+0 9608  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9609  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9610  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9615  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9633 SR
+0 9634  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9635  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9636  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 9637  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9638 SR
+0 9638  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9639  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9640  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9645  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9723 SR
+0 9724  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9725  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9726  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9727  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9728 SR
+0 9728  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9729  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9730  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9735  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9748 SR
+0 9750  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9751  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9752  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 9753 SR
+0 9753  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9754  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9755  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9760  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9813 SR
+0 9814  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9815  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9816  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9817  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9818 SR
+0 9818  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9819  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9820  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9825  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9841  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9842  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9843 SR
+0 9843  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9844  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 9845  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9846  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9847  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9848 SR
+0 9848  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9849  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9850  Granted size:  101.0  Txed size:  2.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 9855  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0  RB:  6.0 State:  1
+0 9938 SR
+0 9941  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9942  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9943 SR
+0 9943  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9944  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 9945  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9950  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9963 SR
+0 9963  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9964  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9965  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9966  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9967  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9968 SR
+0 9968  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9969  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 9970  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 9975  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 10067  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10068 SR
+0 10068  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10069  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10070  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10071  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10072  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10073 SR
+0 10073  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10074  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10075  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 10080  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 10093 SR
+0 10095  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10096  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10097  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 10098 SR
+0 10098  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10099  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10100  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 10105  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 10148 SR
+0 10148  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10149  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10150  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 10151  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10152  Granted size:  0.0  Txed size:  0.0  Buffer size:  157.0  RB:  0.0 State:  1
+0 10153 SR
+0 10153  Granted size:  0.0  Txed size:  0.0  Buffer size:  157.0  RB:  0.0 State:  1
+0 10154  Granted size:  0.0  Txed size:  0.0  Buffer size:  157.0  RB:  0.0 State:  1
+0 10155  Granted size:  97.0  Txed size:  88.0  Buffer size:  69.0  RB:  5.0 State:  1
+0 10156  Granted size:  0.0  Txed size:  0.0  Buffer size:  69.0  RB:  0.0 State:  1
+0 10157  Granted size:  0.0  Txed size:  0.0  Buffer size:  69.0  RB:  0.0 State:  1
+0 10158  Granted size:  0.0  Txed size:  0.0  Buffer size:  69.0  RB:  0.0 State:  1
+0 10160  Granted size:  97.0  Txed size:  69.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 10165  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  4.0 State:  1
+0 10168 SR
+0 10168  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10169  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10170  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10171  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10172  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10173  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10174  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+0 10175  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 10180  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 10195  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10196  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10197  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  2.0 State:  1
+0 10198 SR
+0 10198  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10199  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+0 10200  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+0 10205  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+1 58 SR
+1 59  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 60  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 61  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 62  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 63 SR
+1 63  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 64  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 65  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+1 70  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+1 83 SR
+1 83  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 84  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 85  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 86  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 87  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 88 SR
+1 88  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 89  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 90  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+1 95  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+1 153 SR
+1 153  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 154  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 155  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 156  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 157  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 158 SR
+1 158  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 159  Granted size:  0.0  Txed size:  0.0  Buffer size:  31.0  RB:  0.0 State:  1
+1 160  Granted size:  97.0  Txed size:  31.0  Buffer size:  0.0  RB:  5.0 State:  1
+1 165  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+1 178 SR
+1 178  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 179  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 1553, in __call__
+    return self.func(*args)
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 599, in callit
+    func(*args)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backends/_backend_tk.py", line 310, in idle_draw
+    self.draw()
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backends/backend_tkagg.py", line 14, in draw
+    self._master.update_idletasks()
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 1033, in update_idletasks
+    self.tk.call('update', 'idletasks')
+KeyboardInterrupt
+  RB:  0.0 State:  1
+1 180  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 181  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 182  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 183 SR
+1 183  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 184  Granted size:  0.0  Txed size:  0.0  Buffer size:  2.0  RB:  0.0 State:  1
+1 185  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0  RB:  5.0 State:  1
+1 190  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0  RB:  5.0 State:  1
+Total TX:  846657.0
+Total TB:  1306298.0
+Total utiilized:  1068624
+Total grant:  1119077
+Retx:  62
+Loss num:  0
+SYN + First delay:  15
+Blank delay:  146
+Scheduling delay:  38
+Tx delay:  367
+Blank:  [[6581, 6582], [6601, 6602], [6617, 6618], [6623, 6624], [6626, 6627], [6637, 6638], [6641, 6642], [6644, 6645], [6651, 6652], [6664, 6665], [6677, 6678], [6681, 6682], [6683, 6684], [6691, 6692], [6718, 6719], [6723, 6724], [6731, 6732], [6741, 6742], [6743, 6744], [6758, 6759], [6761, 6762], [6769, 6770], [6771, 6772], [6777, 6778], [6781, 6782], [6786, 6787], [6793, 6794], [6801, 6802], [6809, 6810], [6818, 6819], [6821, 6824], [6825, 6826], [6841, 6842], [6851, 6852], [6861, 6862], [6881, 6882], [6901, 6902], [6912, 6913], [6921, 6922], [6931, 6933], [6933, 6968], [7005, 7033]]
+Scheduling:  [[6551, 6565], [6968, 7005]]
+Tx burst:  [[6565, 6581], [6582, 6601], [6602, 6617], [6618, 6623], [6624, 6626], [6627, 6637], [6638, 6641], [6642, 6644], [6645, 6651], [6652, 6664], [6665, 6677], [6678, 6681], [6682, 6683], [6684, 6691], [6692, 6718], [6719, 6723], [6724, 6731], [6732, 6741], [6742, 6743], [6744, 6758], [6759, 6761], [6762, 6769], [6770, 6771], [6772, 6777], [6778, 6781], [6782, 6786], [6787, 6793], [6794, 6801], [6802, 6809], [6810, 6818], [6819, 6821], [6824, 6825], [6826, 6841], [6842, 6851], [6852, 6861], [6862, 6881], [6882, 6901], [6902, 6912], [6913, 6921], [6922, 6931], [6933, 6933], [7005, 7005]]
+Scheduling mean, std:  38.0 0.0
+Blank mean, std:  3.5609756097560976 6.607640737915186
+Tx mean, std:  8.738095238095237 6.039786829293784
+RSRP list:  [-81.5625, -81.625, -81.6875, -81.8125, -82.0625, -82.3125, -82.5, -82.75, -83.125, -83.3125, -83.3125, -83.1875, -83.3125, -83.5, -83.5, -83.0625, -83.125, -83.1875, -83.0625, -82.8125, -82.5625, -82.5, -82.5625, -82.625, -82.6875, -82.6875, -82.6875, -82.6875, -82.6875, -82.6875, -82.625, -82.5625, -82.4375, -82.375, -82.375, -82.3125, -82.25, -82.1875, -82.1875, -82.1875, -82.1875, -82.125, -82.1875, -82.25, -82.375, -82.5, -82.8125, -83.0, -83.0, -82.875, -82.5625, -82.1875, -81.875, -81.75, -81.6875, -81.6875, -81.75, -81.75, -81.8125, -82.0, -82.3125, -82.6875, -83.0625, -83.25, -83.25, -83.1875, -83.1875, -83.25, -83.3125, -83.125, -83.0625, -83.0, -82.9375, -82.8125, -82.75, -82.625, -82.5625, -82.5625, -82.4375, -82.375, -82.3125, -82.5, -82.75, -83.0625, -83.1875, -83.25, -83.1875, -83.0625, -82.9375]
+RSRQ list:  [-7.875, -7.75, -7.6875, -7.5625, -7.5, -7.5, -7.4375, -7.5, -7.4375, -7.6875, -7.875, -7.9375, -7.9375, -7.75, -7.5, -7.1875, -7.1875, -7.125, -7.0625, -7.25, -7.4375, -7.4375, -7.625, -7.5625, -7.5, -7.5, -7.375, -7.25, -7.1875, -7.0625, -7.0625, -7.125, -7.0, -7.0, -7.0, -7.0625, -7.0625, -7.0625, -6.875, -6.875, -6.8125, -7.0, -7.0625, -7.1875, -7.25, -7.3125, -7.25, -7.1875, -7.25, -7.3125, -7.375, -7.25, -7.1875, -7.125, -7.0, -7.0625, -7.1875, -7.4375, -7.75, -7.875, -7.875, -7.875, -7.9375, -7.875, -7.8125, -7.625, -7.5, -7.375, -7.4375, -7.3125, -7.4375, -7.375, -7.4375, -7.4375, -7.375, -7.5, -7.4375, -7.3125, -7.25, -7.3125, -7.3125, -7.25, -7.25, -7.125, -7.125, -7.0625, -7.0, -7.0625, -7.0]
+RSRP mean, std:  -82.6186797752809 0.4945316263684267
+RSRQ mean, std:  -7.352528089887641 0.28189255423353504
+Traceback (most recent call last):
+  File "booster-analysis.py", line 127, in <module>
+    plt.show()
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/pyplot.py", line 253, in show
+    return _show(*args, **kw)
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backend_bases.py", line 208, in show
+    cls.mainloop()
+  File "/home/gslee/.local/lib/python3.5/site-packages/matplotlib/backends/_backend_tk.py", line 1075, in mainloop
+    Tk.mainloop()
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 408, in mainloop
+    _default_root.tk.mainloop(n)
+  File "/usr/lib/python3.5/tkinter/__init__.py", line 1548, in __call__
+    def __call__(self, *args):
+KeyboardInterrupt

@@ -1,0 +1,87 @@
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUSCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Buffer_Status_Internal
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUCCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Transport_Block
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: STARTED: 1621612285.9405694
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading 0522_static/4.1mbps_100Kbytes.mi2log
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading: 1621612285.9406319
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Decoding_inter: 0.0011239051818847656
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: sending_inter: 0.045288801193237305
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Offline replay is completed.
+SR1 time:  1251 False False
+SR progress is True
+SR1 time:  1256 True False
+Current time:  1258  Packet size:  12  Remaining buffer:  12  Incoming time:  -11  Packet tx time:  1258
+SR2 time:  1276 True False
+SR1 time:  1281 True False
+SR1 time:  1291 True False
+Current time:  1283  Packet size:  2  Remaining buffer:  2  Incoming time:  1277  Packet tx time:  1283
+Current time:  1283  Packet size:  7  Remaining buffer:  7  Incoming time:  1279  Packet tx time:  1283
+Current time:  1298  Packet size:  62  Remaining buffer:  62  Incoming time:  1292  Packet tx time:  1298
+SR2 time:  1311 True False
+SR1 time:  1316 True False
+SR2 time:  1326 True False
+SR1 time:  1336 True False
+Current time:  1333  Packet size:  2  Remaining buffer:  2  Incoming time:  1327  Packet tx time:  1333
+Current time:  1333  Packet size:  54  Remaining buffer:  54  Incoming time:  1331  Packet tx time:  1333
+Current time:  1338  Packet size:  78  Remaining buffer:  78  Incoming time:  1336  Packet tx time:  1338
+SR1 time:  1346 True False
+SR1 time:  1351 True False
+Current time:  1364  Packet size:  1442  Remaining buffer:  316  Incoming time:  1346  Packet tx time:  1353
+SR progress is False
+Three way:  [1251, 1353]
+Current time:  1372  Packet size:  7210  Remaining buffer:  565  Incoming time:  1347  Packet tx time:  1364
+Current time:  1377  Packet size:  4326  Remaining buffer:  51  Incoming time:  1348  Packet tx time:  1372
+Current time:  1377  Packet size:  2  Remaining buffer:  2  Incoming time:  1354  Packet tx time:  1377
+Current time:  1379  Packet size:  1892  Remaining buffer:  215  Incoming time:  1368  Packet tx time:  1377
+SR2 time:  1401 False True
+Pend:  [1379, 1401]
+SR1 time:  1406 True False
+Current time:  1428  Packet size:  5768  Remaining buffer:  238  Incoming time:  1393  Packet tx time:  1408
+Tx:  [1353, 1379] [[1353, 1379]]
+Current time:  1437  Packet size:  5768  Remaining buffer:  290  Incoming time:  1394  Packet tx time:  1428
+SR progress is False
+First byte:  [1401, 1428]
+Current time:  1437  Packet size:  2  Remaining buffer:  2  Incoming time:  1396  Packet tx time:  1437
+Current time:  1445  Packet size:  5768  Remaining buffer:  554  Incoming time:  1399  Packet tx time:  1437
+Current time:  1457  Packet size:  5768  Remaining buffer:  126  Incoming time:  1400  Packet tx time:  1445
+Current time:  1463  Packet size:  2884  Remaining buffer:  948  Incoming time:  1401  Packet tx time:  1457
+Current time:  1474  Packet size:  5768  Remaining buffer:  196  Incoming time:  1405  Packet tx time:  1463
+Current time:  1482  Packet size:  5082  Remaining buffer:  660  Incoming time:  1448  Packet tx time:  1474
+Current time:  1491  Packet size:  5078  Remaining buffer:  344  Incoming time:  1455  Packet tx time:  1482
+Current time:  1494  Packet size:  2196  Remaining buffer:  230  Incoming time:  1456  Packet tx time:  1491
+Current time:  1495  Packet size:  752  Remaining buffer:  210  Incoming time:  1459  Packet tx time:  1494
+Current time:  1502  Packet size:  3638  Remaining buffer:  2  Incoming time:  1460  Packet tx time:  1495
+Current time:  1507  Packet size:  3638  Remaining buffer:  462  Incoming time:  1466  Packet tx time:  1502
+Current time:  1508  Packet size:  752  Remaining buffer:  348  Incoming time:  1467  Packet tx time:  1507
+Current time:  1516  Packet size:  4998  Remaining buffer:  96  Incoming time:  1470  Packet tx time:  1508
+Current time:  1520  Packet size:  3554  Remaining buffer:  186  Incoming time:  1475  Packet tx time:  1516
+Current time:  1520  Packet size:  672  Remaining buffer:  672  Incoming time:  1476  Packet tx time:  1520
+Current time:  1523  Packet size:  2116  Remaining buffer:  378  Incoming time:  1483  Packet tx time:  1520
+Current time:  1529  Packet size:  4998  Remaining buffer:  178  Incoming time:  1489  Packet tx time:  1523
+Current time:  1536  Packet size:  4996  Remaining buffer:  846  Incoming time:  1497  Packet tx time:  1529
+Current time:  1539  Packet size:  2114  Remaining buffer:  358  Incoming time:  1504  Packet tx time:  1536
+Current time:  1543  Packet size:  3462  Remaining buffer:  362  Incoming time:  1509  Packet tx time:  1539
+SR1 time:  1566 False True
+SR progress is True
+Pend:  [1543, 1566]
+Current time:  1568  Packet size:  2  Remaining buffer:  2  Incoming time:  1561  Packet tx time:  1568
+Tx:  [1428, 1543] [[1353, 1379], [1428, 1543]]
+SR1 time:  1606 True True
+SR1 time:  1611 True True
+Current time:  1613  Packet size:  2  Remaining buffer:  2  Incoming time:  1604  Packet tx time:  1613
+SR subframe number:  None
+SR RB slots:  None None
+Ul BW:  0.0
+Ul BW utilized:  0.0
+RSSI list:  []
+Certain message type(s) missing in the provided log.
+Three way latency:  139
+Total pending latency:  23
+Total blank latency:  10197
+Total first byte latency:  28
+Total tx latency:  143
+[[1401, 1428]]
+[[1379, 1401], [1543, 1566]]
+[[1437, 1394], [1613, 1604]]
+[[1353, 1379], [1428, 1543]]

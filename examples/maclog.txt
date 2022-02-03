@@ -1,0 +1,2638 @@
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Connected_Mode_Intra_Freq_Meas
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Serv_Cell_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Connected_Mode_Neighbor_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Inter_RAT_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_Inter_RAT_CDMA_Measurement
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUSCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Buffer_Status_Internal
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_PHY_PUCCH_Tx_Report
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Enable LTE_MAC_UL_Tx_Statistics
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: STARTED: 1622817753.3654585
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading 0604_rlc/diag_log_20210604_232731.mi2log
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Loading: 1622817753.3655548
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:21.557759 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized0
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:21.738854 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized0
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:22.002761 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized0
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:22.102802 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized6
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:25.105684 PUSCH UL grant: received=575 bytes used=144 bytes utilization=25.04% total utilized150
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:25.205678 PUSCH UL grant: received=24157 bytes used=16770 bytes utilization=69.42% total utilized16920
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:25.305681 PUSCH UL grant: received=43437 bytes used=30203 bytes utilization=69.53% total utilized47123
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:25.405370 PUSCH UL grant: received=36033 bytes used=35893 bytes utilization=99.61% total utilized83016
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:25.505352 PUSCH UL grant: received=173022 bytes used=173022 bytes utilization=100.0% total utilized256038
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:25.605339 PUSCH UL grant: received=164816 bytes used=164816 bytes utilization=100.0% total utilized420854
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:25.705476 PUSCH UL grant: received=178530 bytes used=178530 bytes utilization=100.0% total utilized599384
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:25.805353 PUSCH UL grant: received=200996 bytes used=200996 bytes utilization=100.0% total utilized800380
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:25.905352 PUSCH UL grant: received=177208 bytes used=177208 bytes utilization=100.0% total utilized977588
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:26.005342 PUSCH UL grant: received=188460 bytes used=188460 bytes utilization=100.0% total utilized1166048
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:26.105345 PUSCH UL grant: received=165443 bytes used=165443 bytes utilization=100.0% total utilized1331491
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:26.205358 PUSCH UL grant: received=165284 bytes used=165284 bytes utilization=100.0% total utilized1496775
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:26.305356 PUSCH UL grant: received=185295 bytes used=185295 bytes utilization=100.0% total utilized1682070
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:26.405343 PUSCH UL grant: received=233370 bytes used=233370 bytes utilization=100.0% total utilized1915440
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:26.505335 PUSCH UL grant: received=236001 bytes used=220961 bytes utilization=93.63% total utilized2136401
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:26.605678 PUSCH UL grant: received=5260 bytes used=20 bytes utilization=0.38% total utilized2136421
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:26.705680 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136421
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:26.859616 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136421
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:27.114623 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136421
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:27.332001 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136421
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:27.475686 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136421
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:27.575684 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136421
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:27.678875 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136421
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:28.044338 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136421
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:28.401755 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136421
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:28.779634 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized2136427
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:28.879633 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136427
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:29.072892 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136427
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:29.726747 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized2136433
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:29.826756 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136433
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:30.009405 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136433
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:30.381263 PUSCH UL grant: received=105 bytes used=6 bytes utilization=5.71% total utilized2136439
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:30.481754 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136439
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:30.667818 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136439
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:31.047827 PUSCH UL grant: received=249 bytes used=6 bytes utilization=2.41% total utilized2136445
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:31.147019 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136445
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:31.302806 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136445
+[32m[1m[INFO][0m[0m[1m [SchedulingLatencyAnalyzer][0m: 2021-06-04 14:27:31.595682 PUSCH UL grant: received=0 bytes used=0 bytes utilization=0% total utilized2136445
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Decoding_inter: 0.003019094467163086
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: sending_inter: 0.1266930103302002
+[32m[1m[INFO][0m[0m[1m [OfflineReplayer][0m: Offline replay is completed.
+sec 0 10239
+5133  Granted size:  249.0  Txed size:  0.0  Buffer size:  0.0
+5214 SR
+5219 SR
+5221  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0
+5226  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0
+5246  Buffer size:  12.0
+5247  Buffer size:  12.0
+5248  Buffer size:  12.0
+5249  Buffer size:  12.0
+5250  Buffer size:  12.0
+5251  Buffer size:  12.0
+5252  Buffer size:  12.0
+8128  Granted size:  7.0  Txed size:  0.0  Buffer size:  0.0
+8149 SR
+8154 SR
+8156  Granted size:  22.0  Txed size:  12.0  Buffer size:  0.0
+8161  Granted size:  22.0  Txed size:  0.0  Buffer size:  0.0
+8177  Buffer size:  2.0
+8178  Buffer size:  2.0
+8179  Buffer size:  9.0
+8180  Buffer size:  9.0
+8181  Buffer size:  9.0
+8182  Buffer size:  9.0
+8183  Buffer size:  9.0
+8184 SR
+8184  Buffer size:  9.0
+8185  Buffer size:  9.0
+8186  Granted size:  22.0  Txed size:  9.0  Buffer size:  0.0
+8191  Granted size:  97.0  Txed size:  0.0  Buffer size:  0.0
+8194 SR
+8195  Buffer size:  62.0
+8196  Buffer size:  62.0
+8197  Buffer size:  62.0
+8198  Buffer size:  62.0
+8199  Buffer size:  62.0
+8200  Buffer size:  62.0
+8201  Granted size:  101.0  Txed size:  62.0  Buffer size:  0.0
+8206  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0
+8219 SR
+8224 SR
+8226  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0
+8231  Granted size:  101.0  Txed size:  0.0  Buffer size:  0.0
+8237  Buffer size:  2.0
+8238  Buffer size:  2.0
+8239  Buffer size:  2.0
+8240  Buffer size:  2.0
+8241  Buffer size:  134.0
+8242  Buffer size:  3018.0
+8243  Buffer size:  13112.0
+8244 SR
+8244  Buffer size:  13112.0
+8245  Buffer size:  13112.0
+8246  Buffer size:  13026.0
+8246  Granted size:  97.0  Txed size:  86.0  Buffer size:  13026.0
+8247  Buffer size:  13026.0
+8248  Buffer size:  13026.0
+8249  Buffer size:  13026.0
+8250  Buffer size:  13026.0
+8251  Buffer size:  12936.0
+8251  Granted size:  97.0  Txed size:  90.0  Buffer size:  12936.0
+8252  Buffer size:  12936.0
+8253  Buffer size:  12936.0
+8254  Buffer size:  12936.0
+8255  Buffer size:  12936.0
+8256  Buffer size:  12250.0
+8256  Granted size:  693.0  Txed size:  686.0  Buffer size:  12250.0
+8257  Buffer size:  11784.0
+8257  Granted size:  469.0  Txed size:  466.0  Buffer size:  11784.0
+8258  Buffer size:  11168.0
+8258  Granted size:  621.0  Txed size:  616.0  Buffer size:  11168.0
+8259  Buffer size:  10478.0
+8259  Granted size:  693.0  Txed size:  690.0  Buffer size:  10478.0
+8260  Buffer size:  9910.0
+8260  Granted size:  573.0  Txed size:  568.0  Buffer size:  9910.0
+8261  Buffer size:  9342.0
+8261  Granted size:  573.0  Txed size:  568.0  Buffer size:  9342.0
+8262  Buffer size:  8652.0
+8262  Granted size:  693.0  Txed size:  690.0  Buffer size:  8652.0
+8263  Buffer size:  7962.0
+8263  Granted size:  693.0  Txed size:  690.0  Buffer size:  7962.0
+8264  Buffer size:  7272.0
+8264  Granted size:  693.0  Txed size:  690.0  Buffer size:  7272.0
+8265  Buffer size:  6704.0
+8265  Granted size:  573.0  Txed size:  568.0  Buffer size:  6704.0
+8266  Buffer size:  6090.0
+8266  Granted size:  621.0  Txed size:  614.0  Buffer size:  6090.0
+8267  Buffer size:  5474.0
+8267  Granted size:  621.0  Txed size:  616.0  Buffer size:  5474.0
+8268  Buffer size:  4702.0
+8268  Granted size:  775.0  Txed size:  772.0  Buffer size:  4702.0
+8269  Buffer size:  3932.0
+8269  Granted size:  775.0  Txed size:  770.0  Buffer size:  3932.0
+8270  Buffer size:  3160.0
+8270  Granted size:  775.0  Txed size:  772.0  Buffer size:  3160.0
+8271  Buffer size:  2450.0
+8271  Granted size:  717.0  Txed size:  710.0  Buffer size:  2450.0
+8272  Buffer size:  1582.0
+8272  Granted size:  871.0  Txed size:  868.0  Buffer size:  1582.0
+8273  Buffer size:  716.0
+8273  Granted size:  871.0  Txed size:  866.0  Buffer size:  716.0
+8274  Granted size:  871.0  Txed size:  716.0  Buffer size:  0.0
+8275  Granted size:  871.0  Txed size:  0.0  Buffer size:  0.0
+8276  Granted size:  871.0  Txed size:  0.0  Buffer size:  0.0
+8277  Granted size:  597.0  Txed size:  0.0  Buffer size:  0.0
+8278  Buffer size:  2.0
+8278  Granted size:  871.0  Txed size:  0.0  Buffer size:  2.0
+8279  Granted size:  871.0  Txed size:  2.0  Buffer size:  0.0
+8280  Granted size:  871.0  Txed size:  0.0  Buffer size:  0.0
+8281  Granted size:  717.0  Txed size:  0.0  Buffer size:  0.0
+8282  Granted size:  717.0  Txed size:  0.0  Buffer size:  0.0
+8283  Granted size:  775.0  Txed size:  0.0  Buffer size:  0.0
+8286  Buffer size:  2884.0
+8287  Buffer size:  2884.0
+8288  Buffer size:  2884.0
+8289 SR
+8289  Buffer size:  2884.0
+8290  Buffer size:  5768.0
+8291  Buffer size:  5768.0
+8292  Buffer size:  5768.0
+8293  Buffer size:  5768.0
+8294 SR
+8294  Buffer size:  5768.0
+8295  Buffer size:  5768.0
+8296  Buffer size:  11446.0
+8296  Granted size:  101.0  Txed size:  0.0  Buffer size:  11446.0
+8297  Buffer size:  14330.0
+8298  Buffer size:  14330.0
+8299  Buffer size:  14330.0
+8300  Buffer size:  14330.0
+8301  Buffer size:  14234.0
+8301  Granted size:  101.0  Txed size:  96.0  Buffer size:  14234.0
+8302  Buffer size:  17118.0
+8303  Buffer size:  22886.0
+8304  Buffer size:  22886.0
+8305  Buffer size:  22886.0
+8306  Buffer size:  27886.0
+8306  Granted size:  775.0  Txed size:  0.0  Buffer size:  27886.0
+8307  Buffer size:  27222.0
+8307  Granted size:  669.0  Txed size:  664.0  Buffer size:  27222.0
+8308  Buffer size:  26354.0
+8308  Granted size:  871.0  Txed size:  868.0  Buffer size:  26354.0
+8309  Buffer size:  25488.0
+8309  Granted size:  871.0  Txed size:  866.0  Buffer size:  25488.0
+8310  Buffer size:  25450.0
+8310  Granted size:  41.0  Txed size:  38.0  Buffer size:  25450.0
+8311  Buffer size:  25450.0
+8312  Buffer size:  25450.0
+8313  Buffer size:  25450.0
+8314  Buffer size:  25414.0
+8314  Granted size:  41.0  Txed size:  36.0  Buffer size:  25414.0
+8315  Buffer size:  25376.0
+8315  Granted size:  41.0  Txed size:  38.0  Buffer size:  25376.0
+8316  Buffer size:  25344.0
+8316  Granted size:  41.0  Txed size:  32.0  Buffer size:  25344.0
+8317  Buffer size:  25344.0
+8318  Buffer size:  25344.0
+8318  Granted size:  41.0  Txed size:  0.0  Buffer size:  25344.0
+8319  Buffer size:  24704.0
+8319  Granted size:  645.0  Txed size:  640.0  Buffer size:  24704.0
+8320  Buffer size:  24670.0
+8320  Granted size:  37.0  Txed size:  34.0  Buffer size:  24670.0
+8321  Buffer size:  24596.0
+8321  Granted size:  77.0  Txed size:  74.0  Buffer size:  24596.0
+8322  Buffer size:  24596.0
+8322  Granted size:  41.0  Txed size:  0.0  Buffer size:  24596.0
+8323  Buffer size:  24596.0
+8323  Granted size:  41.0  Txed size:  0.0  Buffer size:  24596.0
+8324  Buffer size:  24596.0
+8324  Granted size:  41.0  Txed size:  0.0  Buffer size:  24596.0
+8325  Buffer size:  23982.0
+8325  Granted size:  621.0  Txed size:  614.0  Buffer size:  23982.0
+8326  Buffer size:  23982.0
+8326  Granted size:  41.0  Txed size:  0.0  Buffer size:  23982.0
+8327  Buffer size:  23438.0
+8327  Granted size:  549.0  Txed size:  544.0  Buffer size:  23438.0
+8328  Buffer size:  23438.0
+8328  Granted size:  37.0  Txed size:  0.0  Buffer size:  23438.0
+8329  Buffer size:  22926.0
+8329  Granted size:  517.0  Txed size:  512.0  Buffer size:  22926.0
+8330  Buffer size:  22926.0
+8330  Granted size:  41.0  Txed size:  0.0  Buffer size:  22926.0
+8331  Buffer size:  22926.0
+8331  Granted size:  41.0  Txed size:  0.0  Buffer size:  22926.0
+8332  Buffer size:  22926.0
+8332  Granted size:  41.0  Txed size:  0.0  Buffer size:  22926.0
+8333  Buffer size:  22494.0
+8333  Granted size:  437.0  Txed size:  432.0  Buffer size:  22494.0
+8334  Buffer size:  22494.0
+8334  Granted size:  41.0  Txed size:  0.0  Buffer size:  22494.0
+8335  Buffer size:  22062.0
+8335  Granted size:  437.0  Txed size:  432.0  Buffer size:  22062.0
+8336  Buffer size:  22062.0
+8336  Granted size:  37.0  Txed size:  0.0  Buffer size:  22062.0
+8337  Buffer size:  24564.0
+8337  Granted size:  389.0  Txed size:  0.0  Buffer size:  24564.0
+8338  Buffer size:  24564.0
+8338  Granted size:  41.0  Txed size:  0.0  Buffer size:  24564.0
+8339  Buffer size:  24564.0
+8339  Granted size:  41.0  Txed size:  0.0  Buffer size:  24564.0
+8340  Buffer size:  24564.0
+8340  Granted size:  41.0  Txed size:  0.0  Buffer size:  24564.0
+8341  Buffer size:  24150.0
+8341  Granted size:  421.0  Txed size:  414.0  Buffer size:  24150.0
+8342  Buffer size:  24150.0
+8342  Granted size:  41.0  Txed size:  0.0  Buffer size:  24150.0
+8343  Buffer size:  23636.0
+8343  Granted size:  517.0  Txed size:  514.0  Buffer size:  23636.0
+8344  Buffer size:  25078.0
+8344  Granted size:  37.0  Txed size:  0.0  Buffer size:  25078.0
+8345  Buffer size:  24564.0
+8345  Granted size:  517.0  Txed size:  514.0  Buffer size:  24564.0
+8346  Buffer size:  24564.0
+8346  Granted size:  41.0  Txed size:  0.0  Buffer size:  24564.0
+8347  Buffer size:  24564.0
+8347  Granted size:  41.0  Txed size:  0.0  Buffer size:  24564.0
+8348  Buffer size:  24564.0
+8348  Granted size:  41.0  Txed size:  0.0  Buffer size:  24564.0
+8349  Buffer size:  24056.0
+8349  Granted size:  517.0  Txed size:  508.0  Buffer size:  24056.0
+8350  Buffer size:  23542.0
+8350  Granted size:  517.0  Txed size:  514.0  Buffer size:  23542.0
+8351  Buffer size:  23124.0
+8351  Granted size:  421.0  Txed size:  418.0  Buffer size:  23124.0
+8352  Buffer size:  23124.0
+8352  Granted size:  37.0  Txed size:  0.0  Buffer size:  23124.0
+8353  Buffer size:  22660.0
+8353  Granted size:  469.0  Txed size:  464.0  Buffer size:  22660.0
+8354  Buffer size:  22148.0
+8354  Granted size:  517.0  Txed size:  512.0  Buffer size:  22148.0
+8355  Buffer size:  21634.0
+8355  Granted size:  517.0  Txed size:  514.0  Buffer size:  21634.0
+8356  Buffer size:  21636.0
+8357  Buffer size:  21174.0
+8357  Granted size:  469.0  Txed size:  462.0  Buffer size:  21174.0
+8358  Buffer size:  20660.0
+8358  Granted size:  517.0  Txed size:  514.0  Buffer size:  20660.0
+8359  Buffer size:  20048.0
+8359  Granted size:  621.0  Txed size:  612.0  Buffer size:  20048.0
+8360  Buffer size:  19430.0
+8360  Granted size:  621.0  Txed size:  618.0  Buffer size:  19430.0
+8361  Buffer size:  18948.0
+8361  Granted size:  485.0  Txed size:  482.0  Buffer size:  18948.0
+8362  Buffer size:  18404.0
+8362  Granted size:  549.0  Txed size:  544.0  Buffer size:  18404.0
+8363  Buffer size:  17786.0
+8363  Granted size:  621.0  Txed size:  618.0  Buffer size:  17786.0
+8364  Buffer size:  17018.0
+8364  Granted size:  775.0  Txed size:  768.0  Buffer size:  17018.0
+8365  Buffer size:  16246.0
+8365  Granted size:  775.0  Txed size:  772.0  Buffer size:  16246.0
+8366  Buffer size:  15534.0
+8366  Granted size:  717.0  Txed size:  712.0  Buffer size:  15534.0
+8367  Buffer size:  14868.0
+8367  Granted size:  669.0  Txed size:  666.0  Buffer size:  14868.0
+8368  Buffer size:  14002.0
+8368  Granted size:  871.0  Txed size:  866.0  Buffer size:  14002.0
+8369  Buffer size:  13010.0
+8369  Granted size:  999.0  Txed size:  992.0  Buffer size:  13010.0
+8370  Buffer size:  12112.0
+8370  Granted size:  903.0  Txed size:  898.0  Buffer size:  12112.0
+8371  Buffer size:  11598.0
+8371  Granted size:  517.0  Txed size:  514.0  Buffer size:  11598.0
+8372  Buffer size:  10460.0
+8372  Granted size:  1143.0  Txed size:  1138.0  Buffer size:  10460.0
+8373  Buffer size:  9178.0
+8373  Granted size:  1287.0  Txed size:  1282.0  Buffer size:  9178.0
+8374  Buffer size:  7754.0
+8374  Granted size:  1431.0  Txed size:  1424.0  Buffer size:  7754.0
+8375  Buffer size:  6472.0
+8375  Granted size:  1287.0  Txed size:  1282.0  Buffer size:  6472.0
+8376  Buffer size:  5190.0
+8376  Granted size:  1287.0  Txed size:  1282.0  Buffer size:  5190.0
+8377  Buffer size:  3908.0
+8377  Granted size:  1287.0  Txed size:  1282.0  Buffer size:  3908.0
+8378  Buffer size:  2674.0
+8378  Granted size:  1239.0  Txed size:  1234.0  Buffer size:  2674.0
+8379  Buffer size:  1156.0
+8379  Granted size:  1527.0  Txed size:  1518.0  Buffer size:  1156.0
+8380  Granted size:  1527.0  Txed size:  1156.0  Buffer size:  0.0
+8381  Granted size:  1239.0  Txed size:  0.0  Buffer size:  0.0
+8382  Granted size:  1527.0  Txed size:  0.0  Buffer size:  0.0
+8383  Buffer size:  144.0
+8383  Granted size:  1383.0  Txed size:  0.0  Buffer size:  144.0
+8384  Granted size:  1527.0  Txed size:  144.0  Buffer size:  0.0
+8385  Granted size:  1527.0  Txed size:  0.0  Buffer size:  0.0
+8386  Granted size:  1287.0  Txed size:  0.0  Buffer size:  0.0
+8387  Granted size:  1479.0  Txed size:  0.0  Buffer size:  0.0
+8388  Granted size:  1620.0  Txed size:  0.0  Buffer size:  0.0
+8389  Granted size:  1479.0  Txed size:  0.0  Buffer size:  0.0
+8394  Granted size:  1287.0  Txed size:  0.0  Buffer size:  0.0
+8433  Buffer size:  34.0
+8434 SR
+8434  Buffer size:  34.0
+8435  Buffer size:  34.0
+8436  Buffer size:  34.0
+8437  Buffer size:  34.0
+8438  Buffer size:  34.0
+8439 SR
+8439  Buffer size:  34.0
+8440  Buffer size:  34.0
+8441  Granted size:  93.0  Txed size:  34.0  Buffer size:  0.0
+8446  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0
+8449  Granted size:  93.0  Txed size:  0.0  Buffer size:  0.0
+8467  Buffer size:  2.0
+8468  Buffer size:  2.0
+8469 SR
+8469  Buffer size:  2.0
+8470  Buffer size:  2886.0
+8471  Buffer size:  8654.0
+8472  Buffer size:  11538.0
+8473  Buffer size:  21632.0
+8474 SR
+8474  Buffer size:  30284.0
+8475  Buffer size:  38936.0
+8476  Buffer size:  47488.0
+8476  Granted size:  109.0  Txed size:  0.0  Buffer size:  47488.0
+8477  Buffer size:  53256.0
+8478  Buffer size:  56140.0
+8479  Buffer size:  59024.0
+8480  Buffer size:  59024.0
+8481  Buffer size:  58920.0
+8481  Granted size:  109.0  Txed size:  104.0  Buffer size:  58920.0
+8482  Buffer size:  58920.0
+8483  Buffer size:  58920.0
+8484  Buffer size:  58920.0
+8485  Buffer size:  58920.0
+8486  Buffer size:  57896.0
+8486  Granted size:  1031.0  Txed size:  1024.0  Buffer size:  57896.0
+8487  Buffer size:  56758.0
+8487  Granted size:  1143.0  Txed size:  1138.0  Buffer size:  56758.0
+8488  Buffer size:  55476.0
+8488  Granted size:  1287.0  Txed size:  1282.0  Buffer size:  55476.0
+8489  Buffer size:  54194.0
+8489  Granted size:  1287.0  Txed size:  1282.0  Buffer size:  54194.0
+8490  Buffer size:  52912.0
+8490  Granted size:  1287.0  Txed size:  1282.0  Buffer size:  52912.0
+8491  Buffer size:  51888.0
+8491  Granted size:  1031.0  Txed size:  1024.0  Buffer size:  51888.0
+8492  Buffer size:  50604.0
+8492  Granted size:  1287.0  Txed size:  1284.0  Buffer size:  50604.0
+8493  Buffer size:  49322.0
+8493  Granted size:  1287.0  Txed size:  1282.0  Buffer size:  49322.0
+8494  Buffer size:  48040.0
+8494  Granted size:  1287.0  Txed size:  1282.0  Buffer size:  48040.0
+8495  Buffer size:  46902.0
+8495  Granted size:  1143.0  Txed size:  1138.0  Buffer size:  46902.0
+8496  Buffer size:  45624.0
+8496  Granted size:  1287.0  Txed size:  1278.0  Buffer size:  45624.0
+8497  Buffer size:  44342.0
+8497  Granted size:  1287.0  Txed size:  1282.0  Buffer size:  44342.0
+8498  Buffer size:  43108.0
+8498  Granted size:  1239.0  Txed size:  1234.0  Buffer size:  43108.0
+8499  Buffer size:  41586.0
+8499  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  41586.0
+8500  Buffer size:  40208.0
+8500  Granted size:  1383.0  Txed size:  1378.0  Buffer size:  40208.0
+8501  Buffer size:  38974.0
+8501  Granted size:  1239.0  Txed size:  1234.0  Buffer size:  38974.0
+8502  Buffer size:  37453.0
+8502  Granted size:  1527.0  Txed size:  1521.0  Buffer size:  37453.0
+8503  Buffer size:  36217.0
+8503  Granted size:  1239.0  Txed size:  1236.0  Buffer size:  36217.0
+8504  Buffer size:  34695.0
+8504  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  34695.0
+8505  Buffer size:  33173.0
+8505  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  33173.0
+8506  Buffer size:  31895.0
+8506  Granted size:  1287.0  Txed size:  1278.0  Buffer size:  31895.0
+8507  Buffer size:  30615.0
+8507  Granted size:  1287.0  Txed size:  1280.0  Buffer size:  30615.0
+8508  Buffer size:  29239.0
+8508  Granted size:  1383.0  Txed size:  1376.0  Buffer size:  29239.0
+8509  Buffer size:  27717.0
+8509  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  27717.0
+8510  Buffer size:  31963.0
+8510  Granted size:  1527.0  Txed size:  0.0  Buffer size:  31963.0
+8511  Buffer size:  30731.0
+8511  Granted size:  1239.0  Txed size:  1232.0  Buffer size:  30731.0
+8512  Buffer size:  34977.0
+8512  Granted size:  1527.0  Txed size:  0.0  Buffer size:  34977.0
+8513  Buffer size:  39223.0
+8513  Granted size:  1527.0  Txed size:  0.0  Buffer size:  39223.0
+8514  Buffer size:  37701.0
+8514  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  37701.0
+8515  Buffer size:  36179.0
+8515  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  36179.0
+8516  Buffer size:  34661.0
+8516  Granted size:  1527.0  Txed size:  1518.0  Buffer size:  34661.0
+8517  Buffer size:  33283.0
+8517  Granted size:  1383.0  Txed size:  1378.0  Buffer size:  33283.0
+8518  Buffer size:  31761.0
+8518  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  31761.0
+8519  Buffer size:  30147.0
+8519  Granted size:  1620.0  Txed size:  1614.0  Buffer size:  30147.0
+8520  Buffer size:  28625.0
+8520  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  28625.0
+8521  Buffer size:  27393.0
+8521  Granted size:  1239.0  Txed size:  1232.0  Buffer size:  27393.0
+8522  Buffer size:  25871.0
+8522  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  25871.0
+8523  Buffer size:  24349.0
+8523  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  24349.0
+8524  Buffer size:  22827.0
+8524  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  22827.0
+8525  Buffer size:  21307.0
+8525  Granted size:  1527.0  Txed size:  1520.0  Buffer size:  21307.0
+8526  Buffer size:  19935.0
+8526  Granted size:  1383.0  Txed size:  1372.0  Buffer size:  19935.0
+8527  Buffer size:  18557.0
+8527  Granted size:  1383.0  Txed size:  1378.0  Buffer size:  18557.0
+8528  Buffer size:  17035.0
+8528  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  17035.0
+8529  Buffer size:  15513.0
+8529  Granted size:  1527.0  Txed size:  1522.0  Buffer size:  15513.0
+8530  Buffer size:  24085.0
+8530  Granted size:  1527.0  Txed size:  0.0  Buffer size:  24085.0
+8531  Buffer size:  31505.0
+8531  Granted size:  1239.0  Txed size:  0.0  Buffer size:  31505.0
+8532  Buffer size:  40077.0
+8532  Granted size:  1527.0  Txed size:  0.0  Buffer size:  40077.0
+8533  Buffer size:  50091.0
+8533  Granted size:  1527.0  Txed size:  0.0  Buffer size:  50091.0
+8534  Buffer size:  52802.0
+8534  Granted size:  1620.0  Txed size:  0.0  Buffer size:  52802.0
+8535  Buffer size:  55513.0
+8535  Granted size:  1620.0  Txed size:  0.0  Buffer size:  55513.0
+8536  Buffer size:  56786.0
+8536  Granted size:  1620.0  Txed size:  0.0  Buffer size:  56786.0
+8537  Buffer size:  58055.0
+8537  Granted size:  1620.0  Txed size:  0.0  Buffer size:  58055.0
+8538  Buffer size:  60766.0
+8538  Granted size:  1620.0  Txed size:  0.0  Buffer size:  60766.0
+8539  Buffer size:  61676.0
+8539  Granted size:  1980.0  Txed size:  0.0  Buffer size:  61676.0
+8540  Buffer size:  62585.0
+8540  Granted size:  1980.0  Txed size:  0.0  Buffer size:  62585.0
+8541  Buffer size:  66788.0
+8541  Granted size:  1572.0  Txed size:  0.0  Buffer size:  66788.0
+8542  Buffer size:  69140.0
+8542  Granted size:  1980.0  Txed size:  0.0  Buffer size:  69140.0
+8543  Buffer size:  71707.0
+8543  Granted size:  1764.0  Txed size:  0.0  Buffer size:  71707.0
+8544  Buffer size:  72616.0
+8544  Granted size:  1980.0  Txed size:  0.0  Buffer size:  72616.0
+8545  Buffer size:  74970.0
+8545  Granted size:  1980.0  Txed size:  0.0  Buffer size:  74970.0
+8546  Buffer size:  78985.0
+8546  Granted size:  1764.0  Txed size:  0.0  Buffer size:  78985.0
+8547  Buffer size:  82994.0
+8547  Granted size:  1764.0  Txed size:  0.0  Buffer size:  82994.0
+8548  Buffer size:  83903.0
+8548  Granted size:  1980.0  Txed size:  0.0  Buffer size:  83903.0
+8549  Buffer size:  84813.0
+8549  Granted size:  1980.0  Txed size:  0.0  Buffer size:  84813.0
+8550  Buffer size:  88822.0
+8550  Granted size:  1764.0  Txed size:  0.0  Buffer size:  88822.0
+8551  Buffer size:  90141.0
+8551  Granted size:  1572.0  Txed size:  0.0  Buffer size:  90141.0
+8552  Buffer size:  88166.0
+8552  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  88166.0
+8553  Buffer size:  94844.0
+8553  Granted size:  1980.0  Txed size:  0.0  Buffer size:  94844.0
+8554  Buffer size:  94167.0
+8554  Granted size:  2124.0  Txed size:  677.0  Buffer size:  94167.0
+8555  Buffer size:  95149.0
+8555  Granted size:  1908.0  Txed size:  0.0  Buffer size:  95149.0
+8556  Buffer size:  94476.0
+8556  Granted size:  2124.0  Txed size:  673.0  Buffer size:  94476.0
+8557  Buffer size:  92573.0
+8557  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  92573.0
+8558  Buffer size:  91897.0
+8558  Granted size:  2124.0  Txed size:  676.0  Buffer size:  91897.0
+8559  Buffer size:  99704.0
+8559  Granted size:  2292.0  Txed size:  0.0  Buffer size:  99704.0
+8560  Buffer size:  103354.0
+8560  Granted size:  2124.0  Txed size:  0.0  Buffer size:  103354.0
+8561  Buffer size:  101525.0
+8561  Granted size:  1836.0  Txed size:  1829.0  Buffer size:  101525.0
+8562  Buffer size:  99239.0
+8562  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  99239.0
+8563  Buffer size:  97336.0
+8563  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  97336.0
+8564  Buffer size:  95050.0
+8564  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  95050.0
+8565  Buffer size:  92763.0
+8565  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  92763.0
+8566  Buffer size:  92310.0
+8566  Granted size:  1908.0  Txed size:  453.0  Buffer size:  92310.0
+8567  Buffer size:  100286.0
+8567  Granted size:  2124.0  Txed size:  0.0  Buffer size:  100286.0
+8568  Buffer size:  105719.0
+8568  Granted size:  1836.0  Txed size:  0.0  Buffer size:  105719.0
+8569  Buffer size:  103435.0
+8569  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  103435.0
+8570  Buffer size:  101316.0
+8570  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  101316.0
+8571  Buffer size:  99200.0
+8571  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  99200.0
+8572  Buffer size:  96724.0
+8572  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  96724.0
+8573  Buffer size:  105881.0
+8573  Granted size:  2385.0  Txed size:  0.0  Buffer size:  105881.0
+8574  Buffer size:  113308.0
+8574  Granted size:  2673.0  Txed size:  0.0  Buffer size:  113308.0
+8575  Buffer size:  110641.0
+8575  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  110641.0
+8576  Buffer size:  108526.0
+8576  Granted size:  2124.0  Txed size:  2115.0  Buffer size:  108526.0
+8577  Buffer size:  106147.0
+8577  Granted size:  2385.0  Txed size:  2379.0  Buffer size:  106147.0
+8578  Buffer size:  103480.0
+8578  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  103480.0
+8579  Buffer size:  107806.0
+8579  Granted size:  2124.0  Txed size:  0.0  Buffer size:  107806.0
+8580  Buffer size:  120784.0
+8580  Granted size:  2481.0  Txed size:  0.0  Buffer size:  120784.0
+8581  Buffer size:  130878.0
+8582  Buffer size:  128761.0
+8582  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  128761.0
+8583  Buffer size:  128761.0
+8583  Granted size:  2673.0  Txed size:  0.0  Buffer size:  128761.0
+8584  Buffer size:  128761.0
+8584  Granted size:  2124.0  Txed size:  0.0  Buffer size:  128761.0
+8585  Buffer size:  128761.0
+8585  Granted size:  2385.0  Txed size:  0.0  Buffer size:  128761.0
+8586  Buffer size:  133089.0
+8586  Granted size:  2673.0  Txed size:  0.0  Buffer size:  133089.0
+8587  Buffer size:  148712.0
+8587  Granted size:  1692.0  Txed size:  0.0  Buffer size:  148712.0
+8588  Buffer size:  151136.0
+8588  Granted size:  1908.0  Txed size:  0.0  Buffer size:  151136.0
+8589  Buffer size:  151136.0
+8589  Granted size:  2385.0  Txed size:  0.0  Buffer size:  151136.0
+8590  Buffer size:  149377.0
+8590  Granted size:  1764.0  Txed size:  1759.0  Buffer size:  149377.0
+8591  Buffer size:  153314.0
+8591  Granted size:  1836.0  Txed size:  0.0  Buffer size:  153314.0
+8592  Buffer size:  162734.0
+8592  Granted size:  2124.0  Txed size:  0.0  Buffer size:  162734.0
+8593  Buffer size:  160615.0
+8593  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  160615.0
+8594  Buffer size:  158329.0
+8594  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  158329.0
+8595  Buffer size:  156042.0
+8595  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  156042.0
+8596  Buffer size:  153924.0
+8596  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  153924.0
+8597  Buffer size:  152025.0
+8597  Granted size:  1908.0  Txed size:  1899.0  Buffer size:  152025.0
+8598  Buffer size:  150122.0
+8598  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  150122.0
+8599  Buffer size:  150122.0
+8599  Granted size:  1836.0  Txed size:  0.0  Buffer size:  150122.0
+8600  Buffer size:  148292.0
+8600  Granted size:  1836.0  Txed size:  1830.0  Buffer size:  148292.0
+8601  Buffer size:  146605.0
+8601  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  146605.0
+8602  Buffer size:  148814.0
+8602  Granted size:  2124.0  Txed size:  0.0  Buffer size:  148814.0
+8603  Buffer size:  148354.0
+8603  Granted size:  1908.0  Txed size:  460.0  Buffer size:  148354.0
+8604  Buffer size:  146067.0
+8604  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  146067.0
+8605  Buffer size:  143781.0
+8605  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  143781.0
+8606  Buffer size:  141954.0
+8606  Granted size:  1836.0  Txed size:  1827.0  Buffer size:  141954.0
+8607  Buffer size:  139840.0
+8607  Granted size:  2124.0  Txed size:  2114.0  Buffer size:  139840.0
+8608  Buffer size:  137721.0
+8608  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  137721.0
+8609  Buffer size:  141203.0
+8609  Granted size:  2292.0  Txed size:  0.0  Buffer size:  141203.0
+8610  Buffer size:  147880.0
+8610  Granted size:  1980.0  Txed size:  0.0  Buffer size:  147880.0
+8611  Buffer size:  154701.0
+8611  Granted size:  1836.0  Txed size:  0.0  Buffer size:  154701.0
+8612  Buffer size:  162511.0
+8612  Granted size:  2292.0  Txed size:  0.0  Buffer size:  162511.0
+8613  Buffer size:  170318.0
+8613  Granted size:  2292.0  Txed size:  0.0  Buffer size:  170318.0
+8614  Buffer size:  175242.0
+8614  Granted size:  2292.0  Txed size:  0.0  Buffer size:  175242.0
+8615  Buffer size:  175242.0
+8616  Buffer size:  172956.0
+8616  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  172956.0
+8617  Buffer size:  170841.0
+8617  Granted size:  2124.0  Txed size:  2115.0  Buffer size:  170841.0
+8618  Buffer size:  174490.0
+8618  Granted size:  2124.0  Txed size:  0.0  Buffer size:  174490.0
+8619  Buffer size:  182298.0
+8619  Granted size:  2292.0  Txed size:  0.0  Buffer size:  182298.0
+8620  Buffer size:  188066.0
+8621  Buffer size:  189119.0
+8621  Granted size:  1836.0  Txed size:  0.0  Buffer size:  189119.0
+8622  Buffer size:  189887.0
+8622  Granted size:  2124.0  Txed size:  0.0  Buffer size:  189887.0
+8623  Buffer size:  193180.0
+8623  Granted size:  2481.0  Txed size:  0.0  Buffer size:  193180.0
+8624  Buffer size:  192146.0
+8624  Granted size:  2481.0  Txed size:  1034.0  Buffer size:  192146.0
+8625  Buffer size:  196472.0
+8626  Buffer size:  200644.0
+8626  Granted size:  161.0  Txed size:  0.0  Buffer size:  200644.0
+8627  Buffer size:  204970.0
+8628  Buffer size:  204514.0
+8628  Granted size:  1908.0  Txed size:  456.0  Buffer size:  204514.0
+8629  Buffer size:  207995.0
+8629  Granted size:  2292.0  Txed size:  0.0  Buffer size:  207995.0
+8630  Buffer size:  213661.0
+8630  Granted size:  105.0  Txed size:  0.0  Buffer size:  213661.0
+8631  Buffer size:  219429.0
+8632  Buffer size:  222211.0
+8632  Granted size:  105.0  Txed size:  0.0  Buffer size:  222211.0
+8633  Buffer size:  224637.0
+8633  Granted size:  1908.0  Txed size:  0.0  Buffer size:  224637.0
+8634  Buffer size:  227521.0
+8634  Granted size:  161.0  Txed size:  0.0  Buffer size:  227521.0
+8635  Buffer size:  234629.0
+8635  Granted size:  105.0  Txed size:  0.0  Buffer size:  234629.0
+8636  Buffer size:  234527.0
+8636  Granted size:  105.0  Txed size:  102.0  Buffer size:  234527.0
+8637  Buffer size:  238869.0
+8637  Granted size:  1431.0  Txed size:  0.0  Buffer size:  238869.0
+8638  Buffer size:  240311.0
+8638  Granted size:  105.0  Txed size:  0.0  Buffer size:  240311.0
+8639  Buffer size:  245622.0
+8639  Granted size:  1908.0  Txed size:  0.0  Buffer size:  245622.0
+8640  Buffer size:  245622.0
+8640  Granted size:  105.0  Txed size:  0.0  Buffer size:  245622.0
+8641  Buffer size:  251265.0
+8641  Granted size:  1572.0  Txed size:  0.0  Buffer size:  251265.0
+8642  Buffer size:  249147.0
+8642  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  249147.0
+8643  Buffer size:  253473.0
+8643  Granted size:  105.0  Txed size:  0.0  Buffer size:  253473.0
+8644  Buffer size:  260683.0
+8644  Granted size:  105.0  Txed size:  0.0  Buffer size:  260683.0
+8645  Buffer size:  258710.0
+8645  Granted size:  1980.0  Txed size:  1973.0  Buffer size:  258710.0
+8646  Buffer size:  264021.0
+8646  Granted size:  1908.0  Txed size:  0.0  Buffer size:  264021.0
+8647  Buffer size:  262119.0
+8647  Granted size:  1908.0  Txed size:  1902.0  Buffer size:  262119.0
+8648  Buffer size:  263274.0
+8648  Granted size:  1908.0  Txed size:  0.0  Buffer size:  263274.0
+8649  Buffer size:  261158.0
+8649  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  261158.0
+8650  Buffer size:  261158.0
+8651  Buffer size:  259329.0
+8651  Granted size:  1836.0  Txed size:  1829.0  Buffer size:  259329.0
+8652  Buffer size:  257042.0
+8652  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  257042.0
+8653  Buffer size:  255140.0
+8653  Granted size:  1908.0  Txed size:  1902.0  Buffer size:  255140.0
+8654  Buffer size:  258621.0
+8654  Granted size:  2292.0  Txed size:  0.0  Buffer size:  258621.0
+8655  Buffer size:  258621.0
+8656  Buffer size:  256337.0
+8656  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  256337.0
+8657  Buffer size:  254218.0
+8657  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  254218.0
+8658  Buffer size:  252100.0
+8658  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  252100.0
+8659  Buffer size:  254309.0
+8659  Granted size:  2124.0  Txed size:  0.0  Buffer size:  254309.0
+8660  Buffer size:  259957.0
+8661  Buffer size:  258129.0
+8661  Granted size:  1836.0  Txed size:  1828.0  Buffer size:  258129.0
+8662  Buffer size:  255842.0
+8662  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  255842.0
+8663  Buffer size:  253724.0
+8663  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  253724.0
+8664  Buffer size:  261531.0
+8664  Granted size:  2292.0  Txed size:  0.0  Buffer size:  261531.0
+8665  Buffer size:  265181.0
+8665  Granted size:  2124.0  Txed size:  0.0  Buffer size:  265181.0
+8666  Buffer size:  273162.0
+8666  Granted size:  2124.0  Txed size:  0.0  Buffer size:  273162.0
+8667  Buffer size:  277027.0
+8667  Granted size:  1908.0  Txed size:  0.0  Buffer size:  277027.0
+8668  Buffer size:  276351.0
+8668  Granted size:  2124.0  Txed size:  676.0  Buffer size:  276351.0
+8669  Buffer size:  274066.0
+8669  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  274066.0
+8670  Buffer size:  279590.0
+8670  Granted size:  1692.0  Txed size:  0.0  Buffer size:  279590.0
+8671  Buffer size:  277761.0
+8671  Granted size:  1836.0  Txed size:  1829.0  Buffer size:  277761.0
+8672  Buffer size:  281410.0
+8672  Granted size:  2124.0  Txed size:  0.0  Buffer size:  281410.0
+8673  Buffer size:  285060.0
+8673  Granted size:  2124.0  Txed size:  0.0  Buffer size:  285060.0
+8674  Buffer size:  285657.0
+8674  Granted size:  2292.0  Txed size:  0.0  Buffer size:  285657.0
+8675  Buffer size:  285657.0
+8676  Buffer size:  289309.0
+8676  Granted size:  2124.0  Txed size:  0.0  Buffer size:  289309.0
+8677  Buffer size:  292958.0
+8677  Granted size:  2124.0  Txed size:  0.0  Buffer size:  292958.0
+8678  Buffer size:  290672.0
+8678  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  290672.0
+8679  Buffer size:  288388.0
+8679  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  288388.0
+8680  Buffer size:  286269.0
+8680  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  286269.0
+8681  Buffer size:  290208.0
+8681  Granted size:  1836.0  Txed size:  0.0  Buffer size:  290208.0
+8682  Buffer size:  293858.0
+8682  Granted size:  2124.0  Txed size:  0.0  Buffer size:  293858.0
+8683  Buffer size:  291739.0
+8683  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  291739.0
+8684  Buffer size:  289453.0
+8684  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  289453.0
+8685  Buffer size:  287622.0
+8685  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  287622.0
+8686  Buffer size:  285725.0
+8686  Granted size:  1908.0  Txed size:  1897.0  Buffer size:  285725.0
+8687  Buffer size:  289207.0
+8687  Granted size:  2292.0  Txed size:  0.0  Buffer size:  289207.0
+8688  Buffer size:  295384.0
+8688  Granted size:  2481.0  Txed size:  0.0  Buffer size:  295384.0
+8689  Buffer size:  298678.0
+8689  Granted size:  2481.0  Txed size:  0.0  Buffer size:  298678.0
+8690  Buffer size:  296560.0
+8690  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  296560.0
+8691  Buffer size:  294587.0
+8691  Granted size:  1980.0  Txed size:  1973.0  Buffer size:  294587.0
+8692  Buffer size:  298237.0
+8692  Granted size:  2124.0  Txed size:  0.0  Buffer size:  298237.0
+8693  Buffer size:  308739.0
+8693  Granted size:  2481.0  Txed size:  0.0  Buffer size:  308739.0
+8694  Buffer size:  307706.0
+8694  Granted size:  2481.0  Txed size:  1033.0  Buffer size:  307706.0
+8695  Buffer size:  305732.0
+8695  Granted size:  1980.0  Txed size:  1974.0  Buffer size:  305732.0
+8696  Buffer size:  303258.0
+8696  Granted size:  2481.0  Txed size:  2474.0  Buffer size:  303258.0
+8697  Buffer size:  308566.0
+8697  Granted size:  1908.0  Txed size:  0.0  Buffer size:  308566.0
+8698  Buffer size:  311858.0
+8698  Granted size:  2481.0  Txed size:  0.0  Buffer size:  311858.0
+8699  Buffer size:  313300.0
+8699  Granted size:  1980.0  Txed size:  0.0  Buffer size:  313300.0
+8700  Buffer size:  311184.0
+8700  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  311184.0
+8701  Buffer size:  309211.0
+8701  Granted size:  1980.0  Txed size:  1973.0  Buffer size:  309211.0
+8702  Buffer size:  307093.0
+8702  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  307093.0
+8703  Buffer size:  310574.0
+8703  Granted size:  2292.0  Txed size:  0.0  Buffer size:  310574.0
+8704  Buffer size:  321077.0
+8704  Granted size:  2481.0  Txed size:  0.0  Buffer size:  321077.0
+8705  Buffer size:  332080.0
+8705  Granted size:  1980.0  Txed size:  0.0  Buffer size:  332080.0
+8706  Buffer size:  333524.0
+8706  Granted size:  2481.0  Txed size:  0.0  Buffer size:  333524.0
+8707  Buffer size:  337609.0
+8707  Granted size:  1692.0  Txed size:  0.0  Buffer size:  337609.0
+8708  Buffer size:  343975.0
+8708  Granted size:  2292.0  Txed size:  0.0  Buffer size:  343975.0
+8709  Buffer size:  343975.0
+8709  Granted size:  1980.0  Txed size:  0.0  Buffer size:  343975.0
+8710  Buffer size:  345579.0
+8710  Granted size:  1287.0  Txed size:  0.0  Buffer size:  345579.0
+8711  Buffer size:  345190.0
+8711  Granted size:  1836.0  Txed size:  389.0  Buffer size:  345190.0
+8712  Buffer size:  342906.0
+8712  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  342906.0
+8713  Buffer size:  340787.0
+8713  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  340787.0
+8714  Buffer size:  338501.0
+8714  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  338501.0
+8715  Buffer size:  338501.0
+8716  Buffer size:  336214.0
+8716  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  336214.0
+8717  Buffer size:  334098.0
+8717  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  334098.0
+8718  Buffer size:  331811.0
+8718  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  331811.0
+8719  Buffer size:  329693.0
+8719  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  329693.0
+8720  Buffer size:  339328.0
+8720  Granted size:  1908.0  Txed size:  0.0  Buffer size:  339328.0
+8721  Buffer size:  347448.0
+8721  Granted size:  1980.0  Txed size:  0.0  Buffer size:  347448.0
+8722  Buffer size:  346605.0
+8722  Granted size:  2292.0  Txed size:  843.0  Buffer size:  346605.0
+8723  Buffer size:  344702.0
+8723  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  344702.0
+8724  Buffer size:  342416.0
+8724  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  342416.0
+8725  Buffer size:  342416.0
+8726  Buffer size:  346285.0
+8726  Granted size:  1908.0  Txed size:  0.0  Buffer size:  346285.0
+8727  Buffer size:  344001.0
+8727  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  344001.0
+8728  Buffer size:  343157.0
+8728  Granted size:  2292.0  Txed size:  844.0  Buffer size:  343157.0
+8729  Buffer size:  347483.0
+8729  Granted size:  1980.0  Txed size:  0.0  Buffer size:  347483.0
+8730  Buffer size:  347483.0
+8731  Buffer size:  345798.0
+8731  Granted size:  1692.0  Txed size:  1685.0  Buffer size:  345798.0
+8732  Buffer size:  345555.0
+8732  Granted size:  1692.0  Txed size:  243.0  Buffer size:  345555.0
+8733  Buffer size:  343868.0
+8733  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  343868.0
+8734  Buffer size:  345065.0
+8734  Granted size:  1692.0  Txed size:  0.0  Buffer size:  345065.0
+8735  Buffer size:  346507.0
+8735  Granted size:  2292.0  Txed size:  0.0  Buffer size:  346507.0
+8736  Buffer size:  345081.0
+8736  Granted size:  1431.0  Txed size:  1426.0  Buffer size:  345081.0
+8737  Buffer size:  344958.0
+8737  Granted size:  1572.0  Txed size:  123.0  Buffer size:  344958.0
+8738  Buffer size:  344833.0
+8738  Granted size:  1572.0  Txed size:  125.0  Buffer size:  344833.0
+8739  Buffer size:  344708.0
+8739  Granted size:  1572.0  Txed size:  125.0  Buffer size:  344708.0
+8740  Buffer size:  344724.0
+8740  Granted size:  1431.0  Txed size:  0.0  Buffer size:  344724.0
+8741  Buffer size:  344602.0
+8741  Granted size:  1572.0  Txed size:  122.0  Buffer size:  344602.0
+8742  Buffer size:  342317.0
+8742  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  342317.0
+8743  Buffer size:  340031.0
+8743  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  340031.0
+8744  Buffer size:  337744.0
+8744  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  337744.0
+8745  Buffer size:  337744.0
+8746  Buffer size:  335462.0
+8746  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  335462.0
+8747  Buffer size:  333177.0
+8747  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  333177.0
+8748  Buffer size:  330702.0
+8748  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  330702.0
+8749  Buffer size:  328584.0
+8749  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  328584.0
+8750  Buffer size:  327942.0
+8750  Granted size:  645.0  Txed size:  642.0  Buffer size:  327942.0
+8751  Buffer size:  325969.0
+8751  Granted size:  1980.0  Txed size:  1973.0  Buffer size:  325969.0
+8752  Buffer size:  323496.0
+8752  Granted size:  2481.0  Txed size:  2473.0  Buffer size:  323496.0
+8753  Buffer size:  321021.0
+8753  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  321021.0
+8754  Buffer size:  330082.0
+8754  Granted size:  2481.0  Txed size:  0.0  Buffer size:  330082.0
+8755  Buffer size:  343060.0
+8755  Granted size:  2292.0  Txed size:  0.0  Buffer size:  343060.0
+8756  Buffer size:  346582.0
+8756  Granted size:  807.0  Txed size:  0.0  Buffer size:  346582.0
+8757  Buffer size:  347182.0
+8757  Granted size:  2292.0  Txed size:  0.0  Buffer size:  347182.0
+8758  Buffer size:  347182.0
+8758  Granted size:  645.0  Txed size:  0.0  Buffer size:  347182.0
+8759  Buffer size:  347182.0
+8759  Granted size:  1980.0  Txed size:  0.0  Buffer size:  347182.0
+8760  Buffer size:  347182.0
+8761  Buffer size:  346939.0
+8761  Granted size:  1692.0  Txed size:  243.0  Buffer size:  346939.0
+8762  Buffer size:  344655.0
+8762  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  344655.0
+8763  Buffer size:  347078.0
+8763  Granted size:  1908.0  Txed size:  0.0  Buffer size:  347078.0
+8764  Buffer size:  347078.0
+8764  Granted size:  807.0  Txed size:  0.0  Buffer size:  347078.0
+8765  Buffer size:  347078.0
+8765  Granted size:  2292.0  Txed size:  0.0  Buffer size:  347078.0
+8766  Buffer size:  346621.0
+8766  Granted size:  1908.0  Txed size:  457.0  Buffer size:  346621.0
+8767  Buffer size:  346162.0
+8767  Granted size:  1908.0  Txed size:  459.0  Buffer size:  346162.0
+8768  Buffer size:  344260.0
+8768  Granted size:  1908.0  Txed size:  1902.0  Buffer size:  344260.0
+8769  Buffer size:  342141.0
+8769  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  342141.0
+8770  Buffer size:  340382.0
+8770  Granted size:  1764.0  Txed size:  1759.0  Buffer size:  340382.0
+8771  Buffer size:  338554.0
+8771  Granted size:  1836.0  Txed size:  1828.0  Buffer size:  338554.0
+8772  Buffer size:  336269.0
+8772  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  336269.0
+8773  Buffer size:  334151.0
+8773  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  334151.0
+8774  Buffer size:  340684.0
+8774  Granted size:  2124.0  Txed size:  0.0  Buffer size:  340684.0
+8775  Buffer size:  341282.0
+8775  Granted size:  2292.0  Txed size:  0.0  Buffer size:  341282.0
+8776  Buffer size:  338995.0
+8776  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  338995.0
+8777  Buffer size:  336879.0
+8777  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  336879.0
+8778  Buffer size:  339086.0
+8778  Granted size:  2124.0  Txed size:  0.0  Buffer size:  339086.0
+8779  Buffer size:  344010.0
+8779  Granted size:  2292.0  Txed size:  0.0  Buffer size:  344010.0
+8780  Buffer size:  344775.0
+8780  Granted size:  2124.0  Txed size:  0.0  Buffer size:  344775.0
+8781  Buffer size:  342947.0
+8781  Granted size:  1836.0  Txed size:  1828.0  Buffer size:  342947.0
+8782  Buffer size:  340662.0
+8782  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  340662.0
+8783  Buffer size:  338376.0
+8783  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  338376.0
+8784  Buffer size:  336089.0
+8784  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  336089.0
+8785  Buffer size:  333971.0
+8785  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  333971.0
+8786  Buffer size:  339066.0
+8786  Granted size:  2124.0  Txed size:  0.0  Buffer size:  339066.0
+8787  Buffer size:  344160.0
+8787  Granted size:  2124.0  Txed size:  0.0  Buffer size:  344160.0
+8788  Buffer size:  346199.0
+8788  Granted size:  2292.0  Txed size:  0.0  Buffer size:  346199.0
+8789  Buffer size:  343913.0
+8789  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  343913.0
+8790  Buffer size:  341795.0
+8790  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  341795.0
+8791  Buffer size:  345878.0
+8791  Granted size:  1692.0  Txed size:  0.0  Buffer size:  345878.0
+8792  Buffer size:  345035.0
+8792  Granted size:  2292.0  Txed size:  843.0  Buffer size:  345035.0
+8793  Buffer size:  344359.0
+8793  Granted size:  2124.0  Txed size:  676.0  Buffer size:  344359.0
+8794  Buffer size:  347243.0
+8794  Granted size:  2124.0  Txed size:  0.0  Buffer size:  347243.0
+8795  Buffer size:  345340.0
+8795  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  345340.0
+8796  Buffer size:  343056.0
+8796  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  343056.0
+8797  Buffer size:  340939.0
+8797  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  340939.0
+8798  Buffer size:  346030.0
+8798  Granted size:  2124.0  Txed size:  0.0  Buffer size:  346030.0
+8799  Buffer size:  346796.0
+8799  Granted size:  2124.0  Txed size:  0.0  Buffer size:  346796.0
+8800  Buffer size:  346335.0
+8800  Granted size:  1908.0  Txed size:  461.0  Buffer size:  346335.0
+8801  Buffer size:  347391.0
+8801  Granted size:  1836.0  Txed size:  0.0  Buffer size:  347391.0
+8802  Buffer size:  346548.0
+8802  Granted size:  2292.0  Txed size:  843.0  Buffer size:  346548.0
+8803  Buffer size:  347314.0
+8803  Granted size:  2124.0  Txed size:  0.0  Buffer size:  347314.0
+8804  Buffer size:  345195.0
+8804  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  345195.0
+8805  Buffer size:  347235.0
+8805  Granted size:  2292.0  Txed size:  0.0  Buffer size:  347235.0
+8806  Buffer size:  345120.0
+8806  Granted size:  2124.0  Txed size:  2115.0  Buffer size:  345120.0
+8807  Buffer size:  347330.0
+8807  Granted size:  2124.0  Txed size:  0.0  Buffer size:  347330.0
+8808  Buffer size:  345043.0
+8808  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  345043.0
+8809  Buffer size:  342757.0
+8809  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  342757.0
+8810  Buffer size:  340638.0
+8810  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  340638.0
+8811  Buffer size:  338810.0
+8811  Granted size:  1836.0  Txed size:  1828.0  Buffer size:  338810.0
+8812  Buffer size:  336525.0
+8812  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  336525.0
+8813  Buffer size:  337291.0
+8813  Granted size:  2124.0  Txed size:  0.0  Buffer size:  337291.0
+8814  Buffer size:  344909.0
+8814  Granted size:  2481.0  Txed size:  0.0  Buffer size:  344909.0
+8815  Buffer size:  343876.0
+8815  Granted size:  2481.0  Txed size:  1033.0  Buffer size:  343876.0
+8816  Buffer size:  344285.0
+8816  Granted size:  2481.0  Txed size:  0.0  Buffer size:  344285.0
+8817  Buffer size:  343826.0
+8817  Granted size:  1908.0  Txed size:  459.0  Buffer size:  343826.0
+8818  Buffer size:  344235.0
+8818  Granted size:  2481.0  Txed size:  0.0  Buffer size:  344235.0
+8819  Buffer size:  344643.0
+8819  Granted size:  2481.0  Txed size:  0.0  Buffer size:  344643.0
+8820  Buffer size:  342741.0
+8820  Granted size:  1908.0  Txed size:  1902.0  Buffer size:  342741.0
+8821  Buffer size:  345382.0
+8821  Granted size:  1692.0  Txed size:  0.0  Buffer size:  345382.0
+8822  Buffer size:  344351.0
+8822  Granted size:  2481.0  Txed size:  1031.0  Buffer size:  344351.0
+8823  Buffer size:  341875.0
+8823  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  341875.0
+8824  Buffer size:  345168.0
+8824  Granted size:  2481.0  Txed size:  0.0  Buffer size:  345168.0
+8825  Buffer size:  346149.0
+8825  Granted size:  1908.0  Txed size:  0.0  Buffer size:  346149.0
+8826  Buffer size:  343867.0
+8826  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  343867.0
+8827  Buffer size:  344467.0
+8827  Granted size:  2292.0  Txed size:  0.0  Buffer size:  344467.0
+8828  Buffer size:  345064.0
+8828  Granted size:  2292.0  Txed size:  0.0  Buffer size:  345064.0
+8829  Buffer size:  344388.0
+8829  Granted size:  2124.0  Txed size:  676.0  Buffer size:  344388.0
+8830  Buffer size:  347170.0
+8830  Granted size:  105.0  Txed size:  0.0  Buffer size:  347170.0
+8831  Buffer size:  345197.0
+8831  Granted size:  1980.0  Txed size:  1973.0  Buffer size:  345197.0
+8832  Buffer size:  344166.0
+8832  Granted size:  2481.0  Txed size:  1031.0  Buffer size:  344166.0
+8833  Buffer size:  341879.0
+8833  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  341879.0
+8834  Buffer size:  344087.0
+8834  Granted size:  2124.0  Txed size:  0.0  Buffer size:  344087.0
+8835  Buffer size:  346225.0
+8835  Granted size:  749.0  Txed size:  0.0  Buffer size:  346225.0
+8836  Buffer size:  343750.0
+8836  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  343750.0
+8837  Buffer size:  342908.0
+8837  Granted size:  2292.0  Txed size:  842.0  Buffer size:  342908.0
+8838  Buffer size:  347234.0
+8838  Granted size:  105.0  Txed size:  0.0  Buffer size:  347234.0
+8839  Buffer size:  345115.0
+8839  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  345115.0
+8840  Buffer size:  347323.0
+8840  Granted size:  2124.0  Txed size:  0.0  Buffer size:  347323.0
+8841  Buffer size:  346792.0
+8841  Granted size:  1980.0  Txed size:  531.0  Buffer size:  346792.0
+8842  Buffer size:  344319.0
+8842  Granted size:  2481.0  Txed size:  2473.0  Buffer size:  344319.0
+8843  Buffer size:  346526.0
+8843  Granted size:  2124.0  Txed size:  0.0  Buffer size:  346526.0
+8844  Buffer size:  344408.0
+8844  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  344408.0
+8845  Buffer size:  341932.0
+8845  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  341932.0
+8846  Buffer size:  339650.0
+8846  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  339650.0
+8847  Buffer size:  337366.0
+8847  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  337366.0
+8848  Buffer size:  346426.0
+8848  Granted size:  2481.0  Txed size:  0.0  Buffer size:  346426.0
+8849  Buffer size:  347192.0
+8849  Granted size:  2124.0  Txed size:  0.0  Buffer size:  347192.0
+8850  Buffer size:  345073.0
+8850  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  345073.0
+8851  Buffer size:  343101.0
+8851  Granted size:  1980.0  Txed size:  1972.0  Buffer size:  343101.0
+8852  Buffer size:  346395.0
+8852  Granted size:  2481.0  Txed size:  0.0  Buffer size:  346395.0
+8853  Buffer size:  346804.0
+8853  Granted size:  2481.0  Txed size:  0.0  Buffer size:  346804.0
+8854  Buffer size:  347213.0
+8854  Granted size:  2481.0  Txed size:  0.0  Buffer size:  347213.0
+8855  Buffer size:  346179.0
+8855  Granted size:  2481.0  Txed size:  1034.0  Buffer size:  346179.0
+8856  Buffer size:  346588.0
+8856  Granted size:  2481.0  Txed size:  0.0  Buffer size:  346588.0
+8857  Buffer size:  344304.0
+8857  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  344304.0
+8858  Buffer size:  342017.0
+8858  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  342017.0
+8859  Buffer size:  339542.0
+8859  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  339542.0
+8860  Buffer size:  337424.0
+8860  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  337424.0
+8861  Buffer size:  343959.0
+8861  Granted size:  2124.0  Txed size:  0.0  Buffer size:  343959.0
+8862  Buffer size:  344178.0
+8862  Granted size:  2673.0  Txed size:  0.0  Buffer size:  344178.0
+8863  Buffer size:  344682.0
+8863  Granted size:  2385.0  Txed size:  0.0  Buffer size:  344682.0
+8864  Buffer size:  346341.0
+8864  Granted size:  2673.0  Txed size:  0.0  Buffer size:  346341.0
+8865  Buffer size:  346750.0
+8865  Granted size:  2481.0  Txed size:  0.0  Buffer size:  346750.0
+8866  Buffer size:  344375.0
+8866  Granted size:  2385.0  Txed size:  2375.0  Buffer size:  344375.0
+8867  Buffer size:  341997.0
+8867  Granted size:  2385.0  Txed size:  2378.0  Buffer size:  341997.0
+8868  Buffer size:  342214.0
+8868  Granted size:  2673.0  Txed size:  0.0  Buffer size:  342214.0
+8869  Buffer size:  343873.0
+8869  Granted size:  2673.0  Txed size:  0.0  Buffer size:  343873.0
+8870  Buffer size:  344638.0
+8870  Granted size:  2124.0  Txed size:  0.0  Buffer size:  344638.0
+8871  Buffer size:  342665.0
+8871  Granted size:  1980.0  Txed size:  1973.0  Buffer size:  342665.0
+8872  Buffer size:  346991.0
+8872  Granted size:  2673.0  Txed size:  0.0  Buffer size:  346991.0
+8873  Buffer size:  344326.0
+8873  Granted size:  2673.0  Txed size:  2665.0  Buffer size:  344326.0
+8874  Buffer size:  344543.0
+8874  Granted size:  2673.0  Txed size:  0.0  Buffer size:  344543.0
+8875  Buffer size:  347427.0
+8875  Granted size:  2385.0  Txed size:  0.0  Buffer size:  347427.0
+8876  Buffer size:  347427.0
+8876  Granted size:  2673.0  Txed size:  0.0  Buffer size:  347427.0
+8877  Buffer size:  345524.0
+8877  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  345524.0
+8878  Buffer size:  344493.0
+8878  Granted size:  2481.0  Txed size:  1031.0  Buffer size:  344493.0
+8879  Buffer size:  345935.0
+8879  Granted size:  1980.0  Txed size:  0.0  Buffer size:  345935.0
+8880  Buffer size:  346700.0
+8880  Granted size:  2124.0  Txed size:  0.0  Buffer size:  346700.0
+8881  Buffer size:  346700.0
+8882  Buffer size:  344584.0
+8882  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  344584.0
+8883  Buffer size:  342467.0
+8883  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  342467.0
+8884  Buffer size:  344318.0
+8884  Granted size:  2481.0  Txed size:  0.0  Buffer size:  344318.0
+8885  Buffer size:  346357.0
+8885  Granted size:  2292.0  Txed size:  0.0  Buffer size:  346357.0
+8886  Buffer size:  344459.0
+8886  Granted size:  1908.0  Txed size:  1898.0  Buffer size:  344459.0
+8887  Buffer size:  346498.0
+8887  Granted size:  2292.0  Txed size:  0.0  Buffer size:  346498.0
+8888  Buffer size:  345656.0
+8888  Granted size:  2292.0  Txed size:  842.0  Buffer size:  345656.0
+8889  Buffer size:  347098.0
+8889  Granted size:  2673.0  Txed size:  0.0  Buffer size:  347098.0
+8890  Buffer size:  346637.0
+8890  Granted size:  1908.0  Txed size:  461.0  Buffer size:  346637.0
+8891  Buffer size:  346104.0
+8891  Granted size:  1980.0  Txed size:  533.0  Buffer size:  346104.0
+8892  Buffer size:  343631.0
+8892  Granted size:  2481.0  Txed size:  2473.0  Buffer size:  343631.0
+8893  Buffer size:  341347.0
+8893  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  341347.0
+8894  Buffer size:  344639.0
+8894  Granted size:  2481.0  Txed size:  0.0  Buffer size:  344639.0
+8895  Buffer size:  347279.0
+8895  Granted size:  1692.0  Txed size:  0.0  Buffer size:  347279.0
+8896  Buffer size:  346245.0
+8896  Granted size:  2481.0  Txed size:  1034.0  Buffer size:  346245.0
+8897  Buffer size:  346843.0
+8897  Granted size:  2292.0  Txed size:  0.0  Buffer size:  346843.0
+8898  Buffer size:  344559.0
+8898  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  344559.0
+8899  Buffer size:  344559.0
+8899  Granted size:  1980.0  Txed size:  0.0  Buffer size:  344559.0
+8900  Buffer size:  342872.0
+8900  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  342872.0
+8901  Buffer size:  345223.0
+8901  Granted size:  1980.0  Txed size:  0.0  Buffer size:  345223.0
+8902  Buffer size:  344192.0
+8902  Granted size:  2481.0  Txed size:  1031.0  Buffer size:  344192.0
+8903  Buffer size:  341719.0
+8903  Granted size:  2481.0  Txed size:  2473.0  Buffer size:  341719.0
+8904  Buffer size:  339243.0
+8904  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  339243.0
+8905  Buffer size:  339243.0
+8905  Granted size:  2292.0  Txed size:  0.0  Buffer size:  339243.0
+8906  Buffer size:  339245.0
+8906  Granted size:  2292.0  Txed size:  0.0  Buffer size:  339245.0
+8907  Buffer size:  337129.0
+8907  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  337129.0
+8908  Buffer size:  335012.0
+8908  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  335012.0
+8909  Buffer size:  332726.0
+8909  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  332726.0
+8910  Buffer size:  337817.0
+8910  Granted size:  2124.0  Txed size:  0.0  Buffer size:  337817.0
+8911  Buffer size:  343340.0
+8911  Granted size:  1692.0  Txed size:  0.0  Buffer size:  343340.0
+8912  Buffer size:  343751.0
+8912  Granted size:  2481.0  Txed size:  0.0  Buffer size:  343751.0
+8913  Buffer size:  344162.0
+8913  Granted size:  2481.0  Txed size:  0.0  Buffer size:  344162.0
+8914  Buffer size:  344571.0
+8914  Granted size:  2481.0  Txed size:  0.0  Buffer size:  344571.0
+8915  Buffer size:  347455.0
+8916  Buffer size:  344979.0
+8916  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  344979.0
+8917  Buffer size:  344135.0
+8917  Granted size:  2292.0  Txed size:  844.0  Buffer size:  344135.0
+8918  Buffer size:  344546.0
+8918  Granted size:  2481.0  Txed size:  0.0  Buffer size:  344546.0
+8919  Buffer size:  342427.0
+8919  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  342427.0
+8920  Buffer size:  346753.0
+8921  Buffer size:  344778.0
+8921  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  344778.0
+8922  Buffer size:  343747.0
+8922  Granted size:  2481.0  Txed size:  1031.0  Buffer size:  343747.0
+8923  Buffer size:  343288.0
+8923  Granted size:  1908.0  Txed size:  459.0  Buffer size:  343288.0
+8924  Buffer size:  343288.0
+8924  Granted size:  2481.0  Txed size:  0.0  Buffer size:  343288.0
+8925  Buffer size:  343288.0
+8925  Granted size:  2292.0  Txed size:  0.0  Buffer size:  343288.0
+8926  Buffer size:  341390.0
+8926  Granted size:  1908.0  Txed size:  1898.0  Buffer size:  341390.0
+8927  Buffer size:  341390.0
+8928  Buffer size:  346483.0
+8928  Granted size:  2124.0  Txed size:  0.0  Buffer size:  346483.0
+8929  Buffer size:  346483.0
+8929  Granted size:  1980.0  Txed size:  0.0  Buffer size:  346483.0
+8930  Buffer size:  345009.0
+8930  Granted size:  1479.0  Txed size:  1474.0  Buffer size:  345009.0
+8931  Buffer size:  343179.0
+8931  Granted size:  1836.0  Txed size:  1830.0  Buffer size:  343179.0
+8932  Buffer size:  340894.0
+8932  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  340894.0
+8933  Buffer size:  342936.0
+8933  Granted size:  2292.0  Txed size:  0.0  Buffer size:  342936.0
+8934  Buffer size:  343701.0
+8934  Granted size:  2124.0  Txed size:  0.0  Buffer size:  343701.0
+8935  Buffer size:  343576.0
+8935  Granted size:  1572.0  Txed size:  125.0  Buffer size:  343576.0
+8936  Buffer size:  341290.0
+8936  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  341290.0
+8937  Buffer size:  339171.0
+8937  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  339171.0
+8938  Buffer size:  336887.0
+8938  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  336887.0
+8939  Buffer size:  334600.0
+8939  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  334600.0
+8940  Buffer size:  332626.0
+8940  Granted size:  1980.0  Txed size:  1974.0  Buffer size:  332626.0
+8941  Buffer size:  330795.0
+8941  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  330795.0
+8942  Buffer size:  328511.0
+8942  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  328511.0
+8943  Buffer size:  328511.0
+8943  Granted size:  1572.0  Txed size:  0.0  Buffer size:  328511.0
+8944  Buffer size:  327836.0
+8944  Granted size:  2124.0  Txed size:  675.0  Buffer size:  327836.0
+8945  Buffer size:  325718.0
+8945  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  325718.0
+8946  Buffer size:  327929.0
+8946  Granted size:  2124.0  Txed size:  0.0  Buffer size:  327929.0
+8947  Buffer size:  325811.0
+8947  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  325811.0
+8948  Buffer size:  323692.0
+8948  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  323692.0
+8949  Buffer size:  323692.0
+8949  Granted size:  1836.0  Txed size:  0.0  Buffer size:  323692.0
+8950  Buffer size:  326117.0
+8950  Granted size:  1908.0  Txed size:  0.0  Buffer size:  326117.0
+8951  Buffer size:  330199.0
+8951  Granted size:  1692.0  Txed size:  0.0  Buffer size:  330199.0
+8952  Buffer size:  327914.0
+8952  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  327914.0
+8953  Buffer size:  325796.0
+8953  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  325796.0
+8954  Buffer size:  323509.0
+8954  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  323509.0
+8955  Buffer size:  321225.0
+8955  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  321225.0
+8956  Buffer size:  318938.0
+8956  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  318938.0
+8957  Buffer size:  318478.0
+8957  Granted size:  1908.0  Txed size:  460.0  Buffer size:  318478.0
+8958  Buffer size:  319243.0
+8958  Granted size:  2124.0  Txed size:  0.0  Buffer size:  319243.0
+8959  Buffer size:  316957.0
+8959  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  316957.0
+8960  Buffer size:  316957.0
+8961  Buffer size:  315128.0
+8961  Granted size:  1836.0  Txed size:  1829.0  Buffer size:  315128.0
+8962  Buffer size:  312844.0
+8962  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  312844.0
+8963  Buffer size:  310725.0
+8963  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  310725.0
+8964  Buffer size:  308439.0
+8964  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  308439.0
+8965  Buffer size:  306152.0
+8965  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  306152.0
+8966  Buffer size:  304040.0
+8966  Granted size:  2124.0  Txed size:  2112.0  Buffer size:  304040.0
+8967  Buffer size:  307905.0
+8967  Granted size:  1908.0  Txed size:  0.0  Buffer size:  307905.0
+8968  Buffer size:  307061.0
+8968  Granted size:  2292.0  Txed size:  844.0  Buffer size:  307061.0
+8969  Buffer size:  306216.0
+8969  Granted size:  2292.0  Txed size:  845.0  Buffer size:  306216.0
+8970  Buffer size:  304790.0
+8970  Granted size:  1431.0  Txed size:  1426.0  Buffer size:  304790.0
+8971  Buffer size:  302961.0
+8971  Granted size:  1836.0  Txed size:  1829.0  Buffer size:  302961.0
+8972  Buffer size:  300488.0
+8972  Granted size:  2481.0  Txed size:  2473.0  Buffer size:  300488.0
+8973  Buffer size:  299812.0
+8973  Granted size:  2124.0  Txed size:  676.0  Buffer size:  299812.0
+8974  Buffer size:  303104.0
+8974  Granted size:  2481.0  Txed size:  0.0  Buffer size:  303104.0
+8975  Buffer size:  308872.0
+8976  Buffer size:  310725.0
+8976  Granted size:  2481.0  Txed size:  0.0  Buffer size:  310725.0
+8977  Buffer size:  308439.0
+8977  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  308439.0
+8978  Buffer size:  305963.0
+8978  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  305963.0
+8979  Buffer size:  303845.0
+8979  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  303845.0
+8980  Buffer size:  306268.0
+8980  Granted size:  1908.0  Txed size:  0.0  Buffer size:  306268.0
+8981  Buffer size:  308621.0
+8981  Granted size:  1980.0  Txed size:  0.0  Buffer size:  308621.0
+8982  Buffer size:  306148.0
+8982  Granted size:  2481.0  Txed size:  2473.0  Buffer size:  306148.0
+8983  Buffer size:  303673.0
+8983  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  303673.0
+8984  Buffer size:  301198.0
+8984  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  301198.0
+8985  Buffer size:  302640.0
+8985  Granted size:  2292.0  Txed size:  0.0  Buffer size:  302640.0
+8986  Buffer size:  306511.0
+8986  Granted size:  1908.0  Txed size:  0.0  Buffer size:  306511.0
+8987  Buffer size:  304225.0
+8987  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  304225.0
+8988  Buffer size:  302250.0
+8988  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  302250.0
+8989  Buffer size:  299775.0
+8989  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  299775.0
+8990  Buffer size:  297656.0
+8990  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  297656.0
+8991  Buffer size:  297656.0
+8992  Buffer size:  299868.0
+8992  Granted size:  2124.0  Txed size:  0.0  Buffer size:  299868.0
+8993  Buffer size:  300465.0
+8993  Granted size:  2292.0  Txed size:  0.0  Buffer size:  300465.0
+8994  Buffer size:  298491.0
+8994  Granted size:  1980.0  Txed size:  1974.0  Buffer size:  298491.0
+8995  Buffer size:  298491.0
+8995  Granted size:  2292.0  Txed size:  0.0  Buffer size:  298491.0
+8996  Buffer size:  298491.0
+8996  Granted size:  1980.0  Txed size:  0.0  Buffer size:  298491.0
+8997  Buffer size:  298320.0
+8997  Granted size:  1620.0  Txed size:  171.0  Buffer size:  298320.0
+8998  Buffer size:  301801.0
+8998  Granted size:  2292.0  Txed size:  0.0  Buffer size:  301801.0
+8999  Buffer size:  301801.0
+8999  Granted size:  2481.0  Txed size:  0.0  Buffer size:  301801.0
+9000  Buffer size:  301801.0
+9001  Buffer size:  299970.0
+9001  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  299970.0
+9002  Buffer size:  297856.0
+9002  Granted size:  2124.0  Txed size:  2114.0  Buffer size:  297856.0
+9003  Buffer size:  295737.0
+9003  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  295737.0
+9004  Buffer size:  294051.0
+9004  Granted size:  1692.0  Txed size:  1686.0  Buffer size:  294051.0
+9005  Buffer size:  296589.0
+9005  Granted size:  349.0  Txed size:  0.0  Buffer size:  296589.0
+9006  Buffer size:  301684.0
+9006  Granted size:  2124.0  Txed size:  0.0  Buffer size:  301684.0
+9007  Buffer size:  299568.0
+9007  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  299568.0
+9008  Buffer size:  297281.0
+9008  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  297281.0
+9009  Buffer size:  294995.0
+9009  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  294995.0
+9010  Buffer size:  293308.0
+9010  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  293308.0
+9011  Buffer size:  291477.0
+9011  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  291477.0
+9012  Buffer size:  289651.0
+9012  Granted size:  1836.0  Txed size:  1826.0  Buffer size:  289651.0
+9013  Buffer size:  289651.0
+9013  Granted size:  349.0  Txed size:  0.0  Buffer size:  289651.0
+9014  Buffer size:  287748.0
+9014  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  287748.0
+9015  Buffer size:  285845.0
+9015  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  285845.0
+9016  Buffer size:  283943.0
+9016  Granted size:  1908.0  Txed size:  1902.0  Buffer size:  283943.0
+9017  Buffer size:  281826.0
+9017  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  281826.0
+9018  Buffer size:  279708.0
+9018  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  279708.0
+9019  Buffer size:  282592.0
+9019  Granted size:  1836.0  Txed size:  0.0  Buffer size:  282592.0
+9020  Buffer size:  286793.0
+9020  Granted size:  1572.0  Txed size:  0.0  Buffer size:  286793.0
+9021  Buffer size:  289288.0
+9021  Granted size:  1836.0  Txed size:  0.0  Buffer size:  289288.0
+9022  Buffer size:  294383.0
+9022  Granted size:  2124.0  Txed size:  0.0  Buffer size:  294383.0
+9023  Buffer size:  295149.0
+9023  Granted size:  2124.0  Txed size:  0.0  Buffer size:  295149.0
+9024  Buffer size:  293030.0
+9024  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  293030.0
+9025  Buffer size:  291200.0
+9025  Granted size:  1836.0  Txed size:  1830.0  Buffer size:  291200.0
+9026  Buffer size:  289085.0
+9026  Granted size:  2124.0  Txed size:  2115.0  Buffer size:  289085.0
+9027  Buffer size:  286968.0
+9027  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  286968.0
+9028  Buffer size:  284682.0
+9028  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  284682.0
+9029  Buffer size:  282396.0
+9029  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  282396.0
+9030  Buffer size:  280781.0
+9030  Granted size:  1620.0  Txed size:  1615.0  Buffer size:  280781.0
+9031  Buffer size:  278950.0
+9031  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  278950.0
+9032  Buffer size:  276668.0
+9032  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  276668.0
+9033  Buffer size:  277649.0
+9033  Granted size:  1908.0  Txed size:  0.0  Buffer size:  277649.0
+9034  Buffer size:  279856.0
+9034  Granted size:  2124.0  Txed size:  0.0  Buffer size:  279856.0
+9035  Buffer size:  277738.0
+9035  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  277738.0
+9036  Buffer size:  275619.0
+9036  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  275619.0
+9037  Buffer size:  273503.0
+9037  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  273503.0
+9038  Buffer size:  271384.0
+9038  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  271384.0
+9039  Buffer size:  269482.0
+9039  Granted size:  1908.0  Txed size:  1902.0  Buffer size:  269482.0
+9040  Buffer size:  277673.0
+9040  Granted size:  1908.0  Txed size:  0.0  Buffer size:  277673.0
+9041  Buffer size:  282908.0
+9041  Granted size:  1980.0  Txed size:  0.0  Buffer size:  282908.0
+9042  Buffer size:  280626.0
+9042  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  280626.0
+9043  Buffer size:  284491.0
+9043  Granted size:  1908.0  Txed size:  0.0  Buffer size:  284491.0
+9044  Buffer size:  282016.0
+9044  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  282016.0
+9045  Buffer size:  282614.0
+9045  Granted size:  2292.0  Txed size:  0.0  Buffer size:  282614.0
+9046  Buffer size:  280499.0
+9046  Granted size:  2124.0  Txed size:  2115.0  Buffer size:  280499.0
+9047  Buffer size:  282924.0
+9047  Granted size:  1908.0  Txed size:  0.0  Buffer size:  282924.0
+9048  Buffer size:  280449.0
+9048  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  280449.0
+9049  Buffer size:  283742.0
+9049  Granted size:  2481.0  Txed size:  0.0  Buffer size:  283742.0
+9050  Buffer size:  281839.0
+9050  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  281839.0
+9051  Buffer size:  279864.0
+9051  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  279864.0
+9052  Buffer size:  282076.0
+9052  Granted size:  2124.0  Txed size:  0.0  Buffer size:  282076.0
+9053  Buffer size:  283518.0
+9053  Granted size:  2292.0  Txed size:  0.0  Buffer size:  283518.0
+9054  Buffer size:  281231.0
+9054  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  281231.0
+9055  Buffer size:  282673.0
+9056  Buffer size:  286539.0
+9056  Granted size:  1908.0  Txed size:  0.0  Buffer size:  286539.0
+9057  Buffer size:  284254.0
+9057  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  284254.0
+9058  Buffer size:  281968.0
+9058  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  281968.0
+9059  Buffer size:  287736.0
+9059  Granted size:  1980.0  Txed size:  0.0  Buffer size:  287736.0
+9060  Buffer size:  287736.0
+9061  Buffer size:  286049.0
+9061  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  286049.0
+9062  Buffer size:  289535.0
+9062  Granted size:  2292.0  Txed size:  0.0  Buffer size:  289535.0
+9063  Buffer size:  288501.0
+9063  Granted size:  2481.0  Txed size:  1034.0  Buffer size:  288501.0
+9064  Buffer size:  287468.0
+9064  Granted size:  2481.0  Txed size:  1033.0  Buffer size:  287468.0
+9065  Buffer size:  285184.0
+9065  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  285184.0
+9066  Buffer size:  285184.0
+9067  Buffer size:  282901.0
+9067  Granted size:  2292.0  Txed size:  2283.0  Buffer size:  282901.0
+9068  Buffer size:  280615.0
+9068  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  280615.0
+9069  Buffer size:  278140.0
+9069  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  278140.0
+9070  Buffer size:  276021.0
+9070  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  276021.0
+9071  Buffer size:  274046.0
+9071  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  274046.0
+9072  Buffer size:  271575.0
+9072  Granted size:  2481.0  Txed size:  2471.0  Buffer size:  271575.0
+9073  Buffer size:  269672.0
+9073  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  269672.0
+9074  Buffer size:  273154.0
+9074  Granted size:  2292.0  Txed size:  0.0  Buffer size:  273154.0
+9075  Buffer size:  278078.0
+9075  Granted size:  2292.0  Txed size:  0.0  Buffer size:  278078.0
+9076  Buffer size:  275791.0
+9076  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  275791.0
+9077  Buffer size:  273507.0
+9077  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  273507.0
+9078  Buffer size:  271220.0
+9078  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  271220.0
+9079  Buffer size:  271220.0
+9079  Granted size:  1980.0  Txed size:  0.0  Buffer size:  271220.0
+9080  Buffer size:  269462.0
+9080  Granted size:  1764.0  Txed size:  1758.0  Buffer size:  269462.0
+9081  Buffer size:  267631.0
+9081  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  267631.0
+9082  Buffer size:  265516.0
+9082  Granted size:  2124.0  Txed size:  2115.0  Buffer size:  265516.0
+9083  Buffer size:  263398.0
+9083  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  263398.0
+9084  Buffer size:  261279.0
+9084  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  261279.0
+9085  Buffer size:  261279.0
+9085  Granted size:  2292.0  Txed size:  0.0  Buffer size:  261279.0
+9086  Buffer size:  258997.0
+9086  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  258997.0
+9087  Buffer size:  256712.0
+9087  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  256712.0
+9088  Buffer size:  254594.0
+9088  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  254594.0
+9089  Buffer size:  257478.0
+9089  Granted size:  1836.0  Txed size:  0.0  Buffer size:  257478.0
+9090  Buffer size:  269779.0
+9090  Granted size:  2124.0  Txed size:  0.0  Buffer size:  269779.0
+9091  Buffer size:  275159.0
+9091  Granted size:  1836.0  Txed size:  0.0  Buffer size:  275159.0
+9092  Buffer size:  281528.0
+9092  Granted size:  2292.0  Txed size:  0.0  Buffer size:  281528.0
+9093  Buffer size:  279410.0
+9093  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  279410.0
+9094  Buffer size:  277291.0
+9094  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  277291.0
+9095  Buffer size:  277291.0
+9095  Granted size:  2292.0  Txed size:  0.0  Buffer size:  277291.0
+9096  Buffer size:  275173.0
+9096  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  275173.0
+9097  Buffer size:  273056.0
+9097  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  273056.0
+9098  Buffer size:  270938.0
+9098  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  270938.0
+9099  Buffer size:  271919.0
+9099  Granted size:  1908.0  Txed size:  0.0  Buffer size:  271919.0
+9100  Buffer size:  277226.0
+9100  Granted size:  1908.0  Txed size:  0.0  Buffer size:  277226.0
+9101  Buffer size:  278280.0
+9101  Granted size:  1836.0  Txed size:  0.0  Buffer size:  278280.0
+9102  Buffer size:  276165.0
+9102  Granted size:  2124.0  Txed size:  2115.0  Buffer size:  276165.0
+9103  Buffer size:  274046.0
+9103  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  274046.0
+9104  Buffer size:  271760.0
+9104  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  271760.0
+9105  Buffer size:  269642.0
+9105  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  269642.0
+9106  Buffer size:  274737.0
+9106  Granted size:  2124.0  Txed size:  0.0  Buffer size:  274737.0
+9107  Buffer size:  272620.0
+9107  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  272620.0
+9108  Buffer size:  270502.0
+9108  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  270502.0
+9109  Buffer size:  268383.0
+9109  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  268383.0
+9110  Buffer size:  270591.0
+9110  Granted size:  2124.0  Txed size:  0.0  Buffer size:  270591.0
+9111  Buffer size:  274384.0
+9111  Granted size:  1980.0  Txed size:  0.0  Buffer size:  274384.0
+9112  Buffer size:  271913.0
+9112  Granted size:  2481.0  Txed size:  2471.0  Buffer size:  271913.0
+9113  Buffer size:  269627.0
+9113  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  269627.0
+9114  Buffer size:  267340.0
+9114  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  267340.0
+9115  Buffer size:  265437.0
+9115  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  265437.0
+9116  Buffer size:  271803.0
+9116  Granted size:  2292.0  Txed size:  0.0  Buffer size:  271803.0
+9117  Buffer size:  278171.0
+9117  Granted size:  2292.0  Txed size:  0.0  Buffer size:  278171.0
+9118  Buffer size:  281652.0
+9118  Granted size:  2292.0  Txed size:  0.0  Buffer size:  281652.0
+9119  Buffer size:  281652.0
+9119  Granted size:  1980.0  Txed size:  0.0  Buffer size:  281652.0
+9120  Buffer size:  282633.0
+9120  Granted size:  1908.0  Txed size:  0.0  Buffer size:  282633.0
+9121  Buffer size:  283543.0
+9121  Granted size:  1980.0  Txed size:  0.0  Buffer size:  283543.0
+9122  Buffer size:  281260.0
+9122  Granted size:  2292.0  Txed size:  2283.0  Buffer size:  281260.0
+9123  Buffer size:  279142.0
+9123  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  279142.0
+9124  Buffer size:  281349.0
+9124  Granted size:  2124.0  Txed size:  0.0  Buffer size:  281349.0
+9125  Buffer size:  283389.0
+9125  Granted size:  2292.0  Txed size:  0.0  Buffer size:  283389.0
+9126  Buffer size:  281107.0
+9126  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  281107.0
+9127  Buffer size:  281706.0
+9127  Granted size:  2292.0  Txed size:  0.0  Buffer size:  281706.0
+9128  Buffer size:  282472.0
+9128  Granted size:  2124.0  Txed size:  0.0  Buffer size:  282472.0
+9129  Buffer size:  282472.0
+9129  Granted size:  1980.0  Txed size:  0.0  Buffer size:  282472.0
+9130  Buffer size:  282011.0
+9130  Granted size:  1908.0  Txed size:  461.0  Buffer size:  282011.0
+9131  Buffer size:  281478.0
+9131  Granted size:  1980.0  Txed size:  533.0  Buffer size:  281478.0
+9132  Buffer size:  279007.0
+9132  Granted size:  2481.0  Txed size:  2471.0  Buffer size:  279007.0
+9133  Buffer size:  279007.0
+9133  Granted size:  2292.0  Txed size:  0.0  Buffer size:  279007.0
+9134  Buffer size:  279007.0
+9134  Granted size:  2292.0  Txed size:  0.0  Buffer size:  279007.0
+9135  Buffer size:  279007.0
+9135  Granted size:  2292.0  Txed size:  0.0  Buffer size:  279007.0
+9136  Buffer size:  277104.0
+9136  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  277104.0
+9137  Buffer size:  275204.0
+9137  Granted size:  1908.0  Txed size:  1900.0  Buffer size:  275204.0
+9138  Buffer size:  273301.0
+9138  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  273301.0
+9139  Buffer size:  271398.0
+9139  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  271398.0
+9140  Buffer size:  272840.0
+9140  Granted size:  2481.0  Txed size:  0.0  Buffer size:  272840.0
+9141  Buffer size:  279805.0
+9141  Granted size:  1692.0  Txed size:  0.0  Buffer size:  279805.0
+9142  Buffer size:  288001.0
+9142  Granted size:  1908.0  Txed size:  0.0  Buffer size:  288001.0
+9143  Buffer size:  296192.0
+9143  Granted size:  1908.0  Txed size:  0.0  Buffer size:  296192.0
+9144  Buffer size:  302941.0
+9144  Granted size:  1908.0  Txed size:  0.0  Buffer size:  302941.0
+9145  Buffer size:  306591.0
+9145  Granted size:  2124.0  Txed size:  0.0  Buffer size:  306591.0
+9146  Buffer size:  305918.0
+9146  Granted size:  2124.0  Txed size:  673.0  Buffer size:  305918.0
+9147  Buffer size:  309570.0
+9147  Granted size:  2124.0  Txed size:  0.0  Buffer size:  309570.0
+9148  Buffer size:  311777.0
+9148  Granted size:  2124.0  Txed size:  0.0  Buffer size:  311777.0
+9149  Buffer size:  313985.0
+9149  Granted size:  2124.0  Txed size:  0.0  Buffer size:  313985.0
+9150  Buffer size:  316869.0
+9151  Buffer size:  320950.0
+9151  Granted size:  1692.0  Txed size:  0.0  Buffer size:  320950.0
+9152  Buffer size:  320110.0
+9152  Granted size:  2292.0  Txed size:  840.0  Buffer size:  320110.0
+9153  Buffer size:  322317.0
+9153  Granted size:  2124.0  Txed size:  0.0  Buffer size:  322317.0
+9154  Buffer size:  324524.0
+9154  Granted size:  2124.0  Txed size:  0.0  Buffer size:  324524.0
+9155  Buffer size:  326948.0
+9155  Granted size:  1908.0  Txed size:  0.0  Buffer size:  326948.0
+9156  Buffer size:  327713.0
+9156  Granted size:  2124.0  Txed size:  0.0  Buffer size:  327713.0
+9157  Buffer size:  328481.0
+9157  Granted size:  2124.0  Txed size:  0.0  Buffer size:  328481.0
+9158  Buffer size:  332130.0
+9158  Granted size:  2124.0  Txed size:  0.0  Buffer size:  332130.0
+9159  Buffer size:  332896.0
+9159  Granted size:  2124.0  Txed size:  0.0  Buffer size:  332896.0
+9160  Buffer size:  334021.0
+9160  Granted size:  1764.0  Txed size:  0.0  Buffer size:  334021.0
+9161  Buffer size:  336516.0
+9161  Granted size:  1836.0  Txed size:  0.0  Buffer size:  336516.0
+9162  Buffer size:  338728.0
+9162  Granted size:  2124.0  Txed size:  0.0  Buffer size:  338728.0
+9163  Buffer size:  338267.0
+9163  Granted size:  1908.0  Txed size:  461.0  Buffer size:  338267.0
+9164  Buffer size:  341916.0
+9164  Granted size:  2124.0  Txed size:  0.0  Buffer size:  341916.0
+9165  Buffer size:  342516.0
+9165  Granted size:  2292.0  Txed size:  0.0  Buffer size:  342516.0
+9166  Buffer size:  344725.0
+9166  Granted size:  2124.0  Txed size:  0.0  Buffer size:  344725.0
+9167  Buffer size:  344051.0
+9167  Granted size:  2124.0  Txed size:  674.0  Buffer size:  344051.0
+9168  Buffer size:  344816.0
+9168  Granted size:  2124.0  Txed size:  0.0  Buffer size:  344816.0
+9169  Buffer size:  346258.0
+9169  Granted size:  1836.0  Txed size:  0.0  Buffer size:  346258.0
+9170  Buffer size:  344140.0
+9170  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  344140.0
+9171  Buffer size:  345193.0
+9171  Granted size:  1836.0  Txed size:  0.0  Buffer size:  345193.0
+9172  Buffer size:  343079.0
+9172  Granted size:  2124.0  Txed size:  2114.0  Buffer size:  343079.0
+9173  Buffer size:  347280.0
+9173  Granted size:  1572.0  Txed size:  0.0  Buffer size:  347280.0
+9174  Buffer size:  347155.0
+9174  Granted size:  1572.0  Txed size:  125.0  Buffer size:  347155.0
+9175  Buffer size:  347030.0
+9175  Granted size:  1572.0  Txed size:  125.0  Buffer size:  347030.0
+9176  Buffer size:  347046.0
+9176  Granted size:  1431.0  Txed size:  0.0  Buffer size:  347046.0
+9177  Buffer size:  346923.0
+9177  Granted size:  1572.0  Txed size:  123.0  Buffer size:  346923.0
+9178  Buffer size:  346798.0
+9178  Granted size:  1572.0  Txed size:  125.0  Buffer size:  346798.0
+9179  Buffer size:  346673.0
+9179  Granted size:  1572.0  Txed size:  125.0  Buffer size:  346673.0
+9180  Buffer size:  346785.0
+9180  Granted size:  1335.0  Txed size:  0.0  Buffer size:  346785.0
+9181  Buffer size:  345218.0
+9181  Granted size:  1572.0  Txed size:  1567.0  Buffer size:  345218.0
+9182  Buffer size:  343655.0
+9182  Granted size:  1572.0  Txed size:  1563.0  Buffer size:  343655.0
+9183  Buffer size:  341537.0
+9183  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  341537.0
+9184  Buffer size:  339250.0
+9184  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  339250.0
+9185  Buffer size:  339140.0
+9185  Granted size:  113.0  Txed size:  110.0  Buffer size:  339140.0
+9186  Buffer size:  339142.0
+9187  Buffer size:  337244.0
+9187  Granted size:  1908.0  Txed size:  1898.0  Buffer size:  337244.0
+9188  Buffer size:  334768.0
+9188  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  334768.0
+9189  Buffer size:  333735.0
+9189  Granted size:  2481.0  Txed size:  1033.0  Buffer size:  333735.0
+9190  Buffer size:  340843.0
+9190  Granted size:  105.0  Txed size:  0.0  Buffer size:  340843.0
+9191  Buffer size:  340843.0
+9192  Buffer size:  345939.0
+9192  Granted size:  2124.0  Txed size:  0.0  Buffer size:  345939.0
+9193  Buffer size:  347381.0
+9193  Granted size:  113.0  Txed size:  0.0  Buffer size:  347381.0
+9194  Buffer size:  345262.0
+9194  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  345262.0
+9195  Buffer size:  346602.0
+9195  Granted size:  105.0  Txed size:  0.0  Buffer size:  346602.0
+9196  Buffer size:  345176.0
+9196  Granted size:  1431.0  Txed size:  1426.0  Buffer size:  345176.0
+9197  Buffer size:  346159.0
+9197  Granted size:  1908.0  Txed size:  0.0  Buffer size:  346159.0
+9198  Buffer size:  346159.0
+9198  Granted size:  105.0  Txed size:  0.0  Buffer size:  346159.0
+9199  Buffer size:  344041.0
+9199  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  344041.0
+9200  Buffer size:  342426.0
+9200  Granted size:  1620.0  Txed size:  1615.0  Buffer size:  342426.0
+9201  Buffer size:  345310.0
+9201  Granted size:  113.0  Txed size:  0.0  Buffer size:  345310.0
+9202  Buffer size:  344638.0
+9202  Granted size:  2124.0  Txed size:  672.0  Buffer size:  344638.0
+9203  Buffer size:  347522.0
+9203  Granted size:  105.0  Txed size:  0.0  Buffer size:  347522.0
+9204  Buffer size:  345403.0
+9204  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  345403.0
+9205  Buffer size:  343284.0
+9205  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  343284.0
+9206  Buffer size:  341386.0
+9206  Granted size:  1908.0  Txed size:  1898.0  Buffer size:  341386.0
+9207  Buffer size:  339485.0
+9207  Granted size:  1908.0  Txed size:  1901.0  Buffer size:  339485.0
+9208  Buffer size:  337199.0
+9208  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  337199.0
+9209  Buffer size:  334912.0
+9209  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  334912.0
+9210  Buffer size:  332794.0
+9210  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  332794.0
+9211  Buffer size:  332794.0
+9211  Granted size:  105.0  Txed size:  0.0  Buffer size:  332794.0
+9212  Buffer size:  330511.0
+9212  Granted size:  2292.0  Txed size:  2283.0  Buffer size:  330511.0
+9213  Buffer size:  328393.0
+9213  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  328393.0
+9214  Buffer size:  326106.0
+9214  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  326106.0
+9215  Buffer size:  323820.0
+9215  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  323820.0
+9216  Buffer size:  321534.0
+9216  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  321534.0
+9217  Buffer size:  319417.0
+9217  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  319417.0
+9218  Buffer size:  317298.0
+9218  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  317298.0
+9219  Buffer size:  315012.0
+9219  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  315012.0
+9220  Buffer size:  313109.0
+9220  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  313109.0
+9221  Buffer size:  317191.0
+9221  Granted size:  1692.0  Txed size:  0.0  Buffer size:  317191.0
+9222  Buffer size:  323560.0
+9222  Granted size:  2292.0  Txed size:  0.0  Buffer size:  323560.0
+9223  Buffer size:  330094.0
+9223  Granted size:  2124.0  Txed size:  0.0  Buffer size:  330094.0
+9224  Buffer size:  327807.0
+9224  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  327807.0
+9225  Buffer size:  325521.0
+9225  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  325521.0
+9226  Buffer size:  323238.0
+9226  Granted size:  2292.0  Txed size:  2283.0  Buffer size:  323238.0
+9227  Buffer size:  320954.0
+9227  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  320954.0
+9228  Buffer size:  318479.0
+9228  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  318479.0
+9229  Buffer size:  316003.0
+9229  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  316003.0
+9230  Buffer size:  315901.0
+9230  Granted size:  105.0  Txed size:  102.0  Buffer size:  315901.0
+9231  Buffer size:  315901.0
+9232  Buffer size:  323881.0
+9232  Granted size:  2124.0  Txed size:  0.0  Buffer size:  323881.0
+9233  Buffer size:  332533.0
+9233  Granted size:  2292.0  Txed size:  0.0  Buffer size:  332533.0
+9234  Buffer size:  343752.0
+9234  Granted size:  1764.0  Txed size:  0.0  Buffer size:  343752.0
+9235  Buffer size:  346636.0
+9235  Granted size:  2292.0  Txed size:  0.0  Buffer size:  346636.0
+9236  Buffer size:  346534.0
+9236  Granted size:  105.0  Txed size:  102.0  Buffer size:  346534.0
+9237  Buffer size:  346534.0
+9238  Buffer size:  346534.0
+9238  Granted size:  105.0  Txed size:  0.0  Buffer size:  346534.0
+9239  Buffer size:  344921.0
+9239  Granted size:  1620.0  Txed size:  1613.0  Buffer size:  344921.0
+9240  Buffer size:  346269.0
+9240  Granted size:  97.0  Txed size:  0.0  Buffer size:  346269.0
+9241  Buffer size:  346057.0
+9241  Granted size:  217.0  Txed size:  212.0  Buffer size:  346057.0
+9242  Buffer size:  345886.0
+9242  Granted size:  1620.0  Txed size:  171.0  Buffer size:  345886.0
+9243  Buffer size:  346867.0
+9243  Granted size:  1908.0  Txed size:  0.0  Buffer size:  346867.0
+9244  Buffer size:  346867.0
+9244  Granted size:  105.0  Txed size:  0.0  Buffer size:  346867.0
+9245  Buffer size:  346767.0
+9245  Granted size:  105.0  Txed size:  100.0  Buffer size:  346767.0
+9246  Buffer size:  346669.0
+9246  Granted size:  105.0  Txed size:  98.0  Buffer size:  346669.0
+9247  Buffer size:  344982.0
+9247  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  344982.0
+9248  Buffer size:  344982.0
+9248  Granted size:  97.0  Txed size:  0.0  Buffer size:  344982.0
+9249  Buffer size:  342864.0
+9249  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  342864.0
+9250  Buffer size:  341179.0
+9250  Granted size:  1692.0  Txed size:  1685.0  Buffer size:  341179.0
+9251  Buffer size:  339348.0
+9251  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  339348.0
+9252  Buffer size:  337064.0
+9252  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  337064.0
+9253  Buffer size:  337064.0
+9253  Granted size:  105.0  Txed size:  0.0  Buffer size:  337064.0
+9254  Buffer size:  341390.0
+9254  Granted size:  105.0  Txed size:  0.0  Buffer size:  341390.0
+9255  Buffer size:  344151.0
+9255  Granted size:  1572.0  Txed size:  0.0  Buffer size:  344151.0
+9256  Buffer size:  345276.0
+9256  Granted size:  1764.0  Txed size:  0.0  Buffer size:  345276.0
+9257  Buffer size:  344959.0
+9257  Granted size:  1764.0  Txed size:  317.0  Buffer size:  344959.0
+9258  Buffer size:  343200.0
+9258  Granted size:  1764.0  Txed size:  1759.0  Buffer size:  343200.0
+9259  Buffer size:  341298.0
+9259  Granted size:  1908.0  Txed size:  1902.0  Buffer size:  341298.0
+9260  Buffer size:  347036.0
+9260  Granted size:  1479.0  Txed size:  0.0  Buffer size:  347036.0
+9261  Buffer size:  345349.0
+9261  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  345349.0
+9262  Buffer size:  343448.0
+9262  Granted size:  1908.0  Txed size:  1901.0  Buffer size:  343448.0
+9263  Buffer size:  341546.0
+9263  Granted size:  1908.0  Txed size:  1902.0  Buffer size:  341546.0
+9264  Buffer size:  342527.0
+9264  Granted size:  1908.0  Txed size:  0.0  Buffer size:  342527.0
+9265  Buffer size:  340626.0
+9265  Granted size:  1908.0  Txed size:  1901.0  Buffer size:  340626.0
+9266  Buffer size:  338728.0
+9266  Granted size:  1908.0  Txed size:  1898.0  Buffer size:  338728.0
+9267  Buffer size:  336825.0
+9267  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  336825.0
+9268  Buffer size:  334706.0
+9268  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  334706.0
+9269  Buffer size:  334246.0
+9269  Granted size:  1908.0  Txed size:  460.0  Buffer size:  334246.0
+9270  Buffer size:  338455.0
+9270  Granted size:  1620.0  Txed size:  0.0  Buffer size:  338455.0
+9271  Buffer size:  337078.0
+9271  Granted size:  1383.0  Txed size:  1377.0  Buffer size:  337078.0
+9272  Buffer size:  334961.0
+9272  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  334961.0
+9273  Buffer size:  333130.0
+9273  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  333130.0
+9274  Buffer size:  338654.0
+9274  Granted size:  1692.0  Txed size:  0.0  Buffer size:  338654.0
+9275  Buffer size:  339709.0
+9275  Granted size:  1836.0  Txed size:  0.0  Buffer size:  339709.0
+9276  Buffer size:  343646.0
+9276  Granted size:  1836.0  Txed size:  0.0  Buffer size:  343646.0
+9277  Buffer size:  344699.0
+9277  Granted size:  1836.0  Txed size:  0.0  Buffer size:  344699.0
+9278  Buffer size:  342869.0
+9278  Granted size:  1836.0  Txed size:  1830.0  Buffer size:  342869.0
+9279  Buffer size:  344066.0
+9279  Granted size:  1692.0  Txed size:  0.0  Buffer size:  344066.0
+9280  Buffer size:  346707.0
+9280  Granted size:  1692.0  Txed size:  0.0  Buffer size:  346707.0
+9281  Buffer size:  346318.0
+9281  Granted size:  1836.0  Txed size:  389.0  Buffer size:  346318.0
+9282  Buffer size:  347374.0
+9282  Granted size:  1836.0  Txed size:  0.0  Buffer size:  347374.0
+9283  Buffer size:  345471.0
+9283  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  345471.0
+9284  Buffer size:  346236.0
+9284  Granted size:  2124.0  Txed size:  0.0  Buffer size:  346236.0
+9285  Buffer size:  347294.0
+9285  Granted size:  1836.0  Txed size:  0.0  Buffer size:  347294.0
+9286  Buffer size:  345465.0
+9286  Granted size:  1836.0  Txed size:  1829.0  Buffer size:  345465.0
+9287  Buffer size:  346446.0
+9287  Granted size:  1908.0  Txed size:  0.0  Buffer size:  346446.0
+9288  Buffer size:  344328.0
+9288  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  344328.0
+9289  Buffer size:  342209.0
+9289  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  342209.0
+9290  Buffer size:  340309.0
+9290  Granted size:  1908.0  Txed size:  1900.0  Buffer size:  340309.0
+9291  Buffer size:  346139.0
+9291  Granted size:  1383.0  Txed size:  0.0  Buffer size:  346139.0
+9292  Buffer size:  344239.0
+9292  Granted size:  1908.0  Txed size:  1900.0  Buffer size:  344239.0
+9293  Buffer size:  344836.0
+9293  Granted size:  2292.0  Txed size:  0.0  Buffer size:  344836.0
+9294  Buffer size:  342550.0
+9294  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  342550.0
+9295  Buffer size:  340433.0
+9295  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  340433.0
+9296  Buffer size:  338147.0
+9296  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  338147.0
+9297  Buffer size:  339128.0
+9297  Granted size:  1908.0  Txed size:  0.0  Buffer size:  339128.0
+9298  Buffer size:  339726.0
+9298  Granted size:  2292.0  Txed size:  0.0  Buffer size:  339726.0
+9299  Buffer size:  339726.0
+9299  Granted size:  1383.0  Txed size:  0.0  Buffer size:  339726.0
+9300  Buffer size:  340853.0
+9300  Granted size:  1764.0  Txed size:  0.0  Buffer size:  340853.0
+9301  Buffer size:  339166.0
+9301  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  339166.0
+9302  Buffer size:  344092.0
+9302  Granted size:  2292.0  Txed size:  0.0  Buffer size:  344092.0
+9303  Buffer size:  341805.0
+9303  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  341805.0
+9304  Buffer size:  345287.0
+9304  Granted size:  2292.0  Txed size:  0.0  Buffer size:  345287.0
+9305  Buffer size:  344828.0
+9305  Granted size:  1908.0  Txed size:  459.0  Buffer size:  344828.0
+9306  Buffer size:  344444.0
+9306  Granted size:  1836.0  Txed size:  384.0  Buffer size:  344444.0
+9307  Buffer size:  342685.0
+9307  Granted size:  1764.0  Txed size:  1759.0  Buffer size:  342685.0
+9308  Buffer size:  340398.0
+9308  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  340398.0
+9309  Buffer size:  345490.0
+9309  Granted size:  2124.0  Txed size:  0.0  Buffer size:  345490.0
+9310  Buffer size:  346689.0
+9310  Granted size:  1692.0  Txed size:  0.0  Buffer size:  346689.0
+9311  Buffer size:  345311.0
+9311  Granted size:  1383.0  Txed size:  1378.0  Buffer size:  345311.0
+9312  Buffer size:  343196.0
+9312  Granted size:  2124.0  Txed size:  2115.0  Buffer size:  343196.0
+9313  Buffer size:  341365.0
+9313  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  341365.0
+9314  Buffer size:  339078.0
+9314  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  339078.0
+9315  Buffer size:  337176.0
+9315  Granted size:  1908.0  Txed size:  1902.0  Buffer size:  337176.0
+9316  Buffer size:  334889.0
+9316  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  334889.0
+9317  Buffer size:  332773.0
+9317  Granted size:  2124.0  Txed size:  2116.0  Buffer size:  332773.0
+9318  Buffer size:  330654.0
+9318  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  330654.0
+9319  Buffer size:  328368.0
+9319  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  328368.0
+9320  Buffer size:  328336.0
+9320  Granted size:  1479.0  Txed size:  32.0  Buffer size:  328336.0
+9321  Buffer size:  333715.0
+9321  Granted size:  1836.0  Txed size:  0.0  Buffer size:  333715.0
+9322  Buffer size:  340085.0
+9322  Granted size:  2292.0  Txed size:  0.0  Buffer size:  340085.0
+9323  Buffer size:  340085.0
+9323  Granted size:  1908.0  Txed size:  0.0  Buffer size:  340085.0
+9324  Buffer size:  337966.0
+9324  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  337966.0
+9325  Buffer size:  343419.0
+9325  Granted size:  1764.0  Txed size:  0.0  Buffer size:  343419.0
+9326  Buffer size:  344187.0
+9326  Granted size:  2124.0  Txed size:  0.0  Buffer size:  344187.0
+9327  Buffer size:  342070.0
+9327  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  342070.0
+9328  Buffer size:  339595.0
+9328  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  339595.0
+9329  Buffer size:  337120.0
+9329  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  337120.0
+9330  Buffer size:  337885.0
+9330  Granted size:  2124.0  Txed size:  0.0  Buffer size:  337885.0
+9331  Buffer size:  341966.0
+9331  Granted size:  1692.0  Txed size:  0.0  Buffer size:  341966.0
+9332  Buffer size:  340937.0
+9332  Granted size:  2481.0  Txed size:  1029.0  Buffer size:  340937.0
+9333  Buffer size:  338651.0
+9333  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  338651.0
+9334  Buffer size:  338651.0
+9335  Buffer size:  336175.0
+9335  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  336175.0
+9336  Buffer size:  334057.0
+9336  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  334057.0
+9337  Buffer size:  336098.0
+9337  Granted size:  2292.0  Txed size:  0.0  Buffer size:  336098.0
+9338  Buffer size:  338982.0
+9338  Granted size:  2124.0  Txed size:  0.0  Buffer size:  338982.0
+9339  Buffer size:  338982.0
+9339  Granted size:  1692.0  Txed size:  0.0  Buffer size:  338982.0
+9340  Buffer size:  336864.0
+9340  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  336864.0
+9341  Buffer size:  336864.0
+9342  Buffer size:  335037.0
+9342  Granted size:  1836.0  Txed size:  1827.0  Buffer size:  335037.0
+9343  Buffer size:  335037.0
+9343  Granted size:  2481.0  Txed size:  0.0  Buffer size:  335037.0
+9344  Buffer size:  332751.0
+9344  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  332751.0
+9345  Buffer size:  332751.0
+9345  Granted size:  2292.0  Txed size:  0.0  Buffer size:  332751.0
+9346  Buffer size:  330852.0
+9346  Granted size:  1908.0  Txed size:  1899.0  Buffer size:  330852.0
+9347  Buffer size:  333613.0
+9347  Granted size:  1572.0  Txed size:  0.0  Buffer size:  333613.0
+9348  Buffer size:  332046.0
+9348  Granted size:  1572.0  Txed size:  1567.0  Buffer size:  332046.0
+9349  Buffer size:  346466.0
+9349  Granted size:  2292.0  Txed size:  0.0  Buffer size:  346466.0
+9350  Buffer size:  347376.0
+9350  Granted size:  1980.0  Txed size:  0.0  Buffer size:  347376.0
+9351  Buffer size:  345545.0
+9351  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  345545.0
+9352  Buffer size:  343262.0
+9352  Granted size:  2292.0  Txed size:  2283.0  Buffer size:  343262.0
+9353  Buffer size:  340976.0
+9353  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  340976.0
+9354  Buffer size:  338690.0
+9354  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  338690.0
+9355  Buffer size:  336403.0
+9355  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  336403.0
+9356  Buffer size:  334117.0
+9356  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  334117.0
+9357  Buffer size:  332000.0
+9357  Granted size:  2124.0  Txed size:  2117.0  Buffer size:  332000.0
+9358  Buffer size:  332016.0
+9358  Granted size:  1431.0  Txed size:  0.0  Buffer size:  332016.0
+9359  Buffer size:  329898.0
+9359  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  329898.0
+9360  Buffer size:  329221.0
+9360  Granted size:  2124.0  Txed size:  677.0  Buffer size:  329221.0
+9361  Buffer size:  330274.0
+9361  Granted size:  1836.0  Txed size:  0.0  Buffer size:  330274.0
+9362  Buffer size:  327992.0
+9362  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  327992.0
+9363  Buffer size:  325874.0
+9363  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  325874.0
+9364  Buffer size:  323587.0
+9364  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  323587.0
+9365  Buffer size:  321301.0
+9365  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  321301.0
+9366  Buffer size:  319186.0
+9366  Granted size:  2124.0  Txed size:  2115.0  Buffer size:  319186.0
+9367  Buffer size:  317285.0
+9367  Granted size:  1908.0  Txed size:  1901.0  Buffer size:  317285.0
+9368  Buffer size:  315719.0
+9368  Granted size:  1572.0  Txed size:  1566.0  Buffer size:  315719.0
+9369  Buffer size:  313432.0
+9369  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  313432.0
+9370  Buffer size:  311458.0
+9370  Granted size:  1980.0  Txed size:  1974.0  Buffer size:  311458.0
+9371  Buffer size:  315395.0
+9371  Granted size:  1836.0  Txed size:  0.0  Buffer size:  315395.0
+9372  Buffer size:  320322.0
+9372  Granted size:  2292.0  Txed size:  0.0  Buffer size:  320322.0
+9373  Buffer size:  322068.0
+9373  Granted size:  1143.0  Txed size:  0.0  Buffer size:  322068.0
+9374  Buffer size:  324108.0
+9374  Granted size:  2292.0  Txed size:  0.0  Buffer size:  324108.0
+9375  Buffer size:  327757.0
+9375  Granted size:  2124.0  Txed size:  0.0  Buffer size:  327757.0
+9376  Buffer size:  326913.0
+9376  Granted size:  2292.0  Txed size:  844.0  Buffer size:  326913.0
+9377  Buffer size:  326238.0
+9377  Granted size:  2124.0  Txed size:  675.0  Buffer size:  326238.0
+9378  Buffer size:  324120.0
+9378  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  324120.0
+9379  Buffer size:  321833.0
+9379  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  321833.0
+9380  Buffer size:  319715.0
+9380  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  319715.0
+9381  Buffer size:  317884.0
+9381  Granted size:  1836.0  Txed size:  1831.0  Buffer size:  317884.0
+9382  Buffer size:  317212.0
+9382  Granted size:  2124.0  Txed size:  672.0  Buffer size:  317212.0
+9383  Buffer size:  321946.0
+9383  Granted size:  2481.0  Txed size:  0.0  Buffer size:  321946.0
+9384  Buffer size:  319471.0
+9384  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  319471.0
+9385  Buffer size:  319471.0
+9385  Granted size:  2124.0  Txed size:  0.0  Buffer size:  319471.0
+9386  Buffer size:  319473.0
+9386  Granted size:  2124.0  Txed size:  0.0  Buffer size:  319473.0
+9387  Buffer size:  321900.0
+9387  Granted size:  1908.0  Txed size:  0.0  Buffer size:  321900.0
+9388  Buffer size:  319782.0
+9388  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  319782.0
+9389  Buffer size:  320547.0
+9389  Granted size:  2124.0  Txed size:  0.0  Buffer size:  320547.0
+9390  Buffer size:  321457.0
+9390  Granted size:  1980.0  Txed size:  0.0  Buffer size:  321457.0
+9391  Buffer size:  319770.0
+9391  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  319770.0
+9392  Buffer size:  320539.0
+9392  Granted size:  2124.0  Txed size:  0.0  Buffer size:  320539.0
+9393  Buffer size:  318637.0
+9393  Granted size:  1908.0  Txed size:  1902.0  Buffer size:  318637.0
+9394  Buffer size:  319618.0
+9394  Granted size:  1908.0  Txed size:  0.0  Buffer size:  319618.0
+9395  Buffer size:  317715.0
+9395  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  317715.0
+9396  Buffer size:  315812.0
+9396  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  315812.0
+9397  Buffer size:  317234.0
+9397  Granted size:  1908.0  Txed size:  0.0  Buffer size:  317234.0
+9398  Buffer size:  315331.0
+9398  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  315331.0
+9399  Buffer size:  313428.0
+9399  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  313428.0
+9400  Buffer size:  311670.0
+9400  Granted size:  1764.0  Txed size:  1758.0  Buffer size:  311670.0
+9401  Buffer size:  309983.0
+9401  Granted size:  1692.0  Txed size:  1687.0  Buffer size:  309983.0
+9402  Buffer size:  308084.0
+9402  Granted size:  1908.0  Txed size:  1899.0  Buffer size:  308084.0
+9403  Buffer size:  306181.0
+9403  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  306181.0
+9404  Buffer size:  304063.0
+9404  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  304063.0
+9405  Buffer size:  302162.0
+9405  Granted size:  1908.0  Txed size:  1901.0  Buffer size:  302162.0
+9406  Buffer size:  299878.0
+9406  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  299878.0
+9407  Buffer size:  297593.0
+9407  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  297593.0
+9408  Buffer size:  295307.0
+9408  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  295307.0
+9409  Buffer size:  299172.0
+9409  Granted size:  1908.0  Txed size:  0.0  Buffer size:  299172.0
+9410  Buffer size:  305922.0
+9410  Granted size:  1908.0  Txed size:  0.0  Buffer size:  305922.0
+9411  Buffer size:  306831.0
+9411  Granted size:  1980.0  Txed size:  0.0  Buffer size:  306831.0
+9412  Buffer size:  304549.0
+9412  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  304549.0
+9413  Buffer size:  302574.0
+9413  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  302574.0
+9414  Buffer size:  300599.0
+9414  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  300599.0
+9415  Buffer size:  298913.0
+9415  Granted size:  1692.0  Txed size:  1686.0  Buffer size:  298913.0
+9416  Buffer size:  296938.0
+9416  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  296938.0
+9417  Buffer size:  296407.0
+9417  Granted size:  1980.0  Txed size:  531.0  Buffer size:  296407.0
+9418  Buffer size:  297317.0
+9418  Granted size:  1980.0  Txed size:  0.0  Buffer size:  297317.0
+9419  Buffer size:  296784.0
+9419  Granted size:  1980.0  Txed size:  533.0  Buffer size:  296784.0
+9420  Buffer size:  296539.0
+9420  Granted size:  1692.0  Txed size:  245.0  Buffer size:  296539.0
+9421  Buffer size:  294565.0
+9421  Granted size:  1980.0  Txed size:  1974.0  Buffer size:  294565.0
+9422  Buffer size:  294036.0
+9422  Granted size:  1980.0  Txed size:  529.0  Buffer size:  294036.0
+9423  Buffer size:  293191.0
+9423  Granted size:  2292.0  Txed size:  845.0  Buffer size:  293191.0
+9424  Buffer size:  292347.0
+9424  Granted size:  2292.0  Txed size:  844.0  Buffer size:  292347.0
+9425  Buffer size:  291505.0
+9425  Granted size:  2292.0  Txed size:  842.0  Buffer size:  291505.0
+9426  Buffer size:  289220.0
+9426  Granted size:  2292.0  Txed size:  2285.0  Buffer size:  289220.0
+9427  Buffer size:  287320.0
+9427  Granted size:  1908.0  Txed size:  1900.0  Buffer size:  287320.0
+9428  Buffer size:  286475.0
+9428  Granted size:  2292.0  Txed size:  845.0  Buffer size:  286475.0
+9429  Buffer size:  287073.0
+9429  Granted size:  2292.0  Txed size:  0.0  Buffer size:  287073.0
+9430  Buffer size:  289496.0
+9430  Granted size:  1908.0  Txed size:  0.0  Buffer size:  289496.0
+9431  Buffer size:  289251.0
+9431  Granted size:  1692.0  Txed size:  245.0  Buffer size:  289251.0
+9432  Buffer size:  286969.0
+9432  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  286969.0
+9433  Buffer size:  284682.0
+9433  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  284682.0
+9434  Buffer size:  283649.0
+9434  Granted size:  2481.0  Txed size:  1033.0  Buffer size:  283649.0
+9435  Buffer size:  284247.0
+9435  Granted size:  2292.0  Txed size:  0.0  Buffer size:  284247.0
+9436  Buffer size:  285012.0
+9436  Granted size:  2124.0  Txed size:  0.0  Buffer size:  285012.0
+9437  Buffer size:  282728.0
+9437  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  282728.0
+9438  Buffer size:  283325.0
+9438  Granted size:  2292.0  Txed size:  0.0  Buffer size:  283325.0
+9439  Buffer size:  282292.0
+9439  Granted size:  2481.0  Txed size:  1033.0  Buffer size:  282292.0
+9440  Buffer size:  281831.0
+9440  Granted size:  1908.0  Txed size:  461.0  Buffer size:  281831.0
+9441  Buffer size:  282597.0
+9441  Granted size:  2124.0  Txed size:  0.0  Buffer size:  282597.0
+9442  Buffer size:  281376.0
+9442  Granted size:  2673.0  Txed size:  1221.0  Buffer size:  281376.0
+9443  Buffer size:  278900.0
+9443  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  278900.0
+9444  Buffer size:  279309.0
+9444  Granted size:  2481.0  Txed size:  0.0  Buffer size:  279309.0
+9445  Buffer size:  276642.0
+9445  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  276642.0
+9446  Buffer size:  274267.0
+9446  Granted size:  2385.0  Txed size:  2375.0  Buffer size:  274267.0
+9447  Buffer size:  273331.0
+9447  Granted size:  2385.0  Txed size:  936.0  Buffer size:  273331.0
+9448  Buffer size:  273548.0
+9448  Granted size:  2673.0  Txed size:  0.0  Buffer size:  273548.0
+9449  Buffer size:  272323.0
+9449  Granted size:  2673.0  Txed size:  1225.0  Buffer size:  272323.0
+9450  Buffer size:  270204.0
+9450  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  270204.0
+9451  Buffer size:  272412.0
+9451  Granted size:  2124.0  Txed size:  0.0  Buffer size:  272412.0
+9452  Buffer size:  271191.0
+9452  Granted size:  2673.0  Txed size:  1221.0  Buffer size:  271191.0
+9453  Buffer size:  271408.0
+9453  Granted size:  2673.0  Txed size:  0.0  Buffer size:  271408.0
+9454  Buffer size:  268740.0
+9454  Granted size:  2673.0  Txed size:  2668.0  Buffer size:  268740.0
+9455  Buffer size:  266265.0
+9455  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  266265.0
+9456  Buffer size:  265040.0
+9456  Granted size:  2673.0  Txed size:  1225.0  Buffer size:  265040.0
+9457  Buffer size:  265547.0
+9457  Granted size:  2385.0  Txed size:  0.0  Buffer size:  265547.0
+9458  Buffer size:  266051.0
+9458  Granted size:  2385.0  Txed size:  0.0  Buffer size:  266051.0
+9459  Buffer size:  266460.0
+9459  Granted size:  2481.0  Txed size:  0.0  Buffer size:  266460.0
+9460  Buffer size:  267058.0
+9460  Granted size:  2292.0  Txed size:  0.0  Buffer size:  267058.0
+9461  Buffer size:  264939.0
+9461  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  264939.0
+9462  Buffer size:  262276.0
+9462  Granted size:  2673.0  Txed size:  2663.0  Buffer size:  262276.0
+9463  Buffer size:  259897.0
+9463  Granted size:  2385.0  Txed size:  2379.0  Buffer size:  259897.0
+9464  Buffer size:  257421.0
+9464  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  257421.0
+9465  Buffer size:  257928.0
+9465  Granted size:  2385.0  Txed size:  0.0  Buffer size:  257928.0
+9466  Buffer size:  258435.0
+9466  Granted size:  2385.0  Txed size:  0.0  Buffer size:  258435.0
+9467  Buffer size:  258941.0
+9467  Granted size:  2385.0  Txed size:  0.0  Buffer size:  258941.0
+9468  Buffer size:  266749.0
+9468  Granted size:  2292.0  Txed size:  0.0  Buffer size:  266749.0
+9469  Buffer size:  266966.0
+9469  Granted size:  2673.0  Txed size:  0.0  Buffer size:  266966.0
+9470  Buffer size:  264847.0
+9470  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  264847.0
+9471  Buffer size:  262729.0
+9471  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  262729.0
+9472  Buffer size:  260257.0
+9472  Granted size:  2481.0  Txed size:  2472.0  Buffer size:  260257.0
+9473  Buffer size:  263358.0
+9473  Granted size:  2673.0  Txed size:  0.0  Buffer size:  263358.0
+9474  Buffer size:  263575.0
+9474  Granted size:  2673.0  Txed size:  0.0  Buffer size:  263575.0
+9475  Buffer size:  260908.0
+9475  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  260908.0
+9476  Buffer size:  262759.0
+9476  Granted size:  2481.0  Txed size:  0.0  Buffer size:  262759.0
+9477  Buffer size:  266149.0
+9477  Granted size:  2385.0  Txed size:  0.0  Buffer size:  266149.0
+9478  Buffer size:  266366.0
+9478  Granted size:  2673.0  Txed size:  0.0  Buffer size:  266366.0
+9479  Buffer size:  263699.0
+9479  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  263699.0
+9480  Buffer size:  263022.0
+9480  Granted size:  2124.0  Txed size:  677.0  Buffer size:  263022.0
+9481  Buffer size:  263788.0
+9481  Granted size:  2124.0  Txed size:  0.0  Buffer size:  263788.0
+9482  Buffer size:  261125.0
+9482  Granted size:  2673.0  Txed size:  2663.0  Buffer size:  261125.0
+9483  Buffer size:  261533.0
+9483  Granted size:  2481.0  Txed size:  0.0  Buffer size:  261533.0
+9484  Buffer size:  261750.0
+9484  Granted size:  2673.0  Txed size:  0.0  Buffer size:  261750.0
+9485  Buffer size:  260527.0
+9485  Granted size:  2673.0  Txed size:  1223.0  Buffer size:  260527.0
+9486  Buffer size:  259685.0
+9486  Granted size:  2292.0  Txed size:  842.0  Buffer size:  259685.0
+9487  Buffer size:  263075.0
+9487  Granted size:  2385.0  Txed size:  0.0  Buffer size:  263075.0
+9488  Buffer size:  260408.0
+9488  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  260408.0
+9489  Buffer size:  260625.0
+9489  Granted size:  2673.0  Txed size:  0.0  Buffer size:  260625.0
+9490  Buffer size:  262833.0
+9490  Granted size:  2124.0  Txed size:  0.0  Buffer size:  262833.0
+9491  Buffer size:  260714.0
+9491  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  260714.0
+9492  Buffer size:  258051.0
+9492  Granted size:  2673.0  Txed size:  2663.0  Buffer size:  258051.0
+9493  Buffer size:  255384.0
+9493  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  255384.0
+9494  Buffer size:  252717.0
+9494  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  252717.0
+9495  Buffer size:  250337.0
+9495  Granted size:  2385.0  Txed size:  2380.0  Buffer size:  250337.0
+9496  Buffer size:  247670.0
+9496  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  247670.0
+9497  Buffer size:  245293.0
+9497  Granted size:  2385.0  Txed size:  2377.0  Buffer size:  245293.0
+9498  Buffer size:  243006.0
+9498  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  243006.0
+9499  Buffer size:  243006.0
+9499  Granted size:  2124.0  Txed size:  0.0  Buffer size:  243006.0
+9500  Buffer size:  240888.0
+9500  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  240888.0
+9501  Buffer size:  238769.0
+9501  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  238769.0
+9502  Buffer size:  236298.0
+9502  Granted size:  2481.0  Txed size:  2471.0  Buffer size:  236298.0
+9503  Buffer size:  233919.0
+9503  Granted size:  2385.0  Txed size:  2379.0  Buffer size:  233919.0
+9504  Buffer size:  231251.0
+9504  Granted size:  2673.0  Txed size:  2668.0  Buffer size:  231251.0
+9505  Buffer size:  228584.0
+9505  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  228584.0
+9506  Buffer size:  226302.0
+9506  Granted size:  2292.0  Txed size:  2282.0  Buffer size:  226302.0
+9507  Buffer size:  223925.0
+9507  Granted size:  2385.0  Txed size:  2377.0  Buffer size:  223925.0
+9508  Buffer size:  221257.0
+9508  Granted size:  2673.0  Txed size:  2668.0  Buffer size:  221257.0
+9509  Buffer size:  218590.0
+9509  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  218590.0
+9510  Buffer size:  216472.0
+9510  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  216472.0
+9511  Buffer size:  214353.0
+9511  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  214353.0
+9512  Buffer size:  211690.0
+9512  Granted size:  2673.0  Txed size:  2663.0  Buffer size:  211690.0
+9513  Buffer size:  209311.0
+9513  Granted size:  2385.0  Txed size:  2379.0  Buffer size:  209311.0
+9514  Buffer size:  206644.0
+9514  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  206644.0
+9515  Buffer size:  203976.0
+9515  Granted size:  2673.0  Txed size:  2668.0  Buffer size:  203976.0
+9516  Buffer size:  201309.0
+9516  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  201309.0
+9517  Buffer size:  198932.0
+9517  Granted size:  2385.0  Txed size:  2377.0  Buffer size:  198932.0
+9518  Buffer size:  196552.0
+9518  Granted size:  2385.0  Txed size:  2380.0  Buffer size:  196552.0
+9519  Buffer size:  194077.0
+9519  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  194077.0
+9520  Buffer size:  194077.0
+9520  Granted size:  2673.0  Txed size:  0.0  Buffer size:  194077.0
+9521  Buffer size:  191959.0
+9521  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  191959.0
+9522  Buffer size:  189296.0
+9522  Granted size:  2673.0  Txed size:  2663.0  Buffer size:  189296.0
+9523  Buffer size:  187009.0
+9523  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  187009.0
+9524  Buffer size:  184342.0
+9524  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  184342.0
+9525  Buffer size:  181963.0
+9525  Granted size:  2385.0  Txed size:  2379.0  Buffer size:  181963.0
+9526  Buffer size:  179587.0
+9526  Granted size:  2385.0  Txed size:  2376.0  Buffer size:  179587.0
+9527  Buffer size:  177303.0
+9527  Granted size:  2292.0  Txed size:  2284.0  Buffer size:  177303.0
+9528  Buffer size:  174636.0
+9528  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  174636.0
+9529  Buffer size:  171969.0
+9529  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  171969.0
+9530  Buffer size:  169850.0
+9530  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  169850.0
+9531  Buffer size:  167875.0
+9531  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  167875.0
+9532  Buffer size:  168096.0
+9532  Granted size:  2673.0  Txed size:  0.0  Buffer size:  168096.0
+9533  Buffer size:  168313.0
+9533  Granted size:  2673.0  Txed size:  0.0  Buffer size:  168313.0
+9534  Buffer size:  165646.0
+9534  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  165646.0
+9535  Buffer size:  162979.0
+9535  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  162979.0
+9536  Buffer size:  160504.0
+9536  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  160504.0
+9537  Buffer size:  158127.0
+9537  Granted size:  2385.0  Txed size:  2377.0  Buffer size:  158127.0
+9538  Buffer size:  155460.0
+9538  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  155460.0
+9539  Buffer size:  152793.0
+9539  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  152793.0
+9540  Buffer size:  150506.0
+9540  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  150506.0
+9541  Buffer size:  148531.0
+9541  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  148531.0
+9542  Buffer size:  148752.0
+9542  Granted size:  2673.0  Txed size:  0.0  Buffer size:  148752.0
+9543  Buffer size:  146373.0
+9543  Granted size:  2385.0  Txed size:  2379.0  Buffer size:  146373.0
+9544  Buffer size:  143706.0
+9544  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  143706.0
+9545  Buffer size:  141039.0
+9545  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  141039.0
+9546  Buffer size:  138756.0
+9546  Granted size:  2292.0  Txed size:  2283.0  Buffer size:  138756.0
+9547  Buffer size:  136379.0
+9547  Granted size:  2385.0  Txed size:  2377.0  Buffer size:  136379.0
+9548  Buffer size:  134000.0
+9548  Granted size:  2385.0  Txed size:  2379.0  Buffer size:  134000.0
+9549  Buffer size:  131332.0
+9549  Granted size:  2673.0  Txed size:  2668.0  Buffer size:  131332.0
+9550  Buffer size:  129046.0
+9550  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  129046.0
+9551  Buffer size:  127071.0
+9551  Granted size:  1980.0  Txed size:  1975.0  Buffer size:  127071.0
+9552  Buffer size:  124408.0
+9552  Granted size:  2673.0  Txed size:  2663.0  Buffer size:  124408.0
+9553  Buffer size:  122029.0
+9553  Granted size:  2385.0  Txed size:  2379.0  Buffer size:  122029.0
+9554  Buffer size:  119362.0
+9554  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  119362.0
+9555  Buffer size:  117075.0
+9555  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  117075.0
+9556  Buffer size:  114408.0
+9556  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  114408.0
+9557  Buffer size:  112031.0
+9557  Granted size:  2385.0  Txed size:  2377.0  Buffer size:  112031.0
+9558  Buffer size:  109364.0
+9558  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  109364.0
+9559  Buffer size:  106888.0
+9559  Granted size:  2481.0  Txed size:  2476.0  Buffer size:  106888.0
+9560  Buffer size:  104770.0
+9560  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  104770.0
+9561  Buffer size:  102651.0
+9561  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  102651.0
+9562  Buffer size:  99988.0
+9562  Granted size:  2673.0  Txed size:  2663.0  Buffer size:  99988.0
+9563  Buffer size:  97513.0
+9563  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  97513.0
+9564  Buffer size:  94846.0
+9564  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  94846.0
+9565  Buffer size:  92181.0
+9565  Granted size:  2673.0  Txed size:  2665.0  Buffer size:  92181.0
+9566  Buffer size:  89803.0
+9566  Granted size:  2385.0  Txed size:  2378.0  Buffer size:  89803.0
+9567  Buffer size:  87426.0
+9567  Granted size:  2385.0  Txed size:  2377.0  Buffer size:  87426.0
+9568  Buffer size:  85139.0
+9568  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  85139.0
+9569  Buffer size:  82472.0
+9569  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  82472.0
+9570  Buffer size:  80186.0
+9570  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  80186.0
+9571  Buffer size:  78067.0
+9571  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  78067.0
+9572  Buffer size:  75596.0
+9572  Granted size:  2481.0  Txed size:  2471.0  Buffer size:  75596.0
+9573  Buffer size:  73217.0
+9573  Granted size:  2385.0  Txed size:  2379.0  Buffer size:  73217.0
+9574  Buffer size:  70550.0
+9574  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  70550.0
+9575  Buffer size:  67882.0
+9575  Granted size:  2673.0  Txed size:  2668.0  Buffer size:  67882.0
+9576  Buffer size:  65407.0
+9576  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  65407.0
+9577  Buffer size:  63030.0
+9577  Granted size:  2385.0  Txed size:  2377.0  Buffer size:  63030.0
+9578  Buffer size:  60363.0
+9578  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  60363.0
+9579  Buffer size:  57695.0
+9579  Granted size:  2673.0  Txed size:  2668.0  Buffer size:  57695.0
+9580  Buffer size:  55409.0
+9580  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  55409.0
+9581  Buffer size:  53291.0
+9581  Granted size:  2124.0  Txed size:  2118.0  Buffer size:  53291.0
+9582  Buffer size:  50819.0
+9582  Granted size:  2481.0  Txed size:  2472.0  Buffer size:  50819.0
+9583  Buffer size:  48152.0
+9583  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  48152.0
+9584  Buffer size:  45485.0
+9584  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  45485.0
+9585  Buffer size:  43106.0
+9585  Granted size:  2385.0  Txed size:  2379.0  Buffer size:  43106.0
+9586  Buffer size:  40823.0
+9586  Granted size:  2292.0  Txed size:  2283.0  Buffer size:  40823.0
+9587  Buffer size:  38446.0
+9587  Granted size:  2385.0  Txed size:  2377.0  Buffer size:  38446.0
+9588  Buffer size:  35779.0
+9588  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  35779.0
+9589  Buffer size:  33112.0
+9589  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  33112.0
+9590  Buffer size:  31209.0
+9590  Granted size:  1908.0  Txed size:  1903.0  Buffer size:  31209.0
+9591  Buffer size:  29090.0
+9591  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  29090.0
+9592  Buffer size:  26427.0
+9592  Granted size:  2673.0  Txed size:  2663.0  Buffer size:  26427.0
+9593  Buffer size:  23760.0
+9593  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  23760.0
+9594  Buffer size:  21285.0
+9594  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  21285.0
+9595  Buffer size:  18618.0
+9595  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  18618.0
+9596  Buffer size:  18618.0
+9596  Granted size:  2673.0  Txed size:  0.0  Buffer size:  18618.0
+9597  Buffer size:  16240.0
+9597  Granted size:  2385.0  Txed size:  2378.0  Buffer size:  16240.0
+9598  Buffer size:  13765.0
+9598  Granted size:  2481.0  Txed size:  2475.0  Buffer size:  13765.0
+9599  Buffer size:  13765.0
+9599  Granted size:  2124.0  Txed size:  0.0  Buffer size:  13765.0
+9600  Buffer size:  11479.0
+9600  Granted size:  2292.0  Txed size:  2286.0  Buffer size:  11479.0
+9601  Buffer size:  9360.0
+9601  Granted size:  2124.0  Txed size:  2119.0  Buffer size:  9360.0
+9602  Buffer size:  6697.0
+9602  Granted size:  2673.0  Txed size:  2663.0  Buffer size:  6697.0
+9603  Buffer size:  4410.0
+9603  Granted size:  2292.0  Txed size:  2287.0  Buffer size:  4410.0
+9604  Buffer size:  1743.0
+9604  Granted size:  2673.0  Txed size:  2667.0  Buffer size:  1743.0
+9605  Buffer size:  1743.0
+9605  Granted size:  2385.0  Txed size:  0.0  Buffer size:  1743.0
+9606  Granted size:  2385.0  Txed size:  1743.0  Buffer size:  0.0
+9607  Granted size:  2292.0  Txed size:  0.0  Buffer size:  0.0
+9608  Granted size:  2385.0  Txed size:  0.0  Buffer size:  0.0
+9609  Granted size:  2673.0  Txed size:  0.0  Buffer size:  0.0
+9610  Granted size:  2292.0  Txed size:  0.0  Buffer size:  0.0
+9611  Granted size:  2124.0  Txed size:  0.0  Buffer size:  0.0
+9612  Granted size:  2673.0  Txed size:  0.0  Buffer size:  0.0
+9613  Granted size:  2385.0  Txed size:  0.0  Buffer size:  0.0
+9614  Granted size:  2673.0  Txed size:  0.0  Buffer size:  0.0
+9626  Buffer size:  2.0
+9627  Buffer size:  2.0
+9628  Buffer size:  2.0
+9629 SR
+9629  Buffer size:  2.0
+9630  Buffer size:  2.0
+9631  Buffer size:  2.0
+9632  Buffer size:  2.0
+9633  Buffer size:  2.0
+9634 SR
+9634  Buffer size:  2.0
+9635  Buffer size:  2.0
+9636  Granted size:  97.0  Txed size:  2.0  Buffer size:  0.0
+9641  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0
+11839  Granted size:  249.0  Txed size:  0.0  Buffer size:  0.0
+12814  Granted size:  249.0  Txed size:  0.0  Buffer size:  0.0
+13451  Granted size:  105.0  Txed size:  0.0  Buffer size:  0.0
+14079  Granted size:  249.0  Txed size:  0.0  Buffer size:  0.0
+14087  Granted size:  249.0  Txed size:  0.0  Buffer size:  0.0
+First or error for tx start
+First or error for tx end
+Total TX:  1326550.0
+Total TB:  2325853.0
+Total utiilized:  2136445
+Total grant:  2178988
+SYN delay:  3043
+Blank delay:  86
+Scheduling delay:  72
+Tx delay:  1223
+Blank:  [11, 51, 24]
+Scheduling:  [19, 53]
+Tx burst:  [[0, 0], [8256, 8279], [8307, 8384], [8486, 9606]]
+Scheduling mean, std:  36.0 17.0
+Blank mean, std:  28.666666666666668 16.659998666133067
+RSRP list:  [-74.3125, -74.0625, -74.0625, -74.125, -74.125, -74.125, -74.9375, -74.1875, -74.375, -125.6875, -74.5, -74.625, -74.5625, -74.625, -74.5625, -74.625, -74.75, -74.875, -74.9375, -75.0, -75.0625, -75.125, -124.8125, -75.1875, -75.125, -75.0625, -74.625, -74.25, -73.9375, -73.75, -73.6875, -73.6875, -73.6875, -121.1875, -76.0, -76.0, -77.1875, -77.375, -77.3125, -77.25, -77.25, -77.25, -120.9375, -75.1875, -75.1875, -74.875, -74.875, -74.8125, -74.75, -74.75, -74.75, -119.1875, -74.75, -74.75, -74.75, -74.75, -74.3125, -74.3125, -74.375, -74.4375, -120.0, -74.4375, -74.4375, -75.6875, -75.6875, -75.8125, -75.8125, -75.8125, -119.4375, -75.6875, -75.625, -75.6875, -75.6875, -75.6875, -77.3125]
+RSRQ list:  [-5.25, -5.5, -5.5, -5.5625, -5.5625, -5.5625, -6.875, -10.75, -10.5625, -24.0, -10.3125, -10.0, -9.8125, -9.6875, -9.75, -9.8125, -9.5, -9.4375, -9.5, -9.5625, -9.625, -9.75, -23.8125, -9.8125, -9.9375, -9.9375, -9.875, -9.875, -9.75, -9.5, -9.375, -9.375, -9.375, -22.75, -8.125, -8.125, -7.625, -7.4375, -7.3125, -7.3125, -7.3125, -7.3125, -23.1875, -6.75, -6.75, -6.75, -6.75, -6.6875, -6.5625, -6.5, -6.5, -22.75, -6.5, -6.5, -6.5, -6.5, -6.75, -6.5625, -6.4375, -6.375, -21.625, -6.375, -6.375, -4.9375, -5.0625, -5.125, -5.125, -5.125, -22.0625, -4.1875, -4.5625, -4.75, -4.75, -4.75, -5.625]
+RSRP mean, std:  -79.3925 13.594582100969488
+RSRQ mean, std:  -8.900833333333333 4.843381365900847
