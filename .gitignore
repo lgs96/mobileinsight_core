@@ -48,6 +48,9 @@ examples/lte-rrc-example.py
 examples/measurements/*
 examples/mobisys-ex/*
 examples/mobisys22_figure/*
+examples/final_evaluation
+examples/*.txt
+examples/overlink_data
 
 # Wireshark sources
 wireshark-2.*/
