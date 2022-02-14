@@ -878,7 +878,7 @@ class ObjectLatencyAnalyzer(Analyzer):
                         sched_start = time
             ## init event
             if event_buffer > 5000 and object_state == object_idle:   
-                print('Start of object ', self.num_of_objects)  
+                print('Start of object/trigger ', self.num_of_objects)  
                 self.object_start_list.append(time)
                 self.num_of_objects += 1            
                 object_init_list = []
@@ -894,7 +894,6 @@ class ObjectLatencyAnalyzer(Analyzer):
                     self.object_bsr_list.append([event_buffer, np.mean(self.whole_record[time + 5: time + 10, 2])])
                 
             ## SR event
-
             if event_sr: 
                 print(time//10240, time%10240, 'SR')
                 last_sr = time
@@ -906,8 +905,8 @@ class ObjectLatencyAnalyzer(Analyzer):
                 if object_state == object_tx:
                     object_tx_list.append([object_tx_start, time])
                     object_state = object_sched
-             ## Tx event (object transmission)
-            #print(time, event_tx, state)
+            
+            ## Tx event (object transmission)
             if event_tx and state >= 0:
                 self.tx_time += 1
                 if event_tx > 200:
@@ -1191,13 +1190,13 @@ class ObjectLatencyAnalyzer(Analyzer):
             
         for i,object in enumerate(object_analysis[1:]):
             print('=======================================')
-            print('Overall latency of Object ',i , ': ',object[0][0])
-            print('Init latency of Object ', i , ': ',object[0][1])
-            print('Sched latency of Object ', i , ': ',object[0][2])
-            print('Tx latency of Object ', i , ': ',object[0][3])      
-            print('Mean grant of Object ', i , ': ', np.mean(object[0][4]))
-            print('Initial grant of Object ', i , ': ', np.mean(object[0][5]))
-            print('RB of Object ', i , ': ', np.mean(object[0][6]))
+            print('Overall latency of Object ',i+1 , ': ',object[0][0])
+            print('Init latency of Object ', i+1 , ': ',object[0][1])
+            print('Sched latency of Object ', i+1 , ': ',object[0][2])
+            print('Tx latency of Object ', i+1 , ': ',object[0][3])      
+            print('Mean grant of Object ', i+1 , ': ', np.mean(object[0][4]))
+            print('Initial grant of Object ', i+1 , ': ', np.mean(object[0][5]))
+            print('RB of Object ', i+1 , ': ', np.mean(object[0][6]))
             print('=======================================')
             overall_mean += object[0][0]/len(object_analysis[1:])
             overall_arr.append(object[0][0])

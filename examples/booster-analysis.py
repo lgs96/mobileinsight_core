@@ -4,6 +4,8 @@ import os
 import sys
 import shutil
 import traceback
+import pickle
+import csv
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -15,7 +17,7 @@ from uplink_booster_analyzer import goodsol_analyzer
 from uplink_booster_analyzer import uplink_latency_analyzer
 from uplink_booster_analyzer import ul_mac_latency_analyzer
 from uplink_booster_analyzer import lte_wireless_error_analyzer
-from uplink_booster_analyzer import object_latency_analyzer
+from uplink_booster_analyzer import object_latency_analyzer_file as object_latency_analyzer
 from uplink_booster_analyzer import lte_mac_analyzer
 from uplink_booster_analyzer import lte_rlc_analyzer
 from uplink_booster_analyzer import lte_rrc_analyzer
@@ -76,8 +78,23 @@ start_subframe = 100
 end_second = 100000
 end_subframe = 0
 
+#object_size =  int(sys.argv[2])*1024
+#trigger_size =  int(sys.argv[3])*1024
+
+#fb.calc_delay(start_time = 10240*start_second + start_subframe, 
+#              fin_time = 10240*end_second + end_subframe, object_size = object_size, trigger_size = trigger_size)
+
+f = open('./measurements/220211-evaluationTest/'+str(sys.argv[2])+'.csv', 'r')
+rdr = csv.reader(f)
+object_info = []
+
+for i,row in enumerate(rdr):
+    if i==0:
+        continue
+    object_info.append(row)
+
 fb.calc_delay(start_time = 10240*start_second + start_subframe, 
-              fin_time = 10240*end_second + end_subframe, object_size = int(sys.argv[2])*1024)
+              fin_time = 10240*end_second + end_subframe, object_info = object_info)
 
 
 print('Total data Tx (RLC analyzer): ', rlc.total_data_pdu)
@@ -114,7 +131,7 @@ print('Blank: ', fb.blank)
 print('Scheduling: ', fb.sr)
 print('Tx burst: ', fb.tx)
 print('Object: ', fb.object_latency)
-_, _, _, _, _, _, init_arr, sched_arr, grant_arr, overall_arr, rb_arr, mcs_arr = fb.analyze_object_delay()
+object_dict, _, _, _, _, _, init_arr, sched_arr, grant_arr, overall_arr, rb_arr, mcs_arr = fb.analyze_object_delay()
 
 np.save('./overlink_data/init_arr', init_arr)
 np.save('./overlink_data/sched_arr', sched_arr)
@@ -123,6 +140,11 @@ np.save('./overlink_data/bsr_grant_arr', np.array(fb.object_bsr_list))
 np.save('./overlink_data/overall_arr', overall_arr)
 np.save('./overlink_data/object_rb_arr', rb_arr)
 np.save('./overlink_data/object_mcs_arr', mcs_arr)
+
+## save object analysis dict
+with open('./overlink_data/object_dict.pkl', 'wb') as f:
+  pickle.dump(object_dict, f)
+
 
 print('Scheduling mean, std: ', np.mean(fb.sr_latency), np.std(fb.sr_latency))
 print('Blank mean, std: ',np.mean(fb.blank_latency), np.std(fb.blank_latency))
@@ -142,6 +164,7 @@ cor_bytes = fb.all_grant[cor_index]
 cor_power = fb.tx_power_toShow[cor_index]
 cor_rb = fb.resource_block[cor_index]
 cor_mcs = fb.mcs_toShow[cor_index]
+cor_rsrp = fb.rsrp_toShow[cor_index]
 
 print('========Correlation========')
 print('Tx power/RB: ', np.corrcoef(cor_power, cor_rb)[0,1])
@@ -151,6 +174,10 @@ print('Grant bytes/BSR: ', np.corrcoef(cor_bytes, cor_bsr)[0,1])
 print('RB/BSR: ', np.corrcoef(cor_rb, cor_bsr)[0,1])
 print('Tx power/BSR: ', np.corrcoef(cor_power, cor_bsr)[0,1])
 print('Grant bytes/MCS: ', np.corrcoef(cor_bytes, cor_mcs)[0,1])
+print('RSRP/MCS: ', np.corrcoef(cor_rsrp, cor_mcs)[0,1])
+print('RB/MCS: ', np.corrcoef(cor_rb, cor_mcs)[0,1])
+print('BSR/MCS: ', np.corrcoef(cor_bsr, cor_mcs)[0,1])
+
 #print('Frame TBS: ', fb.frame_tbs_toShow[:])
 
 
