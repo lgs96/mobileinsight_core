@@ -84,7 +84,7 @@ end_subframe = 0
 #fb.calc_delay(start_time = 10240*start_second + start_subframe, 
 #              fin_time = 10240*end_second + end_subframe, object_size = object_size, trigger_size = trigger_size)
 
-f = open('./measurements/220211-evaluationTest/'+str(sys.argv[2])+'.csv', 'r')
+f = open(str(sys.argv[2]), 'r')
 rdr = csv.reader(f)
 object_info = []
 
